@@ -1,7 +1,7 @@
 
-[![MIUI13 logo](https://i.imgur.com/G9wfOYe.png)](https://xiaomi.eu/)
+[![MIUI14 logo](https://i.imgur.com/6NG8sOz.jpg)](https://xiaomi.eu/)
 
-MIUI-v13 translation for all supported devices. MIUI Translation: **VMach3** **ingbrzy**
+MIUI-v14 translation for all supported devices. MIUI Translation: **VMach3** **ingbrzy**
 
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
@@ -15,6 +15,6 @@ For more info visit:
 - [CZECH&SLOVAK MIUI Fansite](http://miuios.cz)  
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-Translation XML checker https://translators.xiaomi.eu/XML_MIUI13-Czech-cs.html
+Translation XML checker https://translators.xiaomi.eu/XML_MIUI14-Czech-cs.html
 
 MIUI Translation: contact@miuios.cz
