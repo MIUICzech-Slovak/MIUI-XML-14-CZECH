@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colorfulmusic_coeffs">
+        <item>Mírné</item>
+        <item>Úroveň 1</item>
+        <item>Úroveň 2</item>
+        <item>Úroveň 3</item>
+        <item>Úroveň 4</item>
+        <item>Úroveň 5</item>
+        <item>Úroveň 6</item>
+        <item>Úroveň 7</item>
+        <item>Extrém</item>
+    </string-array>
+    <string-array name="colorfulmusic_midimage">
+        <item>Mírné</item>
+        <item>Úroveň 1</item>
+        <item>Úroveň 2</item>
+        <item>Úroveň 3</item>
+        <item>Úroveň 4</item>
+        <item>Úroveň 5</item>
+        <item>Úroveň 6</item>
+        <item>Úroveň 7</item>
+        <item>Úroveň 8</item>
+        <item>Úroveň 9</item>
+        <item>Extrém</item>
+    </string-array>
+    <string-array name="compatible_mode">
+        <item>Normální</item>
+        <item>Kompatibilní</item>
+    </string-array>
+    <string-array name="cure_crossfeed">
+        <item>Mírné</item>
+        <item>Střední</item>
+        <item>Extrém</item>
+    </string-array>
+    <string-array name="drvinst_prefer">
+        <item>Super kvalita zvuku</item>
+        <item>Vysoká kvalita zvuku</item>
+        <item>Úspora energie</item>
+    </string-array>
+    <string-array name="dynamicsystem_bass">
+        <item>0%</item>
+        <item>1%</item>
+        <item>2%</item>
+        <item>3%</item>
+        <item>4%</item>
+        <item>5%</item>
+        <item>6%</item>
+        <item>7%</item>
+        <item>8%</item>
+        <item>9%</item>
+        <item>10%</item>
+        <item>12%</item>
+        <item>14%</item>
+        <item>16%</item>
+        <item>18%</item>
+        <item>20%</item>
+        <item>22%</item>
+        <item>24%</item>
+        <item>26%</item>
+        <item>28%</item>
+        <item>30%</item>
+        <item>33%</item>
+        <item>36%</item>
+        <item>40%</item>
+        <item>45%</item>
+        <item>50%</item>
+        <item>55%</item>
+        <item>60%</item>
+        <item>70%</item>
+        <item>80%</item>
+        <item>90%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="dynamicsystem_outputs">
+        <item>Extrémní sluchátka(v2)</item>
+        <item>High-end sluchátka(v2)</item>
+        <item>Běžná sluchátka(v2)</item>
+        <item>Low-end sluchátka(v2)</item>
+        <item>Běžné špunty(v2)</item>
+        <item>Extrémní sluchátka(v1)</item>
+        <item>High-end sluchátka(v1)</item>
+        <item>Běžná sluchátka(v1)</item>
+        <item>Běžné špunty(v1)</item>
+        <item>Apple</item>
+        <item>Monster</item>
+        <item>Moto</item>
+        <item>Philips</item>
+        <item>SHP2000</item>
+        <item>SHP9000</item>
+        <item>Neznámý typ I</item>
+        <item>Neznámý typ II</item>
+        <item>Neznámý typ III</item>
+        <item>Neznámý typ IV</item>
+    </string-array>
+    <string-array name="playbackgain_ratio">
+        <item>Mírné</item>
+        <item>Střední</item>
+        <item>Extrém</item>
+    </string-array>
+    <string-array name="ui_prefer">
+        <item>Začátečník</item>
+        <item>Pokročilý</item>
+        <item>Expert</item>
+    </string-array>
+    <string-array name="vbass_mode">
+        <item>Přirozené Basy</item>
+        <item>Čisté Basy+</item>
+        <item>Subwoofer</item>
+    </string-array>
+    <string-array name="vclarity_boost">
+        <item>Výchozí</item>
+        <item>3.5 dB</item>
+        <item>6.0 dB</item>
+        <item>8.0 dB</item>
+        <item>10.0 dB</item>
+        <item>11.0 dB</item>
+        <item>12.0 dB</item>
+        <item>13.0 dB</item>
+        <item>14.0 dB</item>
+        <item>14.8 dB</item>
+    </string-array>
+    <string-array name="vclarity_mode">
+        <item>Přirozené</item>
+        <item>OZone+</item>
+        <item>XHiFi</item>
+    </string-array>
+</resources>

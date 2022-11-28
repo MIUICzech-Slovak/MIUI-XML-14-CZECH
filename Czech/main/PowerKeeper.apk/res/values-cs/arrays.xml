@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="action_name_translate">
+        <item>Maximální jas displeje</item>
+        <item>Maximální frekvence CPU</item>
+        <item>Režim displeje</item>
+        <item>Využití CPU</item>
+        <item>Datové připojení</item>
+        <item>Poloha</item>
+        <item>Upozornění na první zprávu</item>
+        <item>Upozornění na zamykací obrazovce</item>
+        <item>Zakázat datové připojení na pozadí</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Žádná činnost</item>
+        <item>Standard</item>
+        <item>Obrázky</item>
+        <item>Film</item>
+        <item>Úspora baterie</item>
+        <item>Vyvážený</item>
+        <item>Výkonný</item>
+        <item>Povolit</item>
+        <item>Zakázat</item>
+        <item>Okamžitě</item>
+        <item>Po 10 min</item>
+        <item>Po 30 min</item>
+        <item>Pokud je vypnutý displej</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>V tomto režimu</item>
+        <item>Nevybráno</item>
+        <item>Vybráno v jiných režimech</item>
+    </string-array>
+    <string-array name="emode_app_groups">
+        <item>Systémové aplikace</item>
+        <item>Ostatní aplikace</item>
+        <item>Vybrané aplikace</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Aplikace je na pozadí</item>
+        <item>Displej zapnutý</item>
+        <item>Displej vypnutý</item>
+        <item>Displej vypnutý více, jak 10 minut</item>
+        <item>Režim celé obrazovky</item>
+        <item>Ukončit režim celé obrazovky</item>
+        <item>Aplikace je na pozadí</item>
+        <item>Zařízení se nabíjí</item>
+        <item>Zařízení se nenabíjí</item>
+        <item>Zařízení je v nečinnosti</item>
+    </string-array>
+    <string-array name="group_name_translate">
+        <item>Výchozí režim</item>
+        <item>Skrytý režim</item>
+        <item>Čtecí režim</item>
+        <item>Multimediální režim</item>
+    </string-array>
+    <string-array name="hmode_app_classify1">
+        <item>Vlastní</item>
+        <item>Úspora baterie</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Aktivní aplikace</item>
+        <item>Uspané aplikace</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Vlastní</item>
+        <item>Spořič baterie</item>
+    </string-array>
+    <string-array name="invisible_app_groups">
+        <item>vybráno</item>
+        <item>nevybráno</item>
+    </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>Uspat aplikace</item>
+        <item>Ušetřit energii</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Nyní</item>
+        <item>Na pozadí</item>
+        <item>Poslední</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Zámek probuzení Kernel</item>
+        <item>Zámek probuzení</item>
+        <item>Hledání Wi-Fi</item>
+        <item>GPS</item>
+        <item>Procesor</item>
+        <item>Probudit</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Blokování režimu hlubokého spánku</item>
+        <item>Blokování režimu spánku</item>
+        <item>Hledání Wi-Fi</item>
+        <item>Používání GPS</item>
+        <item>Využití procesoru</item>
+        <item>Časté probouzení zařízení</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Výkonný</item>
+        <item>Vyvážený</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Výchozí kontrola přehřívání</item>
+        <item>Výkonný režim</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Současný výchozí režim</item>
+        <item>Současný výkonný režim</item>
+        <item>Nedostupné pro Extrémní režim</item>
+    </string-array>
+</resources>

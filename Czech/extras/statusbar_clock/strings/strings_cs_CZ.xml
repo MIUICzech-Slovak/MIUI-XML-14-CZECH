@@ -1,0 +1,5 @@
+<strings>
+    <string name="date_time" value="EE d. MMMM"/>
+    <string name="date_time_12" value="d.MM. EEEE"/>
+    <string name="language" value="cs"/>
+</strings>

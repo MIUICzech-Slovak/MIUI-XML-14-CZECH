@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>"Jaké je počasí?"</item>
+        <item>"Kolik kroků jsem udělal?"</item>
+        <item>Najít můj telefon.</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>Ne</item>
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
+        <item>Neděle</item>
+    </string-array>
+    <string-array name="date_week_simple">
+        <item>P</item>
+        <item>Ú</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="date_week_simple1">
+        <item>P</item>
+        <item>Ú</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="device_settings_cities_names_miui">
+        <item>Abidžan</item>
+        <item>Accra</item>
+        <item>Addis Abeba</item>
+        <item>Alžír</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Káhira</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Džibutsko</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Chartúm</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadišu</item>
+        <item>Nairobi</item>
+        <item>Svatý Tomáš</item>
+        <item>Timbuktu</item>
+        <item>Tripolis</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunción</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotá</item>
+        <item>Buenos Aires</item>
+        <item>Cancún</item>
+        <item>Caracas</item>
+        <item>Kajmanské ostrovy</item>
+        <item>Chicago</item>
+        <item>Kostarika</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Dominikánská republika</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Halifax</item>
+        <item>Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox</item>
+        <item>Marengo</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinik</item>
+        <item>Metlakatla</item>
+        <item>Mexico City</item>
+        <item>Monterey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>Center City</item>
+        <item>New Salem</item>
+        <item>Panama</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>Portoriko</item>
+        <item>Santo Domingo</item>
+        <item>São Paulo</item>
+        <item>"St. John's"</item>
+        <item>Svatý Kryštof</item>
+        <item>Svatá Lucie</item>
+        <item>Svatý Tomáš</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>Jižní pól</item>
+        <item>Longyearbyen</item>
+        <item>Almaty</item>
+        <item>Ammán</item>
+        <item>Anadyr</item>
+        <item>Aktau</item>
+        <item>Bagdád</item>
+        <item>Bahrajn</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Bejrút</item>
+        <item>Kalkata</item>
+        <item>Damašek</item>
+        <item>Dháka</item>
+        <item>Dubaj</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Ho Či Minovo Město</item>
+        <item>Hongkong</item>
+        <item>Jakarta</item>
+        <item>Jeruzalém</item>
+        <item>Kábul</item>
+        <item>Karáčí</item>
+        <item>Káthmándú</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuvajt</item>
+        <item>Macao</item>
+        <item>Manila</item>
+        <item>Maskat</item>
+        <item>Phnompenh</item>
+        <item>Pchjongjang</item>
+        <item>Katar</item>
+        <item>Rangún</item>
+        <item>Rijád</item>
+        <item>Soul</item>
+        <item>Šanghaj</item>
+        <item>Singapur</item>
+        <item>Tchaj-pej</item>
+        <item>Teherán</item>
+        <item>Tel Aviv</item>
+        <item>Tokio</item>
+        <item>Ulánbátar</item>
+        <item>Bermudy</item>
+        <item>Kanárské ostrovy</item>
+        <item>Kapverdy</item>
+        <item>Reykjavík</item>
+        <item>Stanley</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>Nový Jižní Wales</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>Velikonoční ostrov</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Athény</item>
+        <item>Belfast</item>
+        <item>Bělehrad</item>
+        <item>Berlín</item>
+        <item>Bratislava</item>
+        <item>Brusel</item>
+        <item>Bukurešť</item>
+        <item>Budapešť</item>
+        <item>Kišiněv</item>
+        <item>Kodaň</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Helsinky</item>
+        <item>Ostrov Man</item>
+        <item>Istanbul</item>
+        <item>Lisabon</item>
+        <item>Londýn</item>
+        <item>Lucembursko</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monako</item>
+        <item>Moskva</item>
+        <item>Oslo</item>
+        <item>Paříž</item>
+        <item>Praha</item>
+        <item>Riga</item>
+        <item>Řím</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferopol</item>
+        <item>Skopje</item>
+        <item>Sofie</item>
+        <item>Stockholm</item>
+        <item>Tallinn</item>
+        <item>Vatikán</item>
+        <item>Vídeň</item>
+        <item>Vilnius</item>
+        <item>Varšava</item>
+        <item>Záhřeb</item>
+        <item>Curych</item>
+        <item>Antananarivo</item>
+        <item>Maledivy</item>
+        <item>Mauricius</item>
+        <item>Auckland</item>
+        <item>Fidži</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Nouméa</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Filadelfie</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San José</item>
+        <item>San Salvador</item>
+        <item>Seattle</item>
+        <item>St. Louis</item>
+        <item>Washington D.C.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Black Rock City</item>
+        <item>Dauhá</item>
+        <item>Peking</item>
+        <item>Bombaj</item>
+        <item>Dillí</item>
+        <item>Ósaka</item>
+        <item>Láhaur</item>
+        <item>"San'á"</item>
+        <item>Barcelona</item>
+        <item>Mnichov</item>
+        <item>Milán</item>
+        <item>Frankfurt nad Mohanem</item>
+        <item>Hanoj</item>
+        <item>Ankara</item>
+        <item>Bengalúr</item>
+        <item>Brasília</item>
+        <item>Kapské město</item>
+        <item>Islámábád</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Kanton</item>
+        <item>Hajdarábád</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Kolombo</item>
+        <item>Chihuahua</item>
+        <item>Gurgáon</item>
+        <item>Manchester</item>
+        <item>Kyjev</item>
+        <item>Petrohrad</item>
+        <item>Krakov</item>
+        <item>Vratislav</item>
+        <item>Hamburk</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+        <item>Havaj</item>
+        <item>Aljaška</item>
+        <item>Phoenix</item>
+        <item>Kingston</item>
+        <item>Praia</item>
+        <item>Reykjavík</item>
+        <item>Ženeva</item>
+        <item>Windhoek</item>
+        <item>Sofie</item>
+        <item>Athény</item>
+        <item>Kaliningrad</item>
+        <item>Chartúm</item>
+        <item>Nairobi</item>
+        <item>Aden</item>
+        <item>Antananarivo</item>
+        <item>Kuvajt</item>
+        <item>Abú Dhabí</item>
+        <item>Samara</item>
+        <item>Nové Dillí</item>
+        <item>Novosibirsk</item>
+        <item>Tchaj-wan</item>
+        <item>Irkutsk</item>
+        <item>Čita</item>
+        <item>Vladivostok</item>
+        <item>Magadan</item>
+        <item>Kamčatka</item>
+        <item>Suva</item>
+        <item>Wellington</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>Každou neděli</item>
+        <item>Každé pondělí</item>
+        <item>Každé úterý</item>
+        <item>Každou středu</item>
+        <item>Každý čtvrtek</item>
+        <item>Každý pátek</item>
+        <item>Každou sobotu</item>
+    </string-array>
+    <string-array name="device_settings_countries_names_miui">
+        <item>Pobřeží slonoviny</item>
+        <item>Ghana</item>
+        <item>Etiopie</item>
+        <item>Alžírsko</item>
+        <item>Malawi</item>
+        <item>Konžská republika</item>
+        <item>Egypt</item>
+        <item>Maroko</item>
+        <item>Guinea</item>
+        <item>Senegal</item>
+        <item>Tanzanie</item>
+        <item>Džibutsko</item>
+        <item>Sierra Leone</item>
+        <item>Botswana</item>
+        <item>Zimbabwe</item>
+        <item>Jihoafrická republika</item>
+        <item>Uganda</item>
+        <item>Súdán</item>
+        <item>Rwanda</item>
+        <item>Demokratická republika Kongo</item>
+        <item>Nigérie</item>
+        <item>Lesotho</item>
+        <item>Somálsko</item>
+        <item>Keňa</item>
+        <item>Svatý Tomáš a Princův ostrov</item>
+        <item>Mali</item>
+        <item>Libye</item>
+        <item>Tunis</item>
+        <item>Spojené státy americké</item>
+        <item>Argentina</item>
+        <item>Aruba</item>
+        <item>Paraguay</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Kolumbie</item>
+        <item>Argentina</item>
+        <item>Mexiko</item>
+        <item>Venezuela</item>
+        <item>Kajmanské ostrovy</item>
+        <item>Spojené státy americké</item>
+        <item>Kostarika</item>
+        <item>Curaçao</item>
+        <item>Kanada</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Dominikánská republika</item>
+        <item>Kanada</item>
+        <item>El Salvador</item>
+        <item>Brazílie</item>
+        <item>Ostrovy Turks a Caicos</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Kanada</item>
+        <item>Kuba</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Jamajka</item>
+        <item>Bolívie</item>
+        <item>Peru</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Nikaragua</item>
+        <item>Martinik</item>
+        <item>Spojené státy americké</item>
+        <item>Mexiko</item>
+        <item>Spojené státy americké</item>
+        <item>Uruguay</item>
+        <item>Kanada</item>
+        <item>Bahamy</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Panama</item>
+        <item>Spojené státy americké</item>
+        <item>Trinidad a Tobago</item>
+        <item>Haiti</item>
+        <item>Portoriko</item>
+        <item>Dominikánská republika</item>
+        <item>Brazílie</item>
+        <item>Kanada</item>
+        <item>Svatý Kryštof a Nevis</item>
+        <item>Svatá Lucie</item>
+        <item>Americké Panenské ostrovy</item>
+        <item>Mexiko</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Jižní pól</item>
+        <item>Špicberky a Jan Mayen</item>
+        <item>Kazachstán</item>
+        <item>Jordán</item>
+        <item>Rusko</item>
+        <item>Kazachstán</item>
+        <item>Irák</item>
+        <item>Bahrajn</item>
+        <item>Ázerbájdžán</item>
+        <item>Thajsko</item>
+        <item>Libanon</item>
+        <item>Indie</item>
+        <item>Sýrie</item>
+        <item>Bangladéš</item>
+        <item>Spojené arabské emiráty</item>
+        <item>Palestina</item>
+        <item>Palestina</item>
+        <item>Vietnam</item>
+        <item>Čína</item>
+        <item>Indonésie</item>
+        <item>Izrael</item>
+        <item>Afghánistán</item>
+        <item>Pákistán</item>
+        <item>Nepál</item>
+        <item>Malajsie</item>
+        <item>Kuvajt</item>
+        <item>Čína</item>
+        <item>Filipíny</item>
+        <item>Omán</item>
+        <item>Kambodža</item>
+        <item>Severní Korea</item>
+        <item>Katar</item>
+        <item>Barma</item>
+        <item>Saúdská Arábie</item>
+        <item>Jižní Korea</item>
+        <item>Čína</item>
+        <item>Singapur</item>
+        <item>Čína</item>
+        <item>Írán</item>
+        <item>Izrael</item>
+        <item>Japonsko</item>
+        <item>Mongolsko</item>
+        <item>Bermudy</item>
+        <item>Španělsko</item>
+        <item>Kapverdy</item>
+        <item>Island</item>
+        <item>Falklandy</item>
+        <item>Austrálie</item>
+        <item>Austrálie</item>
+        <item>Austrálie</item>
+        <item>Austrálie</item>
+        <item>Austrálie</item>
+        <item>Austrálie</item>
+        <item>Austrálie</item>
+        <item>Austrálie</item>
+        <item>Austrálie</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Chile</item>
+        <item>Nizozemí</item>
+        <item>Andorra</item>
+        <item>Řecko</item>
+        <item>Velká Británie</item>
+        <item>Srbsko</item>
+        <item>Německo</item>
+        <item>Slovensko</item>
+        <item>Belgie</item>
+        <item>Rumunsko</item>
+        <item>Maďarsko</item>
+        <item>Moldavsko</item>
+        <item>Dánsko</item>
+        <item>Irsko</item>
+        <item>Gibraltar</item>
+        <item>Finsko</item>
+        <item>Ostrov Man</item>
+        <item>Turecko</item>
+        <item>Portugalsko</item>
+        <item>Velká Británie</item>
+        <item>Lucembursko</item>
+        <item>Španělsko</item>
+        <item>Malta</item>
+        <item>Bělorusko</item>
+        <item>Monako</item>
+        <item>Rusko</item>
+        <item>Norsko</item>
+        <item>Francie</item>
+        <item>Česko</item>
+        <item>Lotyšsko</item>
+        <item>Itálie</item>
+        <item>San Marino</item>
+        <item>Bosna a Hercegovina</item>
+        <item>Ukrajina</item>
+        <item>Severní Makedonie</item>
+        <item>Bulharsko</item>
+        <item>Švédsko</item>
+        <item>Estonsko</item>
+        <item>Vatikán</item>
+        <item>Rakousko</item>
+        <item>Litva</item>
+        <item>Polsko</item>
+        <item>Chorvatsko</item>
+        <item>Švýcarsko</item>
+        <item>Madagaskar</item>
+        <item>Maledivy</item>
+        <item>Mauricius</item>
+        <item>Nový Zéland</item>
+        <item>Fidži</item>
+        <item>Guam</item>
+        <item>Spojené státy americké</item>
+        <item>Austrálie</item>
+        <item>Nová Kaledonie</item>
+        <item>Samoa</item>
+        <item>Francouzská Polynésie</item>
+        <item>Antigua a Barbuda</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Kanada</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Kanada</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>El Salvador</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Katar</item>
+        <item>Čína</item>
+        <item>Indie</item>
+        <item>Indie</item>
+        <item>Japonsko</item>
+        <item>Pákistán</item>
+        <item>Jemen</item>
+        <item>Španělsko</item>
+        <item>Německo</item>
+        <item>Itálie</item>
+        <item>Německo</item>
+        <item>Vietnam</item>
+        <item>Turecko</item>
+        <item>Indie</item>
+        <item>Brazílie</item>
+        <item>Jihoafrická republika</item>
+        <item>Pákistán</item>
+        <item>Brazílie</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Velká Británie</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Čína</item>
+        <item>Indie</item>
+        <item>Spojené státy americké</item>
+        <item>Brazílie</item>
+        <item>Spojené státy americké</item>
+        <item>Libérie</item>
+        <item>Srí Lanka</item>
+        <item>Mexiko</item>
+        <item>Indie</item>
+        <item>Velká Británie</item>
+        <item>Ukrajina</item>
+        <item>Rusko</item>
+        <item>Polsko</item>
+        <item>Polsko</item>
+        <item>Německo</item>
+        <item>Finsko</item>
+        <item>Izrael</item>
+        <item>Portoriko</item>
+        <item>Honduras</item>
+        <item>Surinam</item>
+        <item>Ekvádor</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Spojené státy americké</item>
+        <item>Kanada</item>
+        <item>Kapverdy</item>
+        <item>Island</item>
+        <item>Švýcarsko</item>
+        <item>Namibie</item>
+        <item>Bulharsko</item>
+        <item>Řecko</item>
+        <item>Rusko</item>
+        <item>Súdán</item>
+        <item>Keňa</item>
+        <item>Jemen</item>
+        <item>Madagaskar</item>
+        <item>Kuvajt</item>
+        <item>Spojené arabské emiráty</item>
+        <item>Rusko</item>
+        <item>Indie</item>
+        <item>Rusko</item>
+        <item>Čína</item>
+        <item>Rusko</item>
+        <item>Rusko</item>
+        <item>Rusko</item>
+        <item>Rusko</item>
+        <item>Rusko</item>
+        <item>Fidži</item>
+        <item>Nový Zéland</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>Jednorázová událost</item>
+        <item>Denně</item>
+        <item>Týdně</item>
+        <item>Měsíčně</item>
+        <item>Ročně</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>Velmi blízko</item>
+        <item>Blízko</item>
+        <item>Daleko</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>Po, St, Pá</item>
+        <item>Út, Čt, So</item>
+        <item>St, Pá, Ne</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Když spíte, položte si telefon vedle sebe, abyste mohli sledovat pohyby těla a vytvářet statistiky spánkového cyklu.</item>
+        <item>"Chcete-li získat přesné statistiky, položte telefon vedle polštáře nebo pod něj a ujistěte se, že není od vašeho těla vzdálen více než 50 cm."</item>
+        <item>Když je nastaven plán večerky, váš spánek bude sledován automaticky.</item>
+        <item>Sledování spánku spotřebuje pouze asi 1 % baterie za noc.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Sledujte svůj spánek</item>
+        <item>Položte telefon vedle polštáře</item>
+        <item>Vytvářet statistiky automaticky</item>
+        <item>Nízká spotřeba energie</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Pro efektivnější nabití energie by odpolední šlofík neměl přesáhnout 30 minut.</item>
+        <item>Zkuste se zaměřit na správnou spánkovou hygienu.</item>
+        <item>Zdřímnutí na 10 až 20 minut může probudit unavenou mysl.</item>
+        <item>Krátké zdřímnutí před 13:30 vám pomůže nabít ztracenou energii.</item>
+        <item>Krátké zdřímnutí vám pomůže nabít ztracenou energii.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>Dostatek spánku. Většina dospělých potřebuje 7 až 9 hodin spánku.</item>
+        <item>Dostatek spánku. Udržujte pravidelný spánkový režim.</item>
+        <item>Dostatek spánku. Jen tak dál!</item>
+        <item>Velmi krátký spánek. Většina dospělých potřebuje 7 až 9 hodin spánku.</item>
+        <item>Více než průměrné množství spánku. Většina dospělých potřebuje 7 až 9 hodin spánku.</item>
+        <item>Dostatek hlubokého spánku. Hluboký spánek pomáhá posílit vaši paměť.</item>
+        <item>Dostatek hlubokého spánku má pozitivní vliv na vaši imunitu.</item>
+        <item>Vyšší než průměrné množství hlubokého spánku. Věnujte více pozornosti svému zdraví.</item>
+        <item>Malé množství hlubokého spánku. Zkuste si během dne zacvičit, ne však těsně před spaním.</item>
+        <item>Malé množství hlubokého spánku. Zkuste se před spaním uvolnit a relaxovat.</item>
+        <item>Malé množství hlubokého spánku. Vyhněte se kofeinovým nápojům těsně před spaním.</item>
+        <item>Zkuste chodit spát před 23:00.</item>
+        <item>Pozdní usnutí. Pozměňte svůj spánkový režim.</item>
+        <item>Pozdní usnutí. Pamatujte na pravidelný spánkový režim.</item>
+        <item>Časté ponocování se vám může vymstít na vašem zdraví.</item>
+        <item>Vyšší než průměrný počet probuzení. Ujistěte se, že je vaše ložnice zatemněna.</item>
+        <item>Pár probuzení během noci. Ujistěte se, že je vaše ložnice během spánku tichá.</item>
+        <item>Pár probuzení během noci. Ujistěte se, že je vaše ložnice během spánku tichá a zatemněná.</item>
+        <item>Dostatečné množství REM fáze. REM fáze může pozitivně ovlivnit vaši kreativnost a schopnost řešení problémů.</item>
+        <item>Dostatečné množství REM fáze. Vaše mysl a tělo je odpočato, připraveno na nový den.</item>
+        <item>Nedostatečné množství REM fáze. Zkuste si během dne zacvičit, ne však těsně před spaním.</item>
+        <item>Nedostatečné množství REM fáze. Běžte dnes spát dříve.</item>
+        <item>Vyšší než průměrné množství REM fáze. Před spaním zkuste více relaxovat.</item>
+        <item>Vyšší než průměrné množství REM fáze. Pamatujte na pravidelný spánkový režim.</item>
+        <item>Dostatek lehkého spánku má pozitivní vliv na vaši kreativitu.</item>
+        <item>Dostatek lehkého spánku může pomoci při snižování míry stresu.</item>
+        <item>Vyšší než průměrné množství lehkého spánku. Před spaním zkuste více relaxovat.</item>
+        <item>Pro energičtější rána zkuste chodit spát před půlnocí.</item>
+        <item>Pro energičtější rána zkuste chodit spát před půlnocí.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>Dostatečné množství spánku a pravidelný spánkový režim jsou základem. Jen tak dál!</item>
+        <item>Dostatečné množství spánku, avšak lehce nepravidelný spánkový režim. Zaměřte se na pravidelný čas usínání a buzení.</item>
+        <item>Dostatečné množství spánku, avšak nepravidelný spánkový režim. Zaměřte se na pravidelný čas usínání a buzení a držte se jej.</item>
+        <item>Dostatečné množství spánku a pravidelný spánkový režim. Vyhněte se kofeinovým nápojům těsně před spaním.</item>
+        <item>Dostatečné množství spánku, avšak lehce nepravidelný spánkový režim. Před spaním zkuste více relaxovat.</item>
+        <item>Dostatečné množství spánku, avšak nepravidelný spánkový režim. Ujistěte se, že je vaše ložnice během spánku tichá a zatemněná.</item>
+        <item>Vyšší než průměrné množství spánku a pravidelný spánkový režim. Zkuste se zaměřit na správnou spánkovou hygienu.</item>
+        <item>Vyšší než průměrné množství spánku, avšak lehce nepravidelný spánkový režim. Pokud se cítíte unavení, upravte svůj čas usínání a vstávání.</item>
+        <item>Vyšší než průměrné množství spánku, avšak nepravidelný spánkový režim. Zaměřte se na pravidelný čas usínání a vstávání.</item>
+        <item>Nepravidelný spánek. Vytvořte si spánkový plán a držte se jej.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>Žádná data</item>
+        <item>Dostačující</item>
+        <item>Průměrný</item>
+        <item>Dobrý</item>
+        <item>Výborný</item>
+        <item>Žádná data</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>Dostatečné množství spánku a pravidelný spánkový režim jsou základem. Jen tak dál!</item>
+        <item>Dostatečné množství spánku, avšak lehce nepravidelný spánkový režim. Zaměřte se na pravidelný čas usínání a buzení.</item>
+        <item>Dostatečné množství spánku, avšak nepravidelný spánkový režim. Zaměřte se na pravidelný čas usínání a buzení a držte se jej.</item>
+        <item>Dostatečné množství spánku a pravidelný spánkový režim. Vyhněte se kofeinovým nápojům těsně před spaním.</item>
+        <item>Dostatečné množství spánku, avšak lehce nepravidelný spánkový režim. Před spaním zkuste více relaxovat.</item>
+        <item>Dostatečné množství spánku, avšak nepravidelný spánkový režim. Ujistěte se, že je vaše ložnice během spánku tichá a zatemněná.</item>
+        <item>Vyšší než průměrné množství spánku a pravidelný spánkový režim. Zkuste se zaměřit na správnou spánkovou hygienu.</item>
+        <item>Vyšší než průměrné množství spánku, avšak lehce nepravidelný spánkový režim. Pokud se cítíte unavení, upravte svůj čas usínání a vstávání.</item>
+        <item>Vyšší než průměrné množství spánku, avšak nepravidelný spánkový režim. Zaměřte se na pravidelný čas usínání a vstávání.</item>
+        <item>Nepravidelný spánek. Vytvořte si spánkový plán a držte se jej.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>Během spánku se bude nahrávat zvuk. Strojové učení umožňuje Xiaomi Fitness detekovat chrápání, mluvení a hlasité zvuky a ukládat nahrávky do vašeho telefonu.</item>
+        <item>Mikrofon se bude zapínat a vypínat podle vašeho plánu večerky.</item>
+        <item>Před spaním se ujistěte, že je váš telefon dostatečně nabitý. Slabá baterie může přerušit nahrávání zvuku.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Nahrávat zvuk pomocí mikrofonu</item>
+        <item>Automaticky zjišťovat zvuky</item>
+        <item>Udržujte svůj telefon nabitý</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple">
+        <item>P</item>
+        <item>Ú</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="userinfo_Height_unit">
+        <item>cm</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>Nenastaveno</item>
+        <item>Rodič</item>
+        <item>Sestra</item>
+        <item>Bratr</item>
+        <item>Manžel(-ka)</item>
+        <item>Přítel(-kyně)</item>
+        <item>Kamarád(-ka)</item>
+        <item>Spolupracovník</item>
+        <item>Spolužák</item>
+        <item>Dítě</item>
+        <item>Partner (práce)</item>
+        <item>Asistent</item>
+        <item>Nadřízený</item>
+        <item>Spolubydlící</item>
+        <item>Lékař</item>
+        <item>Člen rodiny</item>
+        <item>Učitel</item>
+        <item>Pečovatel(ka)</item>
+        <item>Opatrovník</item>
+        <item>Sociální pracovník</item>
+        <item>Škola</item>
+        <item>Školka</item>
+        <item>Jiné</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>kcal</item>
+        <item>kJ</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>Nenastaveno</item>
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="userinfo_length_unit">
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>Nenastaveno</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>Nenastaveno</item>
+        <item>Negativní</item>
+        <item>Pozitivní</item>
+    </string-array>
+    <string-array name="userinfo_weight_unit">
+        <item>kg</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>Nenastaveno</item>
+        <item>Ano</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>N</item>
+        <item>P</item>
+        <item>Ú</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
+</resources>

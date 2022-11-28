@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="battery_saver_turn_on_automatically_pct">%1$s baterie</string>
+    <string name="power_charging_duration">%1$s – %2$s do úplného nabití</string>
+    <string name="power_charging_duration_ac">%1$s – %2$s do úplného nabití ze zásuvky</string>
+    <string name="power_charging_duration_usb">%1$s – %2$s do úplného nabití přes USB</string>
+    <string name="power_charging_duration_wireless">%1$s – %2$s do úplného nabití bezdrátově</string>
+    <string name="power_discharge_remaining">Zbývá %1$s</string>
+    <string name="power_discharging_duration">%1$s – zbývá přibližně %2$s</string>
+    <string name="process_stats_total_duration">Za poslední období %3$s bylo využito %1$s z %2$s</string>
+    <string name="process_stats_total_duration_percentage">Za dobu %2$s bylo použito %1$s paměti RAM</string>
+</resources>

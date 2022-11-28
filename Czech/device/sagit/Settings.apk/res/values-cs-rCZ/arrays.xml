@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="automatic_storage_management_days">
+        <item>Starší než 30 dní</item>
+        <item>Starší než 60 dní</item>
+        <item>Starší než 90 dní</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Vylepšené barvy</item>
+        <item>Přirozené barvy, jak je vidí oči</item>
+        <item>Barvy optimalizované pro digitální obsah</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Jasné (výchozí)</item>
+        <item>Přirozené</item>
+        <item>Standardní</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Šedozelená</item>
+        <item>Modrá</item>
+        <item>Indigo</item>
+        <item>Nachová</item>
+        <item>Růžová</item>
+        <item>Červená</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Posledních 30 dní</item>
+        <item>Zadat cyklus počítání...</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Malé</item>
+        <item>Výchozí</item>
+        <item>Velké</item>
+        <item>Největší</item>
+    </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>Zprávy</item>
+        <item>Fotografie</item>
+        <item>Soubory</item>
+        <item>Poznámky</item>
+        <item>Dětský režim</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normální</item>
+        <item>Střední</item>
+        <item>Nízké</item>
+        <item>Kritické</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Trvalé</item>
+        <item>Nejvyšší aktivita</item>
+        <item>Důležité (v popředí)</item>
+        <item>Důležité (na pozadí)</item>
+        <item>Záloha</item>
+        <item>Těžká váha</item>
+        <item>Služba (spuštěno)</item>
+        <item>Služba (restartuje se)</item>
+        <item>Přijímač</item>
+        <item>Plocha</item>
+        <item>Poslední aktivita</item>
+        <item>V mezipaměti (aktivita)</item>
+        <item>V mezipaměti (klient aktivity)</item>
+        <item>V mezipaměti (prázdné)</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Vypnuto</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Vypnuto</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Vypnuto</item>
+        <item>Všechny vyrovnávací paměti protokolů</item>
+        <item>Všechny kromě protokolu bezdrátových modulů</item>
+        <item>pouze protokol vyrovnávací paměti jádra</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Vypnuto</item>
+        <item>Vše</item>
+        <item>Bezdrát. ne</item>
+        <item>pouze jádro</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Velmi pomalu</item>
+        <item>Pomalu</item>
+        <item>Normálně</item>
+        <item>Rychle</item>
+        <item>Rychleji</item>
+        <item>Velmi rychle</item>
+        <item>Svižně</item>
+        <item>Velmi svižně</item>
+        <item>Nejrychleji</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Preferována síť W-Fi</item>
+        <item>Preferována mobilní síť</item>
+        <item>Pouze Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>Wi-Fi</item>
+        <item>Mobilní data</item>
+        <item>Pouze Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>Wi-Fi</item>
+        <item>Mobilní data</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Preferována síť W-Fi</item>
+        <item>Preferována mobilní síť</item>
+    </string-array>
+</resources>

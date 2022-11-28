@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Před hodinou</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Před hodinou</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Před půl hodinou</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Do hodiny</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Do půl hodiny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Okamžitě</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d minut</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Nyní</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před minutou</item>
+    </plurals>
+    <plurals name="agenda_anniversary_day">
+        <item quantity="other">·%1$d dní</item>
+        <item quantity="one">·%1$d den</item>
+    </plurals>
+    <plurals name="agenda_anniversary_year">
+        <item quantity="other">·%1$d roků</item>
+        <item quantity="one">·%1$d rok</item>
+    </plurals>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Za %d minut</item>
+        <item quantity="one">Za %d minutu</item>
+    </plurals>
+    <plurals name="agenda_countdown_day">
+        <item quantity="other">·o %1$d dní</item>
+        <item quantity="one">·o %1$d den</item>
+    </plurals>
+    <plurals name="agenda_tip_count_down">
+        <item quantity="other">Začíná za %1$d min.</item>
+        <item quantity="one">Začíná za %1$d min.</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">Za %d dní</item>
+        <item quantity="one">Za %d den</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Před %1$dd</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Před hodinou a půl</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Před %1$dh</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Do hodiny</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Do půl hodiny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Okamžitě</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d minut</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nyní</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">Odstranit %s položek?</item>
+        <item quantity="one">Odstranit %s položku?</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">%s Položky označené jako důležité</item>
+        <item quantity="one">%s Položka označená jako důležitá</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Vybráno %s</item>
+        <item quantity="one">Vybráno %s</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Před %1$dmin</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Položek: %1$s</item>
+        <item quantity="one">Položka: %1$s</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Před %d minutami</item>
+        <item quantity="one">Před minutou</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Obchod s widgety. Seznam aplikací. %d položek v seznamu aplikací.</item>
+        <item quantity="one">Obchod s widgety. Seznam aplikací. %d položka v seznamu aplikací.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Číslo %d v seznamu.</item>
+        <item quantity="one">Číslo %d v seznamu.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">Položka obsahuje %d widgetů. Dvojitým klepnutím otevřete popis widgetu.</item>
+        <item quantity="one">Položka obsahuje %d widget. Dvojitým klepnutím otevřete popis widgetu.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Obchod s widgety. Seznam aplikací. %d položek v seznamu.</item>
+        <item quantity="one">Obchod s widgety. Seznam aplikací. %d položka v seznamu.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Číslo %d v seznamu.</item>
+        <item quantity="one">Číslo %d v seznamu.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">Položka obsahuje %d widgetů. Dvojitým klepnutím otevřete popis widgetu.</item>
+        <item quantity="one">Položka obsahuje %d widget. Dvojitým klepnutím otevřete popis widgetu.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Obchod s widgety. Seznam aplikací. %d položek v seznamu.</item>
+        <item quantity="one">Obchod s widgety. Seznam aplikací. %d položka v seznamu.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Číslo %d v seznamu.</item>
+        <item quantity="one">Číslo %d v seznamu.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">Položka obsahuje %d widgetů. Dvojitým klepnutím otevřete popis widgetu.</item>
+        <item quantity="one">Položka obsahuje %d widget. Dvojitým klepnutím otevřete popis widgetu.</item>
+    </plurals>
+    <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">před %d hodinami</item>
+        <item quantity="one">před %d h</item>
+    </plurals>
+    <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">před %d minutami</item>
+        <item quantity="one">před %d min</item>
+    </plurals>
+    <plurals name="pa_edit_text_min_length">
+        <item quantity="other">Minimálně %1$d znaků</item>
+        <item quantity="one">Minimálně %1$d znak</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d balíků je na cestě</item>
+        <item quantity="one">%d balíček je na cestě</item>
+    </plurals>
+    <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">Smazat %s položek nyní?</item>
+        <item quantity="one">Smazat %s položku nyní?</item>
+    </plurals>
+    <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">Vybrané položky: %s</item>
+        <item quantity="one">Vybraná položka %s</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+        <item quantity="other">"Přidali jste %d telefonních čísel"</item>
+        <item quantity="one">"Přidali jste %d telefonní číslo"</item>
+    </plurals>
+    <plurals name="pa_picker_app_list_widget_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="pa_stock_display_list_label">
+        <item quantity="other">%1$d společností na widgetu</item>
+        <item quantity="one">%1$d společnost na widgetu</item>
+    </plurals>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Smazat %s položky z platby?</item>
+        <item quantity="one">Smazat %s položku z platby?</item>
+    </plurals>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Vybraných %s položek</item>
+        <item quantity="one">Vybrána %s položka</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">Za %d dnů</item>
+        <item quantity="one">Za %d den</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">Za %d hodin</item>
+        <item quantity="one">Za %d hodinu</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">Za %d minut</item>
+        <item quantity="one">Za %d minutu</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d hodin</item>
+        <item quantity="one">%d hodina</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">Označených %d</item>
+        <item quantity="one">Označených %d</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|kroků</item>
+        <item quantity="zero">%d|kroků</item>
+        <item quantity="one">%d|krok</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">Před %dh</item>
+        <item quantity="one">Před %dh</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">Před %dmin</item>
+        <item quantity="one">Před %dmin</item>
+    </plurals>
+</resources>             

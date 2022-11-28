@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="action_bar_label">"Přihlásit se do sítě"</string>
+    <string name="action_do_not_use_network">"Tuto síť nepoužívat"</string>
+    <string name="action_use_network">"Použít tuto síť tak, jak je"</string>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="ssl_error_continue">Pokračovat pomocí prohlížeče</string>
+    <string name="ssl_error_example">Například přihlašovací stránka nemusí patřit uvedené organizaci.</string>
+    <string name="ssl_error_warning">Síť, ke které se pokoušíte připojit, má problémy se zabezpečením</string>
+</resources>

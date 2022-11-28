@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="cfg_rf">
+        <item>Nastavit FM RSSI Delta</item>
+        <item>Nastavit zesílení signálu</item>
+        <item>Statistika RF</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Přejmenovat</item>
+        <item>Vybrat automaticky</item>
+        <item>Odstranit</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Získat parametry stanice</item>
+        <item>Opakovat 20x získání parametrů stanice</item>
+        <item>Hledat parametry stanice</item>
+        <item>Získat parametry sweep rozsahu FM</item>
+        <item>Konfigurovat parametry FM hledání</item>
+    </string-array>
+    <string-array name="sleep_duration_values">
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 hodina</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Zvolit možnosti</item>
+        <item>Konfigurovat parametry FM hledání</item>
+        <item>Statistika RF</item>
+    </string-array>
+</resources>

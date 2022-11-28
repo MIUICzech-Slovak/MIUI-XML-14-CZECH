@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_indexes_uv_level">
+        <item>Nízký</item>
+        <item>Slabý</item>
+        <item>Průměrný</item>
+        <item>Velký</item>
+        <item>Silný</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Zamračeno</item>
+        <item>Mlhavo</item>
+        <item>Silná bouře</item>
+        <item>Liják</item>
+        <item>Bouře</item>
+        <item>Bouře</item>
+        <item>Déšť</item>
+        <item>Silný déšť</item>
+        <item>Déšť</item>
+        <item>Lehký déšť</item>
+        <item>Déšť se sněhem</item>
+        <item>Sněhová bouře</item>
+        <item>Sněžení</item>
+        <item>Silné sněžení</item>
+        <item>Sněžení</item>
+        <item>Lehké sněžení</item>
+        <item>Písečná bouře</item>
+        <item>Písečná bouře</item>
+        <item>Písečná bouře</item>
+        <item>Větrno</item>
+        <item>Krupobití</item>
+        <item>Prach</item>
+        <item>Mlha</item>
+        <item>Mrznoucí déšť</item>
+        <item>Neznámé</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Vítr S</item>
+        <item>Vítr SV</item>
+        <item>Vítr V</item>
+        <item>Vítr JV</item>
+        <item>Vítr J</item>
+        <item>Vítr JZ</item>
+        <item>Vítr Z</item>
+        <item>Vítr SZ</item>
+    </string-array>
+</resources>

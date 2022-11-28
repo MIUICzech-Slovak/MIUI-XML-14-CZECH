@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"Telefon bude v režimu tísňového zpětného volání po dobu %s minut.
+Chcete tento režim ukončit?"</item>
+        <item quantity="one">"Telefon bude v režimu tísňového zpětného volání po dobu %s minuty.
+Chcete tento režim ukončit?"</item>
+        <item quantity="few">"Telefon bude v režimu tísňového zpětného volání po dobu %s minut.
+Chcete tento režim ukončit?"</item>
+        <item quantity="many">"Telefon bude v režimu tísňového zpětného volání po dobu %s minuty.
+Chcete tento režim ukončit?"</item>
+    </plurals>
+</resources>

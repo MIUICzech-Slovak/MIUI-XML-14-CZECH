@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_settings_precust_cover_name">
+        <item>Zábava</item>
+        <item>Krajina</item>
+        <item>Obloha</item>
+        <item>Rostliny</item>
+        <item>Zvířata</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Krajina</item>
+        <item>Zvířata</item>
+        <item>Rostliny</item>
+        <item>Kreativita</item>
+        <item>Styl</item>
+    </string-array>
+</resources>

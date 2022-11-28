@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Bílá</item>
+        <item>Tmavěmodrá</item>
+        <item>Světlemodrá</item>
+        <item>Červená</item>
+        <item>Zelená</item>
+        <item>Růžová</item>
+        <item>Hnědá</item>
+        <item>Šedá</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Vyberte obrázek</item>
+        <item>Průhledné pozadí</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Speciální den</item>
+        <item>Pamětní den</item>
+        <item>Nejkrásnější momenty</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Výborný rok</item>
+        <item>Tři chody. Čtyři roční období.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Ahoj světe!</item>
+        <item>Na cestě</item>
+        <item>Kaleidoskop měst</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Podzimní nádhera</item>
+        <item>Řídící pokles</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Chlapec</item>
+        <item>Dívka</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Zálohovat fotografie</item>
+        <item>Zálohovat fotografie na MiCloud</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>Minulé Pondělí</item>
+        <item>Minulé Úterý</item>
+        <item>Minulou Středa</item>
+        <item>Minulý Čtvrtek</item>
+        <item>Minulý Pátek</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Noc k zapamatování</item>
+        <item>Nová stránka</item>
+        <item>Ohňostroj</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Šťastný nový rok!</item>
+        <item>Úsvit nového roku</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Rok opice</item>
+        <item>Rok kohouta</item>
+        <item>Rok psa</item>
+        <item>Rok prasete</item>
+        <item>Rok potkana</item>
+        <item>Rok buvola</item>
+        <item>Rok tygra</item>
+        <item>Rok králíka</item>
+        <item>Rok draka</item>
+        <item>Rok hada</item>
+        <item>Rok koně</item>
+        <item>Rok kozy</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Městská panoramata</item>
+        <item>Ulice a rohy</item>
+    </string-array>
+    <string-array name="collage_month">
+        <item>Led</item>
+        <item>Úno</item>
+        <item>Bře</item>
+        <item>Dub</item>
+        <item>Kvě</item>
+        <item>Čer</item>
+        <item>Črv</item>
+        <item>Srp</item>
+        <item>Zář</item>
+        <item>Říj</item>
+        <item>Lis</item>
+        <item>Pro</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Jemné okvětní lístky</item>
+        <item>V plném květu</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Do divočiny</item>
+        <item>Divoká a bezplatná</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Naše setkání</item>
+        <item>Ve společnosti přátel</item>
+        <item>Dlouho jsme se neviděli</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Vaše oblíbené předměty</item>
+        <item>Spřízněné duše</item>
+        <item>„Světlé chvíle života“</item>
+    </string-array>
+    <string-array name="jarní_sezóna_název">
+        <item>Kvete jaro</item>
+        <item>Jaro je ve vzduchu</item>
+        <item>Ahoj jaro!</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Zaneprázdněný dospíváním</item>
+        <item>Roztomilejší a roztomilejší</item>
+        <item>Malý průzkumník</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Fitness deník</item>
+        <item>Silnější a silnější</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Dobrou chuť!</item>
+        <item>Další sousto?</item>
+        <item>Užijte si jídlo!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Usmívejte se a zamávejte!</item>
+        <item>Doba přehrávání</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Skvělá příroda</item>
+        <item>Stopy ve sněhu</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Nezastavitelní</item>
+        <item>Udržet se v kondici</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Velký den</item>
+        <item>Dole uličkou!</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Moje víkendy</item>
+        <item>Kousky života</item>
+        <item>Vzpomínky na víkend</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Volný čas</item>
+        <item>Vánek</item>
+        <item>Sny</item>
+        <item>Mraky</item>
+        <item>Myšlenky</item>
+        <item>Pupeny</item>
+        <item>Metamorfóza</item>
+        <item>Hloubka</item>
+        <item>Odrazy</item>
+        <item>Minimalistické</item>
+        <item>Tajemný</item>
+        <item>Mlha</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Proměňte pozadí na skicu</item>
+        <item>Pozadí vodových barev</item>
+        <item>Cyberpunk retro</item>
+        <item>Vertikální segmenty</item>
+        <item>Rozmazání</item>
+        <item>Budoucnost</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Skica</item>
+        <item>Vodové barvy</item>
+        <item>RGB</item>
+        <item>Rolety</item>
+        <item>Zamlžené okno</item>
+        <item>Tech</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Barevný okraj</item>
+        <item>Přerušovaný okraj</item>
+        <item>Fluorescenční okraj</item>
+        <item>Barevný stín</item>
+        <item>Electrická vlna</item>
+        <item>Napětí</item>
+        <item>Text</item>
+        <item>Křídla</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Bežné</item>
+        <item>Cestování</item>
+        <item>Práce</item>
+        <item>Dokumenty</item>
+        <item>Vzdělání</item>
+        <item>Zkoušky</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Občanský průkaz</item>
+        <item>Zdravotní průkaz</item>
+        <item>Karta pojištěnce</item>
+        <item>ID</item>
+        <item>Osobní karta</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>Jeden palec</item>
+        <item>Dva palce</item>
+        <item>Menší palec</item>
+        <item>Dva menší palce</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Žádost o přijetí</item>
+        <item>Studentská síť</item>
+        <item>Síť studentů pro základní školy</item>
+        <item>Profil studentské sítě</item>
+        <item>Přijetí na univerzitu</item>
+        <item>NCEE</item>
+        <item>Životopis</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>College English Test 1</item>
+        <item>College English Test 2</item>
+        <item>College English Test 3</item>
+        <item>Putonghua Proficiency Test 1</item>
+        <item>Putonghua Proficiency Test 2</item>
+        <item>Degree English Test</item>
+        <item>PET for colleges</item>
+        <item>PETS Level 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Osvědčení učitele pro základní a střední školy</item>
+        <item>Certifikace učitele</item>
+        <item>Řidičský průkaz</item>
+        <item>Oprávnění průvodce</item>
+        <item>Oprávnění elektronického průvodce</item>
+        <item>Vnitrostátní soudní přezkouméní</item>
+        <item>Elektronický certifikát prvotřídního konstruktéra</item>
+        <item>Certifikát konstruktéra druhé třídy</item>
+        <item>Zkouška účetnického titulu junior</item>
+        <item>Certifikovaný veřejný účetník</item>
+        <item>Oprávnění pro Pekingský průvodce</item>
+        <item>Zkouška průběžného účetního titulu</item>
+        <item>Zkouška účetnického titulu senior</item>
+        <item>Osvedčení o účetní kvalifikaci</item>
+        <item>Certifikované veřejné účetnictví</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>USA</item>
+        <item>Vietnam</item>
+        <item>Japonsko</item>
+        <item>Hongkong a Macao</item>
+        <item>Jižní Korea</item>
+        <item>Thajsko (turistické)</item>
+        <item>Thajsko (při příchodě)</item>
+        <item>Indie</item>
+        <item>Izrael</item>
+        <item>Taiwan</item>
+        <item>Malajsie</item>
+        <item>Nový Zéland</item>
+        <item>Itálie</item>
+        <item>Argentina</item>
+        <item>Brazílie</item>
+        <item>Island</item>
+        <item>Keňa</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Přesunout</item>
+        <item>Kopírovat</item>
+        <item>Zrušit</item>
+    </string-array>
+    <string-array name="month">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Minulý Leden</item>
+        <item>Minulý Únor</item>
+        <item>Minulý Březen</item>
+        <item>Minulý Duben</item>
+        <item>Minulý Květen</item>
+        <item>Minulý Červen</item>
+        <item>Minulý Červenec</item>
+        <item>Minulý Srpen</item>
+        <item>Minulý Září</item>
+        <item>Minulý Říjen</item>
+        <item>Minulý Listopad</item>
+        <item>Minulý Prosinec</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"Vyrostl jsi!"</item>
+        <item>"Znovu jsi vyrostl!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Moje osobní menu</item>
+        <item>Chutné vzpomínky</item>
+        <item>Druhá pomoc, prosím!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"Nejlepší pohledy na světě"</item>
+        <item>Pokračujte ve stoupání</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Otec</item>
+        <item>Matka</item>
+        <item>Dědeček z otcovy strany</item>
+        <item>Babička z otcovy strany</item>
+        <item>Dědeček z matčiny strany</item>
+        <item>Babička z matčiny strany</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Kam nás cesta zavede</item>
+        <item>Dobře sdílené cesty</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Veselé jaro</item>
+        <item>Příjemné léto</item>
+        <item>Krásný podzim</item>
+        <item>Příjemná zima</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Jarní jídla</item>
+        <item>Letní dobroty</item>
+        <item>Podzimní hody</item>
+        <item>Zimní přikrývky</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>já</item>
+        <item>dítě</item>
+        <item>rodina</item>
+        <item>kolega</item>
+        <item>spolužák</item>
+        <item>kamarád</item>
+        <item>neznámý</item>
+    </string-array>
+    <string-array name="season">
+        <item>Jaro</item>
+        <item>Léto</item>
+        <item>Podzim</item>
+        <item>Zima</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Minulé Jaro</item>
+        <item>Minulé Léto</item>
+        <item>Minulý Podzim</item>
+        <item>Minulou Zimu</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Otec</item>
+        <item>Matka</item>
+        <item>Děda z otcové strany</item>
+        <item>Babička z otcové strany</item>
+        <item>Děda z matčiné strany</item>
+        <item>Babička z matčiné strany</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 min.</item>
+        <item>15 min.</item>
+        <item>30 min.</item>
+        <item>1 hod.</item>
+        <item>Bez limitu</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Kvete jaro</item>
+        <item>Jaro je ve vzduchu</item>
+        <item>Ahoj jaro!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Trošku léta</item>
+        <item>Tam, kde léto nikdy nekončí</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Zlaté hodiny</item>
+        <item>Paprsky zlata</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>Minulé víkendy</item>
+        <item>Pamětní dny</item>
+        <item>Denní události</item>
+        <item>Běžné a vyjímečné</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Zimní dny</item>
+        <item>Zimní krajina zázraků</item>
+    </string-array>
+</resources>

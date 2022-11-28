@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="attachment_chooser">
+        <item>Fotoaparát</item>
+        <item>Galerie</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>Nová</item>
+        <item>Přejmenovat</item>
+        <item>Vymazat</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Jméno</item>
+        <item>Přezdívka</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Organizace</item>
+        <item>Chat</item>
+        <item>SIP Telefon</item>
+        <item>Narozeniny</item>
+        <item>Web</item>
+        <item>Adresa</item>
+        <item>Poznámka</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Vítejte v poznámkách!</item>
+        <item>Vytvořte si poznámku</item>
+        <item>Můžete ji napsat, vložit obrázek a nahrát hlasem.</item>
+        <item>Seznamy a upozornění vám pohou při nakupování.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Přejmenovat</item>
+        <item>Vymazat</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Malé</item>
+        <item>Střední</item>
+        <item>Velké</item>
+        <item>Obrovské</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Podle data vytvoření</item>
+        <item>Podle data úpravy</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Hlasové poznámky</item>
+        <item>Nahrajte hlasovou poznámku.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Hlasové poznámky</item>
+        <item>Můžete nahrát i hlasovou poznámku.</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>Nová</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Nyní můžete snadno zapisovat vaše poznámky, myšlenky a nápady
+"</item>
+        <item>"Připojit obrázky nebo kontakty
+"</item>
+        <item>"Vytvářet nákupní seznamy
+"</item>
+        <item>"A mnohem více!
+  - Synchr. s MiCloud
+  - Nastavit upozornění
+
+Pro více informací navštivte
+http://www.miuios.cz/
+"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="education">
+        <item>Střední škola</item>
+        <item>Základní škola</item>
+        <item>Gymnázium</item>
+        <item>Odborná škola</item>
+        <item>Vysoká škola (Bc.)</item>
+        <item>Vysoká škola (Ing./Mgr.)</item>
+        <item>Vysoká škola (PhD.)</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Rodina</item>
+        <item>Rodné jméno babičky z matčiny strany?</item>
+        <item>Rodné jméno dědečka z matčiny strany?</item>
+        <item>Rodné jméno babičky z otcovy strany?</item>
+        <item>Rodné jméno dědečka z otcovy strany?</item>
+        <item>Narozeniny otce?</item>
+        <item>Narozeniny matky?</item>
+        <item>Jaký je věkový rozdíl mezi vašimi rodiči?</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Škola</item>
+        <item>Jak se jmenoval třídní učitel na základní škole?</item>
+        <item>Jak se jmenuje třídní učitel na střední škole?</item>
+        <item>Jaké je vaše osobní číslo na internátu?</item>
+        <item>Jak se jmenuje váš spolubydlící na internátu?</item>
+        <item>Jak se jmenuje správce internátu?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Osobní</item>
+        <item>Jak se jmenují vaši rodiče?</item>
+        <item>Jaká je poslední šestice číslic na vašem pasu?</item>
+        <item>Ve které porodnici jste se narodil/a?</item>
+        <item>Jak se jmenuje váš nejlepší přítel/přítelkyně?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Poprvé</item>
+        <item>Jak se jmenovalo vaše první zvířátko?</item>
+        <item>Jak se jmenoval/a váš první partner/partnerka?</item>
+        <item>Jak se jmenovalo vaše první zaměstnání?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Manželství</item>
+        <item>Datum vaší svatby?</item>
+        <item>Jaké je jméno vaší tchýně?</item>
+        <item>Kdy má tchýně narozeniny?</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informace o účtu</item>
+        <item>Zobrazte svou profilovou fotku a spravujte informace o účtu</item>
+        <item>Osobní údaje; profilová fotka; přezdívka; informace o účtu; Xiaomi ID; ID; Xiaomi účet; účet</item>
+    </string-array>
+</resources>

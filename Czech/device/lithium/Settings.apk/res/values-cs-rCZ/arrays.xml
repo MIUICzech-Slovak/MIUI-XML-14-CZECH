@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="mvno_type_entries">
+        <item>Žádný</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Velmi pomalu</item>
+        <item>Pomalu</item>
+        <item>Normálně</item>
+        <item>Rychle</item>
+        <item>Rychleji</item>
+        <item>Velmi rychle</item>
+        <item>Svižně</item>
+        <item>Velmi svižně</item>
+        <item>Nejrychleji</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Žádný</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="control_tips">
+        <item quantity="other">Denně můžete pomoci %1$s uživatelům. Dnes můžete pomoci ještě %2$d uživatelům.</item>
+        <item quantity="one">Denně můžete pomoci %1$s uživateli. Dnes můžete pomoci ještě %2$d uživateli.</item>
+    </plurals>
+</resources>

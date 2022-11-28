@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="app_ops_labels">
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o použití vibrací</item>
+        <item>Pokus o čtení kontaktů</item>
+        <item>Pokus o úpravu kontaktů</item>
+        <item>Pokus o čtení záznamu o volání</item>
+        <item>Pokus o úpravu záznamu o volání</item>
+        <item>Pokus o čtení kalendáře</item>
+        <item>Pokus o úpravu kalendáře</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o notifikace</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o hovor</item>
+        <item>Pokus o čtení SMS</item>
+        <item>Pokus o psaní/úpravu SMS</item>
+        <item>Pokus o přijetí SMS</item>
+        <item>Pokus o přijetí SMS</item>
+        <item>Pokus o přijetí MMS</item>
+        <item>Pokus o přijetí SMS</item>
+        <item>Pokus o odeslání SMS</item>
+        <item>Pokus o čtení SMS</item>
+        <item>Pokus o psaní/úpravu SMS</item>
+        <item>Pokus o změnu nastavení</item>
+        <item>Pokus o draw on top</item>
+        <item>Pokus o přístup k notifikacím</item>
+        <item>Pokus o přístup k fotoaparátu</item>
+        <item>Pokus o nahrávání zvuku</item>
+        <item>Pokus o přehrání zvuku</item>
+        <item>Pokus o čtení schránky</item>
+        <item>Pokus o úpravu schránky</item>
+        <item>Trying to use media buttons</item>
+        <item>Trying to use audio focus</item>
+        <item>Trying to use master volume</item>
+        <item>Trying to use voice volume</item>
+        <item>Trying to use ring volume</item>
+        <item>Trying to use media volume</item>
+        <item>Trying to use alarm volume</item>
+        <item>Trying to use notification volume</item>
+        <item>Trying to use bluetooth volume</item>
+        <item>Trying to Keep device awake</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o přístup k poloze</item>
+        <item>Pokus o zap./vyp. Wi-Fi</item>
+        <item>Pokus o zap./vyp. bluetooth</item>
+        <item>Pokus o zap./vyp. mobilních dat</item>
+        <item>Pokus o odeslání MMS</item>
+        <item>Pokus o čtení MMS</item>
+        <item>Pokus o psaní MMS</item>
+        <item>Spustit se při startu</item>
+    </string-array>
+    <string-array name="emailAddressTypes">
+        <item>Domů</item>
+        <item>Práce</item>
+        <item>Jiné</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Zkuste to znovu</item>
+        <item></item>
+        <item></item>
+        <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+        <item></item>
+        <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+        <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+        <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+        <item>Příliš rychle! Nelze rozpoznat otisk prstu</item>
+        <item>Trochu pohněte s prstem a zkuste to znovu</item>
+        <item>Zvedněte prst a přiložte jej znovu na senzor</item>
+        <item>Podržte prst na senzoru trochu déle</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Domů</item>
+        <item>Práce</item>
+        <item>Jiné</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Práce</item>
+        <item>Jiné</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Domů</item>
+        <item>Mobil</item>
+        <item>Práce</item>
+        <item>Fax do práce</item>
+        <item>Fax domů</item>
+        <item>Pager</item>
+        <item>Jiné</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Domů</item>
+        <item>Práce</item>
+        <item>Jiné</item>
+        <item>Vlastní</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Spořič displeje</string>
+    <string name="flipper_screensaver_name">Fotorámeček</string>
+    <string name="local_source_name">Fotografie v zařízení</string>
+    <string name="need_to_configure">Nic není vybráno</string>
+    <string name="no_photos">Žádné fotografie v zařízení</string>
+    <string name="photodream_select_all">Vybrat vše</string>
+    <string name="photodream_select_none">Odznačit vše</string>
+    <string name="posts_album_name">Photos from Posts</string>
+    <string name="stock_photo_album_name">Stock Photos</string>
+    <string name="table_screensaver_name">Prezentace</string>
+    <string name="unknown_album_name">Nepojmenované album</string>
+</resources>

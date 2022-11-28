@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="alarm_count_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>Vyp.</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Budík za méně než minutu</item>
+        <item>Budík za %1$s</item>
+        <item>Budík za %2$s</item>
+        <item>Budík za %1$s %2$s</item>
+        <item>Budík za %3$s</item>
+        <item>Budík za %1$s %3$s</item>
+        <item>Budík za %2$s %3$s</item>
+        <item>Budík za %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Jednou</item>
+        <item>Každý den</item>
+        <item>Prac. dny (v Číně)</item>
+        <item>Svátky (v Číně)</item>
+        <item>Pondělí až pátek</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Pouze jednou</item>
+        <item>Každý den</item>
+        <item>Pondělí až pátek</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Budík je nastavený za méně než 1 min.</item>
+        <item>Budík se spustí za %1$s</item>
+        <item>Budík se spustí za %2$s</item>
+        <item>Budík se spustí za %1$s a %2$s</item>
+        <item>Budík se spustí za %3$s</item>
+        <item>Budík se spustí za %1$s a %3$s</item>
+        <item>Budík se spustí za %2$s a %3$s</item>
+        <item>Budík se spustí za %1$s, %2$s, a %3$s</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Vypnuto</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Pondělí až Pátek</item>
+        <item>Každý den</item>
+        <item>Pracovní dny</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Každý den</item>
+        <item>Pondělí až Pátek</item>
+        <item>Pracovní dny</item>
+        <item>Vlastní</item>
+    </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Bílé</item>
+        <item>Černá</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="days">
+        <item>Včera</item>
+        <item>Dnes</item>
+        <item>Zítra</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Úte</item>
+        <item>Stř</item>
+        <item>Čtv</item>
+        <item>Pát</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>V nastavený čas</item>
+        <item>15 minut předtím</item>
+        <item>30 minut předtím</item>
+        <item>1 hodinu předtím</item>
+        <item>Žádné</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Žádná</item>
+        <item>Odložit budík</item>
+        <item>Vypnout budík</item>
+    </string-array>
+    <string-array name="timer_duration">
+        <item>Celkem %1$s</item>
+        <item>Celkem %2$s</item>
+        <item>Celkem %1$s%2$s</item>
+        <item>Celkem %3$s</item>
+        <item>Celkem %1$s%3$s</item>
+        <item>Celkem %2$s%3$s</item>
+        <item>Celkem %1$s%2$s%3$s</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Žádná akce</item>
+        <item>Odložení budíku</item>
+        <item>Zrušení budíku</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Raději nevycházejte ven</item>
+        <item>Na cestách to klouže</item>
+        <item>Venku je bouřka, buďte opatrní!</item>
+        <item>Venku je mlha. Jezděte opatrně!</item>
+        <item>Ovzduší je znečištěné, nezapoměňte si roušku!</item>
+        <item>Nezapomeňte si deštník</item>
+        <item>Opatrně na cestách</item>
+        <item>Venku padají kroupy!</item>
+        <item>Blíží se píšečná bouře!</item>
+        <item>Přejeme příjemný den!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Mimořádně krátká prodleva (%1$d ms)</item>
+        <item quantity="one">Mimořádně krátká prodleva (%1$d ms)</item>
+        <item quantity="few">Mimořádně krátká prodleva (%1$d ms)</item>
+        <item quantity="many">Mimořádně krátká prodleva (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Dlouhá prodleva (%1$d ms)</item>
+        <item quantity="one">Dlouhá prodleva (%1$d ms)</item>
+        <item quantity="few">Dlouhá prodleva (%1$d ms)</item>
+        <item quantity="many">Dlouhá prodleva (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Krátká prodleva (%1$d ms)</item>
+        <item quantity="one">Krátká prodleva (%1$d ms)</item>
+        <item quantity="few">Krátká prodleva (%1$d ms)</item>
+        <item quantity="many">Krátká prodleva (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Velmi dlouhá prodleva (%1$d ms)</item>
+        <item quantity="one">Velmi dlouhá prodleva (%1$d ms)</item>
+        <item quantity="few">Velmi dlouhá prodleva (%1$d ms)</item>
+        <item quantity="many">Velmi dlouhá prodleva (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Velmi krátká prodleva (%1$d ms)</item>
+        <item quantity="one">Velmi krátká prodleva (%1$d ms)</item>
+        <item quantity="few">Velmi krátká prodleva (%1$d ms)</item>
+        <item quantity="many">Velmi krátká prodleva (%1$d ms)</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d aplikací má povoleno využívat neomezená data, i když je zapnutý Spořič dat</item>
+        <item quantity="one">1 aplikace má povoleno využívat neomezená data, i když je zapnutý Spořič dat</item>
+        <item quantity="few">%1$d aplikace mají povoleno využívat neomezená data, i když je zapnutý Spořič dat</item>
+        <item quantity="many">%1$d aplikace má povoleno využívat neomezená data, i když je zapnutý Spořič dat</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Odstranit vybrané jazyky?</item>
+        <item quantity="one">Odstranit vybraný jazyk?</item>
+        <item quantity="few">Odstranit vybrané jazyky?</item>
+        <item quantity="many">Odstranit vybrané jazyky?</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s hodin</item>
+        <item quantity="one">1 hodina</item>
+        <item quantity="few">%s hodiny</item>
+        <item quantity="many">%s hodiny</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minut</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%s minuty</item>
+        <item quantity="many">%s minuty</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">Odesílání bylo zablokováno u %d aplikací</item>
+        <item quantity="one">Odesílání bylo zablokováno u %d aplikace</item>
+        <item quantity="few">Odesílání bylo zablokováno u %d aplikací</item>
+        <item quantity="many">Odesílání bylo zablokováno u %d aplikace</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d tiskových úloh</item>
+        <item quantity="one">1 tisková úloha</item>
+        <item quantity="few">%d tiskové úlohy</item>
+        <item quantity="many">%d tiskové úlohy</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%s sekundy</item>
+        <item quantity="many">%s sekundy</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="other">Zobrazit %d skrytých položek</item>
+        <item quantity="one">Zobrazit %d skrytou položku</item>
+        <item quantity="few">Zobrazit %d skryté položky</item>
+        <item quantity="many">Zobrazit %d skryté položky</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Označit certifikáty jako důvěryhodné nebo je odstranit</item>
+        <item quantity="one">Označit certifikát jako důvěryhodný nebo jej odstranit</item>
+        <item quantity="few">Označit certifikáty jako důvěryhodné nebo je odstranit</item>
+        <item quantity="many">Označit certifikáty jako důvěryhodné nebo je odstranit</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"Doména %s pro váš pracovní profil nainstalovala certifikační autority, které mohou umožnit monitorování aktivity v pracovní síti, včetně odesílání e-mailů, aplikací a zabezpečených webů.
+
+Další informace o těchto certifikátech vám poskytne administrátor."</item>
+        <item quantity="one">"Doména %s pro váš pracovní profil nainstalovala certifikační autoritu, která může umožnit monitorování aktivity v pracovní síti, včetně odesílání e-mailů, aplikací a zabezpečených webů.
+
+Další informace o tomto certifikátu vám poskytne administrátor."</item>
+        <item quantity="few">"Doména %s pro váš pracovní profil nainstalovala certifikační autority, které mohou umožnit monitorování aktivity v pracovní síti, včetně odesílání e-mailů, aplikací a zabezpečených webů.
+
+Další informace o těchto certifikátech vám poskytne administrátor."</item>
+        <item quantity="many">"Doména %s pro váš pracovní profil nainstalovala certifikační autority, které mohou umožnit monitorování aktivity v pracovní síti, včetně odesílání e-mailů, aplikací a zabezpečených webů.
+
+Další informace o těchto certifikátech vám poskytne administrátor."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"Doména %s do vašeho zařízení nainstalovala certifikační autority, které umožňují sledování aktivity zařízení na síti, včetně e-mailů, aplikací a zabezpečených webů.
+
+Další informace o těchto certifikátech vám poskytne administrátor."</item>
+        <item quantity="one">"Doména %s do vašeho zařízení nainstalovala certifikační autoritu, která umožňuje sledování aktivity zařízení na síti, včetně e-mailů, aplikací a zabezpečených webů.
+
+Další informace o tomto certifikátu vám poskytne administrátor."</item>
+        <item quantity="few">"Doména %s do vašeho zařízení nainstalovala certifikační autority, které umožňují sledování aktivity zařízení na síti, včetně e-mailů, aplikací a zabezpečených webů.
+
+Další informace o těchto certifikátech vám poskytne administrátor."</item>
+        <item quantity="many">"Doména %s do vašeho zařízení nainstalovala certifikační autority, které umožňují sledování aktivity zařízení na síti, včetně e-mailů, aplikací a zabezpečených webů.
+
+Další informace o těchto certifikátech vám poskytne administrátor."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Zkontrolovat certifikáty</item>
+        <item quantity="one">Zkontrolovat certifikát</item>
+        <item quantity="few">Zkontrolovat certifikáty</item>
+        <item quantity="many">Zkontrolovat certifikáty</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d položek</item>
+        <item quantity="one">1 položka</item>
+        <item quantity="few">%d položky</item>
+        <item quantity="many">%d položky</item>
+    </plurals>
+</resources>

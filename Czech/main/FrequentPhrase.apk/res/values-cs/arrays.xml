@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Příjdu za chvíli.</item>
+        <item>OK, budu tam.</item>
+        <item>Děkuji!</item>
+        <item>Kde jsi?</item>
+        <item>Příjdeš?</item>
+        <item>Budeš tam?</item>
+        <item>Příjdu za chvilku.</item>
+    </string-array>
+</resources>

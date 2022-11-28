@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="sign_in_dialog_item">
+        <item>Outlook pro firmy (bez kalendáře)</item>
+        <item>IMAP (bez kalendáře)</item>
+        <item>EXCHANGE (s kalendářem)</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Stránka:</item>
+        <item>Email:</item>
+        <item>Mobil:</item>
+        <item>Telefon:</item>
+        <item>Tel:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Prohlášení:</item>
+        <item>Email Prohlášení</item>
+        <item>Odesláno prostřednictvím WPSMail</item>
+        <item>Odesláno z</item>
+        <item>Odesláno s</item>
+        <item>Díky,</item>
+        <item>S pozdravem</item>
+    </string-array>
+</resources>

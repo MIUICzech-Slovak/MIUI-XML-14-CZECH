@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Pro identifikaci synchronizovaných položek</item>
+        <item>Pro synchronizaci zpráv</item>
+        <item>Pro synchronizaci kontaktů</item>
+        <item>Pro synchronizaci kalendáře</item>
+        <item>Pro synchronizaci položek se službami využívajícími úložiště</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefon</item>
+        <item>Zprávy</item>
+        <item>Kontakty</item>
+        <item>Kalendář</item>
+        <item>Úložiště</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendář a více</item>
+        <item>Zálohujte aplikace, rozložení plochy a tapetu</item>
+        <item>Zálohujte důležitá nastavení, včetně Wi-Fi a displeje</item>
+        <item>Zablokujte své zařízení v případě ztráty nebo krádeže</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendář a další..</item>
+        <item>Zálohujte aplikace, rozložení plochy a tapety</item>
+        <item>Zálohujte důležitá nastavení včetně Wi-Fi</item>
+        <item>Uzamknete vaše zařízení na dálku v případě ztrátyt nebo odcizení</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendář a více..</item>
+        <item>Zálohujte aplikace, rozložení plochy a tapety</item>
+        <item>Zálohujte důležité nastavení včetně Wi-Fi</item>
+        <item>Uzamkněte vaše zařízení na dálku v případě ztráty nebo odcizení</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Synchronizace vašich fotografií, poznámek, nahrávek a další</item>
+        <item>"Zařízení na dálku uzamkněte v případě jeho ztráty"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Synchr. vaše kontakty, SMS, poznámky, kalendář a více..</item>
+        <item>Zálohujte aplikace, rozložení plochy a tapety</item>
+        <item>Zálohujte důležité nastavení včetně Wi-Fi</item>
+        <item>Uzamkněte vaše zařízení na dálku v případě ztráty nebo odcizení</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Synchr. data aplikací</item>
+        <item>Zálohovat rozložení plochy</item>
+        <item>Zálohovat nastavení systému</item>
+        <item>Vyhledat zařízení</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Synchronizace dat aplikace</item>
+        <item>Najít zařízení</item>
+    </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>Pro identifikaci vašeho zařízení</item>
+        <item>Pro získání polohy vašeho zařízení</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>Pro synch. událostí</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pro ukládání souborů do vašeho zařízení</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Pro identifikaci vašeho zařízení</item>
+        <item>Pro získání polohy vašeho zařízení</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Pro synch. událostí</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. zpráv</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pro synch. kontaktů</item>
+        <item>Pri ukládání souborů do vašeho zařízení</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>Přístup k událostem</item>
+        <item>Odeslat SMS</item>
+        <item>Číst MMS</item>
+        <item>Přístup ke kontaktům</item>
+        <item>Upravit kontakty</item>
+        <item>Přístup k souborům v zařízení</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Zálohy</item>
+        <item>Zálohované položky</item>
+        <item>Cloud;Zálohování;Cloudové služby;Xiaomi Cloud;Domovská obrazovka;Rozložení;Aplikace;Správa záloh;Obnovení</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Záloha domovské obrazovky do Xiaomi Cloudu</item>
+        <item>Záloha rozložení domovské obrazovky, seznamu nainstalovaných aplikací a nastavení systému</item>
+        <item>Cloud;Zálohování;Cloudové služby;Xiaomi Cloud;Domovská obrazovka;Rozložení;Aplikace;Nastavení;Četnost zálohování;Správa záloh; Obnovení</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Synchronizace prohlížeče s Xiaomi Cloudem</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Prohlížeč;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Synchronizace kalendáře s Xiaomi Cloudem</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Kalendář;Cloud;Sync;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Synchronizace kontaktů s Xiaomi Cloudem</item>
+        <item>Zapněte/nastavte synchronizaci</item>
+        <item>Kontakty;Historie hovorů;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Synchronizace historie hovorů s Xiaomi Cloudem</item>
+        <item>Zapněte/nastavte synchronizaci</item>
+        <item>Historie hovorů;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Najít zařízení</item>
+        <item>"V případě ztráty vymažte data a zamkněte zařízení"</item>
+        <item>Najít zařízení;Ztraceno;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Najít zařízení</item>
+        <item>"V případě ztráty vymažte data a zamkněte zařízení"</item>
+        <item>Najít zařízení;Ztraceno;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Synchronizace galerie s Xiaomi Cloudem</item>
+        <item>Zapněte/nastavte synchronizaci</item>
+        <item>Galerie;Fotky;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Synchronizace hudby s Xiaomi Cloudem</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Music;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Synchronizace poznámek s Xiaomi Cloudem</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Poznámky;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Synchronizace poznámek s Xiaomi Cloudem</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Poznámky;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Synchronizace Asistenta s Xiaomi Cloudem</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Asistent;Karty;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Synchronizace rychlých odpovědí</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Rychlé odpovědi;Schránka;Editor;Cloud;Synchronizace;Cloudové služby</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Synchronizace nahrávek s Xiaomi Cloudem</item>
+        <item>Zapněte/nastavte synchronizaci</item>
+        <item>Nahrávky;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Odstraněné položky v Xiaomi Cloudu</item>
+        <item>Obnovení kontaktů, fotografií, zpráv a další</item>
+        <item>Koš;Smazané položky;Obnovit;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Odstraněné položky v Xiaomi Cloudu</item>
+        <item>Obnovení fotografií, poznámek a další</item>
+        <item>Koš;Smazané položky;Obnovit;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Obnova položek z Xiaomi Cloudu</item>
+        <item>Stažení zálohovaných položek do vašeho zařízení</item>
+        <item>Cloud;Zálohovat;Obnovit;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Zabezpečená cloudová synchronizace</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Zabezpečení;Cloud;Xiaomi Cloud;Synchronizace;Cloudové služby</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Zabezpečená cloudová synchronizace</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Zabezpečení;Cloud;Xiaomi Cloud;Synchronizace;Cloudové služby</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Synchronizace zpráv s Xiaomi Cloudem</item>
+        <item>Zapněte/nastavte synchronizaci</item>
+        <item>Zprávy;SMS;MMS;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi Cloud členství</item>
+        <item>Aktualizace vašeho členství, získávání více úložného prostoru a zabezpečení dat</item>
+        <item>Nedostatečné úložiště;Členství;Úložiště;Úložný prostor;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud;VIP;Zálohovat;Obnovit;Koš;Odstraněné položky</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi Cloud. Všechny služby Xiaomi na jednom místě.</item>
+        <item>Přistupujte ke svým fotografiím, kontaktům, zprávám a zařízením odkudkoli</item>
+        <item>Nedostatečné úložiště;Členství;Úložiště;Úložný prostor;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud;Koš;Smazané položky;Zabezpečení</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Xiaomi Cloud. Všechny služby Xiaomi na jednom místě.</item>
+        <item>Přistupujte ke svým fotografiím, poznámkám a zařízením odkudkoli</item>
+        <item>Nedostatečné úložiště;Členství;Úložiště;Úložný prostor;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud;Koš;Smazané položky;Zabezpečení</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Synchronizace nastavení Wi-Fi s Xiaomi Cloudem</item>
+        <item>Zapněte synchronizaci</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Synchronizace;Cloudové služby;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Synchr. Wi-Fi nastavení s Xiaomi Cloudem</item>
+        <item>Povolit synchr.</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="user_detail_fixed_items">
+        <item>Zobrazit synchr. položky</item>
+        <item>Podrobnosti o úložišti</item>
+    </string-array>
+</resources>

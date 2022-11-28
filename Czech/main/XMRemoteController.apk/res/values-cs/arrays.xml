@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Chlazení</item>
+        <item>Topení</item>
+        <item>Odvlhčování</item>
+        <item>Ventilátor</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Vaše zařízení je pomocí Wi-Fi možné spárovat pouze s Xiaomi TV, Xiaomi Box a několika dalšími Android zařízeními.</item>
+        <item>Ujistěte se, že jste vybrali správný model klimatizace v procesu párování. Postupujte podle pokynů na vašem zařízení, dokud nebude párování dokončeno.</item>
+        <item>Bohužel ne. Momentálně lze jako infračervený ovladač použít pouze Xiaomi 4, Xiaomi 4c a Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Ne</item>
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+    </string-array>
+    <string-array name="question">
+        <item>Proč můj telefon pokračuje v hledání bezdrátových zařízení?</item>
+        <item>Proč mohu klimatizaci jen zapnout, ale již ji nelze vypnout?</item>
+        <item>Mohu používat Xiaomi 3, Xiaomi 2 a Redmi jako infračervený ovladač?</item>
+    </string-array>
+</resources>

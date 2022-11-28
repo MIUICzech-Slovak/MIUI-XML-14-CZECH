@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Nesprávný PIN, zbývá: %d pokusy</item>
+        <item quantity="one">Nesprávný PIN, zbývá: %d pokus</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Nesprávný PUK, zbývá: %d pokusy</item>
+        <item quantity="one">Nesprávný PUK, zbývá: %d pokus</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">Okolo %dh do nabití​</item>
+        <item quantity="one">Okolo %dh do nabití​</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">Okolo %dmin do nabití​</item>
+        <item quantity="one">Okolo %dmin do nabití​​</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">Okolo %1$dh %2$dmin do nabití</item>
+        <item quantity="one">Okolo %1$dh %2$dmin do nabití</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Zbývá okolo %dh</item>
+        <item quantity="one">Zbývá okolo %dh</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Zbývá okolo %dmin</item>
+        <item quantity="one">Zbývá okolo %dmin</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Zbývá okolo %1$dh %2$dmin</item>
+        <item quantity="one">Zbývá okolo %1$dh %2$dmin</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">%dmin</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$dh %2$dmin</item>
+        <item quantity="one">%1$dh %2$dmin</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">Nové upozornění: %d</item>
+        <item quantity="one">Nové upozornění: %d</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Zkuste znovu za %dmin</item>
+        <item quantity="one">Zkuste znovu za %dmin</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Zkuste znovu za %ds</item>
+        <item quantity="one">Zkuste znovu za %ds</item>
+    </plurals>
+</resources>

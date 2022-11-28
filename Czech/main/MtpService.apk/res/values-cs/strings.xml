@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessing_notification_title">Přístup k souborům z %1$s</string>
+    <string name="app_label">MTP Host</string>
+    <string name="downloads_app_label">Staženo</string>
+    <string name="error_busy_device">Druhé zařízení je zaneprázdněno. Soubory nemí možné přenést, dokud nebude k dispozici.</string>
+    <string name="error_locked_device">Nenašli se žádné soubory. Druhé zařízení může být zamknuto. Pokud ano, odemkněte jej a zkuste to znova.</string>
+    <string name="search_menu_title">Hledat</string>
+</resources>

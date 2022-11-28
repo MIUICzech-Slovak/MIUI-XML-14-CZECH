@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="allow">Povolit</string>
+    <string name="app_label">Uložiště médií</string>
+    <string name="artist_label">Umělec</string>
+    <string name="cache_clearing_dialog_text">%s by chtěl vymazat některé dočasné soubory. Může to mít za následek zvýšené využití baterie nebo mobilních dat.</string>
+    <string name="cache_clearing_dialog_title">Vymazat dočasné soubory aplikace</string>
+    <string name="cache_clearing_in_progress_title">Vymazávají se dočasné soubory aplikace…</string>
+    <string name="clear">Vymazat</string>
+    <string name="deny">Odmítnout</string>
+    <string name="grant_dialog_button_allow">Povolit</string>
+    <string name="grant_dialog_button_deny">Odmítnout</string>
+    <string name="permission_required">Na úpravu nebo odstranění této položky se vyžadují povolení.</string>
+    <string name="permission_required_action">Pokračovat</string>
+    <string name="root_audio">Zvuk</string>
+    <string name="root_documents">Dokumenty</string>
+    <string name="root_images">Obrázky</string>
+    <string name="root_videos">Videa</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_description">Místní úložiště</string>
+    <string name="transcode_cancel">Zrušit</string>
+    <string name="transcode_denied">"%s nemůže zpracovat mediální soubory"</string>
+    <string name="transcode_processing">Probíhá zpracování média…</string>
+    <string name="transcode_processing_cancelled">Zpracování médií bylo zrušeno</string>
+    <string name="transcode_processing_error">Chyba zpracování média</string>
+    <string name="transcode_processing_started">Zpracování médií začalo</string>
+    <string name="transcode_processing_success">Úspěšné zpracování médií</string>
+    <string name="transcode_wait">Počkejte</string>
+    <string name="uid_label">Média</string>
+    <string name="unknown">Neznámé</string>
+</resources>

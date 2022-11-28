@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Zkuste znova</item>
+        <item></item>
+        <item></item>
+        <item>Překrýjte prstem celý senzor otisku prstu a přitlačte</item>
+        <item></item>
+        <item>Překrýjte prstem celý senzor otisku prstu a přitlačte</item>
+        <item>Vyčistěte senzor otisku prstu a zkuste to znova</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Překrýjte prstem celý senzor otisku prstu a přitlačte</item>
+        <item>Překrýjte prstem celý senzor otisku prstu a přitlačte</item>
+        <item>Příliš rychle! Nebylo možné rozpoznat otisk</item>
+        <item>Kousek posuňte prst a zkuste to znova</item>
+        <item>Zvedněte prst a přiložte ho znova na senzor</item>
+        <item>Podržte prst na senzoru o trochu déleji</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Jemně posuňte prsten</item>
+        <item>Tento otisk prstu byl přidán, použijte jiný prst</item>
+    </string-array>
+    <string-array name="organized_languages_international">
+        <item>en_GB</item>
+        <item>en_US</item>
+        <item>sk_SK</item>
+        <item>cs_CZ</item>
+        <item>pl_PL</item>
+        <item>in_ID</item>
+        <item>ms_MY</item>
+        <item>de_DE</item>
+        <item>en_IN</item>
+        <item>es_ES</item>
+        <item>es_US</item>
+        <item>fr_FR</item>
+        <item>it_IT</item>
+        <item>lt_LT</item>
+        <item>hu_HU</item>
+        <item>pt_BR</item>
+        <item>ro_RO</item>
+        <item>vi_VN</item>
+        <item>tr_TR</item>
+        <item>mk_MK</item>
+        <item>ru_RU</item>
+        <item>uk_UA</item>
+        <item>hi_IN</item>
+        <item>mr_IN</item>
+        <item>bn_IN</item>
+        <item>gu_IN</item>
+        <item>pa_IN</item>
+        <item>as_IN</item>
+        <item>ta_IN</item>
+        <item>te_IN</item>
+        <item>kn_IN</item>
+        <item>ml_IN</item>
+        <item>th_TH</item>
+        <item>my_MM</item>
+        <item>ar_EG</item>
+        <item>fa_IR</item>
+        <item>iw_IL</item>
+        <item>ko_KR</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+</resources>

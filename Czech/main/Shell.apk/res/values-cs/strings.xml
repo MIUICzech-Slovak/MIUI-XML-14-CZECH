@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_label">"Prostředí"</string>
+    <string name="bugreport_add_details_to_zip_failed">Do souboru zip se nepodařilo přidat podrobnosti hlášení o chybě</string>
+    <string name="bugreport_confirm">Zprávy o chybách obsahují údaje z různých souborů deníků systému včetně osobních a soukromých informací. Sdílejte je pouze s důvěryhodnými aplikacemi a lidmi.</string>
+    <string name="bugreport_confirm_dont_repeat">Už nezobrazovat</string>
+    <string name="bugreport_confirm_repeat">Zobrazit tuto zprávu i příště</string>
+    <string name="bugreport_finished_pending_screenshot_text">Klepnutím sdílejte svoje hlášení o chybě bez snímku obrazovky nebo počkejte na dokončení snímku obrazovky</string>
+    <string name="bugreport_finished_text">Dotykem můžete sdílet zprávu o chybách</string>
+    <string name="bugreport_finished_title">Zpráva o chybách byla zaznamenána</string>
+    <string name="bugreport_in_progress_title">Vytváření hlášení chyby #%d</string>
+    <string name="bugreport_info_action">Podrobnosti</string>
+    <string name="bugreport_info_description">Souhrn chyb</string>
+    <string name="bugreport_info_dialog_title">Hlášení o chybě #%d podrobnosti</string>
+    <string name="bugreport_info_name">Název souboru</string>
+    <string name="bugreport_info_title">Název chyby</string>
+    <string name="bugreport_intent_chooser_title">Sdílet zprávu o chybě</string>
+    <string name="bugreport_notification_channel">Hlášení chyb</string>
+    <string name="bugreport_screenshot_action">Snímek obrazovky</string>
+    <string name="bugreport_screenshot_failed">Nepodařilo se vytvořit snímek obrazovky.</string>
+    <string name="bugreport_screenshot_taken">Snímek obrazovky byl úspešně vytvořen.</string>
+    <string name="bugreport_storage_title">Hlášení chyb</string>
+    <string name="bugreport_unnamed">Bez názvu</string>
+    <string name="bugreport_unreadable_text">Soubor hlášení chyby se nepodařilo přečíst</string>
+    <string name="bugreport_updating_title">Přidání podrobností do hlášení chyby</string>
+    <string name="bugreport_updating_wait">Čekejte, prosím...</string>
+    <string name="save">Uložiť</string>
+</resources>

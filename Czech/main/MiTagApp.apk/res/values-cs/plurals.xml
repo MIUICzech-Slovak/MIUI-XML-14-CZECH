@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="history_description">
+        <item quantity="other">záznamů</item>
+        <item quantity="one">záznam</item>
+    </plurals>
+    <plurals name="play_description">
+        <item quantity="other">úloh</item>
+        <item quantity="one">úloha</item>
+    </plurals>
+    <plurals name="select_n_item">
+        <item quantity="other">Vybráno: %d</item>
+        <item quantity="zero">Zvolte položky</item>
+        <item quantity="one">Vybráno: %d</item>
+    </plurals>
+    <plurals name="tags_description">
+        <item quantity="other">aplikací</item>
+        <item quantity="one">aplikace</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<strings>
+    <string name="date_time" value="EE d. MMMM"/>
+    <string name="desc_date_format" value="EE d. MMMM"/>
+    <string name="desc_time" value="'čas' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', dotkněte se 2x pro zobrazení hodin'"/>
+    <string name="language" value="cs"/>
+</strings>

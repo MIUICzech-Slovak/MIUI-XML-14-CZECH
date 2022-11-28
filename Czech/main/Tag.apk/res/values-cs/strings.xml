@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="action_call">Volat kontakt %s</string>
+    <string name="action_text">Poslat zprávu kontaktu %s</string>
+    <string name="app_name">Značky</string>
+    <string name="button_done">Hotovo</string>
+    <string name="empty_tag_prompt">Tato značka je prázdná.</string>
+    <string name="import_vcard">Importovat kontakt ^1</string>
+    <string name="mime_display_name">Údaje ze značky NFC</string>
+    <string name="tag_empty">Prázdná značka</string>
+    <string name="tag_unknown">Neznámý typ značky</string>
+    <string name="title_existing_tag">Značka</string>
+    <string name="title_scanned_tag">Byla přidána nová značka</string>
+    <string name="vcard_title">Kontaktní informace pro ^1</string>
+</resources>

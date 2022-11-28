@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="btn_cancel_msg">Zrušit</string>
+    <string name="btn_ok_msg">Připomenout znovu</string>
+    <string name="msg_battery_low_temperature">Teplota vaší baterie je příliš nízká, odpojte nabíječku!</string>
+    <string name="msg_battery_over_temperature">Baterie má nadměrnou teplotu, vyjměte baterii!</string>
+    <string name="msg_battery_over_voltage">Na baterii je přepětí, vyjměte baterii!</string>
+    <string name="msg_charger_over_voltage">Na nabíječce je přepětí, odpojte nabíječku!</string>
+    <string name="msg_over_current_protection">Baterie má ochranu proti nadproudu, vyjměte baterii!</string>
+    <string name="msg_safety_timer_timeout">Příliš dlouhá doba nabíjení, odpojte nabíječku!</string>
+    <string name="title_battery_low_temperature">Nízká teplota baterie</string>
+    <string name="title_battery_over_temperature">Nadměrná teplota baterie</string>
+    <string name="title_battery_over_voltage">Přepětí baterie</string>
+    <string name="title_charger_over_voltage">Přepětí nabíječky</string>
+    <string name="title_over_current_protection">Ochrana proti nadproudu</string>
+    <string name="title_safety_timer_timeout">Čas přebíjení</string>
+</resources>
