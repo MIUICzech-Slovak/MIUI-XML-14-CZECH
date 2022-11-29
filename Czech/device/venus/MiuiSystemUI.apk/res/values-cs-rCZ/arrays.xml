@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
     <string-array name="animator_duration_scale_entries">
         <item>Animace je vypnuta</item>
@@ -18,10 +17,16 @@
         <item>Maximálně 3 procesy</item>
         <item>Maximálně 4 procesy</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_labels">
         <item>0 %</item>
         <item>50 %</item>
         <item>100 %</item>
+    </string-array>
+    <string-array name="battery_options">
+        <item>Vždy zobrazovat procento</item>
+        <item>Zobrazovat procento při nabíjení (výchozí nastavení)</item>
+        <item>Tuto ikonu nezobrazovat</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Použít systémový výběr (výchozí)</item>
@@ -119,6 +124,11 @@
         <item>Vypnuto</item>
         <item>Povolit filtrované</item>
         <item>Zapnuto</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Zobrazovat hodiny, minuty a sekundy</item>
+        <item>Zobrazovat hodiny a minuty (výchozí nastavení)</item>
+        <item>Tuto ikonu nezobrazovat</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Vylepšené barvy</item>
@@ -218,128 +228,143 @@
     </string-array>
     <string-array name="tile_states_airplane">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_alarm">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_battery">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_bt">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_cameratoggle">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_cast">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_cell">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Nedostupné</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_controls">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_dark">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_dnd">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_flashlight">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_hotspot">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_internet">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_inversion">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_location">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_mictoggle">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_night">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Nedostupné</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Nedostupné</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_reduce_brightness">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_reverse">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_rotation">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_saver">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_screenrecord">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_wallet">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_wifi">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="tile_states_work">
         <item>Nedostupné</item>
-        <item>Vyp</item>
-        <item>Zap</item>
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Vypnuto</item>
@@ -366,6 +391,12 @@
         <item>Ultra rychlá</item>
         <item>Nejrychlejší</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Přesunout doleva</item>
+        <item>Přesunout dolů</item>
+        <item>Přesunout doprava</item>
+        <item>Přesunout nahoru</item>
+    </string-array>
     <string-array name="usb_configuration_titles">
         <item>Nabíjení</item>
         <item>MTP (Media Transfer Protocol)</item>
@@ -373,6 +404,34 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Zdroj zvuku</item>
         <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Vyhledávání...</item>
+        <item>Připojování...</item>
+        <item>Ověřování...</item>
+        <item>Načítání IP adresy…</item>
+        <item>Připojeno</item>
+        <item>Pozastaveno</item>
+        <item>Odpojování...</item>
+        <item>Odpojeno</item>
+        <item>Neúspěšné</item>
+        <item>Blokováno</item>
+        <item>Dočasné předcházení slabému připojení</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Vyhledávání...</item>
+        <item>Připojování k síti %1$s...</item>
+        <item>Ověřování v síti %1$s...</item>
+        <item>Získávání IP adresy ze sítě %1$s...</item>
+        <item>Připojeno k síti %1$s</item>
+        <item>Pozastaveno</item>
+        <item>Odpojování od sítě %1$s...</item>
+        <item>Odpojeno</item>
+        <item>Neúspěšné</item>
+        <item>Blokováno</item>
+        <item>Dočasné předcházení slabému připojení</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
