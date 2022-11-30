@@ -1146,7 +1146,6 @@ Další informace vám poskytne váš administrátor IT."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Vaše osobní aplikace jsou připojeny k internetu prostřednictvím aplikace %1$s. Vaší síťovou aktivitu (jako jsou e-maily a údaje o prohlížení) vidí poskytovatel VPN.</string>
     <string name="monitoring_description_two_named_vpns">Toto zařízení je připojeno k internetu prostřednictvím aplikací %1$s a %2$s. Vaší síťovou aktivitu (jako jsou e-maily a údaje o prohlížení) vidí administrátor IT.</string>
     <string name="monitoring_description_vpn_settings">Otevřít nastavení VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s má přístup k datům spojeným s tímto zařízením, může měnit jeho nastavení a spravovat aplikace.
 
 Pokud máte nějaké otázky, obraťte se na organizaci %2$s."</string>
@@ -1186,7 +1185,6 @@ Pokud máte nějaké otázky, obraťte se na organizaci %2$s."</string>
     <string name="mtrl_picker_a11y_next_month">Přejít na další měsíc</string>
     <string name="mtrl_picker_a11y_prev_month">Přejít na předchozí měsíc</string>
     <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte datum</string>
     <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
@@ -1337,7 +1335,6 @@ Pokud máte nějaké otázky, obraťte se na organizaci %2$s."</string>
     <string name="pip_skip_to_prev">Přeskočit na předchozí</string>
     <string name="pointer_location">Umístění ukazatele</string>
     <string name="pointer_location_summary">Překryvná vrstva zobrazuje aktuální data o dotycích</string>
-    <string name="power_charging">%1$s – %2$s</string>
     <string name="power_charging_duration">%1$s – %2$s do úplného nabití</string>
     <string name="power_charging_limited">%1$s – nabíjení je dočasně omezeno</string>
     <string name="power_discharge_by">Vydrží asi do %1$s (%2$s)</string>
@@ -1400,7 +1397,6 @@ Pokud máte nějaké otázky, obraťte se na organizaci %2$s."</string>
     <string name="private_dns_mode_provider">Název hostitele poskytovatele soukromého DNS</string>
     <string name="private_dns_mode_provider_failure">Nelze se připojit</string>
     <string name="private_dns_mode_provider_hostname_hint">Zadejte hostitele poskytovatele DNS</string>
-    <string name="process_kernel_label">OS Android</string>
     <string name="profile_connect_timeout_subtext">Problém s připojením. Vypněte zařízení a znovu jej zapněte</string>
     <string name="profile_info_settings_title">Informace o profilu</string>
     <string name="qr_code_scanner_title">Naskenovat QR kód</string>

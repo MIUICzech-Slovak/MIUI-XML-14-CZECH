@@ -2954,7 +2954,6 @@ Svoji volbu můžete později změnit v nabídce Nastavení > Aplikace."</strin
     <string name="lift_to_wake_title">Probudit zvednutím zařízení</string>
     <string name="limited_warranty_introduction">Klepnutím na zemi, ve které jste toto zařízení zakoupili, zobrazíte záruku. Záruka je také k dispozici na adrese g.co/devicewarranty</string>
     <string name="limited_warranty_title">Omezená záruka</string>
-    <string name="link_speed">%1$d Mb/s</string>
     <string name="live_caption_summary">Automatické přepisy médií</string>
     <string name="live_caption_title">Živý přepis</string>
     <string name="load_networks_progress">Vyhledávání…</string>
@@ -3387,7 +3386,6 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="memory_summary">Přibližné využití paměti: %1$s z %2$s</string>
     <string name="memory_usage">Využití paměti</string>
     <string name="memory_usage_apps">Paměť používaná aplikacemi</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">Za poslední 3 hodiny bylo v průměru využito %1$s paměti.</string>
     <string name="menu_cancel">Zrušit</string>
     <string name="menu_delete">Smazat přístupový bod</string>
@@ -3509,7 +3507,6 @@ Přepnutím na operátora %1$s nezrušíte službu %2$s."</string>
     <string name="mtrl_picker_a11y_next_month">Přejít na další měsíc</string>
     <string name="mtrl_picker_a11y_prev_month">Přejít na předchozí měsíc</string>
     <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Vyberte datum</string>
     <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
@@ -3603,7 +3600,6 @@ Přepnutím na operátora %1$s nezrušíte službu %2$s."</string>
     <string name="nfc_main_switch_title">Používat NFC</string>
     <string name="nfc_more_details">Další informace</string>
     <string name="nfc_more_title">Více…</string>
-    <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Výchozí nastavení</string>
     <string name="nfc_payment_btn_text_update">Aktualizovat</string>
     <string name="nfc_payment_default">Výchozí platební aplikace</string>
@@ -3894,7 +3890,6 @@ Tímto také aplikaci umožníte zapínat nebo vypínat režim Nerušit a měni
     <string name="overlay_settings_title">Povolit překryvné vrstvy obrazovek v Nastavení</string>
     <string name="overlay_toast_failed_to_apply">Překrytí se nepodařilo použít</string>
     <string name="owner_info_settings_edit_text_hint">Např. Tomův Pixel.</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">Bez textu</string>
     <string name="owner_info_settings_title">Přidat text na obrazovku uzamčení</string>
     <string name="packages_subtitle">Zahrnuté balíčky</string>
@@ -3949,7 +3944,6 @@ Tímto také aplikaci umožníte zapínat nebo vypínat režim Nerušit a měni
     <string name="power_camera">Fotoaparát</string>
     <string name="power_cell">Mobilní síť</string>
     <string name="power_charge_remaining">%1$s do nabití</string>
-    <string name="power_charging">%1$s – %2$s</string>
     <string name="power_charging_duration">%1$s – %2$s do úplného nabití</string>
     <string name="power_charging_limited">%1$s – nabíjení je dočasně omezeno</string>
     <string name="power_discharge_by">Vydrží asi do %1$s (%2$s)</string>
@@ -3987,7 +3981,6 @@ Stiskněte současně vypínač a tlačítko zvýšení hlasitosti."</string>
     <string name="power_remaining_less_than_duration_only">Zbývá méně než %1$s</string>
     <string name="power_remaining_more_than_subtext">Zbývá více než %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Zbývá více než %1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
     <string name="power_screen">Displej</string>
     <string name="power_suggestion_battery_run_out">Baterie se může vybít kolem %1$s</string>
     <string name="power_unaccounted">Různé</string>
@@ -4113,8 +4106,6 @@ Stiskněte současně vypínač a tlačítko zvýšení hlasitosti."</string>
     <string name="privileged_action_disable_sub_dialog_title">Vypnout operátora %1$s?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Vypnout SIM kartu?</string>
     <string name="process_dex2oat_label">Optimalizace aplikací</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">OS Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_network_tethering">Sdílení datového připojení</string>
     <string name="process_provider_in_use_description">Poskytovatel %1$s se používá.</string>
@@ -4941,7 +4932,6 @@ Zřejmě jste zadali nesprávný kód PIN."</string>
     <string name="sim_select_card">Vyberte SIM kartu</string>
     <string name="sim_selection_channel_title">Výběr SIM karty</string>
     <string name="sim_selection_required_pref">Vyžadován výběr</string>
-    <string name="sim_settings_summary">%1$s – %2$s</string>
     <string name="sim_settings_title">SIM karty</string>
     <string name="sim_setup_channel_id">Aktivace sítě</string>
     <string name="sim_setup_wizard_title">SIM karty</string>
@@ -5045,7 +5035,6 @@ Další informace o těchto certifikátech vám sdělí váš administrátor.}}
 Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem zařízení."</string>
     <string name="standby_bucket_summary">"Stav pohotovostního režimu aplikace:  %s"</string>
     <string name="status_awake_time">Doba provozu</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">Adresa Bluetooth</string>
     <string name="status_data_network_type">Typ mobilní datové sítě</string>
     <string name="status_data_state">Stav mobilní sítě</string>
@@ -5280,7 +5269,6 @@ Zkuste použít rychlejší médium ^3 nebo toto médium ^4 použijte jako přen
     <string name="sum_carrier_select">Vybrat síťového operátora</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s – %2$s</string>
     <string name="summary_range_verbal_combination">%1$s až %2$s</string>
     <string name="support_summary">Články nápovědy, telefon a chat</string>
     <string name="suw_warranty_description">Klepnutím na zemi, ve které jste toto zařízení zakoupili, zobrazíte záruku.&lt;br />&lt;br />Záruka je také k dispozici v sekci &lt;b>Nastavení > %s > Omezená záruka&lt;/b> a na adrese g.co/devicewarranty.</string>
@@ -6662,10 +6650,8 @@ Když režim Nerušit vypnete, zmeškaná oznámení zobrazíte přejetím prste
     <string name="zen_suggestion_title">Aktualizujte režim Nerušit</string>
     <string name="zone_auto_title">Nastavit časové pásmo automaticky</string>
     <string name="zone_change_to_from_dst">%1$s začíná %2$s.</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">Používá %1$s. %2$s začíná %3$s.</string>
     <string name="zone_info_footer_no_dst">Používá %1$s. Nepoužívá letní čas.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">Vybrat podle posunu od UTC</string>
     <string name="zone_menu_by_region">Vybrat podle oblasti</string>
     <string name="zone_time_type_dst">Letní čas</string>
