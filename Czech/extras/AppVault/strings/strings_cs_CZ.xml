@@ -97,4 +97,6 @@
     <string name="widget_weather_realtime_desc">Zobrazit aktuální informace o počasí</string>
     <string name="widget_weather_today">Počasí</string>
     <string name="widget_weather_today_desc">Zobrazit podrobné informace o počasí</string>
+	<string name="search_filter_color_all">Všechny barvy</string>
+    <string name="search_filter_size_all">Všechny kategorie</string>
 </resources>
