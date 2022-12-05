@@ -235,4 +235,24 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
     <string name="email_filter_rule_07">Zahrnující předmět</string>
     <string name="email_filter_rule_08">Vylučující předmět</string>
     <string name="email_filter_rule_tips">E-maily splňující pravidlo budou automaticky přesunuty do vybrané složky</string>
+	<string name="general_preference_confirm_delete_label">Před smazáním potvrdit</string>
+      <string name="general_preference_confirm_send_label">Před odesláním potvrdit</string>
+      <string name="general_preference_delete_message_prompt_title">Před smazáním se zeptat</string>
+      <string name="general_preference_email_slide_switch_title">Přejetím doleva/doprava zobrazit předchozí/následující e-mail</string>
+      <string name="general_preference_load_picture">Načíst online obrázky</string>
+      <string name="general_preference_str_auto_translation">Rychlý překlad</string>
+      <string name="general_preference_str_auto_translation_prompt">Pro zobrazení překladu zkopírujte text</string>
+      <string name="general_preference_text_zoom_dialog_title">Velikost textu zprávy</string>
+      <string name="general_preference_text_zoom_huge">Obří</string>
+      <string name="general_preference_text_zoom_label">Velikost textu zprávy</string>
+      <string name="general_preference_text_zoom_large">Velký</string>
+      <string name="general_preference_text_zoom_normal">Normální</string>
+      <string name="general_preference_text_zoom_small">Malý</string>
+      <string name="general_preference_text_zoom_tiny">Drobný</string>
+      <string name="generic_attachment_problem">"Nelze připojit soubor."</string>
+      <string name="restart_detail_conversation_options1">1 min.</string>
+      <string name="restart_detail_conversation_options2">5 min.</string>
+      <string name="restart_detail_conversation_options3">15 min.</string>
+      <string name="restart_detail_conversation_options4">30 min.</string>
+      <string name="restart_detail_conversation_title">Restartování na pozadí</string>
 </resources>
