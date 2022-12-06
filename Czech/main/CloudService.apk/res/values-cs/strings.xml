@@ -1158,4 +1158,11 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
      <string name="gallery_service_termination_more_info">Další podrobnosti naleznete v části \"%s\"</string>
      <string name="menu_migrate_to_google_photos">Přenos dat do Fotek Google</string>
      <string name="start_transfer_gallery_data">Přenést data</string>
+	<string name="find_permission_location_summary">Pro určení polohy tohoto zařízení</string>
+      <string name="find_permission_location_title">Přístup k poloze</string>
+      <string name="find_permission_phone_summary">"Pro přístup k telefonnímu číslu za účelem nalezení tohoto zařízení, když není připojeno k internetu"</string>
+      <string name="find_permission_phone_title">Přístup k informacím o zařízení</string>
+      <string name="find_permission_sms_summary">"Pro lokalizaci tohoto zařízení, když není připojeno k internetu"</string>
+      <string name="find_permission_sms_title">Odeslat SMS</string>
+      <string name="permission_management">Podrobnosti oprávnění</string>
 </resources>
