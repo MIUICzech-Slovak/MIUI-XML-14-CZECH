@@ -1,5 +1,4 @@
-
-[![MIUI14 logo](https://i.imgur.com/6NG8sOz.jpg)](https://xiaomi.eu/)
+[![MIUI14 logo](https://i.imgur.com/idmH8Nu.png)](https://xiaomi.eu/)
 
 MIUI-v14 translation for all supported devices. MIUI Translation: **VMach3** **ingbrzy**
 
