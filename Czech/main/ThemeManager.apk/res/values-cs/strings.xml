@@ -1371,4 +1371,24 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
 	<string name="use_now">Přidat</string>
 	<string name="component_title_widget_suit">Widgety</string>
      <string name="search_view_description_clear">Vymazat vyhledávání</string>
+	 <string name="has_mamual_hide_large_icons">Super ikona byla úspěšně skryta</string>
+      <string name="hide_mamual_hide_large_icons">Nezobrazovat skryté Super ikony</string>
+      <string name="large_icon_apply_fail_for_in_dock">V doku aplikací nelze použít Super ikony pro aplikace</string>
+      <string name="large_icon_apply_fail_for_in_folder">Nelze použít Super ikony pro aplikace ve složkách</string>
+      <string name="large_icon_apply_fail_for_in_oldmode">Super ikony nejsou podporovány ve zjednodušeném režimu</string>
+      <string name="large_icon_apply_fail_for_not_in_launcher">"Super ikony nelze použít pro aplikace, které nejsou na ploše</string>
+      <string name="large_icon_detail_title">%s Super ikony</string>
+      <string name="large_icon_no_more">Zatím zde nic není</string>
+      <string name="large_icon_no_network">Nepodařilo se připojit k síti</string>
+      <string name="large_icon_not_support">Nelze nastavit ikony pro %s</string>
+      <string name="large_icon_official">Oficiální</string>
+      <string name="large_icon_picker_haven">Dostupné ikony</string>
+      <string name="large_icon_picker_more">Více</string>
+      <string name="large_icon_picker_size">Velikost ikony</string>
+      <string name="large_icon_to_find_more">Zobrazit více</string>
+      <string name="large_icon_warning_install">Instalovat</string>
+      <string name="large_icon_warning_not_install">Nainstalujte %s</string>
+      <string name="large_icon_warning_not_install_msg">Nainstalujte %s, abyste mohli používat Super ikonu. Instalovat nyní?</string>
+      <string name="show_mamual_hide_large_icons">Zobrazit skryté Super ikony</string>
+      <string name="theme_component_title_large_icon">Super ikony</string>
 </resources>

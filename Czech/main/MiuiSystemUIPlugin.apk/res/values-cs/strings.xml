@@ -393,4 +393,10 @@
      <string name="controls_not_found_device_toast_mihome">Tato položka byla z aplikace odstraněna</string>
      <string name="controls_offline_device_toast">Toto zařízení je offline. Stisknutím a podržením otevřete aplikaci.</string>
      <string name="controls_unsupport_toggle_toast">Toto zařízení se odsud nedá ovládat. Stisknutím a podržením otevřete aplikaci.</string>
+	 <string name="airplane">Letadlo</string>
+     <string name="bootloader">Fastboot</string>
+     <string name="recovery">TWRP</string>
+     <string name="silent">Tichý režim</string>
+     <string name="slider_view_content_left_description">Potáhněte nahoru pro režim Fastboot nebo dolů pro TWRP</string>
+     <string name="slider_view_content_right_description">Potáhněte nahoru pro režim Letadlo nebo dolů pro Tichý režim</string>
 </resources>
