@@ -1232,4 +1232,6 @@ pro zobrazení widgetů."</string>
 	<string name="pa_open_personal_assistant_dialog_desc">"Pokud vypnete Asistenta, nebudete moci používat jeho funkce potažením doprava na ploše. Přesto vypnout?"</string>
       <string name="pa_open_personal_assistant_dialog_title">Vypnout Asistenta?</string>
       <string name="pa_setting_simplify_title_bar">Asistent</string>
+	<string name="search_filter_color_all">Všechny barvy</string>
+    <string name="search_filter_size_all">Všechny kategorie</string>
 </resources>
