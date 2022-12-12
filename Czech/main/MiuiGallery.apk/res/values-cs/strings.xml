@@ -2925,9 +2925,9 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
       <string name="update_GP_app_title">Aktualizujte Fotky Google</string>
       <string name="update_email_address_dialog_message">Před aktualizací e-mailu na obnovení musíte ověřit svou identitu.</string>
       <string name="update_email_address_dialog_title">Aktualizovat e-mail pro obnovení</string>
-      <string name="user_agreement_hint_3rd_app"><Data>"Přečetl jsem si &lt;a href=%1$s>Smlouvu s uživatelem&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/ a souhlasím s nimi a> a &lt;a href=%3$s>Uživatelská smlouva&lt;/a> a &lt;a href=%4$s>Zásady ochrany osobních údajů&lt;/a> Mi účtu."</Data>< /string>
+      <string name="user_agreement_hint_3rd_app"><Data>"Přečetl jsem si &lt;a href=%1$s>Smlouvu s uživatelem&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/ a souhlasím s nimi a> a &lt;a href=%3$s>Uživatelská smlouva&lt;/a> a &lt;a href=%4$s>Zásady ochrany osobních údajů&lt;/a> Mi účtu."</Data></string>
       <string name="user_agreement_hint_default"><Data>"Přečetl jsem si &lt;a href=%1$s>Uživatelskou smlouvu&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů a souhlasím s nimi &lt;/a>."</Data></string>
-      <string name="user_agreement_hint_default_1"><Data>Přečtěte si &lt;a href=%1$s>Smlouvu s uživatelem&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů a souhlasíte s nimi.&lt;/a > </Data></string>
+      <string name="user_agreement_hint_default_1"><Data>Přečtěte si &lt;a href=%1$s>Smlouvu s uživatelem&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů a souhlasíte s nimi.&lt;/a> </Data></string>
       <string name="user_agreement_hint_default_extra"><Data>"Přečetl jsem si &lt;a href=%1$s>Smlouvu s uživatelem&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů a souhlasím s nimi. &lt;/a> První přihlášení automaticky vytvoří účet Xiaomi"</Data></string>
       <string name="user_agreement_hint_first_login">Pokud používáte své telefonní číslo poprvé, účet vám vytvoříme automaticky.</string>
       <string name="user_avatar_update_title">Změnit profilovou fotku</string>
