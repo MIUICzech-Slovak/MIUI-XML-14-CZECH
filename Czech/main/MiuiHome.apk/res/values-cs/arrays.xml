@@ -105,4 +105,11 @@
         <item>Prach</item>
         <item>Mlha</item>
     </string-array>
+	<string-array name="monochrome_color_entries">
+        <item>Výchozí</item>
+        <item>Modrá</item>
+        <item>Zelené</item>
+        <item>Fialová</item>
+        <item>Hnědá</item>
+     </string-array>
 </resources>

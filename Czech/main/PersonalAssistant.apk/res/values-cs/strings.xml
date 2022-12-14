@@ -1230,8 +1230,9 @@ pro zobrazení widgetů."</string>
 	<string name="pa_picker_search_card_filter_button_text">Všechny widgety</string>
     <string name="pa_setting_perm_empty">Zatím prázdno</string>
 	<string name="pa_open_personal_assistant_dialog_desc">"Pokud vypnete Asistenta, nebudete moci používat jeho funkce potažením doprava na ploše. Přesto vypnout?"</string>
-      <string name="pa_open_personal_assistant_dialog_title">Vypnout Asistenta?</string>
-      <string name="pa_setting_simplify_title_bar">Asistent</string>
+	<string name="pa_open_personal_assistant_dialog_title">Vypnout Asistenta?</string>
+	<string name="pa_setting_simplify_title_bar">Asistent</string>
+	<string name="search_filter_category_all">Všechny kategorie</string>
 	<string name="search_filter_color_all">Všechny barvy</string>
-    <string name="search_filter_size_all">Všechny kategorie</string>
+    <string name="search_filter_size_all">Všechny velikosti</string>
 </resources>

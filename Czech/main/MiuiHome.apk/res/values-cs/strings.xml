@@ -787,4 +787,6 @@
 <string name="jeejen_description">"Větší prvky uživatelského rozhraní.
 Dostupnější volání.
 Vylepšené zabezpečení."</string>
+     <string name="monochrome_summary">Změňte barvu pozadí pro kompatibilní ikony</string>
+     <string name="monochrome_title">Barva pozadí</string>
 </resources>

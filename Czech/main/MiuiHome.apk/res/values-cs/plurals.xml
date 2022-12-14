@@ -116,4 +116,8 @@
         <item quantity="two">%1$d aplikací jsou odinstalovány</item>
         <item quantity="many">%1$d aplikací je odinstalováno</item>
     </plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových notifikací</item>
+        <item quantity="one">%d nová notifikace</item>
+     </plurals>
 </resources>
