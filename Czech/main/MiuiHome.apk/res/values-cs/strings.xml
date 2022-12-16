@@ -784,9 +784,14 @@
      <string name="custom_define_permission_desc_android.permission_group.CAMERA">Pro zobrazení widgetů Galerie</string>
      <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pro přístup k názvu widgetu Wi-Fi v systému Android Q</string>
      <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro přístup a ukládání dat na ploše</string>
-<string name="jeejen_description">"Větší prvky uživatelského rozhraní.
+	 <string name="jeejen_description">"Větší prvky uživatelského rozhraní.
 Dostupnější volání.
 Vylepšené zabezpečení."</string>
      <string name="monochrome_summary">Změňte barvu pozadí pro kompatibilní ikony</string>
      <string name="monochrome_title">Barva pozadí</string>
+	 <string name="app_set_icon">Nastavit ikonu</string>
+	 <string name="app_edit_icon">Upravit ikonu</string>
+	 <string name="dock_and_folder_not_edit_icon_tip">Pro úpravu nejprve odeberte aplikaci z doku a složky</string>
+	 <string name="dock_not_edit_icon_tip">Pro úpravu nejprve odeberte aplikaci z doku</string>
+	 <string name="folder_not_edit_icon_tip">Pro úpravu nejprve odeberte aplikaci ze složky</string>
 </resources>

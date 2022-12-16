@@ -1391,4 +1391,11 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
       <string name="large_icon_warning_not_install_msg">Nainstalujte %s, abyste mohli používat Super ikonu. Instalovat nyní?</string>
       <string name="show_mamual_hide_large_icons">Zobrazit skryté Super ikony</string>
       <string name="theme_component_title_large_icon">Super ikony</string>
+	  <string name="dynamic_large_icon_not_support_current_type">"%s není pro tuto dynamickou ikonu podporováno"</string>
+     <string name="large_icon_detail_warning_dialog_btn_keep">Super ikony</string>
+     <string name="large_icon_detail_warning_dialog_btn_not_keep">Výchozí</string>
+     <string name="large_icon_detail_warning_dialog_msg">"Některé aplikace používají Super ikony. Chcete je zachovat, nebo obnovit do jejich výchozí podoby?"</string>
+     <string name="large_icon_detail_warning_dialog_title">Nastavení Super ikon</string>
+     <string name="large_icon_not_support_current_type">"%s není pro tuto ikonu podporováno"</string>
+     <string name="large_icon_theme">Ikona tématu</string>
 </resources>
