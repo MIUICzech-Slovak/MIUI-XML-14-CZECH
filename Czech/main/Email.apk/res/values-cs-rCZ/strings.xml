@@ -255,4 +255,5 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
       <string name="restart_detail_conversation_options3">15 min.</string>
       <string name="restart_detail_conversation_options4">30 min.</string>
       <string name="restart_detail_conversation_title">Restartování na pozadí</string>
+	  <string name="attachment_image">obrázek</string>
 </resources>
