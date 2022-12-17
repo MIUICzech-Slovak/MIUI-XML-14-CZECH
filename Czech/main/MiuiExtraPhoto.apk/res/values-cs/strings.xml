@@ -159,4 +159,12 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="saf_operation_guide_1">"Editor galerie potřebuje vaše povolení, aby mohl chránit a spravovat vaše data."</string>
+    <string name="saf_operation_guide_2">Chcete-li povolení udělit, stiskněte \"%1$s\" a poté vyberte \"%2$s\".</string>
+    <string name="saf_operation_guide_param1">Dále</string>
+    <string name="saf_operation_guide_param2">Přístup k této složce</string>
+    <string name="saf_requester_cancel">Zrušit</string>
+    <string name="saf_requester_title">Povolit editoru galerie přístup k \"%s\"</string>
+    <string name="saf_secret_album">Soukromé album</string>
+    <string name="saf_secret_album_guide">Tato aplikace potřebuje oprávnění k zobrazení položek z vašeho soukromého alba.</string>
 </resources>

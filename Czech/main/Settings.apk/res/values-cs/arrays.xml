@@ -1163,4 +1163,12 @@ Postupujte dle pokynů"</item>
         <item>Dotyk</item>
         <item>Přímý dotyk</item>
      </string-array>
+	 <string-array name="tabs_taptic_detail_m2">
+        <item>Křupavé</item>
+        <item>Plné</item>
+     </string-array>
+     <string-array name="wifi_hidden_gbk_entries">
+        <item>Ne</item>
+        <item>Ano</item>
+     </string-array>
 </resources>

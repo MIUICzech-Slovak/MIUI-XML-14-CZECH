@@ -580,4 +580,18 @@
 	<string name="alarm_alert_now">%s budík</string>
      <string name="alarm_alert_snooze_button">Odložit</string>
      <string name="click_to_cancel_alarm">Dotykem zrušíte</string>
+	 <string name="force_start_permission_desc">Povolit, aby budíky fungovali normálně i po zavření aplikace</string>
+     <string name="force_start_permission_title">Automatické spuštění</string>
+     <string name="miui_clock_city_name_local">Lokální</string>
+     <string name="miui_clock_city_name_second">Druhé hodiny</string>
+     <string name="miui_lock_screen_date">EEE, d MMM</string>
+     <string name="miui_lock_screen_date_12">EEE, d MMM</string>
+     <string name="miui_lock_screen_date_two_lines">"EEE
+d MMM"</string>
+     <string name="miui_lock_screen_date_two_lines_12">"EEE
+d MMM"</string>
+     <string name="miui_lock_screen_large_date">"EEE
+d.MM."</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+d.MM."</string>
 </resources>

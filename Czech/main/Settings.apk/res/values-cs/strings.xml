@@ -8036,4 +8036,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="network_auto_switch">Přepínání mezi sítěmi</string>
       <string name="network_auto_switch_summery">Přepnout na mobilní data, když je signál Wi-Fi slabý nebo síť není dostupná</string>
       <string name="solid_text">Používá nízkofrekvenční hmatovou zpětnou vazbu a odpovídající vizuální přechody k vytvoření solidního a výkonného zážitku z gest</string>
+	  <string name="lock_screen_now">Zámek obrazovky</string>
+      <string name="multi_network_acceleration_summery">Připojte se k více sítím Wi-Fi současně, pro zvýšení rychlosti</string>
+      <string name="swipe_up_to_continue_using">Potáhněte nahoru pro pokračování</string>
+      <string name="swipe_up_to_continue_using_summary">Uzamknout po %ds bez aktivity</string>
+      <string name="wifi_primary">Primární síť</string>
 </resources>

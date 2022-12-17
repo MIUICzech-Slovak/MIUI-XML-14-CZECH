@@ -506,4 +506,8 @@
 	<string name="periodiccacheclear_notification_indefinite">Úložiště se vám automaticky uvolnilo.</string>
      <string name="periodiccacheclear_notification_post">" úložiště se vám automaticky uvolnilo."</string>
      <string name="periodiccacheclear_notification_title">Inteligentní čištění</string>
+	 <string name="swipe_up_to_continue_using">Potiahnite nahor pre pokračovanie</string>
+     <string name="wallpaper_group_curves_title">Křivky</string>
+     <string name="wallpaper_group_light_cycles_title">Neónové kruhy</string>
+     <string name="wallpaper_group_petros_koublis_title">Sny</string>
 </resources>

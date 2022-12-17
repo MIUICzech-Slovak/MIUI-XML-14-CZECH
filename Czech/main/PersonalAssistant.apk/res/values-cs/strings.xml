@@ -1235,4 +1235,5 @@ pro zobrazení widgetů."</string>
 	<string name="search_filter_category_all">Všechny kategorie</string>
 	<string name="search_filter_color_all">Všechny barvy</string>
     <string name="search_filter_size_all">Všechny velikosti</string>
+	<string name="close">Vypnout</string>
 </resources>

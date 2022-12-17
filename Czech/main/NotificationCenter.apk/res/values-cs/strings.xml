@@ -201,4 +201,10 @@ Nahlašte tento problém &gt;"</string>
     <string name="yesterday">Včera</string>
 	<string name="disable_description_content">"Upozornění jsou systémová aplikace. Pokud ji zakážete, nebudete moci spravovat upozornění aplikací. Přesto je zakázat?"</string>
     <string name="disable_description_title">Zakázat systémovou aplikaci?</string>
+	<string name="function_description">O této funkci</string>
+	<string name="notification_fold_description1">Složka oznámení byla zavedena v MIUI 9. Tato funkce filtruje nedůležitá oznámení a umísťuje je do samostatné složky.</string>
+      <string name="notification_fold_description2">MIUI si zapamatuje, na která oznámení klepnete, a poté pomocí několika kritérií určí, zda jsou důležitá.</string>
+      <string name="notification_fold_description3">"Pokud oznámení, která považujete za důležitá, stále chodí do složky Oznámení, nezapomeňte nám takové problémy nahlásit. Budeme rádi za vaši zpětnou vazbu."</string>
+      <string name="notification_fold_footer_icon_summary">Zobrazit ikony aplikací, když jsou seskupena nedůležitá oznámení</string>
+      <string name="notification_fold_footer_icon_title">Zobrazit ikony aplikací</string>
 </resources>
