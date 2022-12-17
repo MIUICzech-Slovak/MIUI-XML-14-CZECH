@@ -8041,4 +8041,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
       <string name="swipe_up_to_continue_using">Potáhněte nahoru pro pokračování</string>
       <string name="swipe_up_to_continue_using_summary">Uzamknout po %ds bez aktivity</string>
       <string name="wifi_primary">Primární síť</string>
+	  <string name="assistance_category_title">Ulehčení přístupu</string>
+     <string name="search_accessibility_settings">Ulehčení přístupu</string>
+     <string name="search_result_feedback_text">Více nenalezeno</string>
+     <string name="wifi_saved_access_point">Uložené sítě</string>
 </resources>
