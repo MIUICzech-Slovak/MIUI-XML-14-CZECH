@@ -1381,7 +1381,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
       <string name="large_icon_no_more">Zatím zde nic není</string>
       <string name="large_icon_no_network">Nepodařilo se připojit k síti</string>
       <string name="large_icon_not_support">Nelze nastavit ikony pro %s</string>
-      <string name="large_icon_official">Oficiální</string>
+      <string name="large_icon_official">Výchozí</string>
       <string name="large_icon_picker_haven">Dostupné ikony</string>
       <string name="large_icon_picker_more">Více</string>
       <string name="large_icon_picker_size">Velikost ikony</string>

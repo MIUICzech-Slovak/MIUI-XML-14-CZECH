@@ -7974,8 +7974,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="zen_mode_summary_alarms_only_indefinite">Změna na možnost Pouze budíky, platná trvale</string>
     <string name="zen_mode_summary_always">Změna na možnost Vždy přerušit</string>
     <string name="zen_mode_title">Nerušit</string>
-    <string name="zen_mode_turned_off">Zapnout</string>
-    <string name="zen_mode_turned_on">Vypnout</string>
+    <string name="zen_mode_turned_off">Vypnuto</string>
+    <string name="zen_mode_turned_on">Zapnuto</string>
     <string name="zen_mode_when">Automaticky zapnout</string>
     <string name="zen_mode_when_every_night">Každou noc</string>
     <string name="zen_mode_when_never">Nikdy</string>
