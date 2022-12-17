@@ -360,8 +360,8 @@ Před použitím aplikace si přečtěte a souhlaste s našimi &lt;a href=%1$s&g
       <string name="appcirculate_fragment_circulate_app_content_description">Ukázka: %1$s</string>
       <string name="appcirculate_fragment_circulate_device_card_button">Zapnout</string>
       <string name="appcirculate_fragment_circulate_device_card_subtitle">Nápověda</string>
-      <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">„Zapněte, chcete-li najít zařízení v okolí
-a přehrávat na nich zvuk a video“</string>
+      <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Zapněte, chcete-li najít zařízení v okolí
+a přehrávat na nich zvuk a video</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Zapněte Wi-Fi a Bluetooth</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">Zapněte Wi-Fi a Bluetooth</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Zapněte Bluetooth</string>
@@ -529,10 +529,10 @@ a přihlaste se do svého účtu Xiaomi"</string>
       <string name="expand_button_title">Rozšířené</string>
       <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
       <string name="find_device_close">Zavřít</string>
-      <string name="find_device_notification_content">„%2$s z %1$s“ hledá toto %3$s, odemkněte a přestaňte zvonit</string>
-      <string name="find_device_notification_content_single">„%1$s“ hledá toto %2$s, odemkněte a přestaňte zvonit</string>
-      <string name="find_device_popup_content">„%2$s z %1$s“ hledá toto %3$s</string>
-      <string name="find_device_popup_content_single">„%1$s“ hledá toto %2$s</string>
+      <string name="find_device_notification_content">%2$s z %1$s hledá toto %3$s, odemkněte a přestaňte zvonit</string>
+      <string name="find_device_notification_content_single">%1$s hledá toto %2$s, odemkněte a přestaňte zvonit</string>
+      <string name="find_device_popup_content">%2$s z %1$s hledá toto %3$s</string>
+      <string name="find_device_popup_content_single">%1$s hledá toto %2$s</string>
       <string name="find_device_title">Zařízení zvoní</string>
       <string name="global_privacy_screencast">Během nahrávání nebo přenášení může služba poskytující tuto funkci zachytit jakékoli citlivé informace, které se zobrazují na obrazovce nebo přehrávají z vašeho zařízení, včetně citlivých informací, jako jsou zvuk, hesla, platební údaje, fotografie a zprávy. </string>
       <string name="guide_confirm_button_text">Začít</string>
@@ -557,9 +557,9 @@ a přihlaste se do svého účtu Xiaomi"</string>
       <string name="miplay_detail_header_no_song">Žádné přehrávání</string>
       <string name="miplay_headset_lc3_hint">Vypnutím režimu LC3 přepnete výstup zvuku zpět na toto zařízení.</string>
       <string name="miplay_mini_card_no_song_but_attached_hint">O přehrávání zvuku na %1$s</string>
-      <string name="miplay_mini_card_no_song_pad_title">Zvuk tabletu</string>
-      <string name="miplay_mini_card_no_song_subtitle">Žádné přehrávání</string>
-      <string name="miplay_mini_card_no_song_title">Zvuk telefonu</string>
+      <string name="miplay_mini_card_no_song_pad_title">Zvuk</string>
+      <string name="miplay_mini_card_no_song_subtitle">Žádné</string>
+      <string name="miplay_mini_card_no_song_title">Zvuk</string>
       <string name="miplay_service_timeout_toast">Časový limit připojení vypršel. Zkuste to znovu.</string>
       <string name="miplay_song_title_empty">Nejsou zde žádné položky</string>
       <string name="mr_button_content_description">Přenášení</string>
@@ -589,8 +589,8 @@ a přihlaste se do svého účtu Xiaomi"</string>
       <string name="mr_user_route_category_name">Zařízení</string>
       <string name="msg_send_fail">"Údaje se nepodařilo přenést"</string>
       <string name="no_permission">"Tuto stránku nelze zobrazit"</string>
-      <string name="normal_device_desc">„Zařízení, ke kterým jste se připojili, ale neoznačili jste je jako důvěryhodné“</string>
-      <string name="normal_device_desc_limit">"Zařízení, ke kterým jste se připojili, ale neoznačili jste je jako důvěryhodné"</string>
+      <string name="normal_device_desc">Zařízení, ke kterým jste se připojili, ale neoznačili jste je jako důvěryhodné</string>
+      <string name="normal_device_desc_limit">Zařízení, ke kterým jste se připojili, ale neoznačili jste je jako důvěryhodné</string>
       <string name="normal_device_none">Nejsou zde žádná dříve připojená zařízení</string>
       <string name="normal_device_title">Nedůvěryhodná zařízení</string>
       <string name="not_set">Nenastaveno</string>
@@ -615,9 +615,9 @@ a přihlaste se do svého účtu Xiaomi"</string>
       <string name="privacy_revoke_confirm_cancel">Zrušit</string>
       <string name="privacy_revoke_confirm_message">"Nebudete moci nadále používat funkce přenášení, pokud nám nepovolíte poskytovat naše služby založené na shromažďování potřebných osobních informací. Přesto odvolat souhlas s pravidly ochrany osobních údajů HappyCast?"</string >
        <string name="privacy_revoke_confirm_sure">OK</string>
-      <string name="privacy_revoke_confirm_title">„Služby nelze používat“</string>
+      <string name="privacy_revoke_confirm_title">Služby nelze používat</string>
       <string name="privacy_revoke_dialog_agree">Souhlasím</string>
-      <string name="privacy_revoke_dialog_message">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů společnosti HappyCast. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a předpisy, dokud se nebude vyžadovat jinak.. Protože HappyCast poskytuje své služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu se bude považovat za odmítnutí přijetí služeb HappyCast. Odvolat souhlas nyní?“</string>
+      <string name="privacy_revoke_dialog_message">Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů společnosti HappyCast. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a předpisy, dokud se nebude vyžadovat jinak.. Protože HappyCast poskytuje své služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu se bude považovat za odmítnutí přijetí služeb HappyCast. Odvolat souhlas nyní?</string>
       <string name="privacy_revoke_dialog_revoke">Vybrat</string>
       <string name="privacy_revoke_dialog_title">Odvolání souhlasu</string>
       <string name="privacy_setting_category_1">Zásady ochrany osobních údajů</string>
