@@ -181,4 +181,9 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="find_device_capture_done_notification_content">Zobrazit fotografii na i.mi.com</string>
+      <string name="find_device_capture_done_notification_title">Najděte zařízení, které pořídilo fotku na dálku</string>
+      <string name="find_device_notice_sms_alert_with_common_charge_hint">"Aby bylo možné aktualizovat stav SIM karty a ujistit se, že všechny služby fungují normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
+      <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Chcete-li aktualizovat stav SIM karty a zajistit, aby všechny služby fungovaly normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>tuzemská placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
+      <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Chcete-li aktualizovat stav SIM karty a zajistit, aby všechny služby fungovaly normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
 </resources>
