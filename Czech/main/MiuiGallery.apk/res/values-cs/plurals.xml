@@ -657,4 +657,11 @@
         <item quantity="other">Odstraněné položky jsou uložené v cloudu na %1$d dní</item>
         <item quantity="one">Odstraněné položky jsou uložené v cloudu na %1$d den</item>
      </plurals>
+	 <plurals name="trash_purge_dialog_message_cloud">
+        <item kvantita="other">%d vybraných položek bude trvale smazáno z cloudu a všech synchronizovaných zařízení. Přesto smazat?</item>
+        <item kvantita="one">%d vybraná položka bude trvale smazána z cloudu a všech synchronizovaných zařízení. Přesto smazat?</item>
+     </plurals>
+     <plurals name="trash_purge_dialog_message_local">
+        <item kvantita="other">%d vybraných položek bude trvale smazáno. Přesto smazat?</item>
+        <item kvantita="one">%d vybraná položka bude trvale smazána. Přesto smazat?</item>
 </resources>

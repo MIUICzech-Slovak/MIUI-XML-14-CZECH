@@ -2934,6 +2934,8 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
       <string name="user_avatar_uploading">Načítání...</string>
       <string name="user_name_phone_number">Telefonní číslo</string>
 	  <string name="equivalent_focal_length">(ekvivalentní ohnisková vzdálenost %dmm)</string>
-     <string name="stop_migration_ok">Zastavit</string>
 	 <string name="sort_and_showmode">Řazení a zobrazení</string>
+	 <string name="cleaner_size">Vymazat nedávno smazané položky (%s)</string>
+      <string name="clearable_edittext_clear_description">Vymazat</string>
+	  <string name="tips_for_photo_page_selection">Klepnutím na položky je zobrazíte</string>
 </resources>
