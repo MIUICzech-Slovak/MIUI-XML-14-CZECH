@@ -436,7 +436,7 @@ pro zrcadlení obrazovky"</string>
       <string name="circulate_common_retry_later">Počkejte minutu nebo dvě a zkuste to znovu</string>
       <string name="circulate_cta_agree">Souhlasím</string>
       <string name="circulate_cta_app_name">Mi Smart Hub</string>
-      <string name="circulate_cta_desc_phone">Vítejte v Mi Smart Hub! Pomocí této aplikace můžete přenášet obsah obrazovky, přenášet přehrávání multimédií mezi zařízeními, používat Mi Smart Play, MIUI+ a předávání aplikací. Tato aplikace se musí připojit k internetu a vyžaduje následující povolení, aby mohla normálně fungovat:</string>
+      <string name="circulate_cta_desc_phone">Vítejte v Mi Smart Hubu! Pomocí této aplikace můžete přenášet obsah obrazovky, přenášet přehrávání multimédií mezi zařízeními, používat Mi Smart Play, MIUI+ a předávání aplikací. Tato aplikace se musí připojit k internetu a vyžaduje následující povolení, aby mohla normálně fungovat:</string>
       <string name="circulate_cta_exit">Nesouhlasím</string>
       <string name="circulate_cta_premission_sound_subtitle">Pro přenos přehrávání zvuku do připojených zařízení</string>
       <string name="circulate_cta_premission_sound_title">Nahrát zvuk</string>
@@ -543,7 +543,7 @@ a přihlaste se do svého účtu Xiaomi"</string>
       <string name="guide_page_subtitle_2">"Přesuňte kartu s obrazovkou tohoto zařízení do tabletu, počítače nebo televizoru, abyste zrcadlili obsah na obrazovce svého zařízení."</string>
       <string name="guide_page_subtitle_3">"Přesuňte aplikaci do Mi Smart Hub a vyberte zařízení, na kterém chcete pokračovat ve své aktuální úloze."</string>
       <string name="guide_page_subtitle_earphones">Přesunutím karty sluchátek mezi mobilním telefonem, tabletem a televizorem připojte sluchátka k příslušnému zařízení a pokračujte v používání</string>
-      <string name="guide_page_title_0">Vítejte v Mi Smart Hub!</string>
+      <string name="guide_page_title_0">Vítejte v Mi Smart Hubu!</string>
       <string name="guide_page_title_1">Přehrávání zvuku</string>
       <string name="guide_page_title_2">Zrcadlení obrazovky</string>
       <string name="guide_page_title_3">Aplikace</string>
@@ -680,5 +680,126 @@ ujistěte se, že balíček obsahuje nejnovější verze všech aplikací."</str
       <string name="wifi_passwd_et_hint">Heslo</string>
       <string name="wifi_recommendation">Vyberte %1$d GHz sítě pro lepší zážitek z přenášení</string>
       <string name="wifi_scan_btn_text">Skenovat znovu</string>
-      <string name="wifi_username_et_hint">ID účtu</string>
+      <string name="wifi_username_et_hint">ID účtu</string>	  
+	  <string name="appcirculate_toast_not_support_device_pad">"Tuto aplikaci nelze otevřít na tabletech"</string>
+      <string name="auth_MIUI_and_phone_model">"Tato stránka je dostupná pouze pro
+MIUI 13 Beta testery."</string>
+      <string name="auth_check_loading">Ještě sekundu…</string>
+      <string name="auth_no_user">"Tato stránka je dostupná pouze pro beta testery.
+Přihlaste se ke svému účtu Xiaomi v Nastavení > Xiaomi účet pro synchronizaci oprávnění."</string>
+      <string name="auth_phone_model">"Tuto stránku nelze na tomto zařízení zobrazit."</string>
+      <string name="auth_show_to_test_user">Tato stránka je dostupná pouze pro beta testery.</string>
+      <string name="circulate_back_button_content_description">Zpět</string>
+      <string name="circulate_card_mirror_device_pad_subtitle">"Zobrazuje se obrazovka tabletu…"</string>
+      <string name="circulate_card_mirror_device_title_pad">Tablet</string>
+      <string name="circulate_card_mirror_pad_subtitle">"Přetáhněte \"Obrazovku tabletu\" na televizi
+zrcadlení obrazovky"</string>
+      <string name="circulate_card_mirror_pad_title">"Obrazovka tabletu"</string>
+      <string name="circulate_card_mirror_subtitle_pad_normal">"Přetáhněte do jiného zařízení
+zrcadlení obrazovky tohoto tabletu"</string>
+      <string name="circulate_card_sticker_remote_control_center">OK</string>
+      <string name="circulate_cta_premission_storage_pad_title">Přístup k položkám a jejich ukládání do úložiště</string>
+      <string name="circulate_device_type_name_pad">Tablet</string>
+      <string name="circulate_headset_back_to_box_desc">"1. Vložte obě sluchátka do nabíjecího pouzdra.
+2. Stiskněte a podržte tlačítko na pouzdru.
+3. Dokončete párování na cílovém zařízení."</string>
+      <string name="circulate_headset_back_to_box_desc_err_308">Abyste mohli přenášet přehrávání mezi zařízeními, nejprve spárujte sluchátka s televizorem.</string>
+      <string name="circulate_headset_back_to_box_desc_pad">"1. Vložte obě sluchátka do pouzdra.
+2. Stiskněte a podržte tlačítko na pouzdru.
+3. Dokončete párování v nastavení Bluetooth nebo pomocí vyskakovacího dialogu na tomto zařízení."</string>
+      <string name="circulate_headset_back_to_box_desc_phone">"1. Vložte obě sluchátka do pouzdra.
+2. Stiskněte a podržte tlačítko na pouzdru.
+3. Dokončete párování v nastavení Bluetooth nebo pomocí vyskakovacího dialogu na tomto zařízení."</string>
+      <string name="circulate_headset_back_to_box_desc_tv">"1. Vložte obě sluchátka do nabíjecího pouzdra.
+2. Stiskněte a podržte tlačítko na pouzdru.
+3. Otevřete seznam dostupných zařízení Bluetooth na televizoru a potvrďte spárování."</string>
+      <string name="circulate_headset_back_to_box_subtitle">"Tato sluchátka nelze spárovat automaticky. Spárujte je místo toho ručně na cílovém zařízení."</string>
+      <string name="circulate_headset_back_to_box_title">Nejprve spárujte sluchátka</string>
+      <string name="circulate_headset_back_to_box_title_err_308">Spárujte si sluchátka</string>
+      <string name="circulate_headset_back_to_box_title_pad">Spárujte sluchátka s tímto zařízením</string>
+      <string name="circulate_headset_back_to_box_title_phone">Spárujte sluchátka s tímto zařízením</string>
+      <string name="circulate_headset_back_to_box_title_tv">Spárujte si sluchátka</string>
+      <string name="circulate_help_feedback_button">Zpětná vazba</string>
+      <string name="circulate_local_pad_name">Můj tablet</string>
+      <string name="clearable_edittext_clear_description">Vymazat</string>
+      <string name="večer">Odpoledne</string>
+      <string name="guide_page_subtitle_0_pad">Mi Smart Hub spojuje vaše mobilní zařízení, stejně jako televizory a chytré reproduktory, které jsou připojeny ke stejné síti Wi-Fi, do jediné pracovní stanice tím, že vám umožňuje spustit úkol na jednom z zařízení a poté bezproblémové přepnutí na jiné zařízení.</string>
+      <string name="guide_page_subtitle_0_pad_global">Mi Smart Hub spojuje vaše mobilní zařízení, stejně jako televizory a chytré reproduktory, které jsou připojeny ke stejné síti Wi-Fi, do jediné pracovní stanice tím, že vám umožňuje zahájit úkol na jednom z zařízení a poté bezproblémové přepnutí na jiné zařízení.</string>
+      <string name="guide_page_subtitle_1_pad">Přetáhněte zvukovou kartu do reproduktoru nebo televizoru a pokračujte v přehrávání na jiném zařízení.</string>
+      <string name="guide_page_subtitle_2_pad">"Přetáhněte kartu s obrazovkou tohoto zařízení do televizoru pro zrcadlení obrazu vašeho zařízení."</string>
+      <string name="guide_page_title_0_pad">Vítejte v Mi Smart Hubu!</string>
+      <string name="guide_page_title_1_pad">Přehrávání zvuku</string>
+      <string name="guide_page_title_2_pad">Zrcadlová obrazovka</string>
+      <string name="headset_circulate_connect_success">připojeno</string>
+      <string name="material_clock_display_divider">:</string>
+      <string name="material_clock_toggle_content_description">Vyberte AM nebo PM</string>
+      <string name="material_hour_selection">Vyberte hodinu</string>
+      <string name="material_hour_suffix">"%1$s hodin"</string>
+      <string name="material_minute_selection">Vyberte minuty</string>
+      <string name="material_minute_suffix">%1$s minut</string>
+      <string name="material_slider_range_end">Konec rozsahu</string>
+      <string name="material_slider_range_start">Začátek rozsahu</string>
+      <string name="material_timepicker_clock_mode_description">Přepněte do režimu hodin pro zadání času.</string>
+      <string name="material_timepicker_hour">Hodina</string>
+      <string name="material_timepicker_minute">Minuta</string>
+      <string name="material_timepicker_select_time">Vyberte čas</string>
+      <string name="material_timepicker_text_input_mode_description">Přepněte do režimu zadávání textu pro zadávání času.</string>
+      <string name="midnight">Noc</string>
+      <string name="miplay_accessibility_cast">Vyberte zařízení</string>
+      <string name="miplay_accessibility_cover">Obal</string>
+      <string name="miplay_accessibility_next">Další skladba</string>
+      <string name="miplay_accessibility_pause">Pozastavit</string>
+      <string name="miplay_accessibility_play">Přehrát</string>
+      <string name="miplay_accessibility_prev">Předchozí skladba</string>
+      <string name="miplay_accessibility_seekbar">Ukazatel průběhu</string>
+      <string name="miplay_accessibility_volume">Hlasitost</string>
+      <string name="miplay_device_full_name">"%1$s's %2$s"</string>
+      <string name="miuix_access_state_desc">Vybráno</string>
+      <string name="miuix_alphabet_indexer_name">Indexový řádek</string>
+      <string name="miuix_indexer_collect">Sbírky</string>
+      <string name="miuix_indexer_selected">Vybráno %s</string>
+      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Obnovte tažením dolů</string>
+      <string name="miuix_sbl_tracking_progress_labe_refreshed">Úspěšně obnoveno</string>
+      <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovování…</string>
+      <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Sestava k obnovení</string>
+      <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je zatím vše"</string>
+      <string name="miuix_sbl_tracking_progress_labe_up_none">"To je zatím vše"</string>
+      <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chvíli…</string>
+      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Položky nelze načíst"</string>
+      <string name="more">Další</string>
+      <string name="morning">Ráno</string>
+      <string name="mtrl_badge_numberless_content_description">Nové oznámení</string>
+      <string name="mtrl_chip_close_icon_content_description">Odebrat %1$s</string>
+      <string name="mtrl_exceed_max_badge_number_content_description">Více než %1$d nových oznámení</string>
+      <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+      <string name="mtrl_picker_a11y_next_month">Změnit na příští měsíc</string>
+      <string name="mtrl_picker_a11y_prev_month">Změnit na předchozí měsíc</string>
+      <string name="mtrl_picker_announce_current_selection">Aktuální výběr: %1$s</string>
+      <string name="mtrl_picker_confirm">OK</string>
+      <string name="mtrl_picker_date_header_selected">%1$s</string>
+      <string name="mtrl_picker_date_header_title">Vyberte datum</string>
+      <string name="mtrl_picker_date_header_unselected">Vybrané datum</string>
+      <string name="mtrl_picker_day_of_week_column_header">Sloupec dní: %1$s</string>
+      <string name="mtrl_picker_invalid_format">Neplatný formát.</string>
+      <string name="mtrl_picker_invalid_format_example">Příklad: %1$s</string>
+      <string name="mtrl_picker_invalid_format_use">Použít: %1$s</string>
+      <string name="mtrl_picker_invalid_range">Neplatný rozsah.</string>
+      <string name="mtrl_picker_navigate_to_year_description">Přejít na rok %1$s</string>
+      <string name="mtrl_picker_out_of_range">Mimo rozsah: %1$s</string>
+      <string name="mtrl_picker_range_header_only_end_selected">Datum zahájení – %1$s</string>
+      <string name="mtrl_picker_range_header_only_start_selected">%1$s – datum ukončení</string>
+      <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+      <string name="mtrl_picker_range_header_title">Vyberte rozsah</string>
+      <string name="mtrl_picker_range_header_unselected">Datum zahájení – Datum ukončení</string>
+      <string name="mtrl_picker_save">Uložit</string>
+      <string name="mtrl_picker_text_input_date_hint">Datum</string>
+      <string name="mtrl_picker_text_input_date_range_end_hint">Datum ukončení</string>
+      <string name="mtrl_picker_text_input_date_range_start_hint">Datum zahájení</string>
+      <string name="mtrl_picker_toggle_to_calendar_input_mode">Přepnout do režimu zadávání kalendáře</string>
+      <string name="mtrl_picker_toggle_to_day_selection">Klepnutím přepnete na výběr dne</string>
+      <string name="mtrl_picker_toggle_to_text_input_mode">Přepnout do režimu zadávání textu</string>
+      <string name="mtrl_picker_toggle_to_year_selection">Klepnutím přepnete na výběr roku</string>
+      <string name="mtrl_timepicker_confirm">OK</string>
+      <string name="night">Večer</string>
+      <string name="noon">Poledne</string>
 </resources>
