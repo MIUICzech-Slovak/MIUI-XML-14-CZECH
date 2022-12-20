@@ -664,4 +664,5 @@
      <plurals name="trash_purge_dialog_message_local">
         <item kvantita="other">%d vybraných položek bude trvale smazáno. Přesto smazat?</item>
         <item kvantita="one">%d vybraná položka bude trvale smazána. Přesto smazat?</item>
+     </plurals>	     
 </resources>
