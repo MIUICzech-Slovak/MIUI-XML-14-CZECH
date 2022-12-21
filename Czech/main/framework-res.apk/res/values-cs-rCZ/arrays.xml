@@ -33,16 +33,16 @@
         <item>Pokus o přehrání zvuku</item>
         <item>Pokus o čtení schránky</item>
         <item>Pokus o úpravu schránky</item>
-        <item>Trying to use media buttons</item>
-        <item>Trying to use audio focus</item>
-        <item>Trying to use master volume</item>
-        <item>Trying to use voice volume</item>
-        <item>Trying to use ring volume</item>
-        <item>Trying to use media volume</item>
-        <item>Trying to use alarm volume</item>
-        <item>Trying to use notification volume</item>
-        <item>Trying to use bluetooth volume</item>
-        <item>Trying to Keep device awake</item>
+        <item>Pokouším se použít tlačítka médií</item>
+        <item>Pokouším se použít zvuky</item>
+        <item>Pokouším se použít obecnou hlasitost</item>
+        <item>Pokouším se použít hlasitost hovoru</item>
+        <item>Pokouším se použít hlasitost vyzvánění</item>
+        <item>Pokouším se použít hlasitost médií</item>
+        <item>Pokouším se použít hlasitost budíku</item>
+        <item>Pokouším se použít hlasitost oznámení</item>
+        <item>Pokouším se použít hlasitost Bluetooth</item>
+        <item>Pokouším se udržet zařízení v probuzeném stavu</item>
         <item>Pokus o přístup k poloze</item>
         <item>Pokus o přístup k poloze</item>
         <item>Pokus o zap./vyp. Wi-Fi</item>

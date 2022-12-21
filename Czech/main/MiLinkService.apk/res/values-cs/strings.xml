@@ -367,7 +367,7 @@ a přehrávat na nich zvuk a video</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Zapněte Bluetooth</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_3">Zapnout Wi-Fi</string>
       <string name="appcirculate_fragment_circulate_device_card_switch_title_3_global">Zapnout Wi-Fi</string>
-      <string name="appcirculate_fragment_circulate_device_card_title">Nic nebylo nalezeno?</string>
+      <string name="appcirculate_fragment_circulate_device_card_title">Nic se nenašlo?</string>
       <string name="appcirculate_fragment_circulate_device_content_description">Otevřete na jiném zařízení: %1$s</string>
       <string name="appcirculate_fragment_circulate_device_list_app_deliver">Otevřete \"%1$s\" na jiném zařízení</string>
       <string name="appcirculate_fragment_circulate_device_list_button_cancel">Zrušit</string>
@@ -476,7 +476,7 @@ a přihlaste se do svého účtu Xiaomi"</string>
       <string name="circulate_headset_error_upgrade">Nejprve aktualizujte Mi Smart Hub na cílovém zařízení</string>
       <string name="circulate_help_button_content_description">Nápověda</string>
       <string name="circulate_help_card_subtitle">Nápověda</string>
-      <string name="circulate_help_card_title">Nic nebylo nalezeno?</string>
+      <string name="circulate_help_card_title">Nic se nenašlo?</string>
       <string name="circulate_help_error">Nepodařilo se připojit k síti</string>
       <string name="circulate_help_exit_button_content_description">Ukončit</string>
       <string name="circulate_local_phone_name">Můj telefon</string>
