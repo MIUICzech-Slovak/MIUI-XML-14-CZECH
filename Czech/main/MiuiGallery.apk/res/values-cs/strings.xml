@@ -2938,5 +2938,5 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
 	 <string name="cleaner_size">Vymazat nedávno smazané položky (%s)</string>
       <string name="clearable_edittext_clear_description">Vymazat</string>
 	  <string name="tips_for_photo_page_selection">Klepnutím na položky je zobrazíte</string>
-	  <string name="stop_migration_ok">Zastavit</string>
+	
 </resources>
