@@ -5778,4 +5778,5 @@ Své telefonní číslo můžete změnit v Nastaveních."</string>
      <string name="gb_barrage_chat_text_speed_moderate">Střední</string>
      <string name="power_dialog_performance_mode_checkbox">Přepnout na obnovovací frekvenci 120 Hz</string>
 	 <string name="storage_system_other_tip_new">Zahrnuje úložný prostor nezbytný pro provoz systému a aktualizace. Velikost tohoto oddílu se bude měnit podle stavu systému.</string>
+	 <string name="pc_high_temp_protection_noti_summary2">Není možné použít hotspot</string>
 </resources>
