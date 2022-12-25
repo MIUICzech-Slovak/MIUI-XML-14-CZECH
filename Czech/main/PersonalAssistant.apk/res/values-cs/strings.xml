@@ -1236,4 +1236,5 @@ pro zobrazení widgetů."</string>
 	<string name="search_filter_color_all">Všechny barvy</string>
     <string name="search_filter_size_all">Všechny velikosti</string>
 	<string name="close">Vypnout</string>
+	<string name="pa_day_date">d-M</string>
 </resources>

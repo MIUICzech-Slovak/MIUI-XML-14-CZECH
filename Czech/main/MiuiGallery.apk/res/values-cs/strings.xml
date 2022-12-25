@@ -2938,5 +2938,7 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
 	 <string name="cleaner_size">Vymazat nedávno smazané položky (%s)</string>
       <string name="clearable_edittext_clear_description">Vymazat</string>
 	  <string name="tips_for_photo_page_selection">Klepnutím na položky je zobrazíte</string>
-	
+	  <string name="create_new_share_album">Vytvořit sdílené album</string>
+	  <string name="enable_secret_album_upload_message">Po zapnutí této funkce budou všechny tajné položky synchronizovány s cloudem. Zapnout nyní?</string>
+	<string name="local_secret_tip">Když je tato funkce zapnutá, všechny tajné položky se synchronizují s cloudem. Své předvolby můžete změnit v Nastavení > Synchr. s Micloud > Spravovat synchr. alba > Tajné album.</string>
 </resources>
