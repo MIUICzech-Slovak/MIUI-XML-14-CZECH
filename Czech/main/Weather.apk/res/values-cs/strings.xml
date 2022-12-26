@@ -377,4 +377,6 @@ Zadejte město manuálně"</string>
      <string name="indices_wind_direction_west">Z</string>
      <string name="setting_notification_manager">Upozornění</string>
      <string name="setting_used_to_push_reminder">Dostávat varování na počasí</string>
+	 <string name="aqi_fifteen_dates_time_format">d-M</string>
+	 <string name="data_source_time_fromat">"d-M-yyyy'T'HH:mm:ssz"</string>
 </resources>
