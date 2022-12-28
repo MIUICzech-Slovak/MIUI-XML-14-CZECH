@@ -15,4 +15,9 @@
         <item>Data aplikací budou vymazána</item>
         <item>Upozornění</item>
     </string-array>
+	<string-array name="choose_ask_type">
+         <item>Zeptat se</item>
+         <item>Výchozí</item>
+         <item>Klonovaná</item>
+      </string-array>
 </resources>
