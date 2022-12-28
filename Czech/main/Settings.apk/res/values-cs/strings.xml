@@ -8045,4 +8045,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="search_accessibility_settings">Ulehčení přístupu</string>
      <string name="search_result_feedback_text">Více nenalezeno</string>
      <string name="wifi_saved_access_point">Uložené sítě</string>
+	 <string name="freeform_guide_vedio_description">Klepnutím na aplikaci na postranním panelu ji otevřete v plovoucím okně</string>
+     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Přetažením aplikace z postranního panelu do středu obrazovky ji otevřete v plovoucím okně nebo na stranu, chcete-li použít rozdělenou obrazovku</string>
+     <string name="freeform_vedio_description_pad">Přetažením položek z doku otevřete plovoucí okna</string>
 </resources>
