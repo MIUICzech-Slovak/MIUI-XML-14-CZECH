@@ -5779,4 +5779,16 @@ Své telefonní číslo můžete změnit v Nastaveních."</string>
      <string name="power_dialog_performance_mode_checkbox">Přepnout na obnovovací frekvenci 120 Hz</string>
 	 <string name="storage_system_other_tip_new">Zahrnuje úložný prostor nezbytný pro provoz systému a aktualizace. Velikost tohoto oddílu se bude měnit podle stavu systému.</string>
 	 <string name="pc_high_temp_protection_noti_summary2">Není možné použít hotspot</string>
+	 <string name="app_behavior_record_cancel">Zrušit</string>
+     <string name="app_behavior_record_close">Vypnout</string>
+     <string name="app_behavior_record_close_title">Vypnout</string>
+     <string name="app_behavior_record_hide_system">Skrýt systémové aplikace</string>
+     <string name="app_behavior_record_open">Zapnout</string>
+     <string name="app_behavior_record_open_content_text">Záznamy chování aplikací ukazují, co aplikace dělají, a pomáhají vám vyhnout se bezpečnostním rizikům.</string>
+     <string name="app_behavior_record_show_system">Zobrazit systémové aplikace</string>
+     <string name="global_dock_guide_desc_with_split_screen">"·· Klepnutím na aplikaci na postranním panelu ji otevřete v plovoucím okně.
+· Tažením aplikace do středu obrazovky ji otevřete v plovoucím okně nebo do strany, pokud chcete použít rozdělenou obrazovku.
+· Stisknutím a podržením indikátoru posunete okno."</string>
+     <string name="global_dock_guide_desc_without_split_screen">"·· Klepnutím na aplikaci na postranním panelu ji otevřete v plovoucím okně.
+· Stisknutím a podržením indikátoru posunete okno."</string>
 </resources>

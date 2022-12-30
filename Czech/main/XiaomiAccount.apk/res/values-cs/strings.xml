@@ -832,4 +832,6 @@ Zkontrolujte také složku SPAM."</string>
      <string name="dind_device_service_opened">Zapnuto</string>
      <string name="family_service_not_open">Pozvat členy</string>
      <string name="mi_account">Můj účet</string>
+	 <string name="confirm_bundled_phone_dialog_confirm">Potvrdit</string>
+     <string name="confirm_bundled_phone_dialog_confirm_timer">Potvrdit (%ds)</string>
 </resources>
