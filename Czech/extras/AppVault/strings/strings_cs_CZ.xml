@@ -135,5 +135,13 @@
      <string name="widget_smarthome_environment_desc">Zobrazit teplotu, vlhkost a kvalitu vzduchu u vás doma</string>
      <string name="widget_smarthome_environment">Informace o prostředí</string>
      <string name="widget_weather_aqi">Kvalita vzduchu</string>
-     <string name="widget_weather_aqi_desc">Zobrazit AQI</string>
+	<string name="widget_weather_aqi_desc">Zobrazit AQI</string>
+	<string name="theme_pals">Přátelé</string>
+	<string name="app_files">Soubory</string>
+	<string name="widget_files_pin">Časté soubory</string>
+	<string name="widget_files_pin_desc">Připnutí často zobrazovaných souborů pro rychlý přístup</string>
+	<string name="widget_pals_cat">Kočička</string>
+	<string name="widget_pals_cat_desc">Mňau ~ neruš mě, když spím…</string>
+	<string name="widget_pals_dog">Pejsek</string>
+	<string name="widget_pals_dog_desc">Haf ~ pojď si se mnou hrát!</string>
 </resources>
