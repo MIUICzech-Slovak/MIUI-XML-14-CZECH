@@ -144,4 +144,8 @@
 	<string name="widget_pals_cat_desc">Mňau ~ neruš mě, když spím…</string>
 	<string name="widget_pals_dog">Pejsek</string>
 	<string name="widget_pals_dog_desc">Haf ~ pojď si se mnou hrát!</string>
+	<string name="app_mifitness">Mi Fitness</string>
+	<string name="widget_browser_search">Vyhledávání</string>
+	<string name="widget_browser_search_desc">Prohledávejte web jedním klepnutím</string>
+	<string name="widget_browser_shortcuts_desc">Základní funkce na dosah ruky</string>
 </resources>
