@@ -834,4 +834,10 @@ Zkontrolujte také složku SPAM."</string>
      <string name="mi_account">Můj účet</string>
 	 <string name="confirm_bundled_phone_dialog_confirm">Potvrdit</string>
      <string name="confirm_bundled_phone_dialog_confirm_timer">Potvrdit (%ds)</string>
+	 <string name="current_account_can_use_pwd_login">Zadejte své heslo pro přihlášení</string>
+      <string name="keep_phone_ticket_login">Přihlaste se pomocí ověřovacího kódu</string>
+      <string name="messenger_send_button_text">Odeslat</string>
+      <string name="phone_ticket_login">Přihlaste se pomocí ověřovacího kódu</string>
+      <string name="phone_ticket_register">Vytvořte si účet s telefonním číslem</string>
+      <string name="use_google_account_login">Přihlaste se pomocí Google účtu</string>
 </resources>

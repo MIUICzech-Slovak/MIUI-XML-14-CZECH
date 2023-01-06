@@ -664,5 +664,13 @@
      <plurals name="trash_purge_dialog_message_local">
         <item kvantita="other">%d vybraných položek bude trvale smazáno. Přesto smazat?</item>
         <item kvantita="one">%d vybraná položka bude trvale smazána. Přesto smazat?</item>
-     </plurals>	     
+     </plurals>
+	 <plurals name="delete_brust_title">
+         <item quantity="other">Odstranit %d sériových snímků?</item>
+         <item quantity="one">Odstranit %d sériový snímek?</item>
+      </plurals>
+      <plurals name="delete_media_title">
+         <item quantity="other">Odstranit %d položek?</item>
+         <item quantity="one">Odstranit %d položku?</item>
+      </plurals>
 </resources>

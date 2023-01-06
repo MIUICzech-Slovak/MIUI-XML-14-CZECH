@@ -537,4 +537,5 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
 	 <string name="preinstall_tips">Připravování…</string>
 	 <string name="congratulation_pre_label">Načítání...</string>
      <string name="congratulation_pre_title">Příprava systému...</string>
+	 <string name="miui14_start_up_slogan">Vše je nastaveno!</string>
 </resources>

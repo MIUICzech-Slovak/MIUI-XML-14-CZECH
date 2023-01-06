@@ -558,4 +558,7 @@
      <string name="permdesc_post_notification">Povolit aplikaci %1$s upozornění?</string>
 	 <string name="carwith_grant_permission_tips_when_lock">Nejprve odemkněte telefon</string>
      <string name="permdesc_read_phone_numbers">Povolit aplikaci %1$s číst telefonní čísla na tomto zařízení?</string>
+	 <string name="HIPS_Perm_operator_shake">Přístup k datům akcelerometru</string>
+      <string name="HIPS_Perm_operator_shake_Desc">Údaje akcelerometru se používají ke sledování orientace a pohybu (např. třes, naklánění a otáčení)</string>
+      <string name="permdesc_shake">Povolit aplikaci %1$s přístup k datům akcelerometru?</string>
 </resources>
