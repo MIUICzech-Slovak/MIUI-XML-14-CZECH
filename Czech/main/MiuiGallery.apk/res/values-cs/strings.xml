@@ -2965,7 +2965,7 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
       <string name="share_album_risk_control_too_many_sharers_accept">Nelze přidat další členy</string>
       <string name="share_album_risk_control_too_many_sharers_invite">Nelze pozvat další členy</string>
       <string name="slow_motion_enter">Zpomalený pohyb</string>
-
+      <string name="trash_purge_all_media">"Trvale smazat všechny položky z cloudu a všech synchronizovaných zařízení? Tuto akci nelze vrátit zpět."</string>
       <string name="super_slow_motion_enter">Super zpomalený pohyb</string>
       <string name="video_tags_enter">Zobrazit značky</string>
 </resources>
