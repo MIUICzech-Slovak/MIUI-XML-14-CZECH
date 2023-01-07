@@ -542,7 +542,7 @@ Ujistěte se, že název vaší společnosti je správný. Před spuštěním si
       <string name="ent_licence_code">Licenční kód</string>
       <string name="ent_licence_code_hint">Zadejte licenční kód</string>
       <string name="ent_licence_code_invalid">Zadaný licenční kód je neplatný.</string>
-      <string name="ent_mode_activated">Je aktivován Firemní režim</string>
+      <string name="ent_mode_activated">Je spuštěn Firemní režim</string>
       <string name="ent_network_error">"Nelze se připojit k síti. Zkontrolujte nastavení sítě a zkuste to znovu."</string>
       <string name="ent_next_step">Další</string>
       <string name="ent_privacy_policy_notice">* Osobní údaje jsou v tomto režimu shromažďovány v souladu se zásadami stanovenými vaší společností. Xiaomi v tomto režimu neshromažďuje osobní údaje.</string>
