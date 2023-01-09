@@ -577,7 +577,7 @@ Před pokračovaním si přečtěte a vyjádřete souhlas s novou verzí %s."</s
     <string name="pa_accessibility_picker_home_search">Vyhledejte widgety</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Vybráno %1$s, řádek %2$d, číslo %3$d. Začněte dvojitým klepnutím.</string>
     <string name="pa_accessibility_picker_home_title">Přidat widget</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Vybráno %1$s, řádek %2$d, číslo %3$d. Dvojitým klepnutím zobrazíte podrobnosti. Stisknutím a podržením položku přemístíte.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Vybráno %1$s, Velikost %2$s, Stav instalace %3$s, Dvojitým klepnutím zobrazíte podrobnosti.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Vybráno %1$s, řádek %2$d, číslo %3$d. Dvojitým klepnutím zobrazíte podrobnosti.</string>
     <string name="pa_accessibility_picker_search_cancel">Vyhledávací panel widgetů. Dvojitým klepnutím zrušíte.</string>
     <string name="pa_accessibility_picker_search_tips">Vyhledávací panel widgetů. Dvojitým klepnutím spustíte vyhledávání.</string>

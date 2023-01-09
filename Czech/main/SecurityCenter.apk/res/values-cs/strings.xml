@@ -2057,7 +2057,7 @@ ke zvýšené spotřebě baterie a přehřívání"</string>
     <string name="gb_predownload_dialog_message_china"><Data>"Aktualizovaný obsah pro tuto hru je možné stáhnout do tohoto zařízení automaticky po připojení k síti Wi-Fi a vypnutí obrazovky. Novou verzi tak budete moci používat hned po jejím vydaní.&lt;br>&lt;br>Před použitím této funkce si přečtěte a vyjádřete souhlas s &lt;a href=\"%1$s\">Vyhlášením o aktualizácích na pozadí&lt;/a>.“</Data> </string>
     <string name="gb_predownload_dialog_title">Aktualizace na pozadí jsou nyní k dispozici</string>
     <string name="gb_predownload_message">Aktualizujte King of Glory, Game for Peace a další kompatibilní hry na pozadí, když toto zařízení nepoužíváte</string>
-    <string name="gb_predownload_noti_message">%2$1,2f GB aktualizovaného obsahu se už v tomto zařízení nachází. Budete ho moci použít hned po vydání nové verze.</string>
+    <string name="gb_predownload_noti_message">%2$1.2f GB aktualizovaného obsahu se už v tomto zařízení nachází. Budete ho moci použít hned po vydání nové verze.</string>
     <string name="gb_predownload_noti_title">Úspešně aktualizováno %s na pozadí</string>
     <string name="gb_predownload_title">Aktualizace na pozadí</string>
     <string name="gb_shortcut_pref_title">Odkaz na ploše</string>

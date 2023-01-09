@@ -286,7 +286,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="backup_only_wifi_dialog_message">Použít mobilní data na zálohování fotografií a videí?</string>
     <string name="backup_pause">Pozastavit</string>
     <string name="backup_pause_dialog_title">Zastavit synchr.</string>
-    <string name="backup_pause_title">Zálohovat v %s</string>
+    <string name="backup_pause_title">Synchr. je pozastavená</string>
     <string name="backup_pending">Bude zálohováno automaticky</string>
     <string name="backup_settings">Synchr. s MiCloud</string>
     <string name="backup_settings_more">Další nastavení</string>
@@ -1649,7 +1649,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="photo_editor_miui_beauty_no_face">Nebylo možné rozpoznat tvář</string>
     <string name="photo_editor_mosaic">Mozaika</string>
     <string name="photo_editor_navigator_cancel">Zrušit</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">Stažení %s vyžaduje 4MB dat. Stáhnout nyní?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Stažení %s vyžaduje okolo %2$d MB dat. Stáhnout nyní?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Spotřeba dat</string>
     <string name="photo_editor_navigator_export">Dokončit</string>
     <string name="photo_editor_navigator_module_download_failed">Nelze stáhnout %s</string>

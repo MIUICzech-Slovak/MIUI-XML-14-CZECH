@@ -1124,4 +1124,5 @@ Bylo přičteno dalších %1$s"</string>
      <string name="query_quota_exception">Vyskytla se chyba serveru. Počkejte minutu nebo dvě a zkuste to znovu.</string>
      <string name="query_quota_searching">Načítání...</string>
      <string name="reminder_card_title">Pozor</string>
+	 <string name="evening">Odpoledne</string>
 </resources>

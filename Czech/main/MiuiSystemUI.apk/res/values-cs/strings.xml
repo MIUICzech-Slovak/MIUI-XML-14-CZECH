@@ -375,7 +375,7 @@
     <string name="battery_info_status_unknown">Neznámé</string>
     <string name="battery_low_button_not_open_power_save">Později</string>
     <string name="battery_low_button_open_power_save">Povolit</string>
-    <string name="battery_low_percent_format">zbývá %d%%</string>
+    <string name="battery_low_percent_format">zbývá %s</string>
     <string name="battery_low_percent_format_hybrid">Zbývá %1$s, při obvyklém využití asi %2$s</string>
     <string name="battery_low_percent_format_hybrid_short">Zbývá %1$s, asi %2$s</string>
     <string name="battery_low_percent_format_save_mode_closed">Zbývá méně než %d%% baterie. Připojte nabíječku.</string>
@@ -1266,7 +1266,7 @@ Použijte síťovou nabíječku."</string>
     <string name="kg_sim_pin_instructions">Zadejte kód PIN SIM karty.</string>
     <string name="kg_sim_pin_instructions_multi">Zadejte kód PIN SIM karty %1$s.</string>
     <string name="kg_sim_unlock_progress_dialog_message">Odblokování SIM karty…</string>
-    <string name="kg_too_many_failed_attempts_countdown">Zkuste to znovu za %d s.</string>
+    <string name="kg_too_many_failed_attempts_countdown">{count, plural, =1 {Zkuste to znova za # s.} other {Zkuste to znova za # s.} }</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Již %1$dkrát jste nesprávně zadali heslo. 
 
 Zkuste to znovu za %2$d s."</string>

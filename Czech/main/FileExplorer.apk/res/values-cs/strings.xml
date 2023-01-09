@@ -1048,7 +1048,7 @@ Zkuste přesunout soubory ze zařízení na Mi Drive."</string>
      <string name="dialog_open_mi_drive_title">Chyba serveru</string>
 	 <string name="early_morning">Ráno</string>
 	 <string name="error_icon_content_description">Chyba</string>
-     <string name="večer">Odpoledne</string>
+     <string name="evening">Odpoledne</string>
      <string name="exception_net_not_available">Zkontrolujte nastavení sítě a zkuste to znovu</string>
      <string name="expand_button_title">Pokročilé</string>
      <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>

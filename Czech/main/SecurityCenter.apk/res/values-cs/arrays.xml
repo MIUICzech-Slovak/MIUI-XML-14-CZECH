@@ -94,7 +94,6 @@
     <string-array name="date_of_traffic_prefix_cmcc">
         <item>"Tento týden: "</item>
         <item>"Dnes: "</item>
-        <item>"Minulý měsíc: "</item>
         <item>"Tento měsíc: "</item>
     </string-array>
     <string-array name="debug_open_intercept">

@@ -556,7 +556,7 @@ skenované dokumenty automaticky"</string>
     <string name="document_mode_use_hint_text_title">Skenování dokumentů</string>
     <string name="document_origin">Originál</string>
     <string name="document_strengthen">Vylepšené</string>
-    <string name="dolly_zoom_capture_tip1">Umístěte předmět do rámečku a udržujte zařízení ve vzdálenosti nejméně %d metru</string>
+    <string name="dolly_zoom_capture_tip1">Umístěte předmět do rámečku</string>
     <string name="dolly_zoom_capture_tip2">Stabilně přemisťujte zařízení od fotografovaného objektu</string>
     <string name="dolly_zoom_capture_tip3">Ztracená stopa objektu. Začít znovu.</string>
     <string name="dolly_zoom_capture_tip4">Přesunuli jste zařízení příliš daleko. Začít znovu.</string>
@@ -1884,7 +1884,7 @@ Objekt bude ostrý na rozmazaném pozadí."</string>
     <string name="unknow_error">Neznámá chyba</string>
     <string name="unsupported_microphones_3d_record_tips">3D zvuk není podporovaný ext. mikrofonem</string>
     <string name="unsupported_microphones_audio_zoom_tips">Audio zoom nepodporuje ext. mikrofon</string>
-    <string name="update_loading">Stáhnuté %1$d%%</string>
+    <string name="update_loading">Stáhnuté %1$s</string>
     <string name="update_start">Aktualizace %1$s</string>
     <string name="user_agree">Souhlasím</string>
     <string name="user_agreement2">Podmínkami používání</string>

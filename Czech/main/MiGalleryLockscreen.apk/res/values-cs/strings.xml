@@ -968,4 +968,5 @@ To může způsobit dodatečné poplatky."</string>
     <string name="apply_warning_content_with_maml">Používáte motiv třetí strany. Pokud změníte tapetu, hodiny na uzamčené obrazovce se mohou obnovit na výchozí. Použít nyní?</string>
     <string name="apply_warning_title">Použít tapetu</string>
     <string name="dlg_ok">Použít</string>
+	<string name="evening">Odpoledne</string>
 </resources>
