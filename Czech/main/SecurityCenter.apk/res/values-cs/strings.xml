@@ -5791,4 +5791,12 @@ Své telefonní číslo můžete změnit v Nastaveních."</string>
 · Stisknutím a podržením indikátoru posunete okno."</string>
      <string name="global_dock_guide_desc_without_split_screen">"·· Klepnutím na aplikaci na postranním panelu ji otevřete v plovoucím okně.
 · Stisknutím a podržením indikátoru posunete okno."</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pro použití seznamu blokovaných čísel a volání na nouzové kontakty, když jsou vydána varování před zemětřesením</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Pro zobrazení blokovaných hovorů v historii hovorů</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Pro použití seznamu blokovaných čísel</string>
+    <string name="custom_define_permission_desc_android.permission.READ_SMS">Pro použití seznamu blokovaných zpráv a rozpoznávání zpráv od vašeho operátora</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Pro použití seznamu blokovaných položek a odesílání kalibračních zpráv vašemu operátorovi</string>
+    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Pro smazání zpráv ze seznamu blokovaných zpráv</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pro poskytování funkcí relevantních pro vaši polohu v centru varování MIUI, Nouzové SOS, Úspoře baterie aplikací, bezpečnostního skeneru plateb a službě přibližné polohy</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro vymazání koše a provádění antivirových kontrol</string>
 </resources>
