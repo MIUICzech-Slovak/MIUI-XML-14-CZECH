@@ -1165,4 +1165,15 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
       <string name="find_permission_sms_summary">"Pro lokalizaci tohoto zařízení, když není připojeno k internetu"</string>
       <string name="find_permission_sms_title">Odeslat SMS</string>
       <string name="permission_management">Podrobnosti oprávnění</string>
+	  <string name="cloud_manage_storage_text">Spravovat úložiště v cloudu</string>
+      <string name="cloud_storage_almost_full_upgrade_text">Úložiště je téměř plné. Možná nebude možné synchronizovat fotografie.</string>
+      <string name="cloud_storage_common_functions_text">Často používané</string>
+      <string name="cloud_storage_full_upgrade_default_text">Nedostatek místa na úložišti. Fotografie se nepodařilo synchronizovat.</string>
+      <string name="cloud_storage_sufficient_text">Navyšte a získejte až %d TB úložiště</string>
+      <string name="cloud_storage_upgrade_text">Navýšit</string>
+      <string name="cloud_storage_upgrade_text_now">Navýšit</string>
+      <string name="cloud_storage_zero_upgrade_button_text_now">Navyšte zdarma</string>
+      <string name="customize_notification_btn_text">Navýšit</string>
+      <string name="default_noti_quota_full_title">Cloudové úložiště je plné</string>
+	  <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Zbývá méně než &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> cloudového úložiště</string>
 </resources>

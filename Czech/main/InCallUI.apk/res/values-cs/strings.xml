@@ -401,4 +401,5 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
       <string name="screen_share_connecting">Připojování…</string>
       <string name="screen_share_message">Povolit druhé osobě zobrazit vaši obrazovku v reálném čase?</string>
       <string name="screen_share_refuse">Zrušit</string>
+	  <string name="high_temperature_toast">V případě ochrany před vysokou teplotou je funkce dočasně nedostupná</string>
 </resources>
