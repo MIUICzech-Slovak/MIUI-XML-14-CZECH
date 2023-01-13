@@ -175,4 +175,5 @@
       <plurals name="noti_quota_full_title_with_icon_text">
           <item quantity="other">Není místo na úložišti. Nepodařilo se synchronizovat &lt;font color=#F22424>%d aplikací&lt;/font></item>
           <item quantity="one">Není místo na úložišti. Nepodařilo se synchronizovat &lt;font color=#F22424>%d aplikaci&lt;/font></item>
+      </plurals>	      
 </resources>             
