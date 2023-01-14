@@ -8049,4 +8049,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Přetažením aplikace z postranního panelu do středu obrazovky ji otevřete v plovoucím okně nebo na stranu, chcete-li použít rozdělenou obrazovku</string>
      <string name="freeform_vedio_description_pad">Přetažením položek z doku otevřete plovoucí okna</string>
 	 <string name="embedded_window_guide_text">Když se obrazovka zobrazuje vodorovně, aplikace se budou zobrazovat navzájem paralelně. Když je tato funkce vypnutá, aplikace budou vycentrovány.</string>
+	 <string name="enterprise_mode">Firemní režim</string>
+     <string name="work_sound_permission_dialog_message">"Nemůžete používat motivy ve Firemním režimu. Chcete-li získat přístup, kontaktujte svého nadřízeného."</string>
+     <string name="work_sound_permission_dialog_title">Omezení Firemního režimu</string>
 </resources>
