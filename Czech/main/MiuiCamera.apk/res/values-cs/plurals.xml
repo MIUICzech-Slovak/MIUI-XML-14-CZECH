@@ -104,4 +104,24 @@
         <item quantity="other">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
         <item quantity="one">Dávkové snímání dokončeno, zhotoveno %1$s snímků</item>
     </plurals>
+	<plurals name="exit_camera_hint">
+         <item quantity="other">"&lt;Data>"Nelze se připojit k fotoaparátu.&lt;br>Tato aplikace bude zavřena za &lt;font color=#FFCE16>&lt;b>%1$d s&lt; /b>&lt;/font>. Potom počkejte minutu nebo dvě a zkuste to znovu."&lt;/Data>"</item>
+         <item quantity="one">"&lt;Data>"Nelze se připojit ke kameře.&lt;br>Tato aplikace bude zavřena za &lt;font color=#FFCE16>&lt;b>%1$d s&lt; /b>&lt;/font>. Potom počkejte minutu nebo dvě a zkuste to znovu."&lt;/Data>"</item>
+      </plurals>
+      <plurals name="exit_thermal_hint">
+         <item quantity="other">&lt;Data>Toto zařízení je nyní příliš horké.&lt;<br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt; /font>. Aktuální průběh se automaticky uložil.&lt;/Data></item>
+         <item quantity="one">&lt;Data>Toto zařízení je nyní příliš horké.&lt;<br>Aplikace se zavře za &lt;font color=#FFCE16>&lt;b>%1$d s&lt;/b> &lt; /font>. Aktuální průběh se automaticky uložil.&lt;/Data></item>
+      </plurals>
+      <plurals name="pad_ccc_temperature_warning_msg">
+         <item quantity="other">Vaše zařízení je přehřáté. Kamera se zavře za %d sekund. Vaše fotografie nebo videa se uloží automaticky.</item>
+         <item quantity="one">Vaše zařízení je přehřáté. Kamera se zavře za %d sekundu. Vaše fotografie nebo videa se uloží automaticky.</item>
+      </plurals>
+      <plurals name="pref_camera_fastmotion_duration_unit">
+         <item quantity="other">%1$s min</item>
+         <item quantity="one">%1$s min</item>
+      </plurals>
+      <plurals name="timer_burst_setting_total_count">
+         <item quantity="other">%1$s fotografií</item>
+         <item quantity="one">%1$s fotografie</item>
+      </plurals>
 </resources>             
