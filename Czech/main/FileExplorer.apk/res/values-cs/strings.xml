@@ -1136,4 +1136,5 @@ Zkuste přesunout soubory ze zařízení na Mi Drive."</string>
 	 <string name="recent_hide_cloud_drive_files">"Nezobrazovat soubory z Mi Drive v Nedávných"</string>
 	 <string name="reminder_card_title">Upozornění</string>
 	 <string name="manage_cloud_space">Správa cloudového úložiště</string>
+	 <string name="new_storage_info_detail">Dostupné: %1$s | Celkem: %2$s</string>
 </resources>

@@ -5,25 +5,25 @@
         <item>Praha</item>
         <item>Brno</item>
         <item>Ostrava</item>
-        <item>Plzen</item>
+        <item>Plzeň</item>
         <item>Liberec</item>
         <item>Olomouc</item>
-        <item>Usti nad Labem</item>
-        <item>Hradec Kralove</item>
-        <item>Ceske Budejovice</item>
+        <item>Ustí nad Labem</item>
+        <item>Hradec Králové</item>
+        <item>České Budějovice</item>
         <item>Pardubice</item>
-        <item>Havirov</item>
-        <item>Zlin</item>
+        <item>Havířov</item>
+        <item>Zlín</item>
         <item>Kladno</item>
         <item>Most</item>
-        <item>Karvina</item>
+        <item>Karviná</item>
         <item>Opava</item>
-        <item>Frydek-Mistek</item>
+        <item>Frýdek-Místek</item>
         <item>Karlovy Vary</item>
         <item>Jihlava</item>
         <item>Teplice</item>
-        <item>Decin</item>
-        <item>Prerov</item>
+        <item>Děčín</item>
+        <item>Přerov</item>
         <item>Jablonec nad Nisou</item>
     </string-array>
     <string-array name="indices_car_wash">
@@ -132,8 +132,8 @@
          <item>Nezdravé</item>
          <item>Velmi nezdravé</item>
          <item>Nebezpečné</item>
-      </string-array>
-	  <string-array name="aqi_value">
+    </string-array>
+    <string-array name="aqi_value">
          <item>Dobré</item>
          <item>Vyhovující</item>
          <item>Středně znečištěné</item>
@@ -141,5 +141,5 @@
          <item>Velmi špatné</item>
          <item>Závažné</item>
          <item>Za index</item>
-      </string-array>
+    </string-array>
 </resources>
