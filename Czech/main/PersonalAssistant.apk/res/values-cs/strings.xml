@@ -1237,4 +1237,21 @@ pro zobrazení widgetů."</string>
     <string name="search_filter_size_all">Všechny velikosti</string>
 	<string name="close">Vypnout</string>
 	<string name="pa_day_date">d-M</string>
+	<string name="miuix_access_state_desc">Vybráno</string>
+      <string name="miuix_alphabet_indexer_name">Indexový řádek</string>
+      <string name="miuix_indexer_collect">Sbírky</string>
+      <string name="miuix_indexer_selected">Vybráno %s</string>
+      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Obnovte tažením dolů</string>
+      <string name="miuix_sbl_tracking_progress_labe_refreshed">Úspěšně obnoveno</string>
+      <string name="miuix_sbl_tracking_progress_labe_refreshing">Obnovování…</string>
+      <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Uvolněte pro obnovení</string>
+      <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je zatím vše"</string>
+      <string name="miuix_sbl_tracking_progress_labe_up_none">"To je zatím vše"</string>
+      <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chvíli…</string>
+      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Položky nelze načíst"</string>
+      <string name="miuix_search_action_mode_cancel">Zrušit</string>
+      <string name="miuix_search_history_clear">Vymazat historii vyhledávání</string>
+      <string name="miuix_search_history_default_title">Historie vyhledávání</string>
+      <string name="miuix_search_recommendation_default_title">Mohlo by vás zajímat</string>
+      <string name="miuix_search_recommendation_item_del_des">Smazat</string>
 </resources>
