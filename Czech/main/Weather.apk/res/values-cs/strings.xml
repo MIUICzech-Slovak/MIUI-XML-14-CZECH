@@ -378,4 +378,10 @@ Zadejte město manuálně"</string>
      <string name="setting_notification_manager">Upozornění</string>
      <string name="setting_used_to_push_reminder">Dostávat varování na počasí</string>
 	 <string name="aqi_fifteen_dates_time_format">d-M</string>
+	 <string name="aqi_detail_24_hours">%d-hodinová předpověď</string>
+     <string name="aqi_detail_5_days">%d-denní předpověď</string>
+	 <string name="data_source_time_fromat">"dd/MM/yyyy'T'HH:mm:ssz"</string>
+	 <string name="news_hour_minute_time_format">dd/MM/yyyy HH:mm</string>
+	 <string name="xiaomi_weather_description_content_remove">"Počasí je systémová aplikace. Po odebrání zástupce z Domácí obrazovky nebudete moci zobrazit informace o počasí ani používat související widgety."</string>
+     <string name="xiaomi_weather_description_title_remove">Odebrat \"Počasí\" z Domácí obrazovky?</string>
 </resources>

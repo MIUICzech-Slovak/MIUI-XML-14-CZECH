@@ -798,4 +798,10 @@ Vylepšené zabezpečení."</string>
      <string name="fold_pair_install_shortcut_launcher_success">Úspěšně vytvořeno</string>
      <string name="recent_menu_item_add_pair">Vytvořte odkaz na ploše pro tuto kombinaci rozdělené obrazovky</string>
      <string name="recent_menu_item_add_pair_first_toast">Vytvořte odkaz na ploše pro tuto kombinaci rozdělené obrazovky</string>
+	 <string name="folder_picker_big_2x2_9_text">XXL</string>
+      <string name="folder_picker_big_text">Zvětšená</string>
+      <string name="folder_picker_default_text">Normální</string>
+      <string name="folder_picker_options_tab_text">Velikost</string>
+      <string name="folder_picker_sliding_button_tab_text">Navrhovat zvýrazněné aplikace</string>
+      <string name="folder_picker_tab_text">Složka</string>
 </resources>
