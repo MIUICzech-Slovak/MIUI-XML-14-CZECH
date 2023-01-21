@@ -549,6 +549,16 @@ Ujistěte se, že název vaší společnosti je správný. Před spuštěním si
       <string name="enterprise_mode">Firemní režim</string>
 	  <string name="about_ent_mode">O Firemním režimu</string>
 	  <string name="activate_ent_mode">Spustit Firemní režim</string>
-	  <string name="cta_declaration_message_format" formatted="false">Před použitím Firemního režimu si musíte přečíst a souhlasit s našimi &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font>. Aby bylo možné aktivovat Firemní režim, vaše zařízení se musí připojit k internetu. Souhlasíte?</string>
+	  <string name="cta_declaration_message_format" formatted="false">Před použitím Firemního režimu si musíte přečíst a souhlasit s &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font>. Aby bylo možné aktivovat Firemní režim, vaše zařízení se musí připojit k internetu. Souhlasíte?</string>
 	  <string name="undo_activated_dialog_message">"Odvolání souhlasu vypnete Firemní režim a provede obnovení továrních dat na vašem zařízení. Všechny související funkce již nebudou dostupné. Kromě toho společnost Xiaomi přestane shromažďovat informace požadované pro Firemní režim (IMEI, ID zařízení, verze systému, region atd.). Rádi bychom vám připomněli, že společnost Xiaomi nespravuje data, která shromažďuje pro Firemní režim. Uděláme, co bude v našich silách, abychom informovali všechny spřízněné strany, ale doporučujeme, abyste kontaktovali nadřízené vaší společnosti, aby schválili toto odvolání. Zrušit souhlas a provést obnovení továrních dat?"</string>
+	  <string name="undo_activated_dialog_ok">Odvolat</string>
+      <string name="undo_grant_dialog_message">Společnost Xiaomi přestane shromažďovat informace požadované pro tuto funkci (IMEI, ID zařízení, verze systému, region atd.), jakmile odvoláte souhlas. Odvolat nyní?</string>
+      <string name="undo_privacy_menu">Odvolání souhlasu</string>
+      <string name="undo_success">Úspěšně odvoláno</string>
+	  <string name="cta_declaration_agree_and_continue">Souhlasím</string>
+      <string name="cta_declaration_title">Smluvní podmínky</string>
+	  <string name="dialog_message_service_error">"Nepodařilo se odvolat souhlas a provést obnovení továrních dat. Zkuste to znovu."</string>
+      <string name="dialog_tip_need_network">Aby bylo možné odvolat souhlas, musí se vaše zařízení připojit k internetu.</string>
+      <string name="dialog_title_service_error">Chyba serveru</string>
+      <string name="dialog_undo_negative">"Neodvolávat"</string>
 </resources>
