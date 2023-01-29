@@ -1179,7 +1179,7 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
 	  <string name="cloud_storage_info_type_drive">MiDrive</string>
       <string name="cloud_storage_info_type_family">Rodina</string>
       <string name="copy">Kopírovat</string>
-      <string name="device_activation_card_description_china">"První aktivace se zaregistruje, když se zařízení poprvé připojí k síti (včetně, ale ne výlučně, sítí Wi-Fi a mobilních sítí). Zaregistrování první aktivace obvykle chvíli trvá, takže před kontrolou stavu aktivace je lepší počkat 3 až 5 dní po připojení k síti.&lt;<br>&lt;<br>Aktivace zařízení je hlavním faktorem při určování doby platnosti naší prodloužené záruky. opravy&lt;/a>, kde najdete další podrobnosti.&lt;br>&lt;br>Máte-li nějaké dotazy, neváhejte a zavolejte na naši horkou linku zákaznické podpory: 400-100-5678."</string>
+      <string name="device_activation_card_description_china">"První aktivace se zaregistruje, když se zařízení poprvé připojí k síti (včetně, ale ne výlučně, sítí Wi-Fi a mobilních sítí). Zaregistrování první aktivace obvykle chvíli trvá, takže před kontrolou stavu aktivace je lepší počkat 3 až 5 dní po připojení k síti.&lt;br>&lt;br>Aktivace zařízení je hlavním faktorem při určování doby platnosti naší prodloužené záruky. opravy&lt;/a>, kde najdete další podrobnosti.&lt;br>&lt;br>Máte-li nějaké dotazy, neváhejte a zavolejte na naši horkou linku zákaznické podpory: 400-100-5678."</string>
       <string name="dialog_storage_upgrade_later">Ne, děkuji</string>
       <string name="dialog_storage_upgrade_now">Inovovat</string>
       <string name="error_reset_retry_exceed_limit_with_retry">Příliš mnoho neúspěšných pokusů. Zkuste to znovu za %s.</string>
