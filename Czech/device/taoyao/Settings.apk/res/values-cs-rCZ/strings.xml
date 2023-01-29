@@ -1529,7 +1529,7 @@ Zdálo se, že ve městě nejsou koně ani jakákoli zvířata. Lidé k převá
     <string name="keywords_airplane_safe_networks">letadlo, bezpečné v letadle</string>
     <string name="keywords_alarms_and_reminders">plán, budík, připomenutí, hodiny</string>
     <string name="keywords_ambient_display">příchozí oznámení</string>
-    <string name="keywords_ambient_display_screen">Ambientní displej, vzhled obrazovky uzamčení</string>
+    <string name="keywords_ambient_display_screen">Always On displej, vzhled obrazovky uzamčení</string>
     <string name="keywords_android_version">úroveň opravy zabezpečení androidu, verze základního pásma, verze jádra</string>
     <string name="keywords_app_default">Otevřít pomocí aplikace</string>
     <string name="keywords_app_pinning">připnutí obrazovky</string>

@@ -1014,7 +1014,7 @@ Zdálo se, že ve městě nejsou koně ani jakákoli zvířata. Lidé k převá
     <string name="keyboard_shortcuts_helper_summary">Zobrazit dostupné klávesové zkratky</string>
     <string name="keywords_add_an_account">pracovní profil</string>
     <string name="keywords_ambient_display">příchozí oznámení</string>
-    <string name="keywords_ambient_display_screen">Ambientní displej, displej zámku obrazovky</string>
+    <string name="keywords_ambient_display_screen">Always On displej, displej zámku obrazovky</string>
     <string name="keywords_android_version">úroveň opravy zabezpečení androidu, verze základního pásma, verze jádra</string>
     <string name="keywords_app_default">Otevřít pomocí aplikace</string>
     <string name="keywords_applications_settings">Aplikace</string>

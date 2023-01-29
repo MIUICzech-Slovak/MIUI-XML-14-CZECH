@@ -8052,4 +8052,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 	 <string name="enterprise_mode">Firemní režim</string>
      <string name="work_sound_permission_dialog_message">"Nemůžete používat témata ve Firemním režimu. Chcete-li získat přístup, kontaktujte svého nadřízeného."</string>
      <string name="work_sound_permission_dialog_title">Omezení Firemního režimu</string>
+	 <string name="resolution_sub_title">MIUI může při přepínaní rozlíišeniaí zavřít aplikace spuštěné na pozadí</string> 
 </resources>

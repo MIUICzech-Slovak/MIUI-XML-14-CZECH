@@ -186,4 +186,11 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
       <string name="find_device_notice_sms_alert_with_common_charge_hint">"Aby bylo možné aktualizovat stav SIM karty a ujistit se, že všechny služby fungují normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
       <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Chcete-li aktualizovat stav SIM karty a zajistit, aby všechny služby fungovaly normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>tuzemská placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
       <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Chcete-li aktualizovat stav SIM karty a zajistit, aby všechny služby fungovaly normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
+    <string name="copy">Kopírovat</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Najděte přístup k telefonnímu číslu s cílem tohoto zařízení, když není připojen k internetu</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">K určení polohy tohoto zařízení, když není připojen k internetu</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">K určení polohy vašeho zařízení a přepnutí do ztraceného režimu</string>
+    <string name="expand_button_title">Rozšířené</string>
+    <string name="not_set">Nenastaveno</string>
+    <string name="preference_copied">\"%1$s\" bylo zkopírováno do schránky.</string>
 </resources>

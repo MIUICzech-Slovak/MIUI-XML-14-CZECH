@@ -522,7 +522,7 @@ Widget: %2$s
     <string name="ambient_display_category_triggers">Kdy zobrazovat</string>
     <string name="ambient_display_pickup_summary">Zvednutím telefonu si zobrazíte čas, oznámení a další informace.</string>
     <string name="ambient_display_pickup_title">Kontrola telefonu zvednutím</string>
-    <string name="ambient_display_screen_title">Ambientní displej</string>
+    <string name="ambient_display_screen_title">Always On displej</string>
     <string name="ambient_display_summary">Chcete-li zobrazit čas, oznámení a další informace, dvakrát klepněte na obrazovku.</string>
     <string name="ambient_display_tap_screen_summary">Klepnutím na obrazovku si zobrazíte čas, oznámení a další informace.</string>
     <string name="ambient_display_tap_screen_title">Kontrola telefonu klepnutím</string>
@@ -2789,7 +2789,7 @@ Svoji volbu můžete později změnit v nabídce Nastavení > Aplikace."</strin
     <string name="keywords_all_apps">aplikace, stahování, systém</string>
     <string name="keywords_always_show_time_info">vždy zapnutý displej</string>
     <string name="keywords_ambient_display">příchozí oznámení</string>
-    <string name="keywords_ambient_display_screen">Ambientní displej, vzhled obrazovky uzamčení</string>
+    <string name="keywords_ambient_display_screen">Always On displej, vzhled obrazovky uzamčení</string>
     <string name="keywords_android_version">úroveň opravy zabezpečení androidu, verze základního pásma, verze jádra</string>
     <string name="keywords_app">RAM</string>
     <string name="keywords_app_default">Otevřít pomocí aplikace</string>

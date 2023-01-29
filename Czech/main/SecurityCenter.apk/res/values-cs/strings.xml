@@ -5799,4 +5799,7 @@ Své telefonní číslo můžete změnit v Nastaveních."</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Pro smazání zpráv ze seznamu blokovaných zpráv</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pro poskytování funkcí relevantních pro vaši polohu v centru varování MIUI, Nouzové SOS, Úspoře baterie aplikací, bezpečnostního skeneru plateb a službě přibližné polohy</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro vymazání koše a provádění antivirových kontrol</string>
+    <string name="privacy_permission_desc">Podrobnosti o povoleních</string>
+    <string name="terminal_privacy">Ochrana soukromí v zařízení</string>
+    <string name="terminal_privacy_summary">Zpracovávat osobní informace v tomto zařízení</string>
 </resources>

@@ -561,4 +561,5 @@ Ujistěte se, že název vaší společnosti je správný. Před spuštěním si
       <string name="dialog_tip_need_network">Aby bylo možné odvolat souhlas, musí se vaše zařízení připojit k internetu.</string>
       <string name="dialog_title_service_error">Chyba serveru</string>
       <string name="dialog_undo_negative">"Neodvolávat"</string>
+	  <string name="xspace_notification_button">Vyzkoušet</string>
 </resources>

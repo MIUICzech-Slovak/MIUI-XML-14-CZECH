@@ -80,7 +80,7 @@ Na kl&amp;#225;vesnici a&amp;#160;naviga&amp;#269;n&amp;#237;m panelu p&amp;#345
     <string name="ambient_display_pickup_title">Kontrola telefonu zvednutím</string>
     <string name="ambient_display_screen_summary_always_on">Vždy zapnuto (zvýšené využití baterie)</string>
     <string name="ambient_display_screen_summary_notifications">Nová oznámení</string>
-    <string name="ambient_display_screen_title">Ambientní displej</string>
+    <string name="ambient_display_screen_title">Always On displej</string>
     <string name="ambient_display_suggestion_summary">Čtěte oznámení při vypnuté obrazovce</string>
     <string name="ambient_display_summary">Chcete-li zobrazit čas, ikony oznámení a další informace, dvakrát klepněte na obrazovku.</string>
     <string name="ambient_display_title">Kontrola telefonu dvojitým klepnutím</string>

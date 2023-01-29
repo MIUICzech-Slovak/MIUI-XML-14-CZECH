@@ -2153,4 +2153,8 @@ Pomocí níže uvedených tlačítek můžete upravit text, zobrazit ukázku př
       <string name="video_prompter_redo_description">Znovu</string>
       <string name="video_prompter_shrink_description">Minimalizovat</string>
       <string name="video_prompter_undo_description">Zpět</string>
+	  <string name="pref_beauty_nvs_wp_desc">Odstranit mateřská znaménka při použití efektů vyhlazení pokožky</string>
+      <string name="pref_beauty_nvs_wp_title">Odstranit znaménka</string>
+      <string name="pref_camera_suspend_shutter_button_summary">Potažením tlačítka spouště nahoru vytvořte další plovoucí spoušť</string>
+      <string name="pref_camera_suspend_shutter_button_title">Dodatečná spoušť</string>
 </resources>
