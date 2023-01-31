@@ -73,5 +73,11 @@ Vaše data budou zachována."</string>
     <string name="stable">Stabilní</string>
     <string name="version">Nainstalovaná verze</string>
     <string name="weekly">Týdenní</string>
-    <string name="wifi_recommended">Připojte se na Wi-fi síť pro stažení aktualizace!</string>
+    <string name="wifi_recommended">Připojte se k Wi-fi sítí pro stažení aktualizace!</string>
+    <string name="btn_not">Ne</string>
+    <string name="fastboot_mode">Aktualizace je možná jen ve Fastboot režimu, instalace ROM jen pomocí PC!</string>
+    <string name="menu_title_fastboot_mode">Aktual. ve Fastboot režimu</string>
+    <string name="menu_title_recovery_mode">Aktual. v Recovery režimu</string>
+    <string name="recovery_mode">Aktualizace je možná prostřednictvím Recovery, instalaci ROM lze provést v aplikaci Aktualizace!</string>
+    <string name="twrp_update_warning">Pro používání OTA aktualizací musíte potvrdit, že máte nainstalované uživatelské Recovery:</string>
 </resources>
