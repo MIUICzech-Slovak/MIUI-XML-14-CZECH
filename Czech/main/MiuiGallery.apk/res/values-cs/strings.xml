@@ -2968,4 +2968,7 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
       <string name="trash_purge_all_media">"Trvale smazat všechny položky z cloudu a všech synchronizovaných zařízení? Tuto akci nelze vrátit zpět."</string>
       <string name="super_slow_motion_enter">Super zpomalený pohyb</string>
       <string name="video_tags_enter">Zobrazit značky</string>
+	  <string name="secret_album_password_first_use_with_sms_msg">Bude použito heslo pro ochranu soukromí. Funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
+      <string name="secret_album_password_update_with_sms_dialog_msg">Heslo ochrany soukromí funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
+      <string name="secret_album_set_pc_password_with_sms_dialog_msg">Bude použito heslo pro ochranu soukromí. Funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
 </resources>
