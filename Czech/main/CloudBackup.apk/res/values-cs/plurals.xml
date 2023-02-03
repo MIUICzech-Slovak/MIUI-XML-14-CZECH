@@ -100,4 +100,8 @@
         <item quantity="other">Obnovených %d aplikací</item>
         <item quantity="one">Obnovená %d aplikace</item>
      </plurals>
+	 <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">Nezálohovali jste svoje položky už %s týdnů. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
+        <item quantity="one">Nezálohovali jste svoje položky už %s týden. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
+     </plurals>
 </resources>             

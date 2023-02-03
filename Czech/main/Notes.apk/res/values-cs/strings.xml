@@ -673,4 +673,16 @@ http://www.miuios.cz/rom
       <string name="permission_photos_desc_pad">Pro přidávání obrázků do poznámek</string>
       <string name="send_notifications_for_reminder">Pro odesílání připomínek</string>
       <string name="toast_refuse_to_use_photos_in_excerpt">Povolte této aplikaci přístup k fotkám, abyste mohli přidávat obrázky do poznámek</string>
+	  <string name="rich_text_font_first_level_description">Nadpis první úrovně</string>
+      <string name="rich_text_font_second_level_description">Nadpis druhé úrovně</string>
+      <string name="rich_text_font_third_level_description">Nadpis třetí úrovně</string>
+      <string name="rich_text_indent_left_description">Odsazení vlevo</string>
+      <string name="rich_text_indent_right_description">Odsazení vpravo</string>
+      <string name="rich_text_orderlist_description">Číslovaný seznam</string>
+      <string name="rich_text_quote_description">Citace</string>
+      <string name="rich_text_split_description">Rozdělovač</string>
+      <string name="rich_text_strikethrough_description">Přetrženo</string>
+      <string name="rich_text_tasklist_description">Úkoly</string>
+      <string name="rich_text_unorderlist_description">Seznam</string>
+      <string name="stealth_mode_tip">Jste inkognito. Nyní nelze použít mikrofon.</string>
 </resources>
