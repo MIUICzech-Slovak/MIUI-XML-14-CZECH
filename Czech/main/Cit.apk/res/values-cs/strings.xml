@@ -366,4 +366,251 @@ Otočte telefon, mluvte do hlavního mikrofonu, měli byste slyšet hlas v repro
 
 Otočte telefon, mluvte do horního mikrofonu , měli byste slyšet hlas v reproduktoru"</string>
     <string name="cit_x5_audio_lb_top_to_speaker_title">Test odezvy horního mikrofonu</string>
+	<string name="audio_spk_cal_wait">Kalibrujte, prosím...</string>
+      <string name="audio_spk_def">Proveďte kalibraci reproduktorů, prosím</string>
+      <string name="auto_frontflash_description">Všechny blesky předního fotoaparátu jsou zapnuté</string>
+      <string name="auto_frontflash_title">Test blesku předního fotoaparátu</string>
+      <string name="auto_rearflash_description">Všechny blesky zadních fotoaparátů jsou zapnuté</string>
+      <string name="auto_rearflash_title">Test blesku zadního fotoaparátu</string>
+      <string name="back_mic_check_record_tip">Nahrávání, řekněte něco do mikrofonu na zadní straně zařízení</string>
+      <string name="battery_authentic">Autentičnost baterie</string>
+      <string name="battery_id">ID baterie</string>
+      <string name="battery_plug_wirelee_title">Test bezdrátového nabíjení</string>
+      <string name="battery_plugin_wirelee">Bezdrátové nabíjení je připojeno</string>
+      <string name="battery_plugout_wirelee">Připojte bezdrátové nabíjení</string>
+      <string name="battery_reverse_wireless_charge_success">úspěšné reverzní bezdrátové nabíjení</string>
+      <string name="battery_reverse_wireless_charge_summary">test reverzního bezdrátového nabíjení</string>
+      <string name="battery_reverse_wireless_charge_time_out">vypršel časový limit reverzního bezdrátového nabíjení</string>
+      <string name="battery_reverse_wireless_charge_title">reverzní bezdrátové nabíjení</string>
+      <string name="battery_third_connector">Napětí konektoru baterie</string>
+      <string name="battery_value">Elektřina</string>
+      <string name="bottom_high_speaker_title">Test spodního výškového reproduktoru</string>
+      <string name="bottom_left_high_speaker">Test levého spodního výškového reproduktoru</string>
+      <string name="bottom_left_low_speaker">Test levého spodního basového reproduktoru</string>
+      <string name="bottom_low_speaker_title">Test spodního basového reproduktoru</string>
+      <string name="bottom_right_high_speaker">Test pravého spodního výškového reproduktoru</string>
+      <string name="bottom_right_low_speaker">Test pravého spodního basového reproduktoru</string>
+      <string name="bottom_speaker_title">Test spodního reproduktoru</string>
+      <string name="camera_capture">Zachytit</string>
+      <string name="camerainfo">Informace o kameře</string>
+      <string name="cancel">Zrušit</string>
+      <string name="charger_test_end">"
+Konec testu nabíječky, odpojte nabíječku"</string>
+      <string name="cit_OTG_plug_check_summary">Během testu zapojte zařízení USB_OTG</string>
+      <string name="cit_OTG_plug_check_title">OTG</string>
+      <string name="cit_OTG_waiting_in_charge">Nyní připojte zařízení USB OTG</string>
+      <string name="cit_OTG_waiting_out_end">Zapojte zařízení USB_OTG，ukončete test</string>
+      <string name="cit_USB3_OTG_error_condition">"Bylo zjištěno vložení zařízení OTG, ale nepodařilo se získat informace o zařízení
+  Test se nezdařil"</string>
+      <string name="cit_USB3_check_summary">Během testování je třeba vložit zařízení podporující USB 3.0</string>
+      <string name="cit_USB3_check_title">USB3.0</string>
+      <string name="cit_USB3_error_condition">"Bylo zjištěno vložení zařízení, ale nepodařilo se získat informace o zařízení
+  Test se nezdařil"</string>
+      <string name="cit_USB3_in_need_plugout">Bylo zjištěno připojené zařízení USB, vytažením zahájíte test</string>
+      <string name="cit_USB3_in_start_test">Vložte zařízení s podporou USB 3.0 a začněte testovat</string>
+      <string name="cit_USB3_plug_fail">Testovací zařízení nepodporuje USB3.0 a test se nezdařil</string>
+      <string name="cit_USB3_plug_re_plugin">"Test USB 3.0 skončil, test prosím neopakujte"</string>
+      <string name="cit_abnormal_reboot_summary">Čekejte prosím...Načítání údajů o stabilitě na tomto zařízení.</string>
+      <string name="cit_abnormal_reboot_title">Údaje o stabilitě zařízení</string>
+      <string name="cit_accdata_sensor_check_summary">Hodnoty pro X, Y, Z, souřadnice by se měly objevit níže</string>
+      <string name="cit_accdata_sensor_check_title">Akcelerometr</string>
+      <string name="cit_accelermeter_sensor_cali_title">Test kalibrace akcelerometru</string>
+      <string name="cit_action_off">Vypnuto</string>
+      <string name="cit_action_on">Zapnuto</string>
+      <string name="cit_analog_headset_plug_hint">Připojit analogová sluchátka</string>
+      <string name="cit_audio_cali_test_summary">Před kalibrací reproduktoru se ujistěte, že reproduktor nehraje</string>
+      <string name="cit_batterylight">Kontrolka baterie</string>
+      <string name="cit_batterylight_13blue">13modrá</string>
+      <string name="cit_batterylight_13green">13zelená</string>
+      <string name="cit_batterylight_13red">13červená</string>
+      <string name="cit_batterylight_24blue">24modrá</string>
+      <string name="cit_batterylight_24green">24zelená</string>
+      <string name="cit_batterylight_24red">24červená</string>
+      <string name="cit_batterylight_rgb_all">Všechny světelné efekty</string>
+      <string name="cit_batterylight_white">Bílá</string>
+      <string name="cit_bottom_left_speaker_test">Test levého dolního reproduktoru</string>
+      <string name="cit_bottom_right_speaker_test">Test pravého spodního reproduktoru</string>
+      <string name="cit_calibration_finish">Zápis kalibračních dat dokončen</string>
+      <string name="cit_camera_cali_title">Test kalibrace fotoaparátu</string>
+      <string name="cit_camera_check_summary">"Pokyny k testu:
+
+1. Klepnutím na tlačítko Fotoaparát níže vstoupíte do rozhraní náhledu fotoaparátu
+2. Klepněte na tlačítko spouště
+3. Systém po zachycení fotografii automaticky uloží
+4. Fotka, kterou jste pořídili, se musí zobrazit na obrazovce. Klepnutím na Pass dokončete test."</string>
+      <string name="cit_camera_deleted">Fotka byla smazána</string>
+      <string name="cit_camera_deleted_failed">Smazání fotky se nezdařilo</string>
+      <string name="cit_camera_flash_adjust">Upravte blesk</string>
+      <string name="cit_camera_otp_download_title">Test stahování OTP fotoaparátu</string>
+      <string name="cit_camera_rearsub">Probíhá test pomocné kamery, čekejte prosím....</string>
+      <string name="cit_camerasfr_test">Probíhá analýza obrázku, čekejte prosím....</string>
+      <string name="cit_capture_fail">Nepodařilo se pořídit snímek</string>
+      <string name="cit_charge_usb_dcp">Nabíjení：USB_DCP</string>
+      <string name="cit_charge_usb_hvdcp">Nabíjení：USB_HVDCP</string>
+      <string name="cit_charge_usb_pd">Nabíjení：USB_PD</string>
+      <string name="cit_charger_check_title">Test nabíječky</string>
+      <string name="cit_charger_in">Nabíječka připojena</string>
+      <string name="cit_charger_test_summary">"Během testu nabíječky opakovaně zapojujte nabíječku"</string>
+      <string name="cit_charger_test_tips_electric">Aktuální projekt potřebuje otestovat hodnotu nabíjecího proudu větší než 1A</string>
+      <string name="cit_charger_test_tips_hvdcp">Aktuální projekt potřebuje otestovat USB_HVDCP</string>
+      <string name="cit_charger_test_tips_pd">Aktuální zařízení potřebuje otestovat USB_PD</string>
+      <string name="cit_depth_camera_check_title">Hloubková kamera</string>
+      <string name="cit_diag_chaging_summary">Zkopírovat soubory záznamu nabíjení na sdcard</string>
+      <string name="cit_diag_chaging_title">Číst záznam nabíjení</string>
+      <string name="cit_diag_wait">Čekejte prosím... Kopírování souborů</string>
+      <string name="cit_earpiece">Sluchátko</string>
+      <string name="cit_earpiece_summary">"Uslyšíte dvě náhodná čísla
+Klikněte prosím na příslušné tlačítko podle čísla, které uslyšíte"</string>
+      <string name="cit_fp_fod_cali_title">Kalibrace otisku prstu</string>
+      <string name="cit_front_camera_motor_cali_fail">Kalibrace motoru se nezdařila</string>
+      <string name="cit_front_camera_motor_cali_success">Úspěšná kalibrace motoru</string>
+      <string name="cit_front_camera_motor_cali_tips">Neblokujte kameru během procesu kalibrace motoru výsuvné kamery</string>
+      <string name="cit_front_dual_camera_check_title">Přední bokeh fotoaparát</string>
+      <string name="cit_front_sub_camera_check_title">Přední pomocný fotoaparát</string>
+      <string name="cit_gyrodata_second_sensor_check_title">Druhý gyroskop</string>
+      <string name="cit_gyrodata_sensor_check_summary">Hodnoty pro X，Y，Z, souřadnice by se měly objevit níže</string>
+      <string name="cit_gyrodata_sensor_check_title">Gyroskop</string>
+      <string name="cit_gyroscope_sensor_cali_title">Test kalibrace gyroskopu</string>
+      <string name="cit_hall_far">daleko</string>
+      <string name="cit_hall_miui_test_summary">Když je magnet blízko zelené oblasti, obrazovka zhasne, jinak obrazovka svítí.</string>
+      <string name="cit_hall_near">blízko</string>
+      <string name="cit_hall_test_summary">Přiložte magnet blízko k zelené oblasti a po 1 sekundě oddalte</string>
+      <string name="cit_hall_test_text">Aktuální stav: %s</string>
+      <string name="cit_hall_test_title">Hall</string>
+      <string name="cit_headset_button_reverse">Vložte prosím opačně USB sluchátka</string>
+      <string name="cit_headset_left_hph_val">Hodnota impedance levého kanálu：</string>
+      <string name="cit_headset_pull_finish_test">Sluchátka odpojena, test dokončen</string>
+      <string name="cit_hvdcp_charger_in">Nabíjení přes (USB_HVDCP)</string>
+      <string name="cit_keyboard_auto_test_summary">Klíčové události, které mají být testovány, jsou uvedeny níže a zelená barva znamená, že odpovídající klíčové události jsou normální. Stisknutím vypínače se vrátíte do režimu auto_test_mode.</string>
+      <string name="cit_led_selected">Aktuálně vybrané：</string>
+      <string name="cit_macro_camera_check_title">Makro kamera</string>
+      <string name="cit_magnetic_info_hint">Otáčejte zařízením do tvaru 8</string>
+      <string name="cit_nfc_check_enable_tip">Spustit testovací prostředí NFC</string>
+      <string name="cit_nfc_check_summary">"Kliknutím na tlačítko spusťte NFC a poté vložte kartu na horní část zadní strany zařízení.
+Během testu nevypínejte obrazovku"</string>
+      <string name="cit_nfc_check_tip">Umístěte kartu na horní část zadní strany zařízení</string>
+      <string name="cit_nfc_check_title">Test NFC</string>
+      <string name="cit_no_sim_check_title">Žádná SIM karta</string>
+      <string name="cit_proximity_data_check_summary">"Infračervený senzor vzdálenosti: Zakryjte senzor vzdálenosti rukou a poté jej odkryjte.
+  Ultrazvukový senzor vzdálenosti: Simulujte prosím činnost přiložení zařízení k uchu.
+  Pokud se během testování ukazuje při přiblížení hodnota 0,0 a při oddálení hodnota 5,0 je test úspěšný, jinak test selže."</string>
+      <string name="cit_proximity_sensor_cali_title">Test kalibrace senzoru přiblížení</string>
+      <string name="cit_rear_dual_camera_check_title">Bokeh kamera</string>
+      <string name="cit_rear_dual_second_camera_check_title">Kamera Bokeh2</string>
+      <string name="cit_tele_camera_check_title">Telefonní kamera</string>
+      <string name="cit_test_results">HystorieVýsledkůTestů</string>
+      <string name="cit_tfcard_available_szie">Dostupná velikost</string>
+      <string name="cit_tfcard_mounted">Detekce karty SDC</string>
+      <string name="cit_tfcard_support_summary">Zkontrolujte, zda je na tomto zařízení podporována karta TFCard</string>
+      <string name="cit_tfcard_support_title">Podpora TFCard</string>
+      <string name="cit_tfcard_total_size">Celková velikost</string>
+      <string name="cit_tfcard_unmounted">SD karta není k dispozici</string>
+      <string name="cit_tool_nfc_test_title">Nástroj pro testování NFC</string>
+      <string name="cit_tool_select_all">Vybrat vše</string>
+      <string name="cit_tool_select_none">Nevybrat žádné</string>
+      <string name="cit_tool_select_opposite">Vyberte opak</string>
+      <string name="cit_tool_switch_autosms">Povolit/Zakázat AutoSMSReg</string>
+      <string name="cit_tool_wlan">Nástroj na testování Wi-Fi</string>
+      <string name="cit_top_left_speaker_test">Test levého horního reproduktoru</string>
+      <string name="cit_top_right_speaker_test">Test pravého horního reproduktoru</string>
+      <string name="cit_torch">Blesk</string>
+      <string name="cit_torch_first">První záblesk</string>
+      <string name="cit_torch_second">Druhý záblesk</string>
+      <string name="cit_touch_fw_mode">Režim FW</string>
+      <string name="cit_touch_panel_nead_pencil_tip">Pro testování znovu použijte tužku</string>
+      <string name="cit_touch_panel_test_title">Dotykový senzor</string>
+      <string name="cit_touch_work_mode_test_help">"Pokyny k obsluze
+kliknutím na tlačítko přepnete dotykový režim na režim THP nebo FW"</string>
+      <string name="cit_touch_work_mode_test_title">Test přepínání režimu THP dotykem</string>
+      <string name="cit_touch_work_summary">Dotykem přepínáte režim THP</string>
+      <string name="cit_touch_work_switch_tips">Nedotýkejte se obrazovky a počkejte na dokončení přepínání režimu</string>
+      <string name="cit_ultra_camera_check_title">Ultra kamera</string>
+      <string name="cit_usb_OTG_error_condition">"Zařízení USB je připojeno, ale nemůže získat informace o zařízení
+test se nezdařil!"</string>
+      <string name="cit_usb_OTG_in_charge">Bylo zjištěno zařízení USB OTG</string>
+      <string name="cit_usb_OTG_in_need_plugout">USB_OTG je zapojeno, nejprve jej prosím odpojte</string>
+      <string name="cit_usb_OTG_plug_in_start_test">Zapojte zařízení USB_OTG a začněte testovat</string>
+      <string name="cit_usb_OTG_plug_out_test_complete">USB_OTG odpojeno, test dokončen</string>
+      <string name="cit_usb_OTG_plug_re_plugin">Test USB_OTG je dokončen, není třeba opakovat</string>
+      <string name="cit_vibrator_check">Test vibrací</string>
+      <string name="cit_x_tele_camera_check_title">Super Tele kamera</string>
+      <string name="close_third_color_led">Vypnout tříbarevnou LED diodu</string>
+      <string name="cold_light_title">Studené světlo</string>
+      <string name="current_angle">Aktuální úhel:</string>
+      <string name="dispaly_sar_sensor_values">Zobrazit všechny aktuální hodnoty senzoru</string>
+      <string name="display_test_finish">Test obrazovky dokončen</string>
+      <string name="fingerprint_input_title">Test otisku prstu</string>
+      <string name="firstplug_mic_check_record_tip">Zastavte záznam, po připojení sluchátek potvrďte výsledek</string>
+      <string name="fod_check_start_error">"Nelze spustit program kontroly senzoru
+Test se nezdařil!"</string>
+      <string name="fod_check_summary">"Pokyny k testu:
+Automatický test na základě typu senzoru
+Založte výsledek testu kliknutím na tlačítko „úspěšný nebo neúspěšný“</string>
+      <string name="fod_check_title">Kontrola snímače otisků prstů</string>
+      <string name="fod_check_unknown_sensor_type">"Neznámý typ snímače
+Test se nezdařil!"</string>
+      <string name="fod_fingerprint_input_description">Test zadávání otisků prstů v displeji</string>
+      <string name="fod_fingerprint_input_title">Test zadávání otisků prstů</string>
+      <string name="front_mic_check_record_tip">Nahrávání, řekněte něco do mikrofonu na přední straně zařízení</string>
+      <string name="headset_press">Stiskněte</string>
+      <string name="headset_record">Nahrávání, řekněte něco do náhlavní headsetu a nahrávání se do 3 sekund zastaví</string>
+      <string name="headset_test">Test headsetu</string>
+      <string name="headset_test_tips">Tímto se otestuje připojení , odpojení headsetu, mikrofon a tlačítko headsetu</string>
+      <string name="headset_unplug_check_tip">Zapojte headset</string>
+      <string name="interval_vibrator">Intervalové vibrace</string>
+      <string name="keyboard">Tlačítka</string>
+      <string name="keyboard_vibrator_test">Test tlačítek</string>
+      <string name="main_mic_check_record_tip">Nahrávání, řekněte prosím něco do hlacního mikrofonu zařízení</string>
+      <string name="mic1_spk_loop">Mikrofonní smyčka</string>
+      <string name="mic_check_rm_headset_tip">Nejprve sejměte sluchátka a nahrajte zvuk.</string>
+      <string name="mic_tip">Prosím, udělejte hluk na mikrofon. Po připojení headsetu si poslechněte zvuk ve sluchátcích</string>
+      <string name="mic_volume_height_tip">Test hlasitosti mikrofonu uspěšný</string>
+      <string name="mic_volume_low_tip">Test hlasitosti mikrofonu neprošel. Při nahrávání vydávejte hlasitější zvuk</string>
+      <string name="motor_calibration">Kalibrace motoru</string>
+      <string name="nfc_disable_tip">Zapněte prosím funkci NFC</string>
+      <string name="nfc_not_available">NFC není k dispozici</string>
+      <string name="no_vibrator">Žádný vibrátor</string>
+      <string name="open_third_color_led">Zapnout tříbarevnou LED</string>
+      <string name="plugout_and_reverse_plugin">"
+Odpojte nabíječku a opět ji zapojte."</string>
+      <string name="pop_camera">Vysunout kameru</string>
+      <string name="pop_push_camera_test_summary">"Klikněte na tlačítko Vysunout kameru a podívejte se, zda se kamera vysune
+Klikněte na tlačítko Zasunout kameru a podívejte se, zda se kamera zasune"</string>
+      <string name="pop_push_camera_test_title">Test vysunutí a zasunutí kamery</string>
+      <string name="push_camera">Zasunout kameru</string>
+      <string name="receiver_off">Sluchátko vypnuto</string>
+      <string name="receiver_on">Sluchátko zapnuto</string>
+      <string name="receiver_on_off_tips">Přepínač zapnutí/vypnutí sluchátka</string>
+      <string name="sidebottom_mic_check_record_tip">Nahrávání, řekněte něco do mikrofonu ve spodní části zařízení</string>
+      <string name="sidetop_mic_check_record_tip">Nahrávání, řekněte něco do mikrofonu na boční straně zařízení</string>
+      <string name="soft_light_title">Měkké světlo</string>
+      <string name="speak_from_mic">Hovoříte-li do mikrofonu, reproduktor přehrává. Posuďte, zda je slyšet zvuk.</string>
+      <string name="temperature">Teplota</string>
+      <string name="test_back_mic">Zadní mikrofon</string>
+      <string name="test_bottom_speaker">Spodní_reproduktor</string>
+      <string name="test_front_mic">Přední mikrofon</string>
+      <string name="test_main_mic">Hlavní mikrofon</string>
+      <string name="test_sidebottom_mic">Boční mikrofon</string>
+      <string name="test_sidetop_mic">Horní boční mikrofon</string>
+      <string name="test_speaker">Reproduktor</string>
+      <string name="test_speaker_summary">"Uslyšíte dvě náhodná čísla
+Klikněte prosím na příslušné tlačítko podle čísla, které uslyšíte"</string>
+      <string name="test_top_mic">Horní mikrofon</string>
+      <string name="test_top_speaker">Horní reproduktor</string>
+      <string name="testing">Probíhá automatický test...</string>
+      <string name="tips_not_placed_right_angle">Zařízení není umístěno v pravém úhlu</string>
+      <string name="tips_show_current_angle">Zobrazit aktuální úhel</string>
+      <string name="tips_show_current_sar_sensor_data">Zobrazit aktuální data senzoru</string>
+      <string name="top_high_speaker_title">Test horního výškového reproduktoru</string>
+      <string name="top_left_high_speaker">Test levého horního výškového reproduktoru</string>
+      <string name="top_left_low_speaker">Test levého horního basového reproduktoru</string>
+      <string name="top_low_speaker_title">Test horního basového reproduktoru</string>
+      <string name="top_mic_check_record_tip">Nahrávání, řekněte něco do mikrofonu v horní části zařízení</string>
+      <string name="top_right_high_speaker">Test pravého horního výškového reproduktoru</string>
+      <string name="top_right_low_speaker">Test pravého horního basového reproduktoru</string>
+      <string name="top_speaker_title">Test horních reproduktorů</string>
+      <string name="touch_auto">Probíhá samotest dotykového panelu, čekejte prosím....</string>
+      <string name="vibrator_change">Vyberte režim vibrací</string>
+      <string name="waiting">Čekejte 4 s.</string>
+      <string name="warm_light_title">Teplé světlo</string>
 </resources>
