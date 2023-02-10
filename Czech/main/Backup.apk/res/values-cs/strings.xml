@@ -929,4 +929,5 @@ Velikost aktualizace delta: %2$s"</string>
       <string name="broken_screen_rescue_service_turn_off_confirm">Chcete nyní vypnout zálohování s poškozenou obrazovkou?</string>
       <string name="broken_screen_rescue_service_turn_on">Zapnout</string>
       <string name="broken_screen_rescue_service_turn_on_confirm">Chcete nyní zapnout zálohování s poškozenou obrazovkou?</string>
+	  <string name="backup_for_broken_screen">Zálohovat s rozbitou obrazovkou</string>
 </resources>

@@ -538,4 +538,8 @@ Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních �
 	 <string name="congratulation_pre_label">Načítání...</string>
      <string name="congratulation_pre_title">Příprava systému...</string>
 	 <string name="miui14_start_up_slogan">Vše je nastaveno!</string>
+	 <string name="other_settings_alarm_assistance">Nouzová poloha</string>
+      <string name="other_settings_alarm_assistance_privacy">Zásady ochrany osobních údajů</string>
+      <string name="other_settings_alarm_assistance_summary">"Informace o své poloze můžete policii odeslat pomocí SMS nebo mobilních dat automaticky, když voláte na číslo 110, 120, 119 nebo 122. Přečtěte si naší &lt;a href=\" %1$s\ ">Uživatelskou smlouvu&lt;/a> a &lt;a href=\"%2$s\">Zásady ochrany osobních údajů&lt;/a> před použitím této funkce."</string>
+      <string name="other_settings_alarm_assistance_user">Smlouva s uživatelem</string>
 </resources>
