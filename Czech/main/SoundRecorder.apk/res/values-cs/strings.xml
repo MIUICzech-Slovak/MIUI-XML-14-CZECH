@@ -402,4 +402,15 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
      <string name="reg_error_server">Došlo k chybě serveru. Zkuste to znovu.</string>
      <string name="reg_error_upload_audio">Soubor se nepodařilo nahrát, zkuste to znovu.</string>
      <string name="reg_error_upload_order">Nepodařilo se nahrát, zkuste to znovu.</string>
+	 <string name="permission_notification_description">Pro odesílání upozornění při nahrávání, přehrávání a stahování obsahu</string>
+      <string name="permission_notification_dialog_description">Pro odesílání upozornění na aktuální stav aplikace</string>
+      <string name="permission_notification_title">Je vyžadováno povolení</string>
+      <string name="record_scenes_summaries_HD">Technologie vysokého dynamického rozsahu umožňuje mikrofonu zachytit detailnější zvuk</string>
+      <string name="record_scenes_summaries_interview">Umístěte telefon mezi %d lidí, abyste jasně zaznamenali jejich rozhovor</string>
+      <string name="record_scenes_summaries_music">Nahrávejte hudbu v lepší kvalitě</string>
+      <string name="record_scenes_summaries_stereo_HD">Technologie vysokého dynamického rozsahu umožňuje mikrofonu zachytit detailnější zvuk</string>
+      <string name="record_scenes_summaries_stereo_interview">Umístěte telefon mezi %d lidí, abyste jasně zaznamenali jejich rozhovor</string>
+      <string name="record_scenes_summaries_stereo_music">Nahrávejte přes %d kanálů, poslouchejte stereo zvuk ve sluchátkách</string>
+      <string name="record_scenes_summaries_stereo_voice">Pro lepší kvalitu přesuňte mikrofon blíže ke zdroji zvuku</string>
+      <string name="record_scenes_summaries_voice">Pro lepší kvalitu přesuňte mikrofon blíže ke zdroji zvuku</string>
 </resources>

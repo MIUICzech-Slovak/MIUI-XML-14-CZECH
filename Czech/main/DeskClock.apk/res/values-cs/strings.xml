@@ -594,4 +594,23 @@ d MMM"</string>
 d.MM."</string>
      <string name="miui_lock_screen_large_date_12">"EEE
 d.MM."</string>
+     <string name="alarm_in_furture_new">Budík za méně než %d minutu</string>
+      <string name="alarm_set_new">Budík se spustí za méně než %d minutu.</string>
+      <string name="auto_silence_entries1">Nikdy</string>
+      <string name="bedtime_sleep_time_remind_new">Připomeneme vám, že máte jít spát %d minut před tímto časem</string>
+      <string name="life_post_setting_open_summary_new">Zahrnout informace o počasí do prvního budíku vypnutého mezi %1$s a %2$s</string>
+      <string name="module_weather_ringtone_download_data_new">Budik vybírá různé vyzváněcí tóny podle aktuálního počasí. Hodiny potřebují stáhnout ≈%d MB soubor, aby fungovaly. Stáhnout nyní?</string>
+      <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Budik vybírá různé vyzváněcí tóny podle aktuálního počasí. Hodiny se musí připojit k internetu, aby mohly stáhnout ≈ MB zvuku. Před použitím aplikace Hodiny si také musíte přečíst a vyjádřit souhlas s našími &lt;a href=\"%1$s\">Smlouvou s uživatelem&lt;/a> a &lt;a href=\"%2$s\">Zásadami ochrany osobních údajů&lt;/a>. Souhlasíte?</Data></string>
+      <string name="module_weather_ringtone_update_data_new">Alarm počasí nyní přichází s hudbou na pozadí a lepšími hlasovými oznámeními. Hodiny potřebují stáhnout ≈%d MB zvuku, aby fungovaly. Stáhnout nyní?</string>
+      <string name="module_week_ringtone_download_data_new">Přírodní alarm přehrává různé zvuky v závislosti na datu. Hodiny potřebují stáhnout ≈%d MB zvuku, aby fungovaly. Stáhnout nyní?</string>
+      <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Přírodní alarm přehrává různé zvuky v závislosti na datu. Hodiny se musí připojit k internetu, aby mohly stáhnout ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvuku. Před použitím aplikace Hodiny si také musíte přečíst a vyjádřit souhlas s našimi &lt;a href=\"%1$s\">Smlouvou s uživatelem&lt;/a> a &lt;a href=\"%2$s\">Zásadami ochrany osobních údajů&lt;/a>. Souhlasíte?</Data></string>
+      <string name="module_week_ringtone_update_data_new">Přírodní alarm přehrává různé zvuky v závislosti na datu. Hodiny potřebují stáhnout ≈%d MB zvuku, aby fungovaly. Stáhnout nyní?</string>
+      <string name="module_white_noise_download_data_new">Hodiny potřebují stáhnout zvukové soubory pro časovače okolního hluku. K tomuto stažení bude zapotřebí ≈%d MB vašich mobilních dat. Stáhnout nyní?</string>
+      <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>"Pro stažení zvukových souborů pro časovače okolního hluku (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) a poskytování přizpůsobené služby, se musí Hodiny připojit k internetu. Před použitím Hodin si také musíte přečíst a vyjádřit souhlas s našimi &lt;a href=\"%1$s\">Smlouvou s uživatelem&lt;/a> a &lt;a href= \"%2$s\">Zásadymi ochrany osobních údajů&lt;/a>. Nyní používáte mobilní data. Souhlasíte?"</Data></string>
+      <string name="notification_adv_time_entries1">V nastaveném čase</string>
+      <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minut předem</string>
+      <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minut předem</string>
+      <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hodinu předem</string>
+      <string name="notification_adv_time_entries5">Žádné</string>
+      <string name="sleep_duration_recommendation_new" formatted="false">Většina lidí potřebuje %d až %d hodin spánku za noc</string>
 </resources>

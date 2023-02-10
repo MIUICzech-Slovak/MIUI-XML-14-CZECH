@@ -18,36 +18,36 @@
     <string name="cit_audio_cali_playing">Stiskněte pro kalibraci</string>
     <string name="cit_audio_cali_summary">Kalibrovat reproduktor</string>
     <string name="cit_audio_cali_title">Kalibrace reproduktoru</string>
-    <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
-    <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Test zadního mikrofonu do reproduktoru</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Test hlavního mikrofonu do sluchátka</string>
     <string name="cit_audio_lb_phonecall_title">Simulace hovoru</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Test zpětné vazby od mikrofonu do reproduktoru.
 
-Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
+Otočte telefon, mluvte na zadní mikrofon , měli byste slyšet hlas v reproduktoru"</string>
+     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test zpětné vazby mezi hlavním mikrofonem do sluchátka.
 
-Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
-    <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
+Držte telefon, jako byste telefonovali, mluvte do hlavního mikrofonu, měli byste slyšet hlas ve sluchátku"</string>
+     <string name="cit_audio_lb_summary_phonecall">"Test simulačního volání.
 
-Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+Držte telefon, jako byste telefonovali, mluvte do hlavního mikrofonu, měli byste slyšet hlas ve sluchátku. Proveďte test v tichém prostředí"</string>
+     <string name="cit_audio_lb_summary_topmic_to_speaker">"Test zpětné vazby mezi horním mikrofonem a reproduktorem.
 
- Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
-    <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
-    <string name="cit_audio_loopback_check_one_title">Test mikrofonu přijmout zvuk</string>
-    <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
+Otočte telefon, mluvte do horního mikrofonu, měli byste slyšet hlas v reproduktoru"</string>
+     <string name="cit_audio_lb_topmic_to_speaker_title">Test horního mikrofonu do reproduktoru</string>
+     <string name="cit_audio_loopback_check_one_title">Test mikrofonu přijmout zvuk</string>
+     <string name="cit_audio_loopback_check_summary_first">"Test zpětné vazby přijmu hlavního mikrofonu
 
-Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
-    <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
+Držte telefon, jako byste telefonovali, mluvte do mikrofonu a měli byste slyšet váš hlas ve sluchátku."</string>
+     <string name="cit_audio_loopback_check_summary_second">"Test zpětné vazby reproduktoru sekundárního mikrofonu.
 
-Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
-    <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
+Otočte telefon tak, aby vstup pro sluchátka směřoval dolů. Mluvte do sluchátka. Měli byste slyšet svůj hlas přehrávaný z externího reproduktoru."</string>
+     <string name="cit_audio_loopback_check_two_title">Test zpětné vazby reproduktoru sekundárního mikrofonu</string>
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test zvuku při hovoru</string>
     <string name="cit_audio_loopback_next">Další</string>
     <string name="cit_audio_loopback_previous">Předchozí</string>
-    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
+    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test redukce okolního hluku
 
-Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
+Držte telefon, jako byste přijímali hovor, mluvte do mikrofonu. Měli byste slyšet svůj hlas se sníženým šumem na pozadí přehrávaným přes přijímač."</string>
     <string name="cit_battery_temp_fail">Test baterie selhal s (hodnota=%d)</string>
     <string name="cit_battery_temp_pass">Test baterie úspěšný</string>
     <string name="cit_batterylight_blue">Modrá</string>
@@ -69,11 +69,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
     <string name="cit_button_light_on">Zapnout podsvícení tlačítek</string>
     <string name="cit_calibration_fail">Kalibrace selhala</string>
     <string name="cit_calibration_pass">Kalibrace úspěšná</string>
-    <string name="cit_camera_calibration_summary">"Test instructions:
+    <string name="cit_camera_calibration_summary">"Pokyny k testu:
 
-1.Tap the calibration button below to enter Camera interface
-2.Press Back button to exit the camera interface
-3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
+1. Klepnutím na tlačítko kalibrace níže vstoupíte do rozhraní fotoaparátu
+2. Stisknutím tlačítka Zpět opustíte rozhraní fotoaparátu
+3. Bude zde štítek pro kalibraci, který bude indikovat, že OIS byl zkalibrován"</string>
     <string name="cit_camera_sdcard_error">SD karta je plná. Nelze uložit obrázky.</string>
     <string name="cit_charger_plugin_check_summary">Zkontrolovat stav nabíjení</string>
     <string name="cit_charger_plugin_check_title">Test Připojení nabíječky</string>
@@ -253,41 +253,10 @@ Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
     <string name="cit_tool_nfc_st_run">Spustit</string>
     <string name="cit_tool_nfc_st_stop">Zastavit</string>
     <string name="cit_tool_wifi">Testovat Wi-Fi</string>
-    <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
-    <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
-    <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
-    <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
-    <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
-    <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
-    <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
-    <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
-    <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
-    <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
-    <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
-    <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
-    <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
-    <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
-    <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
-    <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
     <string name="cit_tool_wifi_band_24">síť: 2.4G</string>
     <string name="cit_tool_wifi_band_5">síť: 5G</string>
     <string name="cit_tool_wifi_band_change">Další</string>
     <string name="cit_tool_wifi_exit">Ukončit</string>
-    <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
-    <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
-    <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
-    <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
-    <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
-    <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
-    <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
-    <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
-    <string name="cit_tool_wifi_rx_1">Rx:1</string>
-    <string name="cit_tool_wifi_rx_100">Rx:100</string>
-    <string name="cit_tool_wifi_rx_13">Rx:13</string>
-    <string name="cit_tool_wifi_rx_165">Rx:165</string>
-    <string name="cit_tool_wifi_rx_36">Rx:36</string>
-    <string name="cit_tool_wifi_rx_7">Rx:7</string>
-    <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
     <string name="cit_tool_wifi_rx_ap_name">Jméno Wi-Fi sítě</string>
     <string name="cit_tool_wifi_rx_ap_not_null">Název Wi-Fi sítě nemůže být prázdný</string>
     <string name="cit_tool_wifi_rx_ap_type">Typ připojení Wi-Fi</string>
@@ -301,10 +270,10 @@ Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
     <string name="cit_tool_wifi_rx_stop">Zastavit</string>
     <string name="cit_tool_wifi_rx_total_format">Přeneseno: %s</string>
     <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
-    <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
+    <string name="cit_tool_wifi_rxbg_test_channel">kanál:</string>
     <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
     <string name="cit_tool_wifi_rxn_test">Rx:N</string>
-    <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
+    <string name="cit_tool_wifi_rxn_test_channel">kanál:</string>
     <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
     <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
     <string name="cit_tool_wifi_tx_bg_chan">Kanál:</string>
