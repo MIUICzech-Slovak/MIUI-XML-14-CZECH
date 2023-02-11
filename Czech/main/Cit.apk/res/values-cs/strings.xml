@@ -82,7 +82,7 @@ Držte telefon, jako byste přijímali hovor, mluvte do mikrofonu. Měli byste s
     <string name="cit_charger_waiting_in">Připojte nabíječku</string>
     <string name="cit_charger_waiting_out">Odpojte nabíječku</string>
     <string name="cit_display_check_summary">Test zobrazí obrázek, prosím vložte .bmp soubor na SD kartu</string>
-    <string name="cit_display_check_title">Test Displeje</string>
+    <string name="cit_display_check_title">Test displeje</string>
     <string name="cit_display_continue">Pro spuštění testování klepněte na displej</string>
     <string name="cit_exit_test_summary">Ukončení aktivních testů ztratí všechna naměřená data. Jste si jisti, že je chcete ukončit?</string>
     <string name="cit_exit_test_title">Zastavit test</string>
@@ -253,6 +253,37 @@ Zkopírujte soubor na SD kartu a spusťte test znovu.</string>
     <string name="cit_tool_nfc_st_run">Spustit</string>
     <string name="cit_tool_nfc_st_stop">Zastavit</string>
     <string name="cit_tool_wifi">Testovat Wi-Fi</string>
+	<string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
+     <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
+     <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
+     <string name="cit_tool_wifi_5g_100d">Tx:100/MCS7/13dBm</string>
+     <string name="cit_tool_wifi_5g_165a">Tx:165/6M/13dBm</string>
+     <string name="cit_tool_wifi_5g_165b">Tx:165/54M/13dBm</string>
+     <string name="cit_tool_wifi_5g_165c">Tx:165/MCS0/13dBm</string>
+     <string name="cit_tool_wifi_5g_165d">Tx:165/MCS7/13dBm</string>
+     <string name="cit_tool_wifi_5g_36a">Tx:36/6M/13dBm</string>
+     <string name="cit_tool_wifi_5g_36b">Tx:36/54M/13dBm</string>
+     <string name="cit_tool_wifi_5g_36c">Tx:36/MCS0/13dBm</string>
+     <string name="cit_tool_wifi_5g_36d">Tx:36/MCS7/13dBm</string>
+     <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
+     <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
+     <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
+     <string name="cit_tool_wifi_b_1b">Tx:1/11M/15dBm</string>
+     <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
+     <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
+     <string name="cit_tool_wifi_g_1a">Tx:1/6M/13dBm</string>
+     <string name="cit_tool_wifi_g_1b">Tx:1/54M/13dBm</string>
+     <string name="cit_tool_wifi_n_13a">Tx:13/MCS0/11dBm</string>
+     <string name="cit_tool_wifi_n_13b">Tx:13/MCS7/11dBm</string>
+     <string name="cit_tool_wifi_n_1a">Tx:1/MCS0/11dBm</string>
+     <string name="cit_tool_wifi_n_1b">Tx:1/MCS7/11dBm</string>
+     <string name="cit_tool_wifi_rx_1">Rx:1</string>
+     <string name="cit_tool_wifi_rx_100">Rx:100</string>
+     <string name="cit_tool_wifi_rx_13">Rx:13</string>
+     <string name="cit_tool_wifi_rx_165">Rx:165</string>
+     <string name="cit_tool_wifi_rx_36">Rx:36</string>
+     <string name="cit_tool_wifi_rx_7">Rx:7</string>
+     <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
     <string name="cit_tool_wifi_band_24">síť: 2.4G</string>
     <string name="cit_tool_wifi_band_5">síť: 5G</string>
     <string name="cit_tool_wifi_band_change">Další</string>
@@ -462,7 +493,7 @@ Během testu nevypínejte obrazovku"</string>
       <string name="cit_no_sim_check_title">Žádná SIM karta</string>
       <string name="cit_proximity_data_check_summary">"Infračervený senzor vzdálenosti: Zakryjte senzor vzdálenosti rukou a poté jej odkryjte.
   Ultrazvukový senzor vzdálenosti: Simulujte prosím činnost přiložení zařízení k uchu.
-  Pokud se během testování ukazuje při přiblížení hodnota 0,0 a při oddálení hodnota 5,0 je test úspěšný, jinak test selže."</string>
+  Pokud se během testování ukazuje při přiblížení hodnota 0.0 a při oddálení hodnota 5.0 je test úspěšný, jinak test selže."</string>
       <string name="cit_proximity_sensor_cali_title">Test kalibrace senzoru přiblížení</string>
       <string name="cit_rear_dual_camera_check_title">Bokeh kamera</string>
       <string name="cit_rear_dual_second_camera_check_title">Kamera Bokeh2</string>
@@ -487,7 +518,7 @@ Během testu nevypínejte obrazovku"</string>
       <string name="cit_torch_second">Druhý záblesk</string>
       <string name="cit_touch_fw_mode">Režim FW</string>
       <string name="cit_touch_panel_nead_pencil_tip">Pro testování znovu použijte tužku</string>
-      <string name="cit_touch_panel_test_title">Dotykový senzor</string>
+      <string name="cit_touch_panel_test_title">Test dotykové plochy</string>
       <string name="cit_touch_work_mode_test_help">"Pokyny k obsluze
 kliknutím na tlačítko přepnete dotykový režim na režim THP nebo FW"</string>
       <string name="cit_touch_work_mode_test_title">Test přepínání režimu THP dotykem</string>
@@ -514,7 +545,7 @@ test se nezdařil!"</string>
 Test se nezdařil!"</string>
       <string name="fod_check_summary">"Pokyny k testu:
 Automatický test na základě typu senzoru
-Založte výsledek testu kliknutím na tlačítko „úspěšný nebo neúspěšný“</string>
+Uložte výsledek testu kliknutím na tlačítko „Úspěšné nebo Selhalo“</string>
       <string name="fod_check_title">Kontrola snímače otisků prstů</string>
       <string name="fod_check_unknown_sensor_type">"Neznámý typ snímače
 Test se nezdařil!"</string>
@@ -538,7 +569,8 @@ Test se nezdařil!"</string>
       <string name="motor_calibration">Kalibrace motoru</string>
       <string name="nfc_disable_tip">Zapněte prosím funkci NFC</string>
       <string name="nfc_not_available">NFC není k dispozici</string>
-      <string name="no_vibrator">Žádný vibrátor</string>
+      <string name="no_vibrator">Žádné vibrace</string>
+	  <string name="continue_vibrator">Nepřetržité vibrace</string>
       <string name="open_third_color_led">Zapnout tříbarevnou LED</string>
       <string name="plugout_and_reverse_plugin">"
 Odpojte nabíječku a opět ji zapojte."</string>
@@ -556,7 +588,7 @@ Klikněte na tlačítko Zasunout kameru a podívejte se, zda se kamera zasune"</
       <string name="speak_from_mic">Hovoříte-li do mikrofonu, reproduktor přehrává. Posuďte, zda je slyšet zvuk.</string>
       <string name="temperature">Teplota</string>
       <string name="test_back_mic">Zadní mikrofon</string>
-      <string name="test_bottom_speaker">Spodní_reproduktor</string>
+      <string name="test_bottom_speaker">Spodní reproduktor</string>
       <string name="test_front_mic">Přední mikrofon</string>
       <string name="test_main_mic">Hlavní mikrofon</string>
       <string name="test_sidebottom_mic">Boční mikrofon</string>
@@ -579,7 +611,7 @@ Klikněte prosím na příslušné tlačítko podle čísla, které uslyšíte"<
       <string name="top_right_low_speaker">Test pravého horního basového reproduktoru</string>
       <string name="top_speaker_title">Test horních reproduktorů</string>
       <string name="touch_auto">Probíhá samotest dotykového panelu, čekejte prosím....</string>
-      <string name="vibrator_change">Vyberte režim vibrací</string>
+      <string name="vibrator_change">Uveďte režim vibrací</string>
       <string name="waiting">Čekejte 4 s.</string>
       <string name="warm_light_title">Teplé světlo</string>
 </resources>
