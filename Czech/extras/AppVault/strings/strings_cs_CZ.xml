@@ -144,4 +144,10 @@
 	<string name="widget_browser_search">Vyhledávání</string>
 	<string name="widget_browser_search_desc">Prohledávejte web jedním klepnutím</string>
 	<string name="widget_browser_shortcuts_desc">Základní funkce na dosah ruky</string>
+	<string name="app_mivideo">Mi Video</string>
+	<string name="widget_browser_search_desc">Hledejte na webu jedním dotykem</string>
+	<string name="widget_browser_search">Hledat</string>
+	<string name="widget_browser_shortcuts_desc">Základní funkce na dosah ruky</string>
+	<string name="widget_mivideo_local_desc">Rýchlý přístup k lokálním audio a video souborům</string>
+	<string name="widget_mivideo_local">Lokální videa</string>
 </resources>

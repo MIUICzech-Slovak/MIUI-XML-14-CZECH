@@ -2875,7 +2875,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
       <string name="sns_bind_limit">Příliš mnoho pokusů. Vyzkoušejte jiné způsoby přihlášení.</string>
       <string name="sns_sign_in">Jiné způsoby přihlášení</string>
       <string name="stop_migration_msg">"Pokud jej nyní zastavíte, přenos nebudete moci obnovit. Pokud se rozhodnete přenos zastavit, můžete navštívit stránku i.mi.com a stáhnout si položky, které jsou stále uloženy v Xiaomi Cloud ."</string >
-      <string name="stop_migration_ok">Zastavit</string>
+
       <string name="stop_migration_title">Zastavit přenos nyní?</string>
       <string name="stop_use_secret_cancel">Později</string>
       <string name="stop_use_secret_msg">"Vaše fotografie a videa se již nesynchronizují se službou Xiaomi Cloud. Nebudete moci používat své soukromé album, protože se spoléhá na cloudové šifrování.
@@ -2971,4 +2971,5 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
 	  <string name="secret_album_password_first_use_with_sms_msg">Bude použito heslo pro ochranu soukromí. Funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
       <string name="secret_album_password_update_with_sms_dialog_msg">Heslo ochrany soukromí funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
       <string name="secret_album_set_pc_password_with_sms_dialog_msg">Bude použito heslo pro ochranu soukromí. Funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
+	  <string name="stop_migration_ok">Zastavit</string>
 </resources>

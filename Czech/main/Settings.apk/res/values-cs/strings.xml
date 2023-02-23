@@ -5424,7 +5424,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="screen_dark_mode_time_title">Načasovat</string>
     <string name="screen_effect">Kontrast a barvy</string>
     <string name="screen_enhance_engine_ai_note">%d. Tato funkce mírně zvyšuje spotřebu energie.</string>
-    <string name="screen_enhance_engine_ai_note_2">%d. Vylepšit se dají pouze obrázky z aplikace Galerie.</string>
+    <string name="screen_enhance_engine_ai_note_2">%d. Vylepšit lze pouze obrázky z aplikace Galerie.</string>
     <string name="screen_enhance_engine_ai_note_3">%d. Tato funkce nebude fungovat, pokud se rozhodnete zobrazit původní barvy nebo použít rozšířené úpravy.</string>
     <string name="screen_enhance_engine_ai_open">Vylepšené obrázky</string>
     <string name="screen_enhance_engine_ai_pic_summary">Rozpoznání objektů (např. rostliny, budovy) a dynamicky přizpůsobené efekty displeje. Může se zvýšit spotřeba energie.</string>
@@ -5432,7 +5432,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="screen_enhance_engine_memc_note">Není možné vylepšit videa když je zapnuté vysoké rozlišení.</string>
     <string name="screen_enhance_engine_memc_note_1">%d. Tato funkce mírně zvyšuje spotřebu energie.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Tato funkce funguje jen když jsou zapnuté video nástroje.</string>
-    <string name="screen_enhance_engine_memc_pic_summary">Pridání dalších snímků do videa pro plynulejší přehrávání.</string>
+    <string name="screen_enhance_engine_memc_pic_summary">Přidání dalších snímků do videa pro plynulejší přehrávání.</string>
     <string name="screen_enhance_engine_s2h_open">AI HDR vylepšení</string>
     <string name="screen_enhance_engine_s2h_pic_summary">Zpracování videa pomocí HDR efektů. Tato funkce je podporována vybranými aplikacemi.</string>
     <string name="screen_enhance_engine_s2h_title">AI HDR vylepšení</string>
