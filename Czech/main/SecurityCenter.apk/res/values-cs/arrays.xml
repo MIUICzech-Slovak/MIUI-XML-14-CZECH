@@ -284,4 +284,8 @@
         <item>MB</item>
         <item>GB</item>
     </string-array>
+	<string-array name="pp_lab_compact_blur_location_entry">
+        <item>Výchozí</item>
+        <item>Všechny</item>
+	</string-array>
 </resources>

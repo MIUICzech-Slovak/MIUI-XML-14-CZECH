@@ -1060,4 +1060,20 @@ Dejte si pauzu!"</item>
          <item quantity="other">Záznamy chování aplikace jsou v tomto zařízení uloženy %d dní. Pokud tuto funkci vypnete, nové záznamy se již nebudou zobrazovat a staré budou vymazány. Přesto vypnout?</item>
          <item quantity="one">Záznamy chování aplikace jsou v tomto zařízení uloženy %d den. Pokud tuto funkci vypnete, nové záznamy se již nebudou zobrazovat a staré budou vymazány. Přesto vypnout?</item>
     </plurals>
+	<plurals name="added_apps_count">
+         <item quantity="other">%d přidaných aplikací</item>
+         <item quantity="one">%d přidaná aplikace</item>
+	</plurals>
+	<plurals name="extreme_mode_runtime_hour">
+         <item quantity="other">%s h</item>
+         <item quantity="one">%s h</item>
+	</plurals>
+	<plurals name="extreme_mode_runtime_minute">
+         <item quantity="other">%s min</item>
+         <item quantity="one">%s min</item>
+	</plurals>
+	<plurals name="pc_extreme_mode_count_down_title">
+         <item quantity="other">Baterie vašeho zařízení je vybitá. Přechod do režimu hibernace za %1$d sekund.</item>
+         <item quantity="one">Baterie vašeho zařízení je vybitá. Přechod do režimu hibernace za %1$d sekundu.</item>
+	</plurals>
 </resources>             

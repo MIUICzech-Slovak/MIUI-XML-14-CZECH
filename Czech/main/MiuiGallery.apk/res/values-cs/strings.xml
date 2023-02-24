@@ -2972,4 +2972,5 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
       <string name="secret_album_password_update_with_sms_dialog_msg">Heslo ochrany soukromí funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
       <string name="secret_album_set_pc_password_with_sms_dialog_msg">Bude použito heslo pro ochranu soukromí. Funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
 	  <string name="stop_migration_ok">Zastavit</string>
+	  <string name="stop_migration_title">Zastavit přenos nyní?</string>
 </resources>

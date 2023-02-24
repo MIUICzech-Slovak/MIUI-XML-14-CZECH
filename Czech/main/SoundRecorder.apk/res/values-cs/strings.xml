@@ -413,4 +413,5 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
       <string name="record_scenes_summaries_stereo_music">Nahrávejte přes %d kanálů, poslouchejte stereo zvuk ve sluchátkách</string>
       <string name="record_scenes_summaries_stereo_voice">Pro lepší kvalitu přesuňte mikrofon blíže ke zdroji zvuku</string>
       <string name="record_scenes_summaries_voice">Pro lepší kvalitu přesuňte mikrofon blíže ke zdroji zvuku</string>
+	  <string name="record_while_in_call_tip">Není možné nahrávat během hovoru</string>
 </resources>
