@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calendar_remind_string_array">
+        <item>Dnes večer</item>
+        <item>Zítra</item>
+        <item>Víkend</item>
+        <item>Příští týden</item>
+        <item>Příští měsíc</item>
+        <item>Vybrat datum</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Nedávno zobrazené</item>
+        <item>Formát</item>
+        <item>Jméno</item>
+        <item>Odesílatel</item>
+        <item>Datum přijetí</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Vše</item>
+        <item>Pouze odesílatelé</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresa:</item>
+        <item>Tel.:</item>
+        <item>Jméno:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>PSČ:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Děkuji,</item>
+        <item>S pozdravem</item>
+        <item>Odesláno z mého</item>
+        <item>Původní e-mail</item>
+        <item>Odesláno z mého</item>
+        <item>Odesláno z</item>
+        <item>Od</item>
+        <item>Tento email</item>
+        <item>Odmítnutí odpovědnosti</item>
+        <item>Zřeknutí se práv pro e-maily</item>
+    </string-array>
+	
+	
+	
+	<string-array name="sign_in_dialog_item">
+        <item>Outlook pro firmy (bez kalendáře)</item>
+        <item>IMAP (bez kalendáře)</item>
+        <item>EXCHANGE (s kalendářem)</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Stránka:</item>
+        <item>Email:</item>
+        <item>Mobil:</item>
+        <item>Telefon:</item>
+        <item>Tel:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Prohlášení:</item>
+        <item>Email Prohlášení</item>
+        <item>Odesláno prostřednictvím WPSMail</item>
+        <item>Odesláno z</item>
+        <item>Odesláno s</item>
+        <item>Díky,</item>
+        <item>S pozdravem</item>
+    </string-array>
+</resources>
