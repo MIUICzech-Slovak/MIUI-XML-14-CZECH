@@ -193,7 +193,6 @@
     <string name="b_contacts_remove_tips">Odebrat tyto adresy z blokovaných?</string>
     <string name="back">Zpět</string>
     <string name="bcc">Skrytá kopie</string>
-    <string name="bcc_heading">"Skrytá kopie: "</string>
     <string name="blank_feedback_toast">\"Váš názor\" nesmí zůstat prázdný.</string>
     <string name="body_hint">Napsat zprávu</string>
     <string name="body_inline_pic_text">[Obrázek]</string>
@@ -203,7 +202,6 @@
     <string name="cancel">Zrušit</string>
     <string name="cancel_action">Zrušit</string>
     <string name="cc">Kopie</string>
-    <string name="cc_attribution">Kopie: %1$s&lt;br></string>
     <string name="cc_bcc">Kopie / skrytá kopie</string>
     <string name="cc_heading">"Kopie: "</string>
     <string name="certificate_add_failed">Přidání certifikátu \"%s\" se nezdařilo</string>
@@ -227,7 +225,6 @@
     <string name="click_to_reload">Klepnutím na obrazovku obnovíte obsah</string>
     <string name="close">Zavřít</string>
     <string name="collapse_recipient_details">Sbalit podrobnosti o příjemci</string>
-    <string name="colon">:</string>
     <string name="compose">Napsat</string>
     <string name="compose_event">Pozvánka</string>
     <string name="compose_paste_address_oob">Příliš mnoho znaků</string>
@@ -459,7 +456,6 @@
     <string name="installation_failed">Instalace se nezdařila.</string>
     <string name="installing_module">Instalace modulu:</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="load_from_remote">Prohledat schránku na serveru</string>
     <string name="load_more">Načíst další</string>
     <string name="loading_conversation">Načítá se…</string>
@@ -860,7 +856,6 @@ Počkejte, dokud nebude zpráva zcela synchronizována nebo ji otevřete ve vaš
     <string name="size_tera_byte">TB</string>
     <string name="smtp_password_error">Heslo pro server odchozí pošty není správné</string>
     <string name="sort_attachment">Seřadit podle</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">Vybrat vše</string>
     <string name="str_select_none">Odznačit vše</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>
@@ -1278,7 +1273,6 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
       <string name="error_message_respond_revert_21">Zapněte POP3 a zkuste to znovu.</string>
       <string name="error_message_respond_revert_25">Zkontrolujte připojení k síti a zkuste to znovu.</string>
       <string name="folder">Složky</string>
-      <string name="forward_subject_label">Fwd:</string>
       <string name="gmail_invalid_tip_cancel">Zrušit</string>
       <string name="gmail_invalid_tip_confirm">Přihlaste se</string>
       <string name="gmail_invalid_tip_message">"Smluvní podmínky společnosti Google se změnily. Přihlaste se znovu do Gmailu."</string>
@@ -1297,14 +1291,6 @@ Tento problém může být způsoben dvoufaktorovým ověřováním účtu. Zkus
       <string name="item_view_role_description">Tab</string>
       <string name="local_folder">Místní složky</string>
       <string name="local_folder_prefix">"Toto zařízení: "</string>
-      <string name="mailbox_name_server_all_unread">Nepřečteno</string>
-      <string name="mailbox_name_server_drafts">Koncepty</string>
-      <string name="mailbox_name_server_inbox">Doručená pošta</string>
-      <string name="mailbox_name_server_junk">Spam</string>
-      <string name="mailbox_name_server_outbox">Pošta k odeslání</string>
-      <string name="mailbox_name_server_sent">Odesláno</string>
-      <string name="mailbox_name_server_starred">Označeno hvězdičkou</string>
-      <string name="mailbox_name_server_trash">Koš</string>
       <string name="maileditor_fontsize_textitem1">8 bodů</string>
       <string name="maileditor_fontsize_textitem2">10 bodů</string>
       <string name="maileditor_fontsize_textitem3">12 bodů</string>
