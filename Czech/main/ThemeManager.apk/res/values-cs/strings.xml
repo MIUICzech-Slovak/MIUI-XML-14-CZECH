@@ -1398,4 +1398,5 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
      <string name="large_icon_not_support_current_type">"%s není pro tuto ikonu podporováno"</string>
      <string name="large_icon_theme">Tématová</string>
 	 <string name="evening">Odpoledne</string>
+	<string name="historical_wallpaper">Dříve používané</string>
 </resources>
