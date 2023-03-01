@@ -221,7 +221,7 @@
         <item quantity="one">%d nové oznámení</item>
     </plurals>
 	<plurals name="email_filter_rule_max_tips">
-         <item kvantita="other">Můžete přidat až %1$d podmínek</item>
-         <item kvantita="one">Můžete přidat až %1$d podmínku</item>
+         <item quantity="other">Můžete přidat až %1$d podmínek</item>
+         <item quantity="one">Můžete přidat až %1$d podmínku</item>
 	</plurals>
 </resources>
