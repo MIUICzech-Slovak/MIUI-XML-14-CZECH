@@ -1070,4 +1070,7 @@ Pokus: %s."</string>
 	<string name="mms_main_purpose_new">Tato aplikace se musí připojit k internetu, aby vám mohla poskytovat základní služby. Doporučujeme zapnout služby Mi Message a Smart Messaging.</string>
     <string name="system_permission_declare_exit">Ukončit</string>
     <string name="wait_for_sp_mark_as_read">Načítání...</string>
+	<string name="pref_title_perm_read_audio">Přístup ke zvukovým souborům</string>
+     <string name="pref_title_perm_read_files">Přístup k souborům a dokumentům</string>
+     <string name="pref_title_perm_read_images_video">Přístup k fotografiím a videím</string>
 </resources>

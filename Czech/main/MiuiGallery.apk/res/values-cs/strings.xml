@@ -497,7 +497,7 @@ Připojte nabíječku a vypněte obrazovku, aby se objevily vzpomínky."</string
     <string name="collage_poster_global_tea_text">Čaj</string>
     <string name="collage_ratio_text">Poměr stran</string>
     <string name="collage_rotate">Otočit</string>
-    <string name="collage_select_image_range">Koláž může obsahovat 1-4 fotografie</string>
+    <string name="collage_select_image_range">Koláž může obsahovat %1$d-%2$d fotografie</string>
     <string name="collage_title_layout">Rozložení</string>
     <string name="collage_title_poster">Plakát</string>
     <string name="collage_title_stitching">Film</string>
@@ -2972,4 +2972,16 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
       <string name="secret_album_password_update_with_sms_dialog_msg">Heslo ochrany soukromí funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
       <string name="secret_album_set_pc_password_with_sms_dialog_msg">Bude použito heslo pro ochranu soukromí. Funguje pro zprávy, fotografie, poznámky a skryté složky.</string>
 	  <string name="stop_migration_ok">Zastavit</string>
+	  <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s obsazeno</string>
+      <string name="slim_auto_backup_cloud_confirm_detail">Zapněte synchronizaci s cloudem, abyste mohli nahrávat fotografie a videa ze svého zařízení do cloudu.</string>
+      <string name="slim_auto_backup_cloud_confirm_title">Synchronizace s cloudem</string>
+      <string name="slim_finish_upgrade_tip"><Data>Navyšte své cloudové úložiště, abyste do cloudu synchronizovali více položek. Klepnutím &lt;a href=\"%1$s\">Navýšit&lt;/a>.</Data></string>
+      <string name="slim_function_summery_first">Uchovávejte optimalizované fotografie ve svém zařízení a uložte původní obrázek do cloudu</string>
+      <string name="slim_function_summery_second">Soubory vytvořené za posledních %d dní se uloží do vašeho zařízení</string>
+      <string name="slim_subtitle_slim_space_prefix">Uvolněte %1$s %2$s</string>
+      <string name="slim_subtitle_sync_off_no_slimdata">Chcete-li získat odhad volného místa, zapněte synchronizaci s cloudem</string>
+      <string name="slim_subtitle_sync_on_no_slimdata">Synchronizuje se. Zkuste to znovu později.</string>
+      <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Navyšte své cloudové úložiště, abyste mohli synchronizovat více položek</string>
+      <string name="slim_upgrade_button">Navýšit</string>
+      <string name="stop_migration_title">Zastavit přenos nyní?</string>
 </resources>

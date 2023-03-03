@@ -1137,4 +1137,10 @@ Zkuste přesunout soubory ze zařízení na Mi Drive."</string>
 	 <string name="reminder_card_title">Upozornění</string>
 	 <string name="manage_cloud_space">Správa cloudového úložiště</string>
 	 <string name="new_storage_info_detail">Dostupné: %1$s | Celkem: %2$s</string>
+	 <string name="extend_service_setting">Další služby</string>
+      <string name="extend_service_summary">Pokud tuto službu vypnete, nebudete moci používat funkce související s Mi Drive</string>
+      <string name="extend_service_title">Spravovat soubory Mi Drive</string>
+      <string name="stop_extend_service_dialog_confirm">Vypnout</string>
+      <string name="stop_extend_service_dialog_summary">Pokud tuto funkci vypnete, nebudete moci spravovat své soubory uložené v Mi Drive. Přeto ji vypnout?</string>
+      <string name="stop_extend_service_dialog_tilte">Další služby</string>
 </resources>
