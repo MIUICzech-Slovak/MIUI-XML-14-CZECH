@@ -60,6 +60,15 @@
     <string name="can_not_send_with_too_many">Nelze odeslat takové množství souborů</string>
     <string name="cancel">Zrušit</string>
     <string name="cancel_error">Nelze odebrat, zkuste to znovu.</string>
+    <string name="cancel_mi_drive">Zrušit služby</string>
+    <string name="cancel_mi_drive_alert_description">"Vymažte všechny položky z Mi Drive, abyste mohli zrušit služby. Chcete-li vymazat položky, postupujte podle těchto kroků:&lt;br/>1. Na úvodní stránce Mi Drive stiskněte a podržte položku, zobrazí se tlačítko \"Vybrat vše\". Pomocí tohoto tlačítka můžete vybrat až 200 souborů najednou a odstranit je.&lt;br/>2. Po odstranění všech položek vymažte všechny soubory z Nedávno odstraněné položky." </string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Před odstraněním položek je doporučujeme zálohovat. Chcete-li to provést, navštivte stránku i.mi.com, klikněte na položku Mi Drive a stáhněte si položky do počítače.&lt;br/>2 . Upozorňujeme, že položky vymazané z Nedávno odstraněných položek nelze později obnovit."</string>
+    <string name="cancel_mi_drive_confirm_button">Zrušit služby</string>
+    <string name="cancel_mi_drive_confirm_description">"Pokud budete pokračovat, zrušíte služby Mi Drive. Přestaneme shromažďovat vaše osobní údaje a osobní údaje, které již byly shromážděny a uchovávány, budou vymazány ve stanovené lhůtě v souladu s platnými zákony a nařízení, pokud se nevyžaduje jinak."</string>
+    <string name="cancel_mi_drive_confirm_hint">"Zrušení služeb Mi Drive neovlivní vaše používání jiných produktů a služeb Xiaomi. Chcete-li svůj účet Xiaomi odstranit, můžete to udělat &lt;barva písma=#0097FF>&lt;a href=%1$s> zde&lt;/a>&lt;/font>."</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Po zrušení služeb budou trvale odstraněny následující položky:&lt;/font>&lt;br/>1. Všechny položky na Mi Drive včetně, ale ne výlučně, dokumentů, soukromých souborů a odstraněných položek.&lt;br/>2. Povolení zařízení, nastavení a další obsah ve vyrovnávací paměti.&lt;br/>3. Historie nahrávání a stahování Mi Drive.</string>
+    <string name="cancel_mi_drive_success">Služby byly úspěšně zrušeny</string>
+    <string name="cancel_mi_drive_title">Zrušit služby</string>
     <string name="cancel_operation">Zrušit operaci</string>
     <string name="cancel_success">Odebráno, všechny soubory byly přesunuty do %s</string>
     <string name="cancelled_by_user">Operace zrušena</string>
@@ -286,6 +295,7 @@
     <string name="error_open_file_failed_no_app_found">Nebyla nalezena aplikace pro otevření tohoto souboru</string>
     <string name="error_ppt_to_pdf_algorithm">"Obrázek se nepodařilo zpracovat. Byl použit původní soubor."</string>
     <string name="error_ptp_ai_recommend_pdf_save_fail">"Nepodarilo se uložit. Zkuste to znova."</string>
+    <string name="evening">Odpoledne</string>
     <string name="exception_cloud_storage_is_full">Cloudové úložiště je plné</string>
     <string name="exception_copy_file_exist">"Položka, kterou jste skopírovali, se nachází v cílové složce"</string>
     <string name="exception_copy_sub_path">"Položky se nedají skopírovat do stejné složky"</string>
@@ -784,8 +794,16 @@ and never miss the cool new ones!"</string>
     <string name="preference_copied">\"%1$s\" bylo zkopírováno do schránky.</string>
     <string name="preview">Ukázka</string>
     <string name="privacy_policy">Zásady ochrany osobních údajů</string>
+    <string name="privacy_recall_alert_description">"Vymažte všechny položky z Mi Drive, abyste mohli odvolat souhlas. Chcete-li vymazat položky, postupujte podle těchto kroků:&lt;br/>1. Na úvodní stránce Mi Drive stiskněte a podržte položku, zobrazí se tlačítko \"Vybrat vše\". Pomocí tohoto tlačítka můžete vybrat až 200 souborů najednou a odstranit je.&lt;br/>2. Po odstranění všech položek vymažte všechny soubory z Nedávno odstraněné položky." </string>
+    <string name="privacy_recall_alert_reminder_card_summary">"1. Před odstraněním položek je doporučujeme zálohovat. Chcete-li to provést, navštivte stránku i.mi.com, klikněte na položku Mi Drive a stáhněte si položky do počítače.&lt;br/>2 . Upozorňujeme, že položky vymazané z Nedávno odstraněných položek nelze později obnovit."</string>
+    <string name="privacy_recall_confirm_button">Odvolat souhlas</string>
+    <string name="privacy_recall_confirm_description">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů Mi Drive. Přestaneme shromažďovat vaše osobní údaje a osobní údaje, které již byly shromážděny a uchovávány, budou vymazány v rámci uvedeného období v souladu s platnými zákony a předpisy, pokud se nevyžaduje jinak.“</string>
+    <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424>Po odvolání souhlasu budou trvale odstraněny následující položky:&lt;/font>&lt;br/>1. Všechny položky na Mi Drive včetně, ale ne výlučně, dokumentů, soukromých souborů a odstraněných položek.&lt;br/>2. Povolení zařízení, nastavení a další obsah ve vyrovnávací paměti.&lt;br/>3. Historie nahrávání a stahování Mi Drive.</string>
     <string name="privacy_recall_dialog_msg">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů MiDrive. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a předpisy, pokud to nebude v opačném případě, protože MiDrive poskytuje své služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu bude považováno za odmítnutí přijetí služeb MiDrive. Odvolat souhlas nyní?"</string>
     <string name="privacy_recall_dialog_title">Odvolání souhlasu</string>
+    <string name="privacy_recall_success">Souhlas byl úspěšně odvolán</string>
+    <string name="privacy_recall_title">Odvolání souhlasu</string>
+    <string name="privacy_recalling">Odvolávání souhlasu…</string>
     <string name="privacy_update_dialog_msg">Zásady ochrany osobních údajů služby MiDrive byly aktualizovány: Přečtěte si a vyjádřete souhlas s novou verzí Zásady ochrany osobních údajů dříve, než budete pokračovat.</string>
     <string name="privacy_update_dialog_title">Aktualizované zásady ochrany osobních údajů</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Ukončit</string>
@@ -806,6 +824,8 @@ and never miss the cool new ones!"</string>
     <string name="ptp_ai_recommend_empty_page">Nejsou zde žádné automaticky generované soubory PDF</string>
     <string name="pull_to_signin">Potáhněte dolů pro podepsání se a získání dalšího volného místa.</string>
     <string name="qq_not_installed">QQ není nainstalováno</string>
+    <string name="query_quota_exception">Vyskytla se chyba serveru. Počkejte minutu nebo dvě a zkuste to znovu.</string>
+    <string name="query_quota_searching">Načítání...</string>
     <string name="quota_info">MiDrive: %1$s dostupné, %2$s celkem</string>
     <string name="recent_file">Nedávné</string>
     <string name="recent_jump_to_privacy_fail_notice">Tento soubor je soukromý. Vraťte se na úvodní stránku a přetáhněte ji dolů.</string>
@@ -816,6 +836,7 @@ and never miss the cool new ones!"</string>
     <string name="refresh_label_release_to_refresh">Uvolněte k obnovení</string>
     <string name="release_enter_private">Uvolněte, chcete-li zobrazit soukromé soubory</string>
     <string name="release_to_signin">Uvolněte pro podepsání se.</string>
+    <string name="reminder_card_title">Pozor</string>
     <string name="remote_video_no_network">Nelze se připojit k síti. Zkontrolujte své nastavení a zkuste to znovu.</string>
     <string name="remove_success">Úspěšně odstraněno</string>
     <string name="rename_alert">Pokud změníte příponu tohoto souboru, nebude možné jej otevřít.</string>
@@ -1103,26 +1124,5 @@ Bylo přičteno dalších %1$s"</string>
     <string name="xiaomi_drive_description_title">Co je to MiDrive</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
-    <string name="yesterday">Včera</string>	
-	<string name="cancel_mi_drive">Zrušit služby</string>
-     <string name="cancel_mi_drive_alert_description">"Vymažte všechny položky z Mi Drive, abyste mohli zrušit služby. Chcete-li vymazat položky, postupujte podle těchto kroků:&lt;br/>1. Na úvodní stránce Mi Drive stiskněte a podržte položku, zobrazí se tlačítko \"Vybrat vše\". Pomocí tohoto tlačítka můžete vybrat až 200 souborů najednou a odstranit je.&lt;br/>2. Po odstranění všech položek vymažte všechny soubory z Nedávno odstraněné položky." </string>
-     <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Před odstraněním položek je doporučujeme zálohovat. Chcete-li to provést, navštivte stránku i.mi.com, klikněte na položku Mi Drive a stáhněte si položky do počítače.&lt;br/>2 . Upozorňujeme, že položky vymazané z Nedávno odstraněných položek nelze později obnovit."</string>
-     <string name="cancel_mi_drive_confirm_button">Zrušit služby</string>
-     <string name="cancel_mi_drive_confirm_description">"Pokud budete pokračovat, zrušíte služby Mi Drive. Přestaneme shromažďovat vaše osobní údaje a osobní údaje, které již byly shromážděny a uchovávány, budou vymazány ve stanovené lhůtě v souladu s platnými zákony a nařízení, pokud se nevyžaduje jinak."</string>
-     <string name="cancel_mi_drive_confirm_hint">"Zrušení služeb Mi Drive neovlivní vaše používání jiných produktů a služeb Xiaomi. Chcete-li svůj účet Xiaomi odstranit, můžete to udělat &lt;barva písma=#0097FF>&lt;a href=%1$s> zde&lt;/a>&lt;/font>."</string>
-     <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Po zrušení služeb budou trvale odstraněny následující položky:&lt;/font>&lt;br/>1. Všechny položky na Mi Drive včetně, ale ne výlučně, dokumentů, soukromých souborů a odstraněných položek.&lt;br/>2. Povolení zařízení, nastavení a další obsah ve vyrovnávací paměti.&lt;br/>3. Historie nahrávání a stahování Mi Drive.</string>
-     <string name="cancel_mi_drive_success">Služby byly úspěšně zrušeny</string>
-     <string name="cancel_mi_drive_title">Zrušit služby</string>
-     <string name="privacy_recall_alert_description">"Vymažte všechny položky z Mi Drive, abyste mohli odvolat souhlas. Chcete-li vymazat položky, postupujte podle těchto kroků:&lt;br/>1. Na úvodní stránce Mi Drive stiskněte a podržte položku, zobrazí se tlačítko \"Vybrat vše\". Pomocí tohoto tlačítka můžete vybrat až 200 souborů najednou a odstranit je.&lt;br/>2. Po odstranění všech položek vymažte všechny soubory z Nedávno odstraněné položky." </string>
-     <string name="privacy_recall_alert_reminder_card_summary">"1. Před odstraněním položek je doporučujeme zálohovat. Chcete-li to provést, navštivte stránku i.mi.com, klikněte na položku Mi Drive a stáhněte si položky do počítače.&lt;br/>2 . Upozorňujeme, že položky vymazané z Nedávno odstraněných položek nelze později obnovit."</string>
-     <string name="privacy_recall_confirm_button">Odvolat souhlas</string>
-     <string name="privacy_recall_confirm_description">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů Mi Drive. Přestaneme shromažďovat vaše osobní údaje a osobní údaje, které již byly shromážděny a uchovávány, budou vymazány v rámci uvedeného období v souladu s platnými zákony a předpisy, pokud se nevyžaduje jinak.“</string>
-     <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424>Po odvolání souhlasu budou trvale odstraněny následující položky:&lt;/font>&lt;br/>1. Všechny položky na Mi Drive včetně, ale ne výlučně, dokumentů, soukromých souborů a odstraněných položek.&lt;br/>2. Povolení zařízení, nastavení a další obsah ve vyrovnávací paměti.&lt;br/>3. Historie nahrávání a stahování Mi Drive.</string>
-     <string name="privacy_recall_success">Souhlas byl úspěšně odvolán</string>
-     <string name="privacy_recall_title">Odvolání souhlasu</string>
-     <string name="privacy_recalling">Odvolávání souhlasu…</string>
-     <string name="query_quota_exception">Vyskytla se chyba serveru. Počkejte minutu nebo dvě a zkuste to znovu.</string>
-     <string name="query_quota_searching">Načítání...</string>
-     <string name="reminder_card_title">Pozor</string>
-	 <string name="evening">Odpoledne</string>
+    <string name="yesterday">Včera</string>
 </resources>

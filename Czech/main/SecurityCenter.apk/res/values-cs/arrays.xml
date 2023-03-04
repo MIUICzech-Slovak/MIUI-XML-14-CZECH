@@ -194,6 +194,10 @@
         <item>Zapnout</item>
         <item>Neměnit</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Výchozí</item>
+        <item>Všechny</item>
+    </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Volání</item>
@@ -284,8 +288,4 @@
         <item>MB</item>
         <item>GB</item>
     </string-array>
-	<string-array name="pp_lab_compact_blur_location_entry">
-        <item>Výchozí</item>
-        <item>Všechny</item>
-	</string-array>
 </resources>

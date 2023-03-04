@@ -5,6 +5,10 @@
     <string name="app_name">Vyhledat zařízení</string>
     <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">Nelze odblokovat. %s.</string>
+    <string name="copy">Kopírovat</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Najděte přístup k telefonnímu číslu s cílem tohoto zařízení, když není připojen k internetu</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">K určení polohy tohoto zařízení, když není připojen k internetu</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">K určení polohy vašeho zařízení a přepnutí do ztraceného režimu</string>
     <string name="default_lock_msg_words">Toto zařízení je propojeno s Xiaomi účtem. Přihlaste se pro odblokování.</string>
     <string name="default_lock_msg_words_with_phone">Ahoj! Ztratil jsem nebo mi byl ukraden telefon. Prosím o vrácení. Děkuji!</string>
     <string name="device_locked">Toto zařízení je zablokováno</string>
@@ -15,7 +19,10 @@
     <string name="emergency_call">Nouzový hovor</string>
     <string name="enable_find_device_error">Nelze aktivovat vyhledávání zařízení. %1$s</string>
     <string name="enable_find_device_success">Vyhledávání zařízení je aktivní.</string>
+    <string name="expand_button_title">Rozšířené</string>
     <string name="find_device">Vyhledat zařízení</string>
+    <string name="find_device_capture_done_notification_content">Zobrazit fotografii na i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">Najděte zařízení, které pořídilo fotku na dálku</string>
     <string name="find_device_capture_notification_content">Jiné autorizované zařízení zhotovuje fotografii přes Vyhledávání zařízení na i.mi.com.</string>
     <string name="find_device_capture_notification_title">Vyhledávání zařízení zhotovuje fotografii...</string>
     <string name="find_device_crash">Vyhledávání bylo neočekávaně ukončeno</string>
@@ -32,6 +39,9 @@
     <string name="find_device_notice_p3">" pro vyhledání, zablokování, nebo obnovu vašeho zařízení.
 Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</string>
     <string name="find_device_notice_sms_alert">Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této funkce.</string>
+    <string name="find_device_notice_sms_alert_with_common_charge_hint">"Aby bylo možné aktualizovat stav SIM karty a ujistit se, že všechny služby fungují normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
+    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Chcete-li aktualizovat stav SIM karty a zajistit, aby všechny služby fungovaly normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>tuzemská placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
+    <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Chcete-li aktualizovat stav SIM karty a zajistit, aby všechny služby fungovaly normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
     <string name="find_device_stop_noise">Stiskněte OK pro vypnutí</string>
     <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
     <string name="find_device_success_title">Vyhledat zařízení</string>
@@ -108,6 +118,7 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
     <string name="month_september">Září</string>
     <string name="month_september_short">Zář</string>
     <string name="month_september_shortest">Z</string>
+    <string name="not_set">Nenastaveno</string>
     <string name="open_wifi_settings">Otevřít nastavení Wi-Fi</string>
     <string name="passport_checking_vcode">Kontrola hesla...</string>
     <string name="passport_error_empty_vcode">Zadejte ověřovací kód</string>
@@ -120,6 +131,7 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
     <string name="phone_locked">Toto zařízení je zřejmě propojeno s jiným Xiaomi účtem (%s). Přihlaste se pro aktivaci tohoto zařízení.</string>
     <string name="phone_locked_account_email">, propojený email: %s</string>
     <string name="phone_locked_account_phone">, propojené telefonní číslo: %s</string>
+    <string name="preference_copied">\"%1$s\" bylo zkopírováno do schránky.</string>
     <string name="return_to_call">Zpět k hovoru</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
@@ -181,16 +193,4 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="find_device_capture_done_notification_content">Zobrazit fotografii na i.mi.com</string>
-      <string name="find_device_capture_done_notification_title">Najděte zařízení, které pořídilo fotku na dálku</string>
-      <string name="find_device_notice_sms_alert_with_common_charge_hint">"Aby bylo možné aktualizovat stav SIM karty a ujistit se, že všechny služby fungují normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
-      <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Chcete-li aktualizovat stav SIM karty a zajistit, aby všechny služby fungovaly normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>tuzemská placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
-      <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Chcete-li aktualizovat stav SIM karty a zajistit, aby všechny služby fungovaly normálně, bude po výměně SIM karty odeslána jedna &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b>&lt;/font> . Tuto SMS vám bude účtovat váš operátor.“</string>
-    <string name="copy">Kopírovat</string>
-    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Najděte přístup k telefonnímu číslu s cílem tohoto zařízení, když není připojen k internetu</string>
-    <string name="custom_define_permission_desc_android.permission.SEND_SMS">K určení polohy tohoto zařízení, když není připojen k internetu</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">K určení polohy vašeho zařízení a přepnutí do ztraceného režimu</string>
-    <string name="expand_button_title">Rozšířené</string>
-    <string name="not_set">Nenastaveno</string>
-    <string name="preference_copied">\"%1$s\" bylo zkopírováno do schránky.</string>
 </resources>

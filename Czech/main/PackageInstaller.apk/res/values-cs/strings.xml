@@ -34,6 +34,7 @@
     <string name="adb_warning_message">Ladění USB je určené pouze pro účely vývojáře. Použijte ho na kopírování údajů mezi počítačem a zařízením, instalaci aplikací do zařízení bez upozornění a čtení údajů deníku.</string>
     <string name="adb_warning_title">Povolit Ladění USB?</string>
     <string name="additional_permissions">Další oprávnění</string>
+    <string name="after_install_to_delete">Po instalaci vymazat apk soubor</string>
     <string name="allPerms">Vše</string>
     <string name="all_permissions">Všechna povolení</string>
     <string name="allow_mock_location">Povolit simulování polohy</string>
@@ -615,5 +616,4 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="wifi_verbose_logging">Povolit podrobné protokolování Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">Zvyšení úrovně protokolování Wi-Fi, zobrazí se za SSID RSSI ve výběru Wi-Fi</string>
     <string name="window_animation_scale_title">Měřítko animace okna</string>
-	<string name="after_install_to_delete">Po instalaci vymazat apk soubor</string>
 </resources>

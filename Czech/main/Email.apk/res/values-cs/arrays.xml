@@ -19,32 +19,7 @@
         <item>Vše</item>
         <item>Pouze odesílatelé</item>
     </string-array>
-    <string-array name="signature_normal_string_array_next">
-        <item>Adresa:</item>
-        <item>Tel.:</item>
-        <item>Jméno:</item>
-        <item>E-mail:</item>
-        <item>Mobil:</item>
-        <item>WeChat:</item>
-        <item>Fax:</item>
-        <item>PSČ:</item>
-    </string-array>
-    <string-array name="signature_special_string_array_next">
-        <item>Děkuji,</item>
-        <item>S pozdravem</item>
-        <item>Odesláno z mého</item>
-        <item>Původní e-mail</item>
-        <item>Odesláno z mého</item>
-        <item>Odesláno z</item>
-        <item>Od</item>
-        <item>Tento email</item>
-        <item>Odmítnutí odpovědnosti</item>
-        <item>Zřeknutí se práv pro e-maily</item>
-    </string-array>
-	
-	
-	
-	<string-array name="sign_in_dialog_item">
+    <string-array name="sign_in_dialog_item">
         <item>Outlook pro firmy (bez kalendáře)</item>
         <item>IMAP (bez kalendáře)</item>
         <item>EXCHANGE (s kalendářem)</item>
@@ -57,6 +32,16 @@
         <item>Telefon:</item>
         <item>Tel:</item>
     </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresa:</item>
+        <item>Tel.:</item>
+        <item>Jméno:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>PSČ:</item>
+    </string-array>
     <string-array name="signature_special_string_array">
         <item>Prohlášení:</item>
         <item>Email Prohlášení</item>
@@ -65,5 +50,17 @@
         <item>Odesláno s</item>
         <item>Díky,</item>
         <item>S pozdravem</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Děkuji,</item>
+        <item>S pozdravem</item>
+        <item>Odesláno z mého</item>
+        <item>Původní e-mail</item>
+        <item>Odesláno z mého</item>
+        <item>Odesláno z</item>
+        <item>Od</item>
+        <item>Tento email</item>
+        <item>Odmítnutí odpovědnosti</item>
+        <item>Zřeknutí se práv pro e-maily</item>
     </string-array>
 </resources>

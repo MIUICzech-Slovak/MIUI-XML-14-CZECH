@@ -333,6 +333,9 @@
     <string name="start_analysis">Zkontrolovat</string>
     <string name="start_download">Stáhnout</string>
     <string name="starting_analysis">Kontrola...</string>
+    <string name="storage_dialog_content">Povolte staženým souborům přístup k úložišti zařízení, aby jste mohli používat jeho funkce.</string>
+    <string name="storage_dialog_go">Nastavení</string>
+    <string name="storage_dialog_title">Přístup k úložišti zařízení</string>
     <string name="storage_internal">Interní úložiště</string>
     <string name="storage_sd_card">SD karta</string>
     <string name="storage_usb">USB úložiště</string>
@@ -400,7 +403,4 @@ Tato funkce není mimo Čínu doporučena"</string>
     <string name="xunlei_speed_service">Xunlei stahování</string>
     <string name="xunlei_switch">Xunlei stahování</string>
     <string name="yesterday">Včera</string>
-	<string name="storage_dialog_content">Povolte staženým souborům přístup k úložišti zařízení, aby jste mohli používat jeho funkce.</string>
-     <string name="storage_dialog_go">Nastavení</string>
-     <string name="storage_dialog_title">Přístup k úložišti zařízení</string>
 </resources>

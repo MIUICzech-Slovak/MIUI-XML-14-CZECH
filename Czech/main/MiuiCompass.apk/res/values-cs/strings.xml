@@ -14,6 +14,7 @@
     <string name="calibrate_failed">Kalibrace nadmořské výšky selhala</string>
     <string name="calibrate_failed_no_location">Kalibrace selhala. Nelze získat aktuální polohu</string>
     <string name="calibrate_failed_timeout">Kalibrace selhala: Čas připojení na server vypršel</string>
+    <string name="calibrate_new_tip">Ostře nakloňte zařízení, aby se míček kutálel kolem kruhu</string>
     <string name="calibrate_rotate_again">Zkuste to znovu</string>
     <string name="calibrate_success">Kalibrace dokončena</string>
     <string name="calibrate_tip">Nakloňte zařízení a kutálejte kuličku po kruhu</string>
@@ -21,8 +22,11 @@
     <string name="calibrating">Kalibrace kompasu</string>
     <string name="cancel">Zrušit</string>
     <string name="cannot_get_location">--</string>
+    <string name="compass_settings">Nastavení</string>
     <string name="cta_agree_desc">Povolte této aplikaci přístup na internet a požadované povolení pro její správné fungování.</string>
+    <string name="cta_v2_app_purpose">Zobrazující směry, souřadnice, atmosférický tlak a aktuální nadmořskou výšku</string>
     <string name="dialog_body_no_network">Nelze se připojit k síti</string>
+    <string name="dialog_body_no_network_china">Připojte se k Wi-Fi nebo zapněte mobilní data.</string>
     <string name="dialog_calibrat_altitude">Kalibrace nadmořské výšky...</string>
     <string name="dialog_title_no_network">Žádné připojení</string>
     <string name="direction_east">V</string>
@@ -36,6 +40,7 @@
     <string name="do_not_show_next_time">Znovu nezobrazovat</string>
     <string name="error_camera_unavailable">Ukončete všechny aplikace využívající fotoaparát.</string>
     <string name="error_camera_unavailable_title">Fotoaparát není dostupný</string>
+    <string name="expand_button_title">Pokročilé</string>
     <string name="first_using_dialog_message">Kompas používá vaše internetové připojení, fotoaparát a vaši polohu.</string>
     <string name="first_using_dialog_message_no_camera">Kompas potřebuje připojení na internet a přístup k vaší poloze pro jeho správné fungování. Povolit?</string>
     <string name="first_using_dialog_title">Podmínky používání</string>
@@ -55,6 +60,7 @@
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
     <string name="get_location">Prístup k poloze</string>
+    <string name="gradienter_title">Natočení</string>
     <string name="guide_toast">"Prosím zkalibrujte kompas pohybem ve tvaru osmičky"</string>
     <string name="latitude">Zem. šířka</string>
     <string name="location_east">V</string>
@@ -63,6 +69,7 @@
     <string name="location_enabled">Zjišťování polohy je povoleno. Můžete to kdykoliv změnit v nastavení polohy.</string>
     <string name="location_north">S</string>
     <string name="location_not_enabled_summary">Pro správné fungování je nutný přístup k aktuální poloze.</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">Kompas potřebuje přístup k vaší poloze, aby mohl zobrazit vaše aktuální souřadnice.</string>
     <string name="location_not_enabled_title">Povolit zjišťování polohy</string>
     <string name="location_south">J</string>
     <string name="location_west">Z</string>
@@ -127,6 +134,7 @@
     <string name="new_permission_camera_desc">Pro kalibraci</string>
     <string name="new_permission_location_desc">Pro zobrazení souřadnic</string>
     <string name="not_allowed">Nepovoleno</string>
+    <string name="not_set">Nenastaveno</string>
     <string name="open_camera">Použít fotoaparát</string>
     <string name="open_perm_msg">Kompas vyžaduje přístup k poloze a fotoaparátu. Povolit?</string>
     <string name="open_perm_msg_no_camera">Kompas potřebuje přístup k vaší poloze pro jeho správné fungování. Povolit?</string>
@@ -140,6 +148,8 @@
     <string name="preference_privacy_title">Ochrana soukromí</string>
     <string name="pressure_title">Tlak</string>
     <string name="pressure_unit">hPa</string>
+    <string name="remove_icon_description_content">Kompas je systémová aplikace. Po odstranění zkratky z plochy ji nebudete moci použít ke kontrole směru, souřadnic, atmosférického tlaku a aktuální nadmořské výšky.</string>
+    <string name="remove_icon_description_title">Chcete odstranit \"Kompas\" z plochy?</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
@@ -161,22 +171,11 @@
     <string name="tuesday">Úterý</string>
     <string name="tuesday_short">Úte</string>
     <string name="tuesday_shortest">Ú</string>
+    <string name="unit_degree">Stupňů</string>
     <string name="using_camera_confirm_cancel">Ukončit</string>
     <string name="using_camera_confirm_ok">OK</string>
     <string name="wednesday">Středa</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-    <string name="compass_settings">Nastavení</string>
-     <string name="cta_v2_app_purpose">Zobrazující směry, souřadnice, atmosférický tlak a aktuální nadmořskou výšku</string>
-     <string name="dialog_body_no_network_china">Připojte se k Wi-Fi nebo zapněte mobilní data.</string>
-     <string name="expand_button_title">Pokročilé</string>
-     <string name="gradienter_title">Natočení</string>
-     <string name="location_not_enabled_summary_no_pressure_sensor">Kompas potřebuje přístup k vaší poloze, aby mohl zobrazit vaše aktuální souřadnice.</string>
-
-      <string name="not_set">Nenastaveno</string>
-     <string name="remove_icon_description_content">Kompas je systémová aplikace. Po odstranění zkratky z plochy ji nebudete moci použít ke kontrole směru, souřadnic, atmosférického tlaku a aktuální nadmořské výšky.</string>
-      <string name="remove_icon_description_title">Chcete odstranit \"Kompas\" z plochy?</string>
-     <string name="unit_degree">Stupňů</string>
-	 <string name="calibrate_new_tip">Ostře nakloňte zařízení, aby se míček kutálel kolem kruhu</string>
 </resources>

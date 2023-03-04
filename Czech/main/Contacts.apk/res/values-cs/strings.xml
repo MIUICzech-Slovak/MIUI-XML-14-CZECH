@@ -1032,6 +1032,10 @@ Synchronizujte je nyní."</string>
     <string name="notification_action_voicemail_play">Přehrát</string>
     <string name="notification_click_detail">Zobrazit podrobnosti</string>
     <string name="notification_micloudsync_delete_contact">MiCloud chce vymazat některé kontakty</string>
+    <string name="notification_missedCallTitle">Zmeškaný hovor</string>
+    <string name="notification_missedCall_call_back">Zavolat zpět</string>
+    <string name="notification_missedCall_message">Odeslat SMS</string>
+    <string name="notification_missedCallsTitle">Zmeškané hovory</string>
     <string name="notification_new_voicemail_ticker">Nová hlasová zpráva od: %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="openDialKeyboard">Číselník</string>
@@ -1533,8 +1537,4 @@ Vyberte si z následujících možností:</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nic není vybráno</string>
-	<string name="notification_missedCallTitle">Zmeškaný hovor</string>
-     <string name="notification_missedCall_call_back">Zavolat zpět</string>
-     <string name="notification_missedCall_message">Odeslat SMS</string>
-     <string name="notification_missedCallsTitle">Zmeškané hovory</string>
 </resources>

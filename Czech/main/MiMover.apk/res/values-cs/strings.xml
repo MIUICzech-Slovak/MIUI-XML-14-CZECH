@@ -312,7 +312,7 @@ Otevřete WeChat a přejděte do Me &gt; Settings &gt; General &gt; Back up &amp
     <string name="international_new_trans_intro_desc_8">Textové zprávy nemohou být přeneseny kvůli problému s kompatibilitou. Přenos dat aplikací třetích stran mohl být zakázán aplikacemi samotnými z bezpečnostních důvodů.</string>
     <string name="international_new_trans_intro_question_8">8. Proč nemohou být zprávy a data některých aplikací třetích stran přeneseny?</string>
     <string name="international_scanner_send_dialog_message">Textové zprávy a data některých aplikací třetích stran nemohou být přeneseny. Během přenosu se neodpojujte od sítě Wi-Fi ani mezi sítěmi nepřepínejte.</string>
-	<string name="label_null" />
+    <string name="label_null" />
     <string name="lack_perm_msg">Přesun do nového zařízení vyžaduje následující povolení: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Vyžadována oprávnění</string>
     <string name="launcher">Rozložení Domovské obrazovky</string>

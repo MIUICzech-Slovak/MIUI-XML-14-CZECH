@@ -80,6 +80,7 @@ přidáno do seznamu blokovaných"</string>
     <string name="bookmark_empty">Žádné oblíbené zprávy</string>
     <string name="bookmark_list_title">Oblíbené</string>
     <string name="button_close">Zavřít</string>
+    <string name="button_copy">Kopírovat</string>
     <string name="button_emoji_creature">Zvířata</string>
     <string name="button_emoji_lifestyle">Život</string>
     <string name="button_emoji_smiley">Tváře</string>
@@ -427,6 +428,7 @@ přidáno do seznamu blokovaných"</string>
     <string name="mms_block_hint">Tento odesílatel není ve vašich kontaktech.</string>
     <string name="mms_block_hint_highlight">Blokovat MMS</string>
     <string name="mms_main_purpose">Pro přístup ke všem funkcím Zpráv, povolte přístup k internetu.</string>
+    <string name="mms_main_purpose_new">Tato aplikace se musí připojit k internetu, aby vám mohla poskytovat základní služby. Doporučujeme zapnout služby Mi Message a Smart Messaging.</string>
     <string name="mms_mi_message_main_purpose">Vítejte v Xiaomi Zprávách! Pro aktivaci bude odeslána placená SMS.</string>
     <string name="mms_mi_message_request_notice">Chceme vám dát co najvíce z Xiaomi Zpráv.</string>
     <string name="mms_mx_privacy_policy">Ochrana soukromí Xiaomi Zpráv</string>
@@ -688,6 +690,9 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="pref_title_mms_validity_period">Doba platnosti MMS</string>
     <string name="pref_title_msg_blocked">Černá listina</string>
     <string name="pref_title_notification_body_enabled">Zobrazovat náhledy</string>
+    <string name="pref_title_perm_read_audio">Přístup ke zvukovým souborům</string>
+    <string name="pref_title_perm_read_files">Přístup k souborům a dokumentům</string>
+    <string name="pref_title_perm_read_images_video">Přístup k fotografiím a videím</string>
     <string name="pref_title_privacy_authority">Autorizace</string>
     <string name="pref_title_privacy_policy_detail">Ochrana soukromí</string>
     <string name="pref_title_ringtone_repeat">Upozornit na novou zprávu</string>
@@ -868,6 +873,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="sim_full_body">Smazat některé zprávy, aby byl prostor pro další.</string>
     <string name="sim_full_title">SIM karta je plná</string>
     <string name="sim_manage_messages_title">SMS na SIM kartě</string>
+    <string name="sim_not_support_mms">Tato SIM karta nepodporuje MMS</string>
     <string name="sim_view">Zobrazit</string>
     <string name="slide_number">Přechod %d</string>
     <string name="slide_show_part">Část %1$d/%2$d</string>
@@ -937,6 +943,7 @@ Pro aktivaci této služby bude odeslána bežná SMS."</string>
     <string name="system_permission_declare_agree">Souhlasím</string>
     <string name="system_permission_declare_disagree">Nesouhlasím</string>
     <string formatted="false" name="system_permission_declare_double_link">Přečtěte si a odsouhlaste naše %1s a %2s.</string>
+    <string name="system_permission_declare_exit">Ukončit</string>
     <string formatted="false" name="system_permission_declare_main_purpose">Vítejte v %1s! %2s</string>
     <string name="system_permission_declare_mi_message">Vítejte v Xiaomi Zprávách!</string>
     <string name="system_permission_declare_no_say_no">Bez těchto povolení aplikace nebude fungovat správně.</string>
@@ -1050,6 +1057,7 @@ Pokus: %s."</string>
     <string name="voip_enable">MiZpráva a Hlas</string>
     <string name="voip_enable_popup_msg">"Volejte ostatním uživatelům MIUI, aniž by vám váš operátor účtoval poplatky. VoIP zprostředkovává Weihui. Zobrazit zásady ochrany osobních údajů společnosti Weihui."</string>
     <string name="voip_enable_popup_msg2">Ochrana osobních údajů</string>
+    <string name="wait_for_sp_mark_as_read">Načítání...</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Odeslat za %ds</string>
     <string name="wednesday">Středa</string>
@@ -1065,12 +1073,4 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlášené zprávy jsou odeslané na náš server pro další analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlášené</string>
     <string name="zero_sms_feedback_title">Nahlásit</string>
-	<string name="sim_not_support_mms">Tato SIM karta nepodporuje MMS</string>
-	<string name="button_copy">Kopírovat</string>
-	<string name="mms_main_purpose_new">Tato aplikace se musí připojit k internetu, aby vám mohla poskytovat základní služby. Doporučujeme zapnout služby Mi Message a Smart Messaging.</string>
-    <string name="system_permission_declare_exit">Ukončit</string>
-    <string name="wait_for_sp_mark_as_read">Načítání...</string>
-	<string name="pref_title_perm_read_audio">Přístup ke zvukovým souborům</string>
-     <string name="pref_title_perm_read_files">Přístup k souborům a dokumentům</string>
-     <string name="pref_title_perm_read_images_video">Přístup k fotografiím a videím</string>
 </resources>

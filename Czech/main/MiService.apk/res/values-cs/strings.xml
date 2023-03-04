@@ -20,6 +20,7 @@
     <string name="icon_remove_description_content">"\"Služby a zpětná vazba\" je systémová aplikace. Budete mít k ní přístup přes Nastavení."</string>
     <string name="icon_remove_description_title">Odebrat \"Služby a zpětná vazba\" z plochy?</string>
     <string name="mi_service_app_name">Služby a zpětná vazba</string>
+    <string name="mi_service_back">Zpět</string>
     <string name="miservice_channel_update_notification_info">\"Služby a zpětná vazba\" četla online data…</string>
     <string name="miservice_notification_boot_content">Naučte se co MIUI dokáže</string>
     <string name="miservice_notification_huanji_content">Přeneste je přes MiMover</string>
@@ -61,6 +62,10 @@
     <string name="miui_main_control_center_desc">Nebo přepněte na starou verzi v Nastavení &gt; Upozornění a Centrum ovládání</string>
     <string name="miui_main_control_center_open">Nové Centrum ovládání</string>
     <string name="miui_main_control_center_title">Potáhněte pro přepnutí Centra ovládání a Upozornění</string>
+    <string name="miui_main_icon_callback">Zkratka na ploše</string>
+    <string name="miui_main_icon_callback_create">Vytvořit</string>
+    <string name="miui_main_icon_callback_desc">Vytvořit zkratku na ploše nyní?</string>
+    <string name="miui_main_icon_callback_nocreate">Zrušit</string>
     <string name="miui_main_mirror_tab_desc1">Připojit automaticky</string>
     <string name="miui_main_mirror_tab_desc2">Zobrazit obrázky na větším displeji</string>
     <string name="miui_main_mirror_tab_desc3">Sdílet soubory</string>
@@ -211,9 +216,4 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="mi_service_back">Zpět</string>
-	<string name="miui_main_icon_callback">Zkratka na ploše</string>
-      <string name="miui_main_icon_callback_create">Vytvořit</string>
-      <string name="miui_main_icon_callback_desc">Vytvořit zkratku na ploše nyní?</string>
-      <string name="miui_main_icon_callback_nocreate">Zrušit</string>
 </resources>

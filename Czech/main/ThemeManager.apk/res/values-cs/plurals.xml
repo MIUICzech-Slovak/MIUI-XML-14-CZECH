@@ -134,6 +134,14 @@
         <item quantity="other">Vybraných: %d</item>
         <item quantity="one">Vybraných: %d</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">K dispozici je aktualizace pro %1$d Super ikon</item>
+        <item quantity="one">K dispozici je aktualizace pro %1$d Super ikonu</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Aktualizace %1$d Super ikon</item>
+        <item quantity="one">Aktualizace %1$d Super ikony</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Nyní</item>
     </plurals>
@@ -177,12 +185,4 @@
         <item quantity="other">%1$s | %2$d obrázků</item>
         <item quantity="one">%1$s | %2$d obrázek</item>
     </plurals>
-	<plurals name="large_icon_batch_has_update_text">
-         <item quantity="other">K dispozici je aktualizace pro %1$d Super ikon</item>
-         <item quantity="one">K dispozici je aktualizace pro %1$d Super ikonu</item>
-      </plurals>
-      <plurals name="large_icon_batch_updating_text">
-         <item quantity="other">Aktualizace %1$d Super ikon</item>
-         <item quantity="one">Aktualizace %1$d Super ikony</item>
-      </plurals>
 </resources>             

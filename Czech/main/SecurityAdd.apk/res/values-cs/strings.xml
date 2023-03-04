@@ -248,6 +248,8 @@
     <string name="pc_activity_title">Optimalizovat baterii</string>
     <string name="pm_lable_name">O přístupu k root</string>
     <string name="power_autorun_apps_empty">Žádné aplikace</string>
+    <string name="power_center_battery_duration_screen_on">Zbývající čas displeje</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s ze zbývajícího času displeje</string>
     <string name="privacy_declare_dialog_title">Podmínky používání</string>
     <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
     <string name="release_memory">Vymazána cache</string>
@@ -322,6 +324,4 @@
     <string name="wlan_change_protection_detail">Nepřepínat automaticky na Wi-Fi po připojení na mobilní data</string>
     <string name="wlan_change_protection_title">Zamezit změně sítě</string>
     <string name="yesterday">Včera</string>
-	<string name="power_center_battery_duration_screen_on">Zbývající čas displeje</string>
-     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s ze zbývajícího času displeje</string>
 </resources>

@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
+    <string-array name="aqi_detail_title">
+        <item>Dobré</item>
+        <item>Střední</item>
+        <item>Nezdravé pro citlivé skupiny</item>
+        <item>Nezdravé</item>
+        <item>Velmi nezdravé</item>
+        <item>Nebezpečné</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Dobré</item>
+        <item>Vyhovující</item>
+        <item>Středně znečištěné</item>
+        <item>Špatné</item>
+        <item>Velmi špatné</item>
+        <item>Závažné</item>
+        <item>Za index</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Praha</item>
         <item>Brno</item>
@@ -124,22 +141,5 @@
         <item>%1$s m/s</item>
         <item>%1$s mph</item>
         <item>%1$s kn</item>
-    </string-array>
-	<string-array name="aqi_detail_title">
-         <item>Dobré</item>
-         <item>Střední</item>
-         <item>Nezdravé pro citlivé skupiny</item>
-         <item>Nezdravé</item>
-         <item>Velmi nezdravé</item>
-         <item>Nebezpečné</item>
-    </string-array>
-    <string-array name="aqi_value">
-         <item>Dobré</item>
-         <item>Vyhovující</item>
-         <item>Středně znečištěné</item>
-         <item>Špatné</item>
-         <item>Velmi špatné</item>
-         <item>Závažné</item>
-         <item>Za index</item>
     </string-array>
 </resources>

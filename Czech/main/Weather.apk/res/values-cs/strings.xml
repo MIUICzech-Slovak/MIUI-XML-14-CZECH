@@ -30,7 +30,10 @@
     <string name="alert_warning">Varování</string>
     <string name="app_name">Počasí</string>
     <string name="aqi_desc">Index kvality ovzduší</string>
+    <string name="aqi_detail_24_hours">%d-hodinová předpověď</string>
+    <string name="aqi_detail_5_days">%d-denní předpověď</string>
     <string name="aqi_detail_title">Index kvality ovzduší</string>
+    <string name="aqi_fifteen_dates_time_format">d-M</string>
     <string name="button_abandon">Zrušit změny</string>
     <string name="button_add_city">Přidat město</string>
     <string name="button_allow">Potvrdit</string>
@@ -126,6 +129,10 @@
     <string name="indices_title_uv">UV Index</string>
     <string name="indices_title_visibility">Viditelnost</string>
     <string name="indices_title_wind_speed">Rychlost větru</string>
+    <string name="indices_wind_direction_east">V</string>
+    <string name="indices_wind_direction_north">S</string>
+    <string name="indices_wind_direction_south">J</string>
+    <string name="indices_wind_direction_west">Z</string>
     <string name="information_manager_default_weather_bg">Výchozí pozadí počasí</string>
     <string name="information_manager_extension">Rozšířená předpověď</string>
     <string name="information_manager_information">Onformace o počasí</string>
@@ -233,6 +240,7 @@ Zadejte město manuálně"</string>
     <string name="more_expanded">Více</string>
     <string name="network_not_available">Nelze se připojit k síti</string>
     <string name="network_unavailable">Žádná síť</string>
+    <string name="news_hour_minute_time_format">dd/MM/yyyy HH:mm</string>
     <string name="night_not_disturb_settings_summary">Neupozorňovat od 23:00 do 07:00</string>
     <string name="night_not_disturb_settings_title">Nerušit v noci</string>
     <string name="no_data">Žádná data</string>
@@ -303,6 +311,8 @@ Zadejte město manuálně"</string>
     <string name="search_history">Historie</string>
     <string name="select_show_city">Vyberte polohu</string>
     <string name="set">Nastavení</string>
+    <string name="setting_notification_manager">Upozornění</string>
+    <string name="setting_used_to_push_reminder">Dostávat varování na počasí</string>
     <string name="settings">Nastavení</string>
     <string name="settings_atmospheric_pressure_atm">Standardní atmosféra (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">Hektopascal (hPa)</string>
@@ -368,19 +378,9 @@ Zadejte město manuálně"</string>
     <string name="widget_cta_not_agree">Dotkněte se pro info o počasí</string>
     <string name="wind_direction_no_data">Vítr</string>
     <string name="xiaomi_weather_description_content">Xiaomi aplikace Počasí vám poskytuje informace o počasí ve vašem městě. Její odinstalování ovlivní widget hodin, teplotu v roletce a další funkce. Chcete ji odinstalovat?</string>
+    <string name="xiaomi_weather_description_content_remove">"Počasí je systémová aplikace. Po odebrání zástupce z Domácí obrazovky nebudete moci zobrazit informace o počasí ani používat související widgety."</string>
     <string name="xiaomi_weather_description_title">O Počasí</string>
+    <string name="xiaomi_weather_description_title_remove">Odebrat \"Počasí\" z Domácí obrazovky?</string>
     <string name="yesterday">Včera</string>
     <string name="your_location">Vaše poloha</string>
-	<string name="indices_wind_direction_east">V</string>
-     <string name="indices_wind_direction_north">S</string>
-     <string name="indices_wind_direction_south">J</string>
-     <string name="indices_wind_direction_west">Z</string>
-     <string name="setting_notification_manager">Upozornění</string>
-     <string name="setting_used_to_push_reminder">Dostávat varování na počasí</string>
-	 <string name="aqi_fifteen_dates_time_format">d-M</string>
-	 <string name="aqi_detail_24_hours">%d-hodinová předpověď</string>
-     <string name="aqi_detail_5_days">%d-denní předpověď</string>
-	 <string name="news_hour_minute_time_format">dd/MM/yyyy HH:mm</string>
-	 <string name="xiaomi_weather_description_content_remove">"Počasí je systémová aplikace. Po odebrání zástupce z Domácí obrazovky nebudete moci zobrazit informace o počasí ani používat související widgety."</string>
-     <string name="xiaomi_weather_description_title_remove">Odebrat \"Počasí\" z Domácí obrazovky?</string>
 </resources>

@@ -29,6 +29,10 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">Nezálohovali jste svoje položky už %s týdnů. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
+        <item quantity="one">Nezálohovali jste svoje položky už %s týden. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
+    </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">Zdá se, že jste položky nezálohovali %s týdnů. Vytvořte zálohy, aby jste nestratili nic důležité.</item>
         <item quantity="one">Zdá se, že jste %s týden nezálohovali položky. Vytvořte zálohy, aby jste nestratili nic důležité.</item>
@@ -88,20 +92,16 @@
         <item quantity="other">Obnovení souborů (%d)</item>
         <item quantity="one">Obnovení souborů (%d)</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Zálohovaných %d aplikací</item>
+        <item quantity="one">Zálohovaná %d aplikace</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Obnovených %d aplikací</item>
+        <item quantity="one">Obnovená %d aplikace</item>
+    </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Zůstáva okolo %s min</item>
         <item quantity="one">Zůstáva okolo %s min</item>
     </plurals>
-	<plurals name="session_starting_app_count_backup_text">
-        <item quantity="other">Zálohovaných %d aplikací</item>
-        <item quantity="one">Zálohovaná %d aplikace</item>
-     </plurals>
-     <plurals name="session_starting_app_count_restore_text">
-        <item quantity="other">Obnovených %d aplikací</item>
-        <item quantity="one">Obnovená %d aplikace</item>
-     </plurals>
-	 <plurals name="backup_action_long_time_not_auto_backup_content">
-        <item quantity="other">Nezálohovali jste svoje položky už %s týdnů. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
-        <item quantity="one">Nezálohovali jste svoje položky už %s týden. Klepnutím zobrazíte, jak zapnout automatické zálohování.</item>
-     </plurals>
 </resources>             

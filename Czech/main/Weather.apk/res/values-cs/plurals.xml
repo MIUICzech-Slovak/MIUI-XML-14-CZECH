@@ -42,6 +42,10 @@
         <item quantity="other">Před %d dny</item>
         <item quantity="one">Před %d dnem</item>
     </plurals>
+    <plurals name="aqi_all_city_cur_num">
+        <item kvantita="other">Průměr z %1$s stanic</item>
+        <item kvantita="one">Průměr %1$s stanice</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_home">
         <item quantity="other">%1$s-denní předpověď</item>
         <item quantity="one">%1$s-denní předpověď</item>
@@ -53,6 +57,14 @@
     <plurals name="feedback_result_interval_time_too_short">
         <item quantity="other">%1$s seconds after the feedback</item>
         <item quantity="one">%1$s second after the feedback</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item kvantita="other">Zpětnou vazbu můžete odeslat znovu za %1$s minut</item>
+        <item kvantita="one">Zpětnou vazbu můžete odeslat znovu za %1$s minutu</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item kvantita="other">Zpětnou vazbu můžete odeslat znovu za %1$s sekund</item>
+        <item kvantita="one">Zpětnou zpětnou vazbu můžete odeslat za %1$s sekundu</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Před hodinou a půl</item>
@@ -81,52 +93,40 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+    <plurals name="no_vote_num">
+        <item quality="other">%1$s lidí | </item>
+        <item kvantita="one">%1$s osoba | </item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item kvantita="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> lidí hlasovalo"</item>
+        <item kvantita="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> osoba hlasovala"</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item kvantita="other">Nejvyšší teplota: %1$s stupňů Celsia</item>
+        <item kvantita="one">Nejvyšší teplota: %1$s stupeň Celsia</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item kvantita="other">Nejvyšší teplota: %1$s stupňů Fahrenheita</item>
+        <item kvantita="one">Nejvyšší teplota: %1$s stupeň Fahrenheita</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item kvantita="other">Nejnižší teplota: %1$s stupňů Celsia</item>
+        <item kvantita="one">Nejnižší teplota: %1$s stupeň Celsia</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item kvantita="other">Nejnižší teplota: %1$s stupňů Fahrenheita</item>
+        <item kvantita="one">Nejnižší teplota: %1$s stupeň Fahrenheita</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Jasno</item>
         <item quantity="one">Jasno</item>
     </plurals>
-	<plurals name="aqi_all_city_cur_num">
-         <item kvantita="other">Průměr z %1$s stanic</item>
-         <item kvantita="one">Průměr %1$s stanice</item>
-      </plurals>
-      <plurals name="feedback_result_interval_time_too_short_minute">
-         <item kvantita="other">Zpětnou vazbu můžete odeslat znovu za %1$s minut</item>
-         <item kvantita="one">Zpětnou vazbu můžete odeslat znovu za %1$s minutu</item>
-      </plurals>
-      <plurals name="feedback_result_interval_time_too_short_second">
-         <item kvantita="other">Zpětnou vazbu můžete odeslat znovu za %1$s sekund</item>
-         <item kvantita="one">Zpětnou zpětnou vazbu můžete odeslat za %1$s sekundu</item>
-      </plurals>
-      <plurals name="no_vote_num">
-         <item quality="other">%1$s lidí | </item>
-         <item kvantita="one">%1$s osoba | </item>
-      </plurals>
-      <plurals name="total_voted_num_text">
-         <item kvantita="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> lidí hlasovalo"</item>
-         <item kvantita="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> osoba hlasovala"</item>
-      </plurals>
-      <plurals name="tts_report_temperature_high_centigrade">
-         <item kvantita="other">Nejvyšší teplota: %1$s stupňů Celsia</item>
-         <item kvantita="one">Nejvyšší teplota: %1$s stupeň Celsia</item>
-      </plurals>
-      <plurals name="tts_report_temperature_high_fahrenheit">
-         <item kvantita="other">Nejvyšší teplota: %1$s stupňů Fahrenheita</item>
-         <item kvantita="one">Nejvyšší teplota: %1$s stupeň Fahrenheita</item>
-      </plurals>
-      <plurals name="tts_report_temperature_low_centigrade">
-         <item kvantita="other">Nejnižší teplota: %1$s stupňů Celsia</item>
-         <item kvantita="one">Nejnižší teplota: %1$s stupeň Celsia</item>
-      </plurals>
-      <plurals name="tts_report_temperature_low_fahrenheit">
-         <item kvantita="other">Nejnižší teplota: %1$s stupňů Fahrenheita</item>
-         <item kvantita="one">Nejnižší teplota: %1$s stupeň Fahrenheita</item>
-      </plurals>
-      <plurals name="yes_vote_num">
-         <item quality="other"> | %1$s lidí</item>
-         <item quality="one"> | %1$s osoba</item>
-      </plurals>
+    <plurals name="yes_vote_num">
+        <item quality="other"> | %1$s lidí</item>
+        <item quality="one"> | %1$s osoba</item>
+    </plurals>
 </resources>             

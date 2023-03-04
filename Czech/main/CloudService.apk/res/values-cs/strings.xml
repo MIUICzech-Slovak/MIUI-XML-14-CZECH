@@ -36,7 +36,7 @@
     <string name="button_revoke">Odvolat</string>
     <string name="buy_more_space_b_class">"Přihlaste se na mi.com/micloud a získejte více úložného prostoru.
 K zakoupení dalšího úložného prostoru potřebujete bankovní kartu pevninské Číny."</string>
-     <string name="buy_more_space_c_class">"Tato funkce vyžaduje bankovní kartu pevninské Číny.
+    <string name="buy_more_space_c_class">"Tato funkce vyžaduje bankovní kartu pevninské Číny.
 Chcete-li získat více úložného prostoru, navštivte mi.com/micloud."</string>
     <string name="buy_space_expire">Zakoupená kapacita je platná do %s</string>
     <string name="buy_space_expire_concat">%1$s do %2$s</string>
@@ -66,6 +66,7 @@ Naposledy: %2$s"</string>
     <string name="cloud_find_device_off">Vyp</string>
     <string name="cloud_find_device_on">Zap</string>
     <string name="cloud_lab_title">Cloud Lab</string>
+    <string name="cloud_manage_storage_text">Spravovat úložiště v cloudu</string>
     <string name="cloud_restore_title">Obnovit ze zálohy</string>
     <string name="cloud_service_open_authorization">Vítejte v Xiaomi Cloudu! Xiaomi Cloud můžete použít pro synchronizaci poznámek, fotografií a videí, nahrávek a dalších položek ze systémových aplikací napříč všemi připojenými zařízeními. Zálohy rozložení domovské obrazovky se budou ukládat i na Xiaomi Cloud. Všechny synchronizované položky si budete moci prohlížet na i.mi.com.</string>
     <string name="cloud_service_title">Xiaomi Cloud</string>
@@ -73,16 +74,25 @@ Naposledy: %2$s"</string>
     <string name="cloud_space_upgrade_message">Stiskněte pro získání %s GB místa tento měsíc</string>
     <string name="cloud_space_upgrade_no_quota_info">Nesprávná data, zkuste to znovu</string>
     <string name="cloud_space_upgrade_title">Získejte více prostoru v Cloudu!</string>
+    <string name="cloud_storage_almost_full_upgrade_text">Úložiště je téměř plné. Možná nebude možné synchronizovat fotografie.</string>
     <string name="cloud_storage_already_full">Cloudové úložiště je plné: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">Využito: %1$s/%2$s</string>
+    <string name="cloud_storage_common_functions_text">Často používané</string>
     <string name="cloud_storage_default_title">Cloudové úložiště</string>
     <string name="cloud_storage_full">Cloudové úložiště je plné</string>
+    <string name="cloud_storage_full_upgrade_default_text">Nedostatek místa na úložišti. Fotografie se nepodařilo synchronizovat.</string>
+    <string name="cloud_storage_info_type_drive">MiDrive</string>
+    <string name="cloud_storage_info_type_family">Rodina</string>
     <string name="cloud_storage_info_type_others">Ostatní</string>
     <string name="cloud_storage_info_type_pdc">Nastavení systému</string>
     <string name="cloud_storage_is_full">Plný</string>
     <string name="cloud_storage_loading_data">Načítání...</string>
     <string name="cloud_storage_manage_title">Spravovat místo v cloudu</string>
     <string name="cloud_storage_no_data">Žádné položky v cloudu</string>
+    <string name="cloud_storage_sufficient_text">Navyšte a získejte až %d TB úložiště</string>
+    <string name="cloud_storage_upgrade_text">Navýšit</string>
+    <string name="cloud_storage_upgrade_text_now">Navýšit</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Navyšte zdarma</string>
     <string name="cloudservice_new_sync">Synchr. %s s MiCloud</string>
     <string name="cmcc_micloud_dspt">Služby Cloudu obsahují synchronizaci, vyhledání polohy zařízení a mnoho dalších funkcí. Také můžete svá data spravovat kdekoli online!</string>
     <string name="confirm_bundled_phone_dialog_title">Confirm bundled phone number</string>
@@ -95,8 +105,10 @@ Naposledy: %2$s"</string>
     <string name="connect_wlan_china">Pripojte sa k Wi-Fi</string>
     <string name="contact">Kontaktů</string>
     <string name="contact_alert_sync_data_merge_dialog_msg">Pokud zapnete synchronizaci, kontakty nahrané z tohoto zařízení se sloučí s kontakty uloženými v cloudu. Chcete přesto zapnout synchronizaci?</string>
+    <string name="copy">Kopírovat</string>
     <string name="cta_notification_content_text">Povolte %s připojení k internetu pro obnovení položek</string>
     <string name="cta_notification_content_title">Není možné obnovit z %s</string>
+    <string name="customize_notification_btn_text">Navýšit</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Tento účet je také použitý na dalším zařízení. Chcete spojit položky z vícero aplikací (včetně %1$s a %2$s) s položkami v tomto zařízení?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Tento účet je také použitý na dalším zařízení. Chcete spojit položky z %s s položkami v tomto zařízení?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Tento účet je také použitý na dalším zařízení. Chcete spojit položky z %1$s a %2$s s položkami v tomto zařízení?</string>
@@ -109,10 +121,12 @@ Naposledy: %2$s"</string>
     <string name="data_merge_dialog_loading">Ověřování dat...</string>
     <string name="data_merge_dialog_title">Sloučit položky</string>
     <string name="data_protection_title">Ochrana dat</string>
+    <string name="default_noti_quota_full_title">Cloudové úložiště je plné</string>
     <string name="deskclock_backup">Záloha hodin a budíků</string>
     <string name="detect_sim_card">Vyhledat SIM kartu</string>
     <string name="device_activation_card_cannot_get_yet">Nebylo možné získat informace. Zkuste to později.</string>
     <string name="device_activation_card_description">První aktivace se zaregistruje, když se zařízení poprvé připojí k síti. Zaregistrování první aktivace běžně chvíli trvá, takže je lepší počkat 3 až 5 dní po připojení k síti a potom zkontrolovat stav aktivace.</string>
+    <string name="device_activation_card_description_china">"První aktivace se zaregistruje, když se zařízení poprvé připojí k síti (včetně, ale ne výlučně, sítí Wi-Fi a mobilních sítí). Zaregistrování první aktivace obvykle chvíli trvá, takže před kontrolou stavu aktivace je lepší počkat 3 až 5 dní po připojení k síti.&lt;br>&lt;br>Aktivace zařízení je hlavním faktorem při určování doby platnosti naší prodloužené záruky. opravy&lt;/a>, kde najdete další podrobnosti.&lt;br>&lt;br>Máte-li nějaké dotazy, neváhejte a zavolejte na naši horkou linku zákaznické podpory: 400-100-5678."</string>
     <string name="device_activation_card_device_not_support">Toto zařízení není podporované</string>
     <string name="device_activation_card_local_service_error">Nebylo možné získat informace. Zkuste to později.</string>
     <string name="device_activation_card_no_network_error">Nebylo možné se připojit k síti.</string>
@@ -123,10 +137,14 @@ Naposledy: %2$s"</string>
     <string name="dialog_storage_full_title">Cloudové úložiště je plné</string>
     <string name="dialog_storage_low_content">Navyšte si kapacitu svého cloudového úložiště pro možnost synchronizace.</string>
     <string name="dialog_storage_low_title">Nedostatečné cloudové úložiště</string>
+    <string name="dialog_storage_upgrade_later">Ne, děkuji</string>
+    <string name="dialog_storage_upgrade_now">Inovovat</string>
     <string name="dialog_title_prompt">Upozornění</string>
     <string name="disable_find_device_error">Chyba: %1$s</string>
     <string name="disable_find_device_success">Vyhledání zařízení je deaktivováno.</string>
     <string name="do_not_merge">Nespojovat</string>
+    <string name="download_gallery_data_summary">Přejděte na stránku i.mi.com a stáhněte si synchronizované fotografie a videa do svého zařízení.</string>
+    <string name="download_gallery_data_title">Stáhněte si položky do zařízení</string>
     <string name="due_date_format">dd.MM.yyyy</string>
     <string name="enableAll">Povolit vše</string>
     <string name="enable_cloud_service_notification">Nemáte povoleny služby Cloudu</string>
@@ -148,7 +166,9 @@ Naposledy: %2$s"</string>
     <string name="error_not_acceptable">Chyba serveru: Synchr. deaktivována.</string>
     <string name="error_request_error">Chyba požadavku</string>
     <string name="error_reset_retry_exceed_limit">Příliš mnoho pokusů o resetování hesla</string>
+    <string name="error_reset_retry_exceed_limit_with_retry">Příliš mnoho neúspěšných pokusů. Zkuste to znovu za %s.</string>
     <string name="error_retry_exceed_limit">Příliš mnoho neúspěšných pokusů</string>
+    <string name="error_retry_exceed_limit_with_retry">Příliš mnoho neúspěšných pokusů. Zkuste to znovu za %s.</string>
     <string name="error_screen_pwd_retry_exceed_limit">Příliš mnoho neúspěšných pokusů</string>
     <string name="error_server">Chyba serveru</string>
     <string name="error_server_busy">Naše servery jsou zaneprázdněné.  Počkejte minutu nebo dvě a zkuste to znovu.</string>
@@ -158,6 +178,8 @@ Naposledy: %2$s"</string>
     <string name="error_token_expired">Přihlaste se znovu ke svému Xiaomi účtu</string>
     <string name="error_unauthorized">Příliš mnoho pokusů o přihlášení: Synchr. deaktivována.</string>
     <string name="error_unknown">Neznámá chyba</string>
+    <string name="error_unsupported">„Tato funkce není na tomto zařízení podporována“</string>
+    <string name="expand_button_title">Rozšířené</string>
     <string name="feedback_custom_hint">"Zde popište problémy, se kterými jste se setkali. Pokud dáváte návrhy, ocenili bychom více podrobností!"</string>
     <string name="find_device">Poloha zařízení</string>
     <string name="find_device_disabled_notice">"Toto nastavení můžete změnit v Nastavení - Účty - MiCloud"</string>
@@ -200,6 +222,14 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
     <string name="find_device_status_title_pad">Vyhledat zařízení</string>
     <string name="find_device_status_title_phone">Vyhledat zařízení</string>
     <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
+    <string name="find_permission_location_summary">Pro určení polohy tohoto zařízení</string>
+    <string name="find_permission_location_title">Přístup k poloze</string>
+    <string name="find_permission_phone_sim_info_summary">Pro přístup k vaší poloze prostředníctvím SMS, když nejste připojeni k síti</string>
+    <string name="find_permission_phone_sim_info_title">Přístup k informacím o zařízení</string>
+    <string name="find_permission_phone_summary">"Pro přístup k telefonnímu číslu za účelem nalezení tohoto zařízení, když není připojeno k internetu"</string>
+    <string name="find_permission_phone_title">Přístup k informacím o zařízení</string>
+    <string name="find_permission_sms_summary">"Pro lokalizaci tohoto zařízení, když není připojeno k internetu"</string>
+    <string name="find_permission_sms_title">Odeslat SMS</string>
     <string name="finddevice_miservice_notification_content">Uzamkněte vaše zařízení na dálku v případě krádeže</string>
     <string name="finddevice_miservice_notification_title">Povolit Vyhledávání zařízení</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -220,6 +250,14 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
+    <string name="gallery_auto_sync_fail_noti_content">V cloudu není dostatek úložného prostoru. Chcete-li synchronizovat fotografie a videa, navyšte svůj plán úložiště.</string>
+    <string name="gallery_data_transfer_ddl">Termín: %s</string>
+    <string name="gallery_data_transfer_summary">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotky a videa, která jste synchronizovali s cloudem do Fotek Google a použít jejich služby pro zálohování položek."</string>
+    <string name="gallery_data_transfer_title">Přenést synchronizované fotografie a videa do Fotek Google</string>
+    <string name="gallery_service_termination_announcement">Upozornění: Položky galerie již nelze synchronizovat s Xiaomi Cloud</string>
+    <string name="gallery_service_termination_announcement_title">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotografie a videa, která jste synchronizovali s cloudem, do Fotek Google nebo navštívit stránku i.mi.com a stáhnout si synchronizované fotografie a videa do vašeho zařízení.Služby přenosu a stahování budou dostupné do %s, kdy budou všechny položky Galerie synchronizovány s vaším účtem Xiaomi Cloud natrvalo odstraněny.“</string>
+    <string name="gallery_service_termination_btn_continue">Pokračovat</string>
+    <string name="gallery_service_termination_more_info">Další podrobnosti naleznete v části \"%s\"</string>
     <string name="get_first_month_gb">Získejte %s prostoru</string>
     <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>
     <string name="get_this_month_gb">Získejte %s prostoru</string>
@@ -236,13 +274,17 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
     <string name="hybrid_data_error">Nastala chyba</string>
     <string name="hybrid_network_access_denied">Přístup k síti zamítnut</string>
     <string name="hybrid_network_unavaliable">Nelze se připojit k síti</string>
+    <string name="hybrid_provider">Poskytuje %1$s</string>
     <string name="hybrid_service_unavailiable">Služba není dostupná</string>
     <string name="hybrid_try_again">Zkusit znovu</string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Zadejte heslo</string>
     <string name="internet_access_dspt">Tato aplikace vyžaduje připojení na internet pro její správné fungování.</string>
+    <string name="keybag_create_by_new_passcode_prompt">"Tento přístupový kód chrání vaše hesla uložená v cloudu. Pokud tento přístupový kód zapomenete, nebudete k nim mít přístup."</string>
+    <string name="keybag_create_by_screen_password_prompt">Tento přístupový kód chrání vaše hesla uložená v cloudu. Zadejte svůj zámek obrazovky a nastavte jej jako přístupový kód pro správce hesel.</string>
     <string name="keybag_dialog_cancel">Zrušit</string>
     <string name="keybag_dialog_ok">OK</string>
+    <string name="keybag_install_by_passcode_prompt">"Tento přístupový kód chrání vaše hesla uložená v cloudu. Už jste jej nastavili při zapnutí synchronizace cloudu pro správce hesel."</string>
     <string name="keybag_password_check_screen_lock">Zadejte zámek obrazovky</string>
     <string name="keybag_password_checking_screen_lock">Ověření zámku obrazovky…</string>
     <string name="keybag_password_confirm_prompt">Potvrďte přístupový kód</string>
@@ -289,6 +331,7 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
     <string name="last_sync_time_yesterday">Včera</string>
     <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení zpráv jděte na %s.</string>
     <string name="loading">Načítání...</string>
+    <string name="loading_enable_keybag">Zapíná se správce hesel...</string>
     <string name="loading_hint">Načítání...</string>
     <string name="loading_server_key_info">Načítání položek…</string>
     <string name="low_battery_locate_summary">Automaticky nahlásit polohu pokud je slabá baterie</string>
@@ -317,6 +360,7 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
     <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_add_feedback">Zpětná vazba</string>
     <string name="menu_add_short_cut">Vytvořit odkaz na ploše</string>
+    <string name="menu_migrate_to_google_photos">Přenos dat do Fotek Google</string>
     <string name="merge">Spojit</string>
     <string name="micloud_alert_dialog_negative">Zrušit</string>
     <string name="micloud_alert_dialog_positive">OK</string>
@@ -442,6 +486,7 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
     <string name="micloud_find_device_guide_noti_title">Povolit Vyhledávání zařízení</string>
     <string name="micloud_find_device_guide_progress">Aktivování vyhledávání zařízení...</string>
     <string name="micloud_find_device_guide_title">Přihlaste se do i.mi.com pro vyhledání, zablokování nebo vymazání vašeho zařízení.</string>
+    <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní zpoplatněná SMS&lt;/font> se automaticky odešle k aktivaci této služby.&lt;br/>Když změníte SIM kartu, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=# 0097FF>&lt;b>mezinárodní zpoplatněná SMS&lt;/b>&lt;/font> bude automaticky odeslána k opětovné aktivaci.&lt;br/>Všechny poplatky za SMS vytvořené výše uvedenými akcemi inkasuje váš operátor. Xiaomi vám nebude účtovat poplatky za tyto zprávy."</string>
     <string name="micloud_find_device_open_fail">Nelze aktivovat vyhledávání zařízení</string>
     <string name="micloud_find_device_opened">Vyhledávání zařízení povoleno</string>
     <string name="micloud_find_device_opened_content">Najděte své zařízení na %s</string>
@@ -654,6 +699,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
     <string name="micloud_setting_sms_summary_for_google_csp">SMS</string>
     <string name="micloud_setting_wifi_summary">Wi-Fi nastavení</string>
     <string name="micloud_setting_wifi_summary_china">Wi-Fi nastavení</string>
+    <string name="micloud_share_cloud_storage_entrance_title">Sdílejte cloudové úložiště se svou rodinnou skupinou</string>
     <string name="micloud_single_dspt">Používejte MiCloud pro synchr., vyhledávání svého zařízení a sdílení s přáteli.</string>
     <string name="micloud_space_applist_detail">Spravovat apl. na vaší ploše.</string>
     <string name="micloud_space_applist_title">Spravovat aplikace</string>
@@ -725,6 +771,15 @@ Využito %s | Zbývá %s"</string>
     <string name="microsoft_cloud">Microsoft Cloud</string>
     <string name="microsoft_cloud_eng">One Drive</string>
     <string name="microsoft_cloud_price">Okolo RMB 80 / rok</string>
+    <string name="midrive_guide1_desc">Zálohujte položky do cloudu, abyste uvolnili úložný prostor ve svém zařízení.</string>
+    <string name="midrive_guide1_title">Bezpečné zálohy</string>
+    <string name="midrive_guide2_desc">Stahujte položky závratnou rychlostí.</string>
+    <string name="midrive_guide2_title">Rychlé stahování</string>
+    <string name="midrive_guide3_desc">Používejte Mi Drive na mobilních zařízeních, počítačích a v prohlížečích.</string>
+    <string name="midrive_guide3_title">Funguje všude</string>
+    <string name="midrive_guide_btn_install">Nainstalujte Mi Drive</string>
+    <string name="midrive_guide_btn_installed">Otevřete Mi Drive</string>
+    <string name="midrive_guide_btn_installing">Instalování…</string>
     <string name="miuix_access_state_desc">Vybráno</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačit</string>
     <string name="miuix_appcompat_action_mode_select_all">Vše</string>
@@ -805,7 +860,9 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
     <string name="network_unconnected">Nelze se připojit k síti</string>
     <string name="next">Další</string>
     <string name="noRemind">Nepřipomínat</string>
+    <string name="no_network">"Nelze se připojit k síti"</string>
     <string name="no_sim">Žádná SIM karta</string>
+    <string name="not_set">Nenastaveno</string>
     <string name="noti_quota_button_text">Navýšit</string>
     <string name="noti_quota_full_sum">Navyšte si svoje pedplatné cloudového úložiště pro pokračování synchronizace.</string>
     <string name="noti_quota_full_sum_without_button">Získejte více cloudového úložiště pro pokračování synchronizace.</string>
@@ -814,7 +871,9 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
     <string name="noti_quota_low_sum">Navyšte si svoje předplatné cloudového úložiště pro pokračování synchronizace.</string>
     <string name="noti_quota_low_sum_without_button">Získejte více cloudového úložiště pro pokračování synchronizace.</string>
     <string name="noti_quota_low_title">Není dostatek místa na cloudovém úložišti</string>
+    <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Zbývá méně než &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> cloudového úložiště</string>
     <string name="noti_quota_low_title_without_button">Není dostatek místa na cloudovém úložišti</string>
+    <string name="notification_sync_fail_title">"Hesla se nepodařilo synchronizovat"</string>
     <string name="one_sync_item_close">%d je vyp.</string>
     <string name="open_micloud_sync">Povolit synchr. s MiCloud</string>
     <string name="open_service_title">Zapnutí</string>
@@ -828,6 +887,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
     <string name="pay_info_dialog_confirm_to_pay">Zaplatit %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Použít Xiaomi kredity: %s</string>
     <string name="pay_info_dialog_title">Vyberte způsob platby</string>
+    <string name="permission_management">Podrobnosti oprávnění</string>
     <string name="permission_status_allow">Povoleno</string>
     <string name="permission_status_deny">Nepovoleno</string>
     <string name="permission_status_loading">Přistupování ke stavu zařízení…</string>
@@ -848,6 +908,7 @@ Poloha nebude odeslána pokud je slabý signál sítě."</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Použít pouze Wi-Fi pro zobrazení fotky</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Použít Wi-Fi pro synchr. fotografií</string>
     <string name="pref_title_sync_video_on_wifi_only">Synchr. video pouze přes Wi-Fi</string>
+    <string name="preference_copied">\"%1$s\" zkopírováno do schránky.</string>
     <string name="priv_dialog_finddevice_all_purpose_phone">Vítejte ve vyhledávání zařízení! Můžete tuto funkci využít pro vyhledávání, uzamknutí anebo vymazání vašeho zařízení v případě jeho ztráty nebo odcizení</string>
     <string name="priv_dialog_sync_all_purpose">Vítejte v Xiaomi Cloudu! cloud můžete využít na synchronizaci vašich SMS, historie volaní, kontaktů, poznámek, nastavení, fotografií, nahrávek a kalendáře.</string>
     <string name="priv_doc_cloudservice">"Vítejte v Xiaomi Cloudu! cloud můžete využít na synchronizaci vašich SMS, historie volaní, kontaktů, poznámek, nastavení, fotografií, nahrávek a kalendáře. Přístup k vašemu Xiaomi Cloudu máte na i.mi.com
@@ -918,6 +979,9 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
 "</string>
     <string name="privacy_doc_cloudservice_china">"Vítejte v Xiaomi Cloudu! Můžete využít Xiaomi Cloud pro synchr. vašich SMS, historie hovorů, kontaktů, poznámek, fotografií, Wi-Fi nastavení, nahrávek, aplikací a kalendáře. K synchronizovaným položkám máte přístup na i.mi.com. Pro aktivaci této služby bude odeslána běžná SMS. Pro správné fungovaní této služby jsou vyžadována tato povolení:&lt;br /&gt;• Kalendář:&lt;br /&gt;Pro synchronizaci událostí&lt;br /&gt;• Přístup k SMS:&lt;br /&gt;Pro synchr. SMS&lt;br /&gt;• Přístup k MMS:&lt;br /&gt;Pro synch. MMS&lt;br /&gt;• Přístup ke kontaktům:&lt;br /&gt;Pro synchr. kontaktů&lt;br /&gt;• Upravit kontakty:&lt;br /&gt;Pro synchr. kontaktů&lt;br /&gt;• Úložiště:&lt;br /&gt;Pro ukládání souborů (např. obrázků, videí, skladeb)&lt;br /&gt;Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí"</string>
     <string name="privacy_doc_cloudservice_china_v2">"Vítejte v Xiaomi Cloudu! Můžete využít Xiaomi Cloud pro synchr. vašich SMS, historie hovorů, kontaktů, poznámek, fotografií, Wi-Fi nastavení, nahrávek, aplikací a kalendář. K synchronizovaným položkám máte přístup na i.mi.com. Pro aktivaci této služby bude odeslána bežná SMS. Pro správné fungování této služby jsou vyžadována tato povolení:&lt;br /&gt;• Kalendář:&lt;br /&gt;Pro synchronizaci událostí&lt;br /&gt;• Přístup k SMS:&lt;br /&gt;Pro synchr. SMS&lt;br /&gt;• Přístup k MMS:&lt;br /&gt;Pro synch. MMS&lt;br /&gt;• Přístup ke kontaktům:&lt;br /&gt;Pro synchr. kontaktů&lt;br /&gt;• Upravit kontakty:&lt;br /&gt;Pro synchr. kontaktů&lt;br /&gt;• Úložiště:&lt;br /&gt;Pro ukládání souborů (např. obrázků, videí, skladeb)&lt;br /&gt;Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí"</string>
+    <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Vítejte ve službách Xiaomi Cloud! Pomocí Xiaomi Cloud můžete synchronizovat své zprávy, historii hovorů, kontakty, poznámky, nastavení prohlížeče, fotografie a videa, nastavení Wi-Fi, nahrávky, rozložení domovské obrazvky, události v kalendáři, položky seznamu blokovaných položek a Asistenta ve všech připojených zařízeních. /font >.&lt;br />&lt;br />Chcete-li aktivovat tyto služby, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF> &lt;b > budou odeslány domácí placené SMS&lt;/b>&lt;/font> Když změníte SIM kartu, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domácí placené SMS&lt;/b>&lt;/font>se automaticky odešlou k opětovné aktivaci.&lt;br/>Všechny poplatky za SMS vytvořené výše uvedenými akcemi zinkasuje váš operátor. Xiaomi vám nebude za tyto zprávy účtovat poplatky.&lt;br />&lt;br />Budeme vaše osobní údaje chránit v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů.&lt;br />Aby tyto služby mohly normálně fungovat, je vyžadováno připojení k internetu a ke shromažďování vašich osobních údajů následující povolení:&lt;br />• Kalendář:&lt;br />K synchronizaci událostí&lt;br />• Přístup k SMS:&lt;br />K synchronizaci zpráv&lt; br />• Přístup k MMS:&lt;br />K synchronizaci zpráv&lt;br / >• Přístup ke kontaktům:&lt;br />K synchronizaci kontaktů&lt;br />• Úprava kontaktů:&lt;br />K synchronizaci kontaktů&lt; br />• Úložiště:&lt;br />Pro ukládání položek do zařízení (např. obrázky a videa)&lt;br />Pokud nesouhlasíte s udělením takových povolení nebo sdílením a předáváním svých osobních údajů, nebudete moci tyto služby používat. V takových případech můžete tuto aplikaci odinstalovat, odhlásit se nebo omezit oprávnění v Nastaveních. ;/a> a &lt;a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_china_with_charge_hint">"Vítejte ve službách Xiaomi Cloud! Pomocí Xiaomi Cloud můžete synchronizovat své zprávy, historii hovorů, kontakty, poznámky, nastavení prohlížeče, fotografie a videa, nastavení Wi-Fi, nahrávky, rozložení domovské obrazvky, události v kalendáři, položky seznamu blokovaných položek a Asistenta ve všech připojených zařízeních. Přístup k věcem, které synchronizujete, z libovolného prohlížeče na adrese &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font >.&lt;br />&lt;br />Chcete-li aktivovat tyto služby, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF >&lt;b > budou odeslány domácí placené SMS&lt;/b>&lt;/font> Když změníte SIM kartu, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domácí placené SMS&lt;/b>&lt;/font> se automaticky odešlou k opětovné aktivaci.&lt;br/>Všechny poplatky za SMS vytvořené výše uvedenými akcemi inkasuje váš operátor. Xiaomi vám nebude za tyto zprávy účtovat poplatky.&lt;br />&lt;br />Budeme chránit vaše osobní údaje v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů.&lt;br />Aby tyto služby mohly normálně fungovat, je vyžadováno připojení k internetu a ke shromažďování vašich osobních údajů následující povolení:&lt; br />• Kalendář:&lt;br />K synchronizaci událostí&lt;br />• Přístup k SMS:&lt;br />K synchronizaci zpráv&lt;br />• Přístup k MMS:&lt;br />K synchronizaci zpráv&lt;br />• Přístup ke kontaktům:&lt;br />K synchronizaci kontaktů&lt;br />• Úprava kontaktů:&lt;br />K synchronizaci kontaktů&lt;br />• Úložiště:&lt;br />K ukládání položek do zařízení (např. obrázky a videa)&lt;br />Pokud nesouhlasíte s udělením takových povolení nebo sdílením a předáváním svých osobních údajů, nebudete moci tyto služby používat. V takových případech můžete tuto aplikaci odinstalovat, odhlásit se nebo omezit oprávnění v Nastaveních. ;/a> a &lt;a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_global">Aby služba Xiaomi Cloud fungovala normálně, potřebuje se připojit k internetu. Synchronizace dat může vyžadovat použití mobilních dat a zapnutí Wi-Fi. Přečtěte si naši &lt;a href=%1$s>&lt;u>Smlouvu s uživatelem&lt;/u>&lt;/a> a &lt;a href=%2$s>&lt;u>Zásady ochrany osobních údajů&lt;/u a vyjádřete s nimi souhlas >&lt;/a> před použitím služeb Xiaomi Cloud.</string>
     <string name="privacy_doc_finddevice_phone">"Vítejte v Xiaomi Cloudu! Cloud můžete využít na synchronizaci vašich SMS, historie volaní, kontaktů, poznámek, nastavení, fotografií, nahrávek a kalendáře. Přístup k vašemu Xiaomi Cloudu máte na i.mi.com.
 
 Pro správné fungování této funkce jsou vyžadována tato povolení:
@@ -940,7 +1004,15 @@ Pro vyhledání vašeho zařízení
 
 Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
 "</string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">"Vítejte v aplikaci Najít zařízení! Tuto službu můžete použít k lokalizaci, uzamčení nebo vymazání údajů na vašem zařízení, pokud se ztratí. Navštívení &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vám umožňuje najít, uzamknout nebo resetovat zařízení.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/ xliff:g > &lt;font color=#0097FF>&lt;b>placená SMS&lt;/b>&lt;/font> bude automaticky odeslána k aktivaci této služby. 1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>placené SMS&lt;/b>&lt;/font> budou automaticky odeslány k opětovné aktivaci.&lt;br/>Všechny poplatky za SMS vytvořené výše uvedenými akcemi bude inkasovat váš operátor. Xiaomi vám za tyto zprávy nebude účtovat poplatky.&lt;br />&lt;br />Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, předpisy a zásady ochrany osobních údajů.&lt;br />Tato služba potřebuje k normálnímu fungování připojení k internetu a vyžaduje následující povolení ke shromažďování vašich osobních údajů:&lt;br />• Poloha:&lt;br />K lokalizaci vašeho zařízení a přepnutí do ztraceného režimu&lt;br />• Odeslat SMS:&lt;br />K určení polohy tohoto zařízení, když není připojeno k internetu&lt;br />• Přístup k informacím o zařízení:&lt;br />Pro přístup k telefonnímu číslu, aby bylo možné najít toto zařízení, když není připojeno k internetu&lt;br />Pokud nesouhlasíte s udělením takových povolení, nebudete moci tuto službu používat. Tuto službu můžete kdykoli zapnout a vypnout v Nastaveních.&lt;br />Přečtěte si a vyjádřete souhlas s &lt;a href=%2$s>&lt;u>Smlouvou s uživatelem&lt;/u>&lt;/a> a &lt; a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">"Vítejte v aplikaci Najít zařízení! Tuto službu můžete použít k lokalizaci, uzamčení nebo vymazání dat v zařízení, pokud se ztratí. Navštívení &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vám umožňuje najít, uzamknout nebo resetovat zařízení.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/ xliff:g> &lt;font color=#0097FF>&lt;b>domácí placené SMS&lt;/b>&lt;/font> budou automaticky odeslány k aktivaci této služby. 1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domácí placené SMS&lt;/b>&lt;/font> budou automaticky odeslány k opětovné aktivaci.&lt;br/ >Všechny poplatky za SMS vytvořené výše uvedenými akcemi bude inkasovat váš operátor. Xiaomi vám za tyto zprávy nebude účtovat poplatky.&lt;br />&lt;br />Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, předpisy a zásady ochrany osobních údaj ov.&lt;br />Tato služba potřebuje k normálnímu fungování připojení k internetu a vyžaduje následující povolení ke shromažďování vašich osobních údajů:&lt;br />• Poloha:&lt;br />Pro lokalizaci vašeho zařízení a přepnutí do režimu ztracených údajů&lt;br />• Odeslat SMS:&lt;br />K nalezení tohoto zařízení, když není připojeno k internetu&lt;br />• Přístup k informacím o zařízení:&lt;br />Pro přístup k telefonnímu číslu , abyste toto zařízení našli, když není připojeno na internet&lt;br />Pokud nesouhlasíte s udělením takových povolení, nebudete moci tuto službu používat. Tuto službu můžete kdykoli zapnout a vypnout v Nastaveních.&lt;br />Přečtěte si a vyjádřete souhlas s &lt;a href=%2$s>&lt;u>Smlouvou s uživatelem&lt;/u>&lt;/a> a &lt; a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">"Vítejte v aplikaci Najít zařízení! Tuto službu můžete použít k lokalizaci, uzamčení nebo vymazání dat v zařízení, pokud se ztratí. Navštívení &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vám umožňuje najít, uzamknout nebo resetovat zařízení.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/ xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b>&lt;/font> bude automaticky odeslána k aktivaci této služby. 1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b>&lt;/font> bude automaticky odeslána k opětovné aktivaci.&lt;br/ >Všechny poplatky za SMS vytvořené výše uvedenými akcemi bude inkasovat váš operátor. Xiaomi vám za tyto zprávy nebude účtovat poplatky.&lt;br />&lt;br />Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, předpisy a zásady ochrany osob ních údajů.&lt;br />Tato služba potřebuje k normálnímu fungování připojení k internetu a vyžaduje následující povolení ke shromažďování vašich osobních údajů:&lt;br />• Poloha:&lt;br />Pro lokalizaci vašeho zařízení a přepnutí do ztraceného režimu&lt;br /> • Odeslat SMS:&lt;br />Pro zjištění polohy tohoto zařízení, když není připojeno k internetu&lt;br />• Přístup k informacím o zařízení:&lt;br />Pro přístup k telefonnímu číslu, abyste toto zařízení našli, když není t připojen k internetu&lt;br />Pokud nesouhlasíte s udělením takových povolení, nebudete moci tuto službu používat. Tuto službu můžete kdykoli zapnout a vypnout v Nastaveních.&lt;br />Přečtěte si a vyjádřete souhlas s &lt;a href=%2$s>&lt;u>Smlouvou s uživatelem&lt;/u>&lt;/a> a &lt; a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
     <string name="privacy_policy">Podmínky soukromí</string>
+    <string name="privacy_policy_reject_confirm_msg">"Nebudete moci nadále používat Xiaomi Cloud, pokud nevyjádříte souhlas s novou verzí jeho &lt;a href=%1$s>&lt;u>Zásad ochrany osobních údajů&lt;/u>&lt;/a> Souhlasíte nyní s aktualizovanými Zásadami ochrany osobních údajů?"</string>
+    <string name="privacy_policy_reject_confirm_title">Pozor</string>
+    <string name="privacy_policy_revoked_msg">Souhlas s pravidly ochrany osobních údajů služby Xiaomi Cloud byl pro tento účet odvolán. Zkuste použít jiný účet.</string>
+    <string name="privacy_policy_update_msg">Zásady ochrany osobních údajů služby Xiaomi Cloud byly aktualizovány:&lt;br/>%1$s&lt;br/>Přečtěte si a vyjádřete souhlas s novou verzí &lt;a href=%2$s>&lt;u> Zásady ochrany osobních údajů&lt;/u>&lt;/a> dříve, než budete pokračovat.</string>
+    <string name="privacy_policy_update_title">Aktualizované zásady ochrany osobních údajů</string>
     <string name="privacy_runtime_perm_calendar_desc">Pro synchronizaci událostí kalendáře</string>
     <string name="privacy_runtime_perm_calendar_title">Přístup ke kalendáři</string>
     <string name="privacy_runtime_perm_call_log_desc">Pro synchronizaci záznamů hovorů</string>
@@ -953,6 +1025,7 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="privacy_runtime_perm_phone_state_title">Přístup k informacím o zařízení</string>
     <string name="privacy_runtime_perm_sms_desc">Pro synchronizaci zpráv</string>
     <string name="privacy_runtime_perm_sms_title">Přístup ke zprávám</string>
+    <string name="privacy_settings">Ochrana osobních údajů</string>
     <string name="provision_back">Zpět</string>
     <string name="provision_next">Další</string>
     <string name="provision_skip_underline">Přeskočit</string>
@@ -972,8 +1045,14 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="restoreSync">Obnovit</string>
     <string name="retain_data_high_quality_photo_waring_message">Po odhlášení se z Galerie odstraní obrázky ve vysoké kvalitě. Původní soubory budou nadále uložené v cloudu. Před odhlášením si můžete též stáhnuot původní soubory.</string>
     <string name="retain_data_high_quality_photo_waring_title">Obrázky ve vysokém rozlišení nebudou dostupné</string>
+    <string name="revoke_block_by_find_device">"Odvoláním souhlasu se také vypne funkce Najít zařízení. Když budete pokračovat, budete muset ověřit své heslo."</string>
     <string name="revoke_permission_content">„Pokud odeberete oprávnění, nebudete moci nadále používat funkci Najít zařízení. Funkce Najít zařízení bude rovněž vypnuta. Před odebráním budete požádáni o ověření hesla.“</string>
     <string name="revoke_permission_title">Pozor</string>
+    <string name="revoke_privacy_agreement_msg">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů společnosti Xiaomi Cloud. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a nařízeními, pokud to nebude třeba jinak.Jelikož Xiaomi Cloud poskytuje své služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu se bude považovat za odmítnutí přijmout služby Xiaomi Cloud. Odvolat souhlas nyní?"</string>
+    <string name="revoke_privacy_confirm">Vybrat</string>
+    <string name="revoke_privacy_content">"Pokud budete pokračovat, odvoláte svůj souhlas s &lt;a href=app://com.miui.cloudservice.gdpr.license>Zásadami ochrany osobních údajů&lt;/a> Najít zařízení. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a předpisy, pokud nebude vyžadováno jinak. zařízení. Chcete nyní odvolat souhlas?"</string>
+    <string name="revoke_privacy_failed">"Souhlas se nepodařilo odvolat"</string>
+    <string name="revoke_privacy_title">Odvolání souhlasu</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
@@ -986,7 +1065,24 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="settings_backup_title">Zálohovat nastavení systému</string>
     <string name="share_cancel">Sdílení zrušeno</string>
     <string name="share_failed">Sdílení selhalo</string>
+    <string name="share_location_app_name">Najít zařízení</string>
+    <string name="share_location_dialog_confirm">Rozumím</string>
+    <string name="share_location_dialog_content">Nyní můžete použít zkratku na ploše pro rychlejší přístup k nastavením.</string>
+    <string name="share_location_dialog_title">Pozor</string>
+    <string name="share_location_guide1_desc">Vyhledání, uzamčení a vymazání dat na chybějících zařízeních</string>
+    <string name="share_location_guide1_title">Najít zařízení</string>
+    <string name="share_location_guide2_desc">Pomozte jiným lidem vypořádat se s jejich chybějícími zařízeními</string>
+    <string name="share_location_guide2_title">Pomozte přátelům a rodině</string>
+    <string name="share_location_guide3_desc">Zkontrolujte informace o poloze, které sdíleli, a ujistěte se, že jsou vaši přátelé a rodina v bezpečí</string>
+    <string name="share_location_guide3_title">Zůstaňte v bezpečí</string>
+    <string name="share_location_guide_action_btn_loading_text">Jen chvilku…</string>
+    <string name="share_location_guide_action_btn_text">Zapnout</string>
+    <string name="share_location_guide_extra_btn_text">Přeskočit</string>
     <string name="share_location_menu_create_shortcut">Odkaz na ploše</string>
+    <string name="share_location_menu_finddevice_settings">Najít nastavení zařízení</string>
+    <string name="share_location_menu_help">Nápověda a zpětná vazba</string>
+    <string name="share_location_menu_messages">Historie zpráv</string>
+    <string name="share_location_start_navigation_error">Na vašem zařízení nebyly nalezeny mapy</string>
     <string name="share_miliao_not_installed">MiTalk není nainstalován.</string>
     <string name="share_success">Sdíleno</string>
     <string name="share_weibo_not_installed">Weibo není nainstalováno.</string>
@@ -1008,6 +1104,7 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="special_func_title">Speciální funkce</string>
     <string name="starred_contact">Oblíbené</string>
     <string name="start_micloud">Start</string>
+    <string name="start_transfer_gallery_data">Přenést data</string>
     <string name="storage">Úložiště</string>
     <string name="storage_manage_cloud_data_title">Zobrazit položky v cloudu</string>
     <string name="storage_manage_expansion">Získat více</string>
@@ -1098,6 +1195,12 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="tuesday_short">Úte</string>
     <string name="tuesday_shortest">Ú</string>
     <string name="unactivated_user">Není aktivován</string>
+    <string name="update_dialog_check_button_text">Zkontrolovat aktualizace</string>
+    <string name="update_dialog_ignore_button_text">Ne, děkuji</string>
+    <string name="update_dialog_no_internet_toast_text">Zkontrolujte své internetové připojení a zkuste to znovu</string>
+    <string name="update_dialog_no_update_toast_text">Současná verze je aktuální</string>
+    <string name="update_dialog_title">K dispozici je aktualizace</string>
+    <string name="update_dialog_update_button_text">Aktualizovat</string>
     <string name="upgrade_space">Přidat kapacitu</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_mibipreyear">%s MiKreditů na rok</string>
@@ -1107,6 +1210,8 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="user_agreement">Podmínky používání</string>
     <string name="user_agreement_content">Používaním této služby souhlasíte s %s.</string>
     <string name="user_agreement_link">MiCloud Podmínkami používání</string>
+    <string name="user_agreement_p5">"
+"</string>
     <string name="user_agreement_p6">"Používáním souhlasíte s "</string>
     <string name="user_agreement_p7">"Podmínkami používání MiCloud"</string>
     <string name="user_agreement_p8">.</string>
@@ -1131,6 +1236,9 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="warning_bar_title_network_unconnected">Nebylo možné připojit se k síti</string>
     <string name="warning_bar_title_short_cut">Přidat MiCloud odkaz na plochu?</string>
     <string name="warning_bar_title_sync_off">Synchr. s MiCloud je vypnuta</string>
+    <string name="web_sso_login_fail">Musíte se znovu přihlásit</string>
+    <string name="web_sso_login_message">Přihlašování…</string>
+    <string name="webview_reload">Zkuste to znovu</string>
     <string name="wednesday">Středa</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
@@ -1145,112 +1253,4 @@ Přečtěte si a odsouhlaste naše Podmínky používání a Ochranu soukromí.
     <string name="xiaomi_cloud_service_subtitle">Všechny důležité položky na jednom místě</string>
     <string name="xmpp_server_addr" />
     <string name="yesterday">Včera</string>
-	<string name="find_permission_phone_sim_info_summary">Pro přístup k vaší poloze prostředníctvím SMS, když nejste připojeni k síti</string>
-     <string name="find_permission_phone_sim_info_title">Přístup k informacím o zařízení</string>
-	 <string name="download_gallery_data_summary">Přejděte na stránku i.mi.com a stáhněte si synchronizované fotografie a videa do svého zařízení.</string>
-     <string name="download_gallery_data_title">Stáhněte si položky do zařízení</string>
-     <string name="gallery_data_transfer_ddl">Termín: %s</string>
-     <string name="gallery_data_transfer_summary">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotky a videa, která jste synchronizovali s cloudem do Fotek Google a použít jejich služby pro zálohování položek."</string>
-     <string name="gallery_data_transfer_title">Přenést synchronizované fotografie a videa do Fotek Google</string>
-     <string name="gallery_service_termination_announcement">Upozornění: Položky galerie již nelze synchronizovat s Xiaomi Cloud</string>
-     <string name="gallery_service_termination_announcement_title">"Položky galerie již nelze synchronizovat se službou Xiaomi Cloud. Doporučujeme přenést fotografie a videa, která jste synchronizovali s cloudem, do Fotek Google nebo navštívit stránku i.mi.com a stáhnout si synchronizované fotografie a videa do vašeho zařízení.Služby přenosu a stahování budou dostupné do %s, kdy budou všechny položky Galerie synchronizovány s vaším účtem Xiaomi Cloud natrvalo odstraněny.“</string>
-     <string name="gallery_service_termination_btn_continue">Pokračovat</string>
-     <string name="gallery_service_termination_more_info">Další podrobnosti naleznete v části \"%s\"</string>
-     <string name="menu_migrate_to_google_photos">Přenos dat do Fotek Google</string>
-     <string name="start_transfer_gallery_data">Přenést data</string>
-	<string name="find_permission_location_summary">Pro určení polohy tohoto zařízení</string>
-      <string name="find_permission_location_title">Přístup k poloze</string>
-      <string name="find_permission_phone_summary">"Pro přístup k telefonnímu číslu za účelem nalezení tohoto zařízení, když není připojeno k internetu"</string>
-      <string name="find_permission_phone_title">Přístup k informacím o zařízení</string>
-      <string name="find_permission_sms_summary">"Pro lokalizaci tohoto zařízení, když není připojeno k internetu"</string>
-      <string name="find_permission_sms_title">Odeslat SMS</string>
-      <string name="permission_management">Podrobnosti oprávnění</string>
-	  <string name="cloud_manage_storage_text">Spravovat úložiště v cloudu</string>
-      <string name="cloud_storage_almost_full_upgrade_text">Úložiště je téměř plné. Možná nebude možné synchronizovat fotografie.</string>
-      <string name="cloud_storage_common_functions_text">Často používané</string>
-      <string name="cloud_storage_full_upgrade_default_text">Nedostatek místa na úložišti. Fotografie se nepodařilo synchronizovat.</string>
-      <string name="cloud_storage_sufficient_text">Navyšte a získejte až %d TB úložiště</string>
-      <string name="cloud_storage_upgrade_text">Navýšit</string>
-      <string name="cloud_storage_upgrade_text_now">Navýšit</string>
-      <string name="cloud_storage_zero_upgrade_button_text_now">Navyšte zdarma</string>
-      <string name="customize_notification_btn_text">Navýšit</string>
-      <string name="default_noti_quota_full_title">Cloudové úložiště je plné</string>
-	  <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Zbývá méně než &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> cloudového úložiště</string>
-	  <string name="cloud_storage_info_type_drive">MiDrive</string>
-      <string name="cloud_storage_info_type_family">Rodina</string>
-      <string name="copy">Kopírovat</string>
-      <string name="device_activation_card_description_china">"První aktivace se zaregistruje, když se zařízení poprvé připojí k síti (včetně, ale ne výlučně, sítí Wi-Fi a mobilních sítí). Zaregistrování první aktivace obvykle chvíli trvá, takže před kontrolou stavu aktivace je lepší počkat 3 až 5 dní po připojení k síti.&lt;br>&lt;br>Aktivace zařízení je hlavním faktorem při určování doby platnosti naší prodloužené záruky. opravy&lt;/a>, kde najdete další podrobnosti.&lt;br>&lt;br>Máte-li nějaké dotazy, neváhejte a zavolejte na naši horkou linku zákaznické podpory: 400-100-5678."</string>
-      <string name="dialog_storage_upgrade_later">Ne, děkuji</string>
-      <string name="dialog_storage_upgrade_now">Inovovat</string>
-      <string name="error_reset_retry_exceed_limit_with_retry">Příliš mnoho neúspěšných pokusů. Zkuste to znovu za %s.</string>
-      <string name="error_retry_exceed_limit_with_retry">Příliš mnoho neúspěšných pokusů. Zkuste to znovu za %s.</string>
-      <string name="error_unsupported">„Tato funkce není na tomto zařízení podporována“</string>
-      <string name="expand_button_title">Rozšířené</string>
-      <string name="gallery_auto_sync_fail_noti_content">V cloudu není dostatek úložného prostoru. Chcete-li synchronizovat fotografie a videa, navyšte svůj plán úložiště.</string>
-      <string name="hybrid_provider">Poskytuje %1$s</string>
-      <string name="keybag_create_by_new_passcode_prompt">"Tento přístupový kód chrání vaše hesla uložená v cloudu. Pokud tento přístupový kód zapomenete, nebudete k nim mít přístup."</string>
-      <string name="keybag_create_by_screen_password_prompt">Tento přístupový kód chrání vaše hesla uložená v cloudu. Zadejte svůj zámek obrazovky a nastavte jej jako přístupový kód pro správce hesel.</string>
-      <string name="keybag_install_by_passcode_prompt">"Tento přístupový kód chrání vaše hesla uložená v cloudu. Už jste jej nastavili při zapnutí synchronizace cloudu pro správce hesel."</string>
-      <string name="loading_enable_keybag">Zapíná se správce hesel...</string>
-      <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní zpoplatněná SMS&lt;/font> se automaticky odešle k aktivaci této služby.&lt;br/>Když změníte SIM kartu, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=# 0097FF>&lt;b>mezinárodní zpoplatněná SMS&lt;/b>&lt;/font> bude automaticky odeslána k opětovné aktivaci.&lt;br/>Všechny poplatky za SMS vytvořené výše uvedenými akcemi inkasuje váš operátor. Xiaomi vám nebude účtovat poplatky za tyto zprávy."</string>
-      <string name="micloud_share_cloud_storage_entrance_title">Sdílejte cloudové úložiště se svou rodinnou skupinou</string>
-      <string name="midrive_guide1_desc">Zálohujte položky do cloudu, abyste uvolnili úložný prostor ve svém zařízení.</string>
-      <string name="midrive_guide1_title">Bezpečné zálohy</string>
-      <string name="midrive_guide2_desc">Stahujte položky závratnou rychlostí.</string>
-      <string name="midrive_guide2_title">Rychlé stahování</string>
-      <string name="midrive_guide3_desc">Používejte Mi Drive na mobilních zařízeních, počítačích a v prohlížečích.</string>
-      <string name="midrive_guide3_title">Funguje všude</string>
-      <string name="midrive_guide_btn_install">Nainstalujte Mi Drive</string>
-      <string name="midrive_guide_btn_installed">Otevřete Mi Drive</string>
-      <string name="midrive_guide_btn_installing">Instalování…</string>
-      <string name="no_network">"Nelze se připojit k síti"</string>
-      <string name="not_set">Nenastaveno</string>
-      <string name="notification_sync_fail_title">"Hesla se nepodařilo synchronizovat"</string>
-      <string name="preference_copied">\"%1$s\" zkopírováno do schránky.</string>
-      <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Vítejte ve službách Xiaomi Cloud! Pomocí Xiaomi Cloud můžete synchronizovat své zprávy, historii hovorů, kontakty, poznámky, nastavení prohlížeče, fotografie a videa, nastavení Wi-Fi, nahrávky, rozložení domovské obrazvky, události v kalendáři, položky seznamu blokovaných položek a Asistenta ve všech připojených zařízeních. /font >.&lt;br />&lt;br />Chcete-li aktivovat tyto služby, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF> &lt;b > budou odeslány domácí placené SMS&lt;/b>&lt;/font> Když změníte SIM kartu, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domácí placené SMS&lt;/b>&lt;/font>se automaticky odešlou k opětovné aktivaci.&lt;br/>Všechny poplatky za SMS vytvořené výše uvedenými akcemi zinkasuje váš operátor. Xiaomi vám nebude za tyto zprávy účtovat poplatky.&lt;br />&lt;br />Budeme vaše osobní údaje chránit v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů.&lt;br />Aby tyto služby mohly normálně fungovat, je vyžadováno připojení k internetu a ke shromažďování vašich osobních údajů následující povolení:&lt;br />• Kalendář:&lt;br />K synchronizaci událostí&lt;br />• Přístup k SMS:&lt;br />K synchronizaci zpráv&lt; br />• Přístup k MMS:&lt;br />K synchronizaci zpráv&lt;br / >• Přístup ke kontaktům:&lt;br />K synchronizaci kontaktů&lt;br />• Úprava kontaktů:&lt;br />K synchronizaci kontaktů&lt; br />• Úložiště:&lt;br />Pro ukládání položek do zařízení (např. obrázky a videa)&lt;br />Pokud nesouhlasíte s udělením takových povolení nebo sdílením a předáváním svých osobních údajů, nebudete moci tyto služby používat. V takových případech můžete tuto aplikaci odinstalovat, odhlásit se nebo omezit oprávnění v Nastaveních. ;/a> a &lt;a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
-      <string name="privacy_doc_cloudservice_china_with_charge_hint">"Vítejte ve službách Xiaomi Cloud! Pomocí Xiaomi Cloud můžete synchronizovat své zprávy, historii hovorů, kontakty, poznámky, nastavení prohlížeče, fotografie a videa, nastavení Wi-Fi, nahrávky, rozložení domovské obrazvky, události v kalendáři, položky seznamu blokovaných položek a Asistenta ve všech připojených zařízeních. Přístup k věcem, které synchronizujete, z libovolného prohlížeče na adrese &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font >.&lt;br />&lt;br />Chcete-li aktivovat tyto služby, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF >&lt;b > budou odeslány domácí placené SMS&lt;/b>&lt;/font> Když změníte SIM kartu, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g>&lt;font color=#0097FF>&lt;b> domácí placené SMS&lt;/b>&lt;/font> se automaticky odešlou k opětovné aktivaci.&lt;br/>Všechny poplatky za SMS vytvořené výše uvedenými akcemi inkasuje váš operátor. Xiaomi vám nebude za tyto zprávy účtovat poplatky.&lt;br />&lt;br />Budeme chránit vaše osobní údaje v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů.&lt;br />Aby tyto služby mohly normálně fungovat, je vyžadováno připojení k internetu a ke shromažďování vašich osobních údajů následující povolení:&lt; br />• Kalendář:&lt;br />K synchronizaci událostí&lt;br />• Přístup k SMS:&lt;br />K synchronizaci zpráv&lt;br />• Přístup k MMS:&lt;br />K synchronizaci zpráv&lt;br />• Přístup ke kontaktům:&lt;br />K synchronizaci kontaktů&lt;br />• Úprava kontaktů:&lt;br />K synchronizaci kontaktů&lt;br />• Úložiště:&lt;br />K ukládání položek do zařízení (např. obrázky a videa)&lt;br />Pokud nesouhlasíte s udělením takových povolení nebo sdílením a předáváním svých osobních údajů, nebudete moci tyto služby používat. V takových případech můžete tuto aplikaci odinstalovat, odhlásit se nebo omezit oprávnění v Nastaveních. ;/a> a &lt;a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
-      <string name="privacy_doc_cloudservice_global">Aby služba Xiaomi Cloud fungovala normálně, potřebuje se připojit k internetu. Synchronizace dat může vyžadovat použití mobilních dat a zapnutí Wi-Fi. Přečtěte si naši &lt;a href=%1$s>&lt;u>Smlouvu s uživatelem&lt;/u>&lt;/a> a &lt;a href=%2$s>&lt;u>Zásady ochrany osobních údajů&lt;/u a vyjádřete s nimi souhlas >&lt;/a> před použitím služeb Xiaomi Cloud.</string>
-      <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">"Vítejte v aplikaci Najít zařízení! Tuto službu můžete použít k lokalizaci, uzamčení nebo vymazání údajů na vašem zařízení, pokud se ztratí. Navštívení &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vám umožňuje najít, uzamknout nebo resetovat zařízení.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/ xliff:g > &lt;font color=#0097FF>&lt;b>placená SMS&lt;/b>&lt;/font> bude automaticky odeslána k aktivaci této služby. 1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>placené SMS&lt;/b>&lt;/font> budou automaticky odeslány k opětovné aktivaci.&lt;br/>Všechny poplatky za SMS vytvořené výše uvedenými akcemi bude inkasovat váš operátor. Xiaomi vám za tyto zprávy nebude účtovat poplatky.&lt;br />&lt;br />Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, předpisy a zásady ochrany osobních údajů.&lt;br />Tato služba potřebuje k normálnímu fungování připojení k internetu a vyžaduje následující povolení ke shromažďování vašich osobních údajů:&lt;br />• Poloha:&lt;br />K lokalizaci vašeho zařízení a přepnutí do ztraceného režimu&lt;br />• Odeslat SMS:&lt;br />K určení polohy tohoto zařízení, když není připojeno k internetu&lt;br />• Přístup k informacím o zařízení:&lt;br />Pro přístup k telefonnímu číslu, aby bylo možné najít toto zařízení, když není připojeno k internetu&lt;br />Pokud nesouhlasíte s udělením takových povolení, nebudete moci tuto službu používat. Tuto službu můžete kdykoli zapnout a vypnout v Nastaveních.&lt;br />Přečtěte si a vyjádřete souhlas s &lt;a href=%2$s>&lt;u>Smlouvou s uživatelem&lt;/u>&lt;/a> a &lt; a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
-      <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">"Vítejte v aplikaci Najít zařízení! Tuto službu můžete použít k lokalizaci, uzamčení nebo vymazání dat v zařízení, pokud se ztratí. Navštívení &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vám umožňuje najít, uzamknout nebo resetovat zařízení.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/ xliff:g> &lt;font color=#0097FF>&lt;b>domácí placené SMS&lt;/b>&lt;/font> budou automaticky odeslány k aktivaci této služby. 1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domácí placené SMS&lt;/b>&lt;/font> budou automaticky odeslány k opětovné aktivaci.&lt;br/ >Všechny poplatky za SMS vytvořené výše uvedenými akcemi bude inkasovat váš operátor. Xiaomi vám za tyto zprávy nebude účtovat poplatky.&lt;br />&lt;br />Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, předpisy a zásady ochrany osobních údaj ov.&lt;br />Tato služba potřebuje k normálnímu fungování připojení k internetu a vyžaduje následující povolení ke shromažďování vašich osobních údajů:&lt;br />• Poloha:&lt;br />Pro lokalizaci vašeho zařízení a přepnutí do režimu ztracených údajů&lt;br />• Odeslat SMS:&lt;br />K nalezení tohoto zařízení, když není připojeno k internetu&lt;br />• Přístup k informacím o zařízení:&lt;br />Pro přístup k telefonnímu číslu , abyste toto zařízení našli, když není připojeno na internet&lt;br />Pokud nesouhlasíte s udělením takových povolení, nebudete moci tuto službu používat. Tuto službu můžete kdykoli zapnout a vypnout v Nastaveních.&lt;br />Přečtěte si a vyjádřete souhlas s &lt;a href=%2$s>&lt;u>Smlouvou s uživatelem&lt;/u>&lt;/a> a &lt; a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
-      <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">"Vítejte v aplikaci Najít zařízení! Tuto službu můžete použít k lokalizaci, uzamčení nebo vymazání dat v zařízení, pokud se ztratí. Navštívení &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> vám umožňuje najít, uzamknout nebo resetovat zařízení.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/ xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b>&lt;/font> bude automaticky odeslána k aktivaci této služby. 1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>mezinárodní placená SMS&lt;/b>&lt;/font> bude automaticky odeslána k opětovné aktivaci.&lt;br/ >Všechny poplatky za SMS vytvořené výše uvedenými akcemi bude inkasovat váš operátor. Xiaomi vám za tyto zprávy nebude účtovat poplatky.&lt;br />&lt;br />Vaše osobní údaje budeme chránit v souladu s příslušnými zákony, předpisy a zásady ochrany osob ních údajů.&lt;br />Tato služba potřebuje k normálnímu fungování připojení k internetu a vyžaduje následující povolení ke shromažďování vašich osobních údajů:&lt;br />• Poloha:&lt;br />Pro lokalizaci vašeho zařízení a přepnutí do ztraceného režimu&lt;br /> • Odeslat SMS:&lt;br />Pro zjištění polohy tohoto zařízení, když není připojeno k internetu&lt;br />• Přístup k informacím o zařízení:&lt;br />Pro přístup k telefonnímu číslu, abyste toto zařízení našli, když není t připojen k internetu&lt;br />Pokud nesouhlasíte s udělením takových povolení, nebudete moci tuto službu používat. Tuto službu můžete kdykoli zapnout a vypnout v Nastaveních.&lt;br />Přečtěte si a vyjádřete souhlas s &lt;a href=%2$s>&lt;u>Smlouvou s uživatelem&lt;/u>&lt;/a> a &lt; a href=%3$s>&lt;u>Zásady ochrany osobních údajů&lt;/u>&lt;/a> před použitím našich služeb.&lt;br />"</string>
-      <string name="privacy_policy_reject_confirm_msg">"Nebudete moci nadále používat Xiaomi Cloud, pokud nevyjádříte souhlas s novou verzí jeho &lt;a href=%1$s>&lt;u>Zásad ochrany osobních údajů&lt;/u>&lt;/a> Souhlasíte nyní s aktualizovanými Zásadami ochrany osobních údajů?"</string>
-      <string name="privacy_policy_reject_confirm_title">Pozor</string>
-      <string name="privacy_policy_revoked_msg">Souhlas s pravidly ochrany osobních údajů služby Xiaomi Cloud byl pro tento účet odvolán. Zkuste použít jiný účet.</string>
-      <string name="privacy_policy_update_msg">Zásady ochrany osobních údajů služby Xiaomi Cloud byly aktualizovány:&lt;br/>%1$s&lt;br/>Přečtěte si a vyjádřete souhlas s novou verzí &lt;a href=%2$s>&lt;u> Zásady ochrany osobních údajů&lt;/u>&lt;/a> dříve, než budete pokračovat.</string>
-      <string name="privacy_policy_update_title">Aktualizované zásady ochrany osobních údajů</string>
-      <string name="privacy_settings">Ochrana osobních údajů</string>
-      <string name="revoke_block_by_find_device">"Odvoláním souhlasu se také vypne funkce Najít zařízení. Když budete pokračovat, budete muset ověřit své heslo."</string>
-      <string name="revoke_privacy_agreement_msg">"Pokud budete pokračovat, odvoláte svůj souhlas se Zásadami ochrany osobních údajů společnosti Xiaomi Cloud. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a nařízeními, pokud to nebude třeba jinak.Jelikož Xiaomi Cloud poskytuje své služby na základě shromažďování potřebných osobních údajů, vaše odvolání souhlasu se bude považovat za odmítnutí přijmout služby Xiaomi Cloud. Odvolat souhlas nyní?"</string>
-      <string name="revoke_privacy_confirm">Vybrat</string>
-      <string name="revoke_privacy_content">"Pokud budete pokračovat, odvoláte svůj souhlas s &lt;a href=app://com.miui.cloudservice.gdpr.license>Zásadami ochrany osobních údajů&lt;/a> Najít zařízení. Osobní údaje, které již byly shromážděny a uchovávány, budou vymazány během konkrétního období v souladu s platnými zákony a předpisy, pokud nebude vyžadováno jinak. zařízení. Chcete nyní odvolat souhlas?"</string>
-      <string name="revoke_privacy_failed">"Souhlas se nepodařilo odvolat"</string>
-      <string name="revoke_privacy_title">Odvolání souhlasu</string>
-      <string name="share_location_app_name">Najít zařízení</string>
-      <string name="share_location_dialog_confirm">Rozumím</string>
-      <string name="share_location_dialog_content">Nyní můžete použít zkratku na ploše pro rychlejší přístup k nastavením.</string>
-      <string name="share_location_dialog_title">Pozor</string>
-      <string name="share_location_guide1_desc">Vyhledání, uzamčení a vymazání dat na chybějících zařízeních</string>
-      <string name="share_location_guide1_title">Najít zařízení</string>
-      <string name="share_location_guide2_desc">Pomozte jiným lidem vypořádat se s jejich chybějícími zařízeními</string>
-      <string name="share_location_guide2_title">Pomozte přátelům a rodině</string>
-      <string name="share_location_guide3_desc">Zkontrolujte informace o poloze, které sdíleli, a ujistěte se, že jsou vaši přátelé a rodina v bezpečí</string>
-      <string name="share_location_guide3_title">Zůstaňte v bezpečí</string>
-      <string name="share_location_guide_action_btn_loading_text">Jen chvilku…</string>
-      <string name="share_location_guide_action_btn_text">Zapnout</string>
-      <string name="share_location_guide_extra_btn_text">Přeskočit</string>
-      <string name="share_location_menu_finddevice_settings">Najít nastavení zařízení</string>
-      <string name="share_location_menu_help">Nápověda a zpětná vazba</string>
-      <string name="share_location_menu_messages">Historie zpráv</string>
-      <string name="share_location_start_navigation_error">Na vašem zařízení nebyly nalezeny mapy</string>
-      <string name="update_dialog_check_button_text">Zkontrolovat aktualizace</string>
-      <string name="update_dialog_ignore_button_text">Ne, děkuji</string>
-      <string name="update_dialog_no_internet_toast_text">Zkontrolujte své internetové připojení a zkuste to znovu</string>
-      <string name="update_dialog_no_update_toast_text">Současná verze je aktuální</string>
-      <string name="update_dialog_title">K dispozici je aktualizace</string>
-      <string name="update_dialog_update_button_text">Aktualizovat</string>
-      <string name="user_agreement_p5">"
-"</string>
-      <string name="web_sso_login_fail">Musíte se znovu přihlásit</string>
-      <string name="web_sso_login_message">Přihlašování…</string>
-      <string name="webview_reload">Zkuste to znovu</string>
 </resources>

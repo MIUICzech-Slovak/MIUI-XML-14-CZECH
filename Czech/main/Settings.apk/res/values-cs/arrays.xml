@@ -922,6 +922,10 @@ Postupujte dle pokynů"</item>
         <item>Jemné</item>
         <item>Střední</item>
     </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Křupavé</item>
+        <item>Plné</item>
+    </string-array>
     <string-array name="time_format_entries">
         <item>12-hodin 1:00 PM</item>
         <item>24-hodin 13:00</item>
@@ -986,6 +990,11 @@ Postupujte dle pokynů"</item>
         <item>Svižná</item>
         <item>Velmi svižná</item>
         <item>Nejrychlejší</item>
+    </string-array>
+    <string-array name="typing_style_entries">
+        <item>Standardní</item>
+        <item>Dotyk</item>
+        <item>Přímý dotyk</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Doba použití</item>
@@ -1054,6 +1063,10 @@ Postupujte dle pokynů"</item>
         <item>Automaticky</item>
         <item>Pouze 5 GHz</item>
         <item>Pouze 2,4 GHz</item>
+    </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
+        <item>Ne</item>
+        <item>Ano</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
@@ -1158,17 +1171,4 @@ Postupujte dle pokynů"</item>
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
     </string-array>
-	<string-array name="typing_style_entries">
-        <item>Standardní</item>
-        <item>Dotyk</item>
-        <item>Přímý dotyk</item>
-     </string-array>
-	 <string-array name="tabs_taptic_detail_m2">
-        <item>Křupavé</item>
-        <item>Plné</item>
-     </string-array>
-     <string-array name="wifi_hidden_gbk_entries">
-        <item>Ne</item>
-        <item>Ano</item>
-     </string-array>
 </resources>

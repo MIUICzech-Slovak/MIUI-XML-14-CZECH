@@ -122,6 +122,11 @@
     <string name="cloud_member_vipname_premium">Prémium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">MiCloud</string>
+    <string name="cloud_service_cloud_open">Zapnout</string>
+    <string name="cloud_service_space_full">Úložiště je plné</string>
+    <string name="cloud_service_space_not_enough">Nedostatek úložného prostoru</string>
+    <string name="cloud_service_space_used">Obsazeno</string>
+    <string name="cloud_service_state_error">Nepodařilo se načíst</string>
     <string name="cloud_service_status_backup_not_open">Zálohování je vypnuté</string>
     <string name="cloud_service_status_cloud_not_open">Vypnuté</string>
     <string name="cloud_service_status_storage_full">Úložiště je plné</string>
@@ -169,6 +174,8 @@
     <string name="common_signin_button_text_long">Přihlásit se s Google</string>
     <string name="completed">Dokončit</string>
     <string name="confirm_activate_email">Ověřeno</string>
+    <string name="confirm_bundled_phone_dialog_confirm">Potvrdit</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Potvrdit (%ds)</string>
     <string name="confirm_bundled_phone_dialog_title">Potvrďte propojené telefonní číslo</string>
     <string name="confirm_delete_app_message">Po vymazání této apl., bude nutné pvěřit vaše telefonní číslo při dalším přihlášením se ke Xiaomi účtu.</string>
     <string name="confirm_delete_browser_message">Po vymazání tohoto prohlížeče, bude nutné ověřit vaše telefonní číslo při dalším přihlášením se ke Xiaomi účtu.</string>
@@ -186,6 +193,7 @@
     <string name="cta_declaration_ignore">Znovu se neptat</string>
     <string name="cta_declaration_message">"Pro přihlášení se k vašemu Xiaomi účtu je nutné internetové připojení, vyhledání vašeho zařízení a povolení MiCloud. Pro zálohu vašich dat, tato aplikace vyžaduje přístup k vašim kontaktům, SMS a MMS zprávám, historii hovorů a nahrávkám. Tato data nepoužíváme k žádným komerčním účelům a nejsou poskytována třetí straně."</string>
     <string name="cta_declaration_title">Podmínky používání</string>
+    <string name="current_account_can_use_pwd_login">Zadejte své heslo pro přihlášení</string>
     <string name="current_location_title">Aktuální poloha</string>
     <string name="data_keep_in_device">Ponechat v mém zařízení</string>
     <string name="data_wipe_from_device">Vymazat z mého zařízení</string>
@@ -207,6 +215,8 @@
     <string name="device_list_title">Seznam zařízení</string>
     <string name="device_name">Název zařízení</string>
     <string name="device_trust_info">Důvěryhodné zařízení</string>
+    <string name="dind_device_service_not_open">Vypnuto</string>
+    <string name="dind_device_service_opened">Zapnuto</string>
     <string name="download_file">Stahování %s…</string>
     <string name="empty_device_list_notice">Žádné zařízení</string>
     <string name="enable">Nastavení</string>
@@ -221,6 +231,7 @@
     <string name="exit">Ukončit</string>
     <string name="facebook">Facebook</string>
     <string name="failed_dup_secure_phone_number">Toto telefonní číslo je již použito pro jiný Xiaomi účet</string>
+    <string name="family_service_not_open">Pozvat členy</string>
     <string name="family_share">Rodinné sdílení</string>
     <string name="find_device">Vyhledávání zařízení</string>
     <string name="find_device_access_denied">Nelze načíst stav zařízení, přístup zamítnut</string>
@@ -286,6 +297,7 @@
     <string name="input_new_pwd">Zadejte nové heslo</string>
     <string name="io_error_title">Potvrďte vaši síť</string>
     <string name="just_a_second">Čekejte prosím...</string>
+    <string name="keep_phone_ticket_login">Přihlaste se pomocí ověřovacího kódu</string>
     <string name="loading_micloud_sync_data">Načítání...</string>
     <string name="local_device">(toto zařízení)</string>
     <string name="locating_current_location">Získávání polohy...</string>
@@ -297,6 +309,8 @@
     <string name="login_guard_prompt">Vyžadovat ověření telefonního čísla při následujícím přihlášení se ke Xiaomi účtu na neznámém zařízení nebo aplikaci.</string>
     <string name="logout_account">Odhlásit</string>
     <string name="logout_failed">Odhlášení selhalo</string>
+    <string name="messenger_send_button_text">Odeslat</string>
+    <string name="mi_account">Můj účet</string>
     <string name="mi_account_identity_title">Ověřit vaši identitu</string>
     <string name="mi_member">Xiaomi Komunita</string>
     <string name="mi_pass">MiPass</string>
@@ -640,6 +654,7 @@ Zkontrolujte také složku SPAM."</string>
     <string name="passport_vcode_notification_title">Vaše ověření přihlášení není dokončeno</string>
     <string name="passport_vcode_prompt_long">Zadejte váš ověřovací kód</string>
     <string name="passport_vcode_sms_send_prompt">Odeslat ověřovací kód na %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Váš WhatsApp ověřovací kód bude doručený na váš telefon k obnovení %s</string>
     <string name="passport_verification_failed">Chyba přihlášení</string>
     <string name="passport_verify">Ověřit</string>
     <string name="passport_verifying_activator_phone">Ověřování zabezpečení...</string>
@@ -666,6 +681,8 @@ Zkontrolujte také složku SPAM."</string>
     <string name="phone_num_use_for">Telefonní číslo použito pro:</string>
     <string name="phone_register">Použit telefonní číslo</string>
     <string name="phone_send_verify_code_prompt">Odeslat ověřovací kód na %s</string>
+    <string name="phone_ticket_login">Přihlaste se pomocí ověřovacího kódu</string>
+    <string name="phone_ticket_register">Vytvořte si účet s telefonním číslem</string>
     <string name="phone_unactivated">Neaktivováno</string>
     <string name="phone_unknown">Neznámé</string>
     <string name="photoPickerNotFoundText">Obrázek není dostupný.</string>
@@ -789,9 +806,17 @@ Zkontrolujte také složku SPAM."</string>
     <string name="update_phone_notice">Změnit bezpečnostní nastavení</string>
     <string name="update_phone_number_notice_message">Musíte ověřit svou identitu před tím, než změníte telefonní číslo.</string>
     <string name="updated_nothing">Žádná aktualizace</string>
+    <string name="use_google_account_login">Přihlaste se pomocí Google účtu</string>
     <string name="used_cloud_storage_info">Vnitřní úložiště %s</string>
+    <string name="user_agreement_device_permission_desc">Pro zajištění bezpečnosti přihlašovacího prostředí</string>
+    <string name="user_agreement_device_permission_title">Přístup k informacím o zařízení</string>
+    <string name="user_agreement_must_permission_msg">Povinná povolení (používaná pro základní funkce a služby této aplikace)</string>
     <string name="user_agreement_network_permission_msg">Potřebujeme se připojit k internetu, aby jsme vám mohli poskytnout potřebné služby.</string>
+    <string name="user_agreement_permission_summary_msg">Účet Xiaomi vám umožňuje přístup ke všem službám poskytovaným společností Xiaomi. Tato aplikace se musí připojit k internetu a vyžaduje následující povolení, aby mohla normálně fungovat:</string>
     <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje přístup ke všem službám poskytovaným společností Xiaomi.</string>
+    <string name="user_agreement_wifi_permission_title">Zapnutí a vypnutí Wi-Fi</string>
+    <string name="user_agreement_wlan_permission_desc">Pro kontrolu bezpečnostních problémů v přihlašovacím prostředí</string>
+    <string name="user_agreement_wlan_permission_title_china">Zapnutí a vypnutí Wi-Fi</string>
     <string name="user_avatar_update_title">Aktualizovat profilovou fotografii</string>
     <string name="user_avatar_uploading">Nahrávání...</string>
     <string name="user_instruction_all_purpose">Vítejte v Xiaomi účte! Můžete vytvořit nový účet nebo se přihlásit pro přístup k online Xiaomi službám.</string>
@@ -815,29 +840,4 @@ Zkontrolujte také složku SPAM."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
     <string name="yesterday">Včera</string>
-	<string name="passport_vcode_what_app_send_prompt">Váš WhatsApp ověřovací kód bude doručený na váš telefon k obnovení %s</string>
-	<string name="user_agreement_device_permission_desc">Pro zajištění bezpečnosti přihlašovacího prostředí</string>
-      <string name="user_agreement_device_permission_title">Přístup k informacím o zařízení</string>
-      <string name="user_agreement_must_permission_msg">Povinná povolení (používaná pro základní funkce a služby této aplikace)</string>
-      <string name="user_agreement_permission_summary_msg">Účet Xiaomi vám umožňuje přístup ke všem službám poskytovaným společností Xiaomi. Tato aplikace se musí připojit k internetu a vyžaduje následující povolení, aby mohla normálně fungovat:</string>
-      <string name="user_agreement_wifi_permission_title">Zapnutí a vypnutí Wi-Fi</string>
-      <string name="user_agreement_wlan_permission_desc">Pro kontrolu bezpečnostních problémů v přihlašovacím prostředí</string>
-      <string name="user_agreement_wlan_permission_title_china">Zapnutí a vypnutí Wi-Fi</string>
-	  <string name="cloud_service_cloud_open">Zapnout</string>
-     <string name="cloud_service_space_full">Úložiště je plné</string>
-     <string name="cloud_service_space_not_enough">Nedostatek úložného prostoru</string>
-     <string name="cloud_service_space_used">Obsazeno</string>
-     <string name="cloud_service_state_error">Nepodařilo se načíst</string>
-     <string name="dind_device_service_not_open">Vypnuto</string>
-     <string name="dind_device_service_opened">Zapnuto</string>
-     <string name="family_service_not_open">Pozvat členy</string>
-     <string name="mi_account">Můj účet</string>
-	 <string name="confirm_bundled_phone_dialog_confirm">Potvrdit</string>
-     <string name="confirm_bundled_phone_dialog_confirm_timer">Potvrdit (%ds)</string>
-	 <string name="current_account_can_use_pwd_login">Zadejte své heslo pro přihlášení</string>
-      <string name="keep_phone_ticket_login">Přihlaste se pomocí ověřovacího kódu</string>
-      <string name="messenger_send_button_text">Odeslat</string>
-      <string name="phone_ticket_login">Přihlaste se pomocí ověřovacího kódu</string>
-      <string name="phone_ticket_register">Vytvořte si účet s telefonním číslem</string>
-      <string name="use_google_account_login">Přihlaste se pomocí Google účtu</string>
 </resources>

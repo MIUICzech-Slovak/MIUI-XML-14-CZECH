@@ -15,6 +15,10 @@
         <item>Vyberte obrázek</item>
         <item>Průhledné pozadí</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Speciální den</item>
         <item>Pamětní den</item>
@@ -196,11 +200,11 @@
         <item>Barevný stín</item>
         <item>Electrická vlna</item>
         <item>Napětí</item>
-		<item>Vlny</item>
+        <item>Vlny</item>
         <item>Částice</item>
         <item>Text</item>
         <item>Křídla</item>
-		<item>Anděl</item>
+        <item>Anděl</item>
     </string-array>
     <string-array name="magic_idp_size_category">
         <item>Bežné</item>
@@ -409,9 +413,5 @@
     <string-array name="winter_season_title">
         <item>Zimní dny</item>
         <item>Zimní krajina zázraků</item>
-    </string-array>
-	<string-array name="account_user_gender_name">
-        <item>Muž</item>
-        <item>Žena</item>
     </string-array>
 </resources>

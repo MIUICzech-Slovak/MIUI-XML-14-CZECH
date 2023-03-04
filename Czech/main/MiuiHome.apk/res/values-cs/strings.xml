@@ -47,6 +47,7 @@
     <string name="all_apps_setting_drawer_tips_desc">Seznam aplikací zobrazíte tažením nahoru na ploše. Chcete přepnout do seznamu aplikací?</string>
     <string name="all_apps_setting_drawer_tips_title">Použít Seznam aplikací</string>
     <string name="all_apps_setting_drawer_title">Se seznamem aplikací</string>
+    <string name="all_apps_setting_jeejen_title">Zjednodušený režim</string>
     <string name="all_apps_setting_min_category_limit">Vyberte alespoň 1 kategorii</string>
     <string name="all_apps_setting_original_scrollbar">Původní rozložení</string>
     <string name="all_apps_setting_scroll_bar">Posuvník</string>
@@ -87,7 +88,9 @@
     <string name="app_drawer_guide_description">Najděte to, co hledáte ve svých oblíbených aplikacích</string>
     <string name="app_drawer_guide_title">Seznam aplikací</string>
     <string name="app_drawer_tip_title">Informační kanál obsahu jsme nahradili seznamem aplikací.</string>
+    <string name="app_edit_icon">Upravit ikonu</string>
     <string name="app_install_state">Nainstalováno</string>
+    <string name="app_set_icon">Nastavit ikonu</string>
     <string name="application_name">MIUI Launcher</string>
     <string name="apply">Použít</string>
     <string name="apply_action">Použít</string>
@@ -188,6 +191,13 @@
     <string name="content_description_workspace_thumbnail_item">Náhled plochy, strana %1$s</string>
     <string name="current_preview">Náhled</string>
     <string name="current_wallpaper">Současná</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pro volání na tísňové kontakty ve zjednodušeném režimu</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Pro zobrazení nouzových kontaktů ve zjednodušeném režimu</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Pro zobrazení stavu zařízení</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Pro zobrazení widgetů Kalendáře</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">Pro zobrazení widgetů Galerie</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pro přístup k názvu widgetu Wi-Fi v systému Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro přístup a ukládání dat na ploše</string>
     <string name="custom_wallpaper_picker">Vlastní</string>
     <string name="defalut_launcher_title">Výchozí Launcher</string>
     <string name="default_folder_title_game">Hry</string>
@@ -208,6 +218,8 @@
     <string name="deleted_system_applications">Odinstalované systémové aplikace</string>
     <string name="deselect_all">Odznačit vše</string>
     <string name="disable_wallpaper_scroll">Zakázat posouvání tapety</string>
+    <string name="dock_and_folder_not_edit_icon_tip">Pro úpravu nejprve odeberte aplikaci z doku a složky</string>
+    <string name="dock_not_edit_icon_tip">Pro úpravu nejprve odeberte aplikaci z doku</string>
     <string name="double_tap_to_lock_title">Zamknout dvojitým poklepáním</string>
     <string name="download_action">Stáhnout</string>
     <string name="drag_icon_to_homescreen_guide">Stiskněte a podržte ikonu aplikace a poté ji přesuňte pro přidání odkazu na plochu</string>
@@ -218,6 +230,7 @@
     <string name="drawer_settings">Seznam aplikací</string>
     <string name="dual_app">Klonované aplikace</string>
     <string name="edit">Upravit</string>
+    <string name="edit_folder">Upravit složku</string>
     <string name="edit_folder_title">Úprava názvu složky</string>
     <string name="edit_mode_dual_app">Vytvořit klonovanou aplikaci</string>
     <string name="edit_mode_group">Složka</string>
@@ -259,9 +272,17 @@
     <string name="fmt_date_short_month_day">"d. MMM "</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Úspěšně vytvořeno</string>
     <string name="fold_pair_install_shortcut_long_click">Stlačte a podržte pro přidání na plochu</string>
     <string name="fold_pair_installed_shortcut_launcher">Tato zkratka už existuje</string>
     <string name="folder_name">Složka</string>
+    <string name="folder_not_edit_icon_tip">Pro úpravu nejprve odeberte aplikaci ze složky</string>
+    <string name="folder_picker_big_2x2_9_text">XXL</string>
+    <string name="folder_picker_big_text">Zvětšená</string>
+    <string name="folder_picker_default_text">Normální</string>
+    <string name="folder_picker_options_tab_text">Velikost</string>
+    <string name="folder_picker_sliding_button_tab_text">Navrhovat zvýrazněné aplikace</string>
+    <string name="folder_picker_tab_text">Složka</string>
     <string name="frame_load_failed">Načítání foto rámečku selhalo!</string>
     <string name="free_style_apps_title">Vyberte aplikaci</string>
     <string name="free_style_drawer_title">Všechny aplikace</string>
@@ -347,6 +368,9 @@
     <string name="invalid_contact_shortcut">Neplatný zástupce kontaktu</string>
     <string name="is_setting_wallpaper_message">Nastavování tapety...</string>
     <string name="is_system_wallpaper_message">Nelze vymazat systémové soubory</string>
+    <string name="jeejen_description">"Větší prvky uživatelského rozhraní.
+Dostupnější volání.
+Vylepšené zabezpečení."</string>
     <string name="key_shortcut_settings_title">Zkratky tlačítka</string>
     <string name="launcher_auto_fill_empty_title">Auto. vyplnit prázdné místo</string>
     <string name="launcher_global_search_mode_title">Vyhledávání</string>
@@ -408,6 +432,7 @@
     <string name="menu_more">Více nastavení</string>
     <string name="menu_no_word">"Nezobrazovat text"</string>
     <string formatted="false" name="menu_no_word_setting_tip">Použít %d×%d rozložení bez textu</string>
+    <string name="menu_only_widget_no_word">Odstranit názvy widgetů</string>
     <string name="menu_picktheme">Zvolit téma</string>
     <string name="menu_reset_scene">Obnovit na výchozí scénu</string>
     <string name="menu_search">Hledat</string>
@@ -447,6 +472,8 @@
     <string name="monday">Pondělí</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
+    <string name="monochrome_summary">Změňte barvu pozadí pro kompatibilní ikony</string>
+    <string name="monochrome_title">Barva pozadí</string>
     <string name="month_april">Duben</string>
     <string name="month_april_short">Dub</string>
     <string name="month_april_shortest">D</string>
@@ -544,6 +571,9 @@
     <string name="open_personal_assistant_dialog_desc_international">Nebude možné využívat karty asistenta.</string>
     <string name="open_personal_assistant_dialog_title">Deaktivovat Asistenta</string>
     <string name="open_personal_assistant_settings">Nastavení asistenta</string>
+    <string name="open_personal_assistant_settings_off">Vypnuto</string>
+    <string name="open_personal_assistant_settings_on">Zapnuto</string>
+    <string name="open_personal_assistant_settings_simplified">Asistent</string>
     <string name="open_personal_assistant_title">Aktivovat Asistenta</string>
     <string name="ota_layout_adjustment_button_text">Rozumím</string>
     <string name="ota_layout_adjustment_content">Rozložení plochy bylo synchronizováno.</string>
@@ -589,6 +619,8 @@
     <string name="process" />
     <string name="quick_app">Rychlé aplikace</string>
     <string name="recent_apps">Nedávné</string>
+    <string name="recent_menu_item_add_pair">Vytvořte odkaz na ploše pro tuto kombinaci rozdělené obrazovky</string>
+    <string name="recent_menu_item_add_pair_first_toast">Vytvořte odkaz na ploše pro tuto kombinaci rozdělené obrazovky</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Uzamknout</string>
     <string name="recent_menu_item_multi_window">Rozdělit</string>
@@ -772,36 +804,4 @@
     <string name="widget_quick_function">Zkratky</string>
     <string name="widgets_preview_title">Přidat widget</string>
     <string name="yesterday">Včera</string>
-	<string name="menu_only_widget_no_word">Odstranit názvy widgetů</string>
-     <string name="open_personal_assistant_settings_off">Vypnuto</string>
-     <string name="open_personal_assistant_settings_on">Zapnuto</string>
-     <string name="open_personal_assistant_settings_simplified">Asistent</string>
-	 <string name="all_apps_setting_jeejen_title">Zjednodušený režim</string>
-     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pro volání na tísňové kontakty ve zjednodušeném režimu</string>
-     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Pro zobrazení nouzových kontaktů ve zjednodušeném režimu</string>
-     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Pro zobrazení stavu zařízení</string>
-     <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Pro zobrazení widgetů Kalendáře</string>
-     <string name="custom_define_permission_desc_android.permission_group.CAMERA">Pro zobrazení widgetů Galerie</string>
-     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pro přístup k názvu widgetu Wi-Fi v systému Android Q</string>
-     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pro přístup a ukládání dat na ploše</string>
-	 <string name="jeejen_description">"Větší prvky uživatelského rozhraní.
-Dostupnější volání.
-Vylepšené zabezpečení."</string>
-     <string name="monochrome_summary">Změňte barvu pozadí pro kompatibilní ikony</string>
-     <string name="monochrome_title">Barva pozadí</string>
-	 <string name="app_set_icon">Nastavit ikonu</string>
-	 <string name="app_edit_icon">Upravit ikonu</string>
-	 <string name="dock_and_folder_not_edit_icon_tip">Pro úpravu nejprve odeberte aplikaci z doku a složky</string>
-	 <string name="dock_not_edit_icon_tip">Pro úpravu nejprve odeberte aplikaci z doku</string>
-	 <string name="folder_not_edit_icon_tip">Pro úpravu nejprve odeberte aplikaci ze složky</string>
-	 <string name="edit_folder">Upravit složku</string>
-     <string name="fold_pair_install_shortcut_launcher_success">Úspěšně vytvořeno</string>
-     <string name="recent_menu_item_add_pair">Vytvořte odkaz na ploše pro tuto kombinaci rozdělené obrazovky</string>
-     <string name="recent_menu_item_add_pair_first_toast">Vytvořte odkaz na ploše pro tuto kombinaci rozdělené obrazovky</string>
-	 <string name="folder_picker_big_2x2_9_text">XXL</string>
-      <string name="folder_picker_big_text">Zvětšená</string>
-      <string name="folder_picker_default_text">Normální</string>
-      <string name="folder_picker_options_tab_text">Velikost</string>
-      <string name="folder_picker_sliding_button_tab_text">Navrhovat zvýrazněné aplikace</string>
-      <string name="folder_picker_tab_text">Složka</string>
 </resources>

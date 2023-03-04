@@ -16,6 +16,7 @@
     <string name="backup_action_buy_cloud_space">Získat více místa na úložišti</string>
     <string name="backup_action_check_network">Zkontrolujte nastavení sítě</string>
     <string name="backup_action_clean_disk_space">Uvolnit místo</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Zálohovat položky</string>
     <string name="backup_action_long_time_not_backup_action">Zálohovat</string>
     <string name="backup_action_long_time_not_backup_title">Žádné poslední zálohy</string>
     <string name="backup_action_retry_now">Zkusit znova</string>
@@ -127,6 +128,8 @@ Poznámka: Data doinstalovaných aplikací nebudou zálohované na Xiaomi Cloud.
     <string name="cloud_backup_detail_state_summary_china">Vytvořit Xiaomi Cloud zálohu automaticky po připojení na Wi-Fi.</string>
     <string name="cloud_backup_detail_time">Zálohováno: %1$s</string>
     <string name="cloud_backup_detail_title">Plocha, aplikace a nastavení.</string>
+    <string name="cloud_backup_get_installed_apps_summary">Pro zálohování a obnovení aplikací na ploše</string>
+    <string name="cloud_backup_get_installed_apps_title">Přístup k seznamu aplikací nainstalovaných v tomto zařízení</string>
     <string name="cloud_backup_have_data">Nalezena záloha v MiCloud</string>
     <string name="cloud_backup_in_cancel">Zrušit</string>
     <string name="cloud_backup_in_process">Zálohování...</string>
@@ -150,6 +153,9 @@ Poznámka: Data doinstalovaných aplikací nebudou zálohované na Xiaomi Cloud.
     <string name="confirm_restore_summary">Nastavení plochy bude obnoveno a aplikace se stáhnou po připojení na Wi-Fi</string>
     <string name="confirm_restore_title">Obnovit</string>
     <string name="copy">Kopírovat</string>
+    <string name="cta_dialog_all_purpose">"Vítejte v cloudovém zálohování! Tuto aplikaci můžete použít k zálohování rozložení plochy, aplikací, systémových nastavení a údajů služby WeChat do cloudu. Ujistěte se, že používáte nejnovější verzi abyste mohli využívat všechny naše funkce."</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">Pro zálohování a obnovení aplikací</string>
+    <string name="cta_dialog_permission_description_storage">Pro zálohování a obnovení položek</string>
     <string name="customization">Upravit</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="deskclock_backup">Hodiny</string>
@@ -169,6 +175,10 @@ ID: %s
 Pošlete tento kód technikovi."</string>
     <string name="dialog_app_usage_consent_title">Povolit přístup k údajům o používání aplikace</string>
     <string name="dialog_app_usage_denied">Povolte Záloze povolení v Nastaveních pro její správné fungování.</string>
+    <string name="dialog_auto_backup_condition_normal_content">Abyste mohli pravidelně automaticky zálohovat všechny důležité položky, ujistěte se, že máte dostatek úložného prostoru v cloudu a že toto zařízení je uzamčeno, má více než %s baterie a je v noci připojeno k Wi-Fi síti. Zálohovat můžete kdykoli i ručně.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Abyste mohli pravidelně automaticky zálohovat všechny důležité položky, ujistěte se, že máte dostatek cloudového úložiště a že toto zařízení je uzamčeno, má více než %s baterie a je v noci připojeno k Wi-Fi síti . Zálohovat můžete kdykoli i ručně.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Rozumím</string>
+    <string name="dialog_auto_backup_condition_normal_title">Zálohujte si položky</string>
     <string name="dialog_backup_failed">"Nepodařilo se zálohovat"</string>
     <string name="dialog_btn_cancel_backup">Zrušit</string>
     <string name="dialog_btn_confirm2">Rozumím</string>
@@ -490,14 +500,4 @@ Pošlete tento kód technikovi."</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="backup_action_long_time_not_auto_backup_title">Zálohovat položky</string>
-    <string name="cloud_backup_get_installed_apps_summary">Pro zálohování a obnovení aplikací na ploše</string>
-    <string name="cloud_backup_get_installed_apps_title">Přístup k seznamu aplikací nainstalovaných v tomto zařízení</string>
-    <string name="cta_dialog_all_purpose">"Vítejte v cloudovém zálohování! Tuto aplikaci můžete použít k zálohování rozložení plochy, aplikací, systémových nastavení a údajů služby WeChat do cloudu. Ujistěte se, že používáte nejnovější verzi abyste mohli využívat všechny naše funkce."</string>
-    <string name="cta_dialog_permission_description_get_installed_apps">Pro zálohování a obnovení aplikací</string>
-    <string name="cta_dialog_permission_description_storage">Pro zálohování a obnovení položek</string>
-    <string name="dialog_auto_backup_condition_normal_content">Abyste mohli pravidelně automaticky zálohovat všechny důležité položky, ujistěte se, že máte dostatek úložného prostoru v cloudu a že toto zařízení je uzamčeno, má více než %s baterie a je v noci připojeno k Wi-Fi síti. Zálohovat můžete kdykoli i ručně.</string>
-    <string name="dialog_auto_backup_condition_normal_content_china">Abyste mohli pravidelně automaticky zálohovat všechny důležité položky, ujistěte se, že máte dostatek cloudového úložiště a že toto zařízení je uzamčeno, má více než %s baterie a je v noci připojeno k Wi-Fi síti . Zálohovat můžete kdykoli i ručně.</string>
-    <string name="dialog_auto_backup_condition_normal_positive">Rozumím</string>
-    <string name="dialog_auto_backup_condition_normal_title">Zálohujte si položky</string>
 </resources>

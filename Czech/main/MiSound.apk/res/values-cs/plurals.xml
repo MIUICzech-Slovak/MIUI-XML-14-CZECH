@@ -60,9 +60,9 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
-	<plurals name="rename_error_longer_effect_name">
+    <plurals name="rename_error_longer_effect_name">
         <item quantity="other">Zde můžete zadat až %d znaků</item>
         <item quantity="one">Zde můžete zadat %d znak</item>
-     </plurals>
+    </plurals>
 </resources>
 

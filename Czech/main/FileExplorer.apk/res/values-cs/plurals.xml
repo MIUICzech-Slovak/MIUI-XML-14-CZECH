@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
+    <plurals name="a_hour_ago">
+        <item quality="other">před 1 hodinou</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quality="other">před 1 hodinou</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item kvantita="other">Před půl hodinou</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item kvantita="other">Za 1 hodinu</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item kvantita="other">Za půl hodiny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item kvantita="other">Okamžitě</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quality="other">Za %d minut</item>
+        <item number="one">Za 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item kvantita="other">Právě teď</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item kvantita="other">Před %d minutami</item>
+        <item quality="one">Před 1 minutou</item>
+    </plurals>
     <plurals name="days">
         <item quantity="other">%1$d d</item>
         <item quantity="zero">%1$d d</item>
@@ -16,6 +45,10 @@
         <item quantity="two">Před %1$d d</item>
         <item quantity="few">Před %1$d d</item>
         <item quantity="many">Před %1$d d</item>
+    </plurals>
+    <plurals name="delete_cloud_files">
+        <item kvantita="other">Smazat %1$d souborů ze všech zařízení a cloudu? Soubory Mi Drive lze obnovit z vašich nedávno smazaných položek.</item>
+        <item kvantita="one">Smazat %1$d soubor ze všech vašich zařízení a cloudu? Soubory Mi Drive lze obnovit z vašich nedávno smazaných položek.</item>
     </plurals>
     <plurals name="delete_files">
         <item quantity="other">Vymazat soubory: %1$d?</item>
@@ -232,38 +265,5 @@
         <item quantity="two">Položek: %1$d</item>
         <item quantity="few">Položek: %1$d</item>
         <item quantity="many">Položek: %1$d</item>
-    </plurals>	
-	<plurals name="a_hour_ago">
-        <item quality="other">před 1 hodinou</item>
-     </plurals>
-     <plurals name="abbrev_a_hour_ago">
-        <item quality="other">před 1 hodinou</item>
-     </plurals>
-     <plurals name="abbrev_half_hour_ago">
-        <item kvantita="other">Před půl hodinou</item>
-     </plurals>
-     <plurals name="abbrev_in_a_hour">
-        <item kvantita="other">Za 1 hodinu</item>
-     </plurals>
-     <plurals name="abbrev_in_half_hour">
-        <item kvantita="other">Za půl hodiny</item>
-     </plurals>
-     <plurals name="abbrev_in_less_than_one_minute">
-        <item kvantita="other">Okamžitě</item>
-     </plurals>
-     <plurals name="abbrev_in_num_minutes">
-        <item quality="other">Za %d minut</item>
-        <item number="one">Za 1 min</item>
-     </plurals>
-     <plurals name="abbrev_less_than_one_minute_ago">
-        <item kvantita="other">Právě teď</item>
-     </plurals>
-     <plurals name="abbrev_num_minutes_ago">
-        <item kvantita="other">Před %d minutami</item>
-        <item quality="one">Před 1 minutou</item>
-     </plurals>
-     <plurals name="delete_cloud_files">
-        <item kvantita="other">Smazat %1$d souborů ze všech zařízení a cloudu? Soubory Mi Drive lze obnovit z vašich nedávno smazaných položek.</item>
-        <item kvantita="one">Smazat %1$d soubor ze všech vašich zařízení a cloudu? Soubory Mi Drive lze obnovit z vašich nedávno smazaných položek.</item>
-     </plurals>
+    </plurals>
 </resources>

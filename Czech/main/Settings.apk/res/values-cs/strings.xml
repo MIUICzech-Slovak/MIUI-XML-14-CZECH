@@ -20,6 +20,8 @@
     <string name="accelerometer_summary_off">Při otáčení zařízení automaticky přepínat orientaci</string>
     <string name="accelerometer_summary_on">Při otáčení zařízení automaticky přepínat orientaci</string>
     <string name="accelerometer_title">Auto. otočení obrazovky</string>
+    <string name="accept_new_connection">Povolit nová připojení</string>
+    <string name="accept_new_connection_detail">Nová připojení bluetooth byla z ovládacího centra vypnuta</string>
     <string name="access_control_app_entry_multiple">Otevřít %s</string>
     <string name="access_control_app_entry_single">Otevřít zvolenou aplikaci</string>
     <string name="access_control_need_password">"%s - uzamknuto
@@ -650,6 +652,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
     <string name="assist_access_screenshot_title">Použít snímek obrazovky</string>
     <string name="assist_and_voice_input_title">Asistence a hlasový vstup</string>
     <string name="assist_footer">Pomocné aplikace vám pomáhají na základě informací ze zobrazené obrazovky. Některé aplikace podpprují spouštět i služby hlasového vstupu, aby vám poskytly integrovanou pomoc.</string>
+    <string name="assistance_category_title">Ulehčení přístupu</string>
     <string name="assistant_security_warning">Pomocník bude mít možnost číst informace o aplikacích používaných ve vašem systému včetně údajů viditelných na obrazovce nebo informace dostupné v aplikacích.</string>
     <string name="assistant_security_warning_agree">Souhlasím</string>
     <string name="assistant_security_warning_disagree">Nesouhlasím</string>
@@ -1226,6 +1229,8 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="bt_absVolume_open_dialog_title">Upozornění</string>
     <string name="bt_absVolume_pre_title">Absolutní hlasitost</string>
     <string name="bt_absVolume_summary">Ponechat hlasitost Bluetooth zařízení a telefonu na stejné úrovni</string>
+    <string name="bt_always_show_icon">Vždy zobrazovat ikonu bluetooth ve stavovém rádku</string>
+    <string name="bt_always_show_icon_summary">Zobrazit ikonu Bluetooth pouze v roletce a ovladačích</string>
     <string name="bt_audio_repair_property">Opravit chyby zvuku</string>
     <string name="bt_audio_share_property">Sdílení</string>
     <string name="bt_audio_share_switch_summary">Sdílet zvuk s připojenými Bluetooth zařízeními</string>
@@ -1264,6 +1269,8 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="bt_lhdc_open_dialog_title">Zapnout LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Vlastnosti</string>
+    <string name="bt_low_energy_audio_summary">Vychutnejte si vysokokvalitní zvuk s nízkou spotřebou energie a zníženou latencí</string>
+    <string name="bt_low_energy_audio_title">Bluetooth LE Audio</string>
     <string name="bt_plugin_current_version">Aktuálna verzia</string>
     <string name="bt_pre_summary">Poskytuje vysoce kvalitní zvukový zážitek</string>
     <string name="bt_rarely_used_device_title">Zřídka používané zařízení (%d)</string>
@@ -1536,6 +1543,7 @@ Nikdy jste nebyli připojený k %2$s."</string>
     <string name="common_issue">FAQ</string>
     <string name="common_settings">Časté nastavení</string>
     <string name="complete_parameters">Všechny specifikace</string>
+    <string name="complete_parameters_new">Podrobné specifikace</string>
     <string name="complete_settings">Kompletní nast.</string>
     <string name="computer_backup_summary">Zálohovat a obnovit položky pomocí PC</string>
     <string name="computer_backup_title">PC</string>
@@ -1731,6 +1739,7 @@ Chcete-li telefon nadále používat, je nutné v něm obnovit tovární nastave
     <string name="dark_ui_mode_title">Nastavit tmavé pozadí aplikací</string>
     <string name="dark_wallpaper_mode">Upravit sytost barev tapety v Tmavém režimu</string>
     <string name="dashboard_title">Nastavení</string>
+    <string name="data_acceleration_summery">Používejte Wi-Fi i mobilní data ke zvýšení rychlosti, když je připojení Wi-Fi slabé</string>
     <string name="data_size_label">Data</string>
     <string name="data_summary_format">Od %2$s využito %1$s</string>
     <string name="data_switch_started">Přepínají se datové SIM karty, může to chvíli trvat...</string>
@@ -1847,6 +1856,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="dc_light_summary_new">Použít DC ztmavení pro šetření vašich očí.</string>
     <string name="dc_light_title">Anti-flicker režim</string>
     <string name="dclight_unavailable_prompt">Anti-flicker režim podporuje jen vnější displej</string>
+    <string name="dds_preference_smart_dds_switch_is_on">Inteligentní přepínač DDS je zapnut</string>
     <string name="debug_app">Vybrat aplikaci pro ladění</string>
     <string name="debug_app_not_set">Není nastavena žádná aplikace pro ladění</string>
     <string name="debug_app_set">Aplikace pro ladění: %1$s</string>
@@ -1875,6 +1885,8 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="default_emergency_app">Aplikace pro tísňové volání</string>
     <string name="default_input_method">Vybrat výchozí klávesnici</string>
     <string name="default_keyboard">Předvolené</string>
+    <string name="default_launcher_set_jeejen_message">Stisknutím tlačítka Domů nastavíte Zjednodušený režim</string>
+    <string name="default_launcher_set_system_message">Stisknutím tlačítka Domů obnovíte klasickou Domácí obrazovku</string>
     <string name="default_launcher_title">Předvolený Launcher</string>
     <string name="default_phone_title">Aplikace na telefonování</string>
     <string name="default_rule_name">Naplánované pravidlo 1</string>
@@ -2231,6 +2243,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
     <string name="dump_log_summary">"This feature is designed for generating the 284 log in Alpha and Beta versions of MIUI. Use it with caution.
 You can view generated logs in File Manager."</string>
     <string name="dump_log_title">About this feature</string>
+    <string name="easymode_hint">Klepnutím vypnete Zjednodušený režim</string>
     <string name="edge_mode_back">Zpět</string>
     <string name="edge_mode_back_summary">Dvojím poklepáním se vrátíte o krok zpět</string>
     <string name="edge_mode_clean">Vyčistit cache</string>
@@ -2250,6 +2263,7 @@ You can view generated logs in File Manager."</string>
     <string name="effect_preview">Náhled</string>
     <string name="eighthours">8 hodin</string>
     <string name="elastic_text">Výzvy a rozbalovací nabídky se zobrazují s elastickým pohybem, který se více zaměřuje na tyto objekty</string>
+    <string name="embedded_window_guide_text">Když se obrazovka zobrazuje vodorovně, aplikace se budou zobrazovat navzájem paralelně. Když je tato funkce vypnutá, aplikace budou vycentrovány.</string>
     <string name="emergency_address_summary">Pro získání vaší polohy při tísňovém volání přes Wi-Fi</string>
     <string name="emergency_address_title">Tísňová adresa</string>
     <string name="emergency_dashboard_summary">Nouzové SOS, lékařské informace, výstrahy</string>
@@ -2276,6 +2290,7 @@ You can view generated logs in File Manager."</string>
     <string name="emergency_tone_title">Tísňové vyzvánění</string>
     <string name="emergency_tone_vibrate">Vibrace</string>
     <string name="empty_list_msg">Žádné aplikace třetích stran nejsou nainstalovány.</string>
+    <string name="emulate_sd_data">Emulovaná data SD karty</string>
     <string name="enableNetwork">enableNetwork</string>
     <string name="enable_adb">Ladění USB</string>
     <string name="enable_adb_summary">Povolit režim ladění s připojeným zařízením USB</string>
@@ -2311,6 +2326,7 @@ You can view generated logs in File Manager."</string>
     <string name="enable_sizecompat_freeform">Vynutit změnu velikosti oken</string>
     <string name="enable_sizecompat_freeform_summary">Přizpůsobí aplikace s neměnnou velikostí</string>
     <string name="enable_snapshot_screenlock">Rychlé pořízení fotografie</string>
+    <string name="enable_snpn">Povolit SNPN</string>
     <string name="enable_terminal_summary">Aktivovat terminálovou aplikaci pro místní přístup k prostředí shell</string>
     <string name="enable_terminal_title">Místní terminál</string>
     <string name="enable_text">Aktivovat</string>
@@ -2365,6 +2381,7 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
     <string name="enter_password">Zadejte heslo pro dešifrování zařízení po restartu.</string>
     <string name="enter_pattern">Zadejte vzor pro dešifrování zařízení po restartu</string>
     <string name="enter_pin">Zadejte PIN pro dešifrování zařízení po restartu</string>
+    <string name="enterprise_mode">Firemní režim</string>
     <string name="eq_auto">Vlastní</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_cancel">Zrušit</string>
@@ -2427,6 +2444,7 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
     <string name="external_ram_dialog_icon_title">Rozšíření paměti je zapnuto</string>
     <string name="external_ram_dialog_message">Restartuje vaše zařízení pro aplikování změn.</string>
     <string name="external_ram_dialog_title">Restartujte zařízení</string>
+    <string name="external_ram_intro">Vytvořte si dodatečnou paměť RAM obsazením úložiště. Tuto funkci používejte pouze, když je na vašem zařízení dostatek volného místa.</string>
     <string name="external_ram_remind_toast">Dochází vám volné místo na úložišti. Rozšíření RAM bylo deaktivováno.</string>
     <string name="external_ram_summary">Přidá %1$s %2$s RAM na interním úložišti. Použíjte tuto funkci jen pokud máte dostatek volného místa na interním úložišti.</string>
     <string name="external_ram_title">Rozšíření RAM</string>
@@ -2755,10 +2773,13 @@ Tato funkce funguje jen pokud jsou používána gesta."</string>
     <string name="freeform_guide_slide_up_to_close_title">Zavření plovoucích oken</string>
     <string name="freeform_guide_to_sidehide_summary">Rychlým přetažením aplikace na stranu obrazovky ji skryjete</string>
     <string name="freeform_guide_to_sidehide_title">Skrytí plovoucího okna</string>
+    <string name="freeform_guide_vedio_description">Klepnutím na aplikaci na postranním panelu ji otevřete v plovoucím okně</string>
     <string name="freeform_vedio_description">"·Stlačte a podržte, potom potáhněte dolů upozornění pro jeho otevření v plovoucím okně.
 ·Stlačte \"Plovoucí okna\" v Nedávných aplikacích pro výběr aplikace."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikaci na Postranním panelu ji otevřete v plovoucím okně.
 · Přetažením aplikace do středu obrazovky ji otevřete v plovoucím okně, nebo do strany, chcete-li použít rozdělenou obrazovku."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Přetažením aplikace z postranního panelu do středu obrazovky ji otevřete v plovoucím okně nebo na stranu, chcete-li použít rozdělenou obrazovku</string>
+    <string name="freeform_vedio_description_pad">Přetažením položek z doku otevřete plovoucí okna</string>
     <string name="frequently_fragment_delete">Smazat</string>
     <string name="frequently_fragment_tempty">Často používané položky budou zobrazeny zde</string>
     <string name="friday">Pátek</string>
@@ -2902,6 +2923,9 @@ Oblast, kde můžete potvrdit uzamčení obrazovky, se přesune doprava."</strin
     <string name="handy_mode_tips_full_screen">Při používání ovládání gesty, můžete zapnout režim Ovládání jednou rukou potažením z indikátoru dolů. Pokud je indikátor skrytý, zapnutí režimu nebude fungovat.</string>
     <string name="haptic_agent_completion_01_content_description">Dokončená úloha</string>
     <string name="haptic_cursor_movement_07_content_description">Upravení jasu</string>
+    <string name="haptic_descripthion_for_max_level">Silné</string>
+    <string name="haptic_descripthion_for_middle_level">Výchozí</string>
+    <string name="haptic_descripthion_for_min_level">Světlo</string>
     <string name="haptic_feedback_enable_title">Při dotyku vibrovat</string>
     <string name="haptic_feedback_level">Síla vibrací</string>
     <string name="haptic_feedback_progress">Úroveň hmatové odezvy</string>
@@ -2960,12 +2984,14 @@ Oblast, kde můžete potvrdit uzamčení obrazovky, se přesune doprava."</strin
     <string name="headset_find_disconnect">Nepřipojeno</string>
     <string name="headset_find_handle_tip">Dotykem přehrajete alarm</string>
     <string name="headset_find_left">Levé</string>
+    <string name="headset_find_left_tip">Zdá se, že levé sluchátko máte v pouzdře nebo máte v uchu</string>
     <string name="headset_find_notify_connected">Připojeno</string>
     <string name="headset_find_notify_disconnect">Odpojeno. Připojte a zkuste znova.</string>
     <string name="headset_find_play_warning">Zdá se, že alespoň jedno sluchátko je ve vašem uchu. Přehrávání alarmu může poškodit váš sluch.</string>
     <string name="headset_find_playing">Přehrávání...</string>
     <string name="headset_find_query_play">Přehrát</string>
     <string name="headset_find_right">Pravé</string>
+    <string name="headset_find_right_tip">Zdá se, že pravé sluchátko máte v pouzdře nebo v uchu</string>
     <string name="headset_find_tip">Vaše sluchátka by měla být nablízku a připojená k tomuto zařízení. Přehrávání alarmu může poškodit váš sluch.</string>
     <string name="headset_find_tip_title">Upozornění</string>
     <string name="headset_find_title">Najděte vaše sluchátka</string>
@@ -3056,6 +3082,7 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
     <string name="imei_information_title">Informace o IMEI</string>
     <string name="immediately_destroy_activities">Neukládat aktivity</string>
     <string name="immediately_destroy_activities_summary">Rušit všechny činnosti, jakmile je uživatel zavře</string>
+    <string name="immersive_audio_sources">Ponořený zvuk</string>
     <string name="importance_default">Výchozí</string>
     <string name="importance_high">Vysoká</string>
     <string name="importance_low">Nízká</string>
@@ -3344,6 +3371,7 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
     <string name="legacy_control_center_title">Stará verze</string>
     <string name="legacy_dhcp_client">Použít starý klient DHCP</string>
     <string name="legacy_dhcp_client_summary">Namísto nového klientu DHCP Android použít klient DHCP z verze Lollipop.</string>
+    <string name="legacy_power_menu">Stará nabídka vypínání</string>
     <string name="legal_information">Právní informace</string>
     <string name="legal_workday">Pracovní dny</string>
     <string name="legal_workday_invalidate">Po-Pá (bez svátků)</string>
@@ -3473,6 +3501,7 @@ Nakopírujte zálohy z USB nazpět do složky (MIUI-backup-AllBackup) v úloži�
     <string name="lock_screen_notifications_summary_hide">Skrýt citlivý obsah oznámení</string>
     <string name="lock_screen_notifications_summary_show">Zobrazit veškerý obsah oznámení</string>
     <string name="lock_screen_notifications_title">Když je zařízení zamčeno</string>
+    <string name="lock_screen_now">Zámek obrazovky</string>
     <string name="lock_screen_secure_after_timeout_immediately_never">Nikdy nevyžadovat heslo.</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Vyžadovat heslo okamžitě</string>
     <string name="lock_screen_secure_after_timeout_summary">Vyžadovat heslo po %1$s</string>
@@ -3792,6 +3821,8 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="miheadset_ancHigh">Vysoké</string>
     <string name="miheadset_ancLow">Nízké</string>
     <string name="miheadset_ancMedium">Střední</string>
+    <string name="miheadset_ancMode">Režim potlačení hluku</string>
+    <string name="miheadset_atuo_download_title">Stáhnut automaticky</string>
     <string name="miheadset_audio_mode">Režim zvuku</string>
     <string name="miheadset_audio_mode_high">Vysoká kvalita</string>
     <string name="miheadset_audio_mode_listen">Poslouchat</string>
@@ -3802,7 +3833,9 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="miheadset_auto_ack_mode">auto ack režim</string>
     <string name="miheadset_auto_ack_mode_summary">auto ack telefon</string>
     <string name="miheadset_auto_answer_call">Přijímat hovory automaticky</string>
+    <string name="miheadset_auto_download_summary">Automatické stahování nejvhodnější verze</string>
     <string name="miheadset_auto_upgrade_reminder">Vypněte automatické aktualizace a zkontrolujte znova</string>
+    <string name="miheadset_automatic">Automaticky</string>
     <string name="miheadset_bluetooth_audio_title">Vzorkovací frekvence zvuku LC3plus Bluetooth</string>
     <string name="miheadset_bright">Jasné</string>
     <string name="miheadset_call_assist">Asistent</string>
@@ -3810,6 +3843,7 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="miheadset_checkUpdate">Zkontrolovat aktualizace</string>
     <string name="miheadset_closeAnc">Vyp</string>
     <string name="miheadset_connectHeadsetForFw">Připojte sluchátka pro zobrazení verze firmware</string>
+    <string name="miheadset_connect_device_hfp">Připojte sluchátka a ujistěte se, že je povoleno přehrávání zvuku pro telefonní hovory</string>
     <string name="miheadset_connect_play_music">Spustit přehrávání automaticky po připojení sluchátek</string>
     <string name="miheadset_connect_toast_tips">Nejprve připojte sluchátka</string>
     <string name="miheadset_custom_sound">Vlastní zvuk</string>
@@ -3831,6 +3865,7 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="miheadset_enhence_low">Zvýraznit nízké tóny</string>
     <string name="miheadset_equalizer">Ekvalizér</string>
     <string name="miheadset_feedback">Zpětná vazba</string>
+    <string name="miheadset_firmware_version_update">Aktualizovat firmware</string>
     <string name="miheadset_fitness_check_result_l_not_ok">Nastavte sluchátko</string>
     <string name="miheadset_fitness_check_result_r_not_ok">Nastavte sluchátko</string>
     <string name="miheadset_formal">zachovat</string>
@@ -3868,6 +3903,7 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="miheadset_last_version">Firmware je aktuální</string>
     <string name="miheadset_low_latency">Nízká latence</string>
     <string name="miheadset_manual">O zařízení</string>
+    <string name="miheadset_manual_operation">Manuálně</string>
     <string name="miheadset_minus">Mínus</string>
     <string name="miheadset_moreSettingsInAi">Další nastavení</string>
     <string name="miheadset_multi_connect_mode">Režim multi připojení</string>
@@ -3878,6 +3914,7 @@ V tomto zařízení jsou přítomni další uživatelé.
     <string name="miheadset_notification_title">Zobrazit na panelu upozornění</string>
     <string name="miheadset_ok_device">OK</string>
     <string name="miheadset_openAnc">Redukce hluku</string>
+    <string name="miheadset_open_closeAnc">Potlačení šumu Zap/Vyp</string>
     <string name="miheadset_play_pause">přehrát/pozastavit</string>
     <string name="miheadset_plus">Plus</string>
     <string name="miheadset_preferences">Předvolby</string>
@@ -4050,6 +4087,8 @@ Pokračujte pro přístup k dalším nastavením."</string>
     <string name="miui_special_feature">Speciální funkce</string>
     <string name="miui_touch_filtered_touchassistant_warning">Dialog povolení je překrytý Dotykovým Asistentem. Přemístěte ikonu dotykového asistenta.</string>
     <string name="miui_touch_filtered_warning">Pokud aplikace blokuje okno pro udělení povolení, zavřete aplikaci.</string>
+    <string name="miui_type_style_summary">Způsob psaní použitý při zapnuté čtačce obrazovky</string>
+    <string name="miui_type_style_title">Způsob psaní</string>
     <string name="miui_updater">Aktualizace</string>
     <string name="miuix_access_state_desc">Vybráno</string>
     <string name="miuix_alphabet_indexer_name">Indexová lišta</string>
@@ -4197,6 +4236,7 @@ Zvolte Váš operační systém:"</string>
     <string name="multi_face_name_prefix">"Tvář "</string>
     <string name="multi_face_number_reach_limit">Není možné přidat více jak 2 tváře</string>
     <string name="multi_network_acceleration_app_settings">Správa zrychlení Wi-Fi sítě</string>
+    <string name="multi_network_acceleration_summery">Připojte se k více sítím Wi-Fi současně, pro zvýšení rychlosti</string>
     <string name="multi_touch_points_category_title">Multi-dotykové body</string>
     <string name="multi_touch_points_preference">Restartovat pro zapnutí</string>
     <string name="multi_window_cvw_summary">Přesunutím rohu prepnete na plovoucí okno a upravte jeho velikost</string>
@@ -4322,11 +4362,14 @@ Zvolte Váš operační systém:"</string>
     <string name="nearby_wifi">Vyberte Wi-Fi síť</string>
     <string name="need_reboot_now">Pro dokončení je nutné restartovat zařízení!</string>
     <string name="netcheck_title">Diagnostika sítě</string>
+    <string name="network_acceleration">Zrychlení sítě</string>
     <string name="network_alarm">Neztišit internetové volání</string>
     <string name="network_alarm_summary">Poznámka: Některé aplikace nejsou kompatibilní s touto funkcí.%1$s</string>
     <string name="network_alarm_summary_reg">Zobrazit aplikace</string>
     <string name="network_alarm_support_apps">Podporované aplikace</string>
     <string name="network_assistant">Spotřeba dat</string>
+    <string name="network_auto_switch">Přepínání mezi sítěmi</string>
+    <string name="network_auto_switch_summery">Přepnout na mobilní data, když je signál Wi-Fi slabý nebo síť není dostupná</string>
     <string name="network_changed_noti_summary">Používání mobilních dat</string>
     <string name="network_changed_noti_title">Odpojit od Wi-Fi</string>
     <string name="network_control">Zobrazit nastavení apl.</string>
@@ -4518,6 +4561,7 @@ Zvolte Váš operační systém:"</string>
     <string name="nrca_switch_title">Použít agregaci operátora 5G</string>
     <string name="nsd_quick_toggle_summary">Povolit aplikacím v jiných zařízeních vyhledávat aplikace v tomto zařízení</string>
     <string name="nsd_quick_toggle_title">Zjistitelnost po síti</string>
+    <string name="number_of_device_admins_none">Žádné aktivní aplikace</string>
     <string name="oaid_apps_summary">Povolit nebo zakázat přístup pro jednotlivé aplikace</string>
     <string name="oaid_apps_title">Spravovat virtuální ID</string>
     <string name="oaid_string">"Současné virtuální ID:
@@ -4530,8 +4574,14 @@ Zvolte Váš operační systém:"</string>
     <string name="ok_rules">Ukončit</string>
     <string name="okay">OK</string>
     <string name="oldman_app_label">Jednoduchý režim</string>
+    <string name="oldman_installed_current_btn">Obnovit klasickou Domácí obrazovku</string>
+    <string name="oldman_installed_current_des">"Nastavili jste Zjednodušený režim jako výchozí plochu. Klepnutím na tlačítko níže přepnete zpět na klasickou Domací obrazovku."</string>
+    <string name="oldman_installed_not_current_btn">Nastavit jako výchozí Domácí obrazovku</string>
+    <string name="oldman_installed_not_current_des">Zjednodušený režim je v zařízení nainstalován. Můžete jej použít jako výchozí Domací obrazovku.</string>
     <string name="oldman_mode_entry_name">Jednoduchý režim</string>
     <string name="oldman_mode_settings">Jednoduchý režim</string>
+    <string name="oldman_uninstalled_btn">Instalovat</string>
+    <string name="oldman_uninstalled_des">Zjednodušený režim vás zbaví vizuálního nepořádku a zachová vaši plochu jednoduchou a minimalistickou.</string>
     <string name="on">Zap</string>
     <string name="onehour">30 minut</string>
     <string name="onekey_migrate">Přesun do nového zařízení</string>
@@ -5303,6 +5353,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string formatted="false" name="resolution_fhd_summary">%d×%d (šetří baterii)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
     <string formatted="false" name="resolution_qhd_summary">%d×%d (zvyšuje kvalitu)</string>
+    <string name="resolution_sub_title">MIUI může při přepínaní rozlíišeniaí zavřít aplikace spuštěné na pozadí</string>
     <string name="resolver_settings_label">Seřadit</string>
     <string name="resource_ringtone_volume_mute">Zvonění je ztišeno</string>
     <string name="restore_default_apn">Obnovování výchozích nastavení názvu přístupového bodu (APN)</string>
@@ -5611,6 +5662,7 @@ Postup připnutí obrazovky:
     <string name="search_accelerometer">akcelerometr</string>
     <string name="search_access_control">řízení přístupu</string>
     <string name="search_accessibility">Usnadnění přístupu</string>
+    <string name="search_accessibility_settings">Ulehčení přístupu</string>
     <string name="search_airplane">letadlo</string>
     <string name="search_ambient_display_screen_title">Always On displej</string>
     <string name="search_android_beam">beam</string>
@@ -5644,6 +5696,7 @@ Postup připnutí obrazovky:
     <string name="search_power_mode">running mode; performance; priority performance; performance mode; normal mode; conventional mode; default mode; balanced performance; saving mode; energy-saving mode; performance; power</string>
     <string name="search_privacy">zálohování</string>
     <string name="search_recents_queries_label">Poslední vyhledávání</string>
+    <string name="search_result_feedback_text">Více nenalezeno</string>
     <string name="search_results_label">Výsledky</string>
     <string name="search_results_title">Nastavení</string>
     <string name="search_ring_volume">Hlasitost zvonění</string>
@@ -5770,6 +5823,8 @@ Postup připnutí obrazovky:
     <string name="service_stop">Zastavit</string>
     <string name="service_stop_description">Tato služba byla spuštěna svou aplikací. Pokud ji zastavíte, může dojít k selhání aplikace.</string>
     <string name="services_subtitle">Služby</string>
+    <string name="set_jeejen_prompt_message">Jako vaší výchozí obrazovku bude nastaven Zjednodušený režim. Výchozí obrazovku můžete změnit v Nastavení > Domácí obrazovka > Plocha.</string>
+    <string name="set_jeejen_prompt_title">Potvrdit změny</string>
     <string name="set_password_action">Nastavit heslo</string>
     <string name="set_password_message">Nastavte heslo pro deaktivování dětského režimu a odemknutí zařízení</string>
     <string name="set_password_title">Nastavte heslo</string>
@@ -6065,6 +6120,7 @@ Zbývá:"</string>
     <string name="sms_received_sound_dialog_title">Vybrat zvuk přijaté zprávy</string>
     <string name="sms_received_sound_title">Zvuk přijaté zprávy</string>
     <string name="softbank_apn_lock_toast">APN je uzamknuté. Není možné ho upravovat.</string>
+    <string name="solid_text">Používá nízkofrekvenční hmatovou zpětnou vazbu a odpovídající vizuální přechody k vytvoření solidního a výkonného zážitku z gest</string>
     <string name="sometimes_running">Spuštěno občas (%s)</string>
     <string name="sort_avg_use">Řadit podle prům. využití</string>
     <string name="sort_max_use">Řadit podle max. využití</string>
@@ -6503,6 +6559,7 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
     <string name="structure_face_unlock_not_same_person">Musíte dokončit všechny kroky sami.</string>
     <string name="structure_face_unlock_tof_covered">Nebylo možné přidat data tváře. Trochu se vzdalte od zařízení.</string>
     <string name="structure_manage_facerecoginition_text">Spravovat 3D data tváře</string>
+    <string name="stylus_not_connect_message_new">Připojte stylus pro spárování</string>
     <string name="sub_activate_failed">Aktivace selhala</string>
     <string name="sub_activate_not_supported">Aktivace není podporována</string>
     <string name="sub_activate_success">Aktivováno</string>
@@ -6546,6 +6603,8 @@ Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít
     <string name="suw_back_button_label">Zpět</string>
     <string name="suw_more_button_label">Další</string>
     <string name="suw_next_button_label">Další</string>
+    <string name="swipe_up_to_continue_using">Potáhněte nahoru pro pokračování</string>
+    <string name="swipe_up_to_continue_using_summary">Uzamknout po %ds bez aktivity</string>
     <string name="switchNetworkToast">Připojení k mobilní síťi může navýšit vaše poplatky</string>
     <string name="switch_access_service_on">Přepnout přístup</string>
     <string name="switch_bootup_sound">Přehrát zvuk při zapínání zařízení</string>
@@ -7172,6 +7231,8 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
     <string name="user_summary_restricted_not_set_up">Není nastaveno – omezený profil</string>
     <string name="user_summary_restricted_profile">Omezený profil</string>
     <string name="user_you">Vy (%s)</string>
+    <string name="var_font_switch_dialog_summary">Pro použití těchto změn, je nutné restartovat vaše zařízení.</string>
+    <string name="var_font_switch_dialog_title">Restartovat zařízení?</string>
     <string name="var_font_switch_title">Variabilní písmo v celém systému</string>
     <string name="verify_applications">Ověřovat aplikace</string>
     <string name="verify_applications_summary">Zakázat instalaci škodlivých aplikací nebo na ně upozornit</string>
@@ -7611,6 +7672,7 @@ asistenta Wi-Fi"</string>
     <string name="wifi_password">Heslo</string>
     <string name="wifi_poor_network_detection">Ignorovat slabá připojení</string>
     <string name="wifi_poor_network_detection_summary">Nepoužívat síť Wi-Fi, pokud nemá dostatečně kvalitní internetové připojení</string>
+    <string name="wifi_primary">Primární síť</string>
     <string formatted="false" name="wifi_priority_changed">Stará priorita hodnota=%s, nová hodnota=%s</string>
     <string name="wifi_priority_label">Priorita</string>
     <string name="wifi_priority_settings_label">Nastavení priority</string>
@@ -7633,6 +7695,7 @@ asistenta Wi-Fi"</string>
     <string name="wifi_rssi_threshold_check_summary">Nepřipojovat se na AP se slabým RSSI</string>
     <string name="wifi_sap_no_channel_error">V této zemi není pásmo 5 GHz k dispozici</string>
     <string name="wifi_save">Uložit</string>
+    <string name="wifi_saved_access_point">Uložené sítě</string>
     <string name="wifi_saved_access_points_label">Uložené sítě</string>
     <string name="wifi_saved_access_points_titlebar">Uložené sítě</string>
     <string name="wifi_scan_always_available">Hledání vždy zapnuto</string>
@@ -7849,6 +7912,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="work_profile_confirm_remove_title">Odstranit pracovní profil?</string>
     <string name="work_profile_usage_access_warning">Vypnutí přístupu k informacím o využití pro tuto aplikaci nebrání vašemu správci v měření využití dat aplikacemi ve vašem pracovním profilu.</string>
     <string name="work_sim_title">Pracovní SIM karta</string>
+    <string name="work_sound_permission_dialog_message">"Nemůžete používat témata ve Firemním režimu. Chcete-li získat přístup, kontaktujte svého nadřízeného."</string>
+    <string name="work_sound_permission_dialog_title">Omezení Firemního režimu</string>
     <string name="work_space_delete">Vymazat pracovní prostor</string>
     <string name="work_space_delete_confirm">Potvrďte vymazání</string>
     <string name="work_space_delete_description">Nebude možné se přepnout do pracovního prostoru, když jej vymažete. Všechna data budou vymazána nebo přesunuta.</string>
@@ -7988,69 +8053,4 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="zone_auto_title">Časové pásmo podle sítě</string>
     <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
     <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
-	<string name="miheadset_open_closeAnc">Potlačení šumu Zap/Vyp</string>
-	<string name="accept_new_connection">Povolit nová připojení</string>
-     <string name="accept_new_connection_detail">Nová připojení bluetooth byla z ovládacího centra vypnuta</string>
-     <string name="bt_always_show_icon">Vždy zobrazovat ikonu bluetooth ve stavovém rádku</string>
-	 <string name="bt_always_show_icon_summary">Zobrazit ikonu Bluetooth pouze v roletce a ovladačích</string>
-	 <string name="emulate_sd_data">Emulovaná data SD karty</string>
-	 <string name="bt_low_energy_audio_summary">Vychutnejte si vysokokvalitní zvuk s nízkou spotřebou energie a zníženou latencí</string>
-     <string name="bt_low_energy_audio_title">Bluetooth LE Audio</string>
-     <string name="miheadset_ancMode">Režim potlačení hluku</string>
-     <string name="miheadset_atuo_download_title">Stáhnut automaticky</string>
-     <string name="miheadset_auto_download_summary">Automatické stahování nejvhodnější verze</string>
-     <string name="miheadset_automatic">Automaticky</string>
-     <string name="miheadset_manual_operation">Manuálně</string>
-     <string name="miui_type_style_summary">Způsob psaní použitý při zapnuté čtačce obrazovky</string>
-     <string name="miui_type_style_title">Způsob psaní</string>
-     <string name="stylus_not_connect_message_new">Připojte stylus pro spárování</string>
-     <string name="var_font_switch_dialog_summary">Pro použití těchto změn, je nutné restartovat vaše zařízení.</string>
-     <string name="var_font_switch_dialog_title">Restartovat zařízení?</string>
-	 <string name="external_ram_intro">Vytvořte si dodatečnou paměť RAM obsazením úložiště. Tuto funkci používejte pouze, když je na vašem zařízení dostatek volného místa.</string>
-	 <string name="default_launcher_set_jeejen_message">Stisknutím tlačítka Domů nastavíte Zjednodušený režim</string>
-     <string name="default_launcher_set_system_message">Stisknutím tlačítka Domů obnovíte klasickou Domácí obrazovku</string>
-     <string name="easymode_hint">Klepnutím vypnete Zjednodušený režim</string>
-     <string name="oldman_installed_current_btn">Obnovit klasickou Domácí obrazovku</string>
-     <string name="oldman_installed_current_des">"Nastavili jste Zjednodušený režim jako výchozí plochu. Klepnutím na tlačítko níže přepnete zpět na klasickou Domací obrazovku."</string>
-     <string name="oldman_installed_not_current_btn">Nastavit jako výchozí Domácí obrazovku</string>
-     <string name="oldman_installed_not_current_des">Zjednodušený režim je v zařízení nainstalován. Můžete jej použít jako výchozí Domací obrazovku.</string>
-     <string name="oldman_uninstalled_btn">Instalovat</string>
-     <string name="oldman_uninstalled_des">Zjednodušený režim vás zbaví vizuálního nepořádku a zachová vaši plochu jednoduchou a minimalistickou.</string>
-     <string name="set_jeejen_prompt_message">Jako vaší výchozí obrazovku bude nastaven Zjednodušený režim. Výchozí obrazovku můžete změnit v Nastavení > Domácí obrazovka > Plocha.</string>
-     <string name="set_jeejen_prompt_title">Potvrdit změny</string>
-	 <string name="number_of_device_admins_none">Žádné aktivní aplikace</string>
-	 <string name="headset_find_left_tip">Zdá se, že levé sluchátko máte v pouzdře nebo máte v uchu</string>
-      <string name="headset_find_right_tip">Zdá se, že pravé sluchátko máte v pouzdře nebo v uchu</string>
-      <string name="miheadset_connect_device_hfp">Připojte sluchátka a ujistěte se, že je povoleno přehrávání zvuku pro telefonní hovory</string>
-      <string name="miheadset_firmware_version_update">Aktualizovat firmware</string>
-	  <string name="complete_parameters_new">Podrobné specifikace</string>
-      <string name="data_acceleration_summery">Používejte Wi-Fi i mobilní data ke zvýšení rychlosti, když je připojení Wi-Fi slabé</string>
-      <string name="dds_preference_smart_dds_switch_is_on">Inteligentní přepínač DDS je zapnut</string>
-      <string name="enable_snpn">Povolit SNPN</string>
-      <string name="haptic_descripthion_for_max_level">Silné</string>
-      <string name="haptic_descripthion_for_middle_level">Výchozí</string>
-      <string name="haptic_descripthion_for_min_level">Světlo</string>
-      <string name="immersive_audio_sources">Ponořený zvuk</string>
-      <string name="legacy_power_menu">Stará nabídka vypínání</string>
-      <string name="network_acceleration">Zrychlení sítě</string>
-      <string name="network_auto_switch">Přepínání mezi sítěmi</string>
-      <string name="network_auto_switch_summery">Přepnout na mobilní data, když je signál Wi-Fi slabý nebo síť není dostupná</string>
-      <string name="solid_text">Používá nízkofrekvenční hmatovou zpětnou vazbu a odpovídající vizuální přechody k vytvoření solidního a výkonného zážitku z gest</string>
-	  <string name="lock_screen_now">Zámek obrazovky</string>
-      <string name="multi_network_acceleration_summery">Připojte se k více sítím Wi-Fi současně, pro zvýšení rychlosti</string>
-      <string name="swipe_up_to_continue_using">Potáhněte nahoru pro pokračování</string>
-      <string name="swipe_up_to_continue_using_summary">Uzamknout po %ds bez aktivity</string>
-      <string name="wifi_primary">Primární síť</string>
-	  <string name="assistance_category_title">Ulehčení přístupu</string>
-     <string name="search_accessibility_settings">Ulehčení přístupu</string>
-     <string name="search_result_feedback_text">Více nenalezeno</string>
-     <string name="wifi_saved_access_point">Uložené sítě</string>
-	 <string name="freeform_guide_vedio_description">Klepnutím na aplikaci na postranním panelu ji otevřete v plovoucím okně</string>
-     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Přetažením aplikace z postranního panelu do středu obrazovky ji otevřete v plovoucím okně nebo na stranu, chcete-li použít rozdělenou obrazovku</string>
-     <string name="freeform_vedio_description_pad">Přetažením položek z doku otevřete plovoucí okna</string>
-	 <string name="embedded_window_guide_text">Když se obrazovka zobrazuje vodorovně, aplikace se budou zobrazovat navzájem paralelně. Když je tato funkce vypnutá, aplikace budou vycentrovány.</string>
-	 <string name="enterprise_mode">Firemní režim</string>
-     <string name="work_sound_permission_dialog_message">"Nemůžete používat témata ve Firemním režimu. Chcete-li získat přístup, kontaktujte svého nadřízeného."</string>
-     <string name="work_sound_permission_dialog_title">Omezení Firemního režimu</string>
-	 <string name="resolution_sub_title">MIUI může při přepínaní rozlíišeniaí zavřít aplikace spuštěné na pozadí</string> 
 </resources>

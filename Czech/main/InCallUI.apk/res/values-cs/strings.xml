@@ -42,6 +42,8 @@
     <string name="call_contacts_deny_permission_msg">Zakázali jste přístup ke kontaktům, nelze zobrazit informace o kontaktu.</string>
     <string name="call_description_recording">Nahrávání...</string>
     <string name="call_extension_conference_mode">Konference</string>
+    <string name="call_log_short_in">Toto číslo vám právě volalo</string>
+    <string name="call_log_short_out">Na toto číslo jste právě volali</string>
     <string name="call_not_support_high_frequency_click">Mačkejte tlačítko pomaleji</string>
     <string name="call_record_button_label">Nahrávání %s</string>
     <string name="call_record_wait_label">Čekání</string>
@@ -61,6 +63,10 @@
     <string name="caller_info_name_delimiter">" nebo "</string>
     <string name="caller_manage_header">Konferenční hovor %s</string>
     <string name="calling_via_template">Volání prostřednictvím %s</string>
+    <string name="camera_on">Druhá osoba chce zapnout vaši kameru.</string>
+    <string name="camera_on_agree">Povolit</string>
+    <string name="camera_on_refuse">Nepovolit</string>
+    <string name="camera_on_title">Fotoaparát</string>
     <string name="can_not_call_oneself">Nelze uskutečnit hovor na toto číslo</string>
     <string name="can_not_use">Nelze použít</string>
     <string name="cancel">Zrušit</string>
@@ -166,6 +172,7 @@
     <string name="friday">Pátek</string>
     <string name="friday_short">Pát</string>
     <string name="friday_shortest">Pá</string>
+    <string name="high_temperature_toast">V případě ochrany před vysokou teplotou je funkce dočasně nedostupná</string>
     <string name="inCallLabel">Hovory</string>
     <string name="incall_bubble_hangup_click_hint">Dotkněte se znova pro návrat k hovoru</string>
     <string name="incall_call_type_label_sip">Internetový hovor</string>
@@ -304,6 +311,10 @@
     <string name="onscreen_change_to_video">Video hovor</string>
     <string name="onscreen_change_to_voice">Hlasový hovor</string>
     <string name="onscreen_close_preview_camera">Ukončit kameru</string>
+    <string name="onscreen_collapsed">Sbalit</string>
+    <string name="onscreen_collapsed_dialpad">Zobrazit klávesnici</string>
+    <string name="onscreen_expand">Více</string>
+    <string name="onscreen_expand_dialpad">Skrýt klávesnici</string>
     <string name="onscreen_hold_text">Podržet</string>
     <string name="onscreen_merge_calls_text">Spojit hovory</string>
     <string name="onscreen_message_text">Zprávy</string>
@@ -342,6 +353,11 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
+    <string name="screen_share">Vzdálená pomoc</string>
+    <string name="screen_share_agree">Povolit</string>
+    <string name="screen_share_connecting">Připojování…</string>
+    <string name="screen_share_message">Povolit druhé osobě zobrazit vaši obrazovku v reálném čase?</string>
+    <string name="screen_share_refuse">Zrušit</string>
     <string name="search_events">Vyhledat událost</string>
     <string name="search_history">Historie</string>
     <string name="select_audio_dialog_title">Vyberte režim odpovědi</string>
@@ -386,20 +402,4 @@ Stlačte \"%1$s\" a dále zvolte \"%2$s\"."</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWiFi hovor</string>
     <string name="yesterday">Včera</string>
-	<string name="call_log_short_in">Toto číslo vám právě volalo</string>
-     <string name="call_log_short_out">Na toto číslo jste právě volali</string>
-	<string name="camera_on">Druhá osoba chce zapnout vaši kameru.</string>
-      <string name="camera_on_agree">Povolit</string>
-      <string name="camera_on_refuse">Nepovolit</string>
-      <string name="camera_on_title">Fotoaparát</string>
-      <string name="onscreen_collapsed">Sbalit</string>
-      <string name="onscreen_collapsed_dialpad">Zobrazit klávesnici</string>
-      <string name="onscreen_expand">Více</string>
-      <string name="onscreen_expand_dialpad">Skrýt klávesnici</string>
-      <string name="screen_share">Vzdálená pomoc</string>
-      <string name="screen_share_agree">Povolit</string>
-      <string name="screen_share_connecting">Připojování…</string>
-      <string name="screen_share_message">Povolit druhé osobě zobrazit vaši obrazovku v reálném čase?</string>
-      <string name="screen_share_refuse">Zrušit</string>
-	  <string name="high_temperature_toast">V případě ochrany před vysokou teplotou je funkce dočasně nedostupná</string>
 </resources>

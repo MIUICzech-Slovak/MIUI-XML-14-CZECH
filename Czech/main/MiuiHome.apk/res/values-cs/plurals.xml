@@ -76,6 +76,10 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových notifikací</item>
+        <item quantity="one">%d nová notifikace</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
@@ -116,8 +120,4 @@
         <item quantity="two">%1$d aplikací jsou odinstalovány</item>
         <item quantity="many">%1$d aplikací je odinstalováno</item>
     </plurals>
-	<plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d nových notifikací</item>
-        <item quantity="one">%d nová notifikace</item>
-     </plurals>
 </resources>

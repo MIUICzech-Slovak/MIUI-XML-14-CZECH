@@ -864,6 +864,11 @@ Další použití datového připojení se může projevit na výši vašeho vy�
     <string name="face_unlock_success_stay_screen_title">Zůstat na zamykací obrazovce po ověření obličeje.</string>
     <string name="face_unlock_swipe_up_retry">Potáhněte nahoru a zkuste znova</string>
     <string name="failed_to_open_app_settings_toast">Nastavení aplikace %1$s se nepodařilo otevřít</string>
+    <string name="fgs_dot_content_description">Nové informace</string>
+    <string name="fgs_manager_app_item_stop_button_label">Zastavit</string>
+    <string name="fgs_manager_app_item_stop_button_stopped_label">Zastaveno</string>
+    <string name="fgs_manager_dialog_message">Tyto aplikace jsou aktivní a běží, i když je nepoužíváte. To zlepšuje jejich funkčnost, ale může to také ovlivnit výdrž baterie.</string>
+    <string name="fgs_manager_dialog_title">Aktivní aplikace</string>
     <string name="find_device_turn_off_flight_mode">Deaktivovat režim letadlo</string>
     <string name="finger_error_single_mode">V režimu jedné ruky není možné používat senzor otisku prstu.</string>
     <string name="fingerprint_add_text">Rozpoznávání otisku prstu bylo aktualizováno. Přidejte otisk prstu znovu.</string>
@@ -1933,7 +1938,9 @@ Jste také připojeni k síti VPN, která může sledovat vaši aktivitu v sí
     <string name="quick_settings">Rychlé nastavení</string>
     <string name="quick_settings_autobrightness_label">Autom. jas</string>
     <string name="quick_settings_batterysaver_label">Šetření baterie</string>
+    <string name="quick_settings_bluetooth_connected_tip">Úspešně připojeno přes Bluetooth</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Žádná spárovaná zařízení nejsou k dispozici</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">Všechna Bluetooth zařízení zůstanou dnes odpojena</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d zařízení)</string>
     <string name="quick_settings_bluetooth_off_label">Rozhraní Bluetooth je vypnuto</string>
@@ -2365,6 +2372,7 @@ přetažením dolů uzamknete"</string>
     <string name="storage_is_connecting">%1$s je připojené</string>
     <string name="stream_accessibility">Přístupnost</string>
     <string name="stream_alarm">Budík</string>
+    <string name="stream_assistant">Asistent</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Tónová volba</string>
     <string name="stream_music">Média</string>
@@ -2464,8 +2472,10 @@ Telefon se může příliš zahřát v těchto případech:
     <string name="time_picker_dialog_title">Nastavit čas</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="tip_close_flares">Během této relace nebudete dostávat upozornění na chování aplikace</string>
     <string name="title_convert_fbe">Převod na šifrování založené na souborech</string>
     <string name="title_usb_accessory">USB příslušenství</string>
+    <string name="toast_for_first_use_three_gesture">Vodorovným potáhnutím čtyrmi prsty přepínáte mezi aplikacemi</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>
     <string name="torch_activity_hint">Svítilnu můžete také zapnout podržením tlačítka Domů v zamykací obrazovce</string>
@@ -2726,14 +2736,4 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
     <string name="zen_priority_introduction">Nebudou vás rušit zvuky ani vibrace s výjimkou budíků, upozornění, událostí a volajících, které zadáte. Nadále uslyšíte veškerý obsah, který si sami pustíte (např. hudba, videa nebo hry).</string>
     <string name="zen_silence_introduction">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her.</string>
     <string name="zen_silence_introduction_voice">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her. Telefonovat budete moci i nadále.</string>
-	<string name="quick_settings_bluetooth_connected_tip">Úspešně připojeno přes Bluetooth</string>
-     <string name="quick_settings_bluetooth_disconnected_tip">Všechna Bluetooth zařízení zůstanou dnes odpojena</string>
-	<string name="tip_close_flares">Během této relace nebudete dostávat upozornění na chování aplikace</string>
-	<string name="toast_for_first_use_three_gesture">Vodorovným potáhnutím čtyrmi prsty přepínáte mezi aplikacemi</string>
-	<string name="stream_assistant">Asistent</string>
-	<string name="fgs_dot_content_description">Nové informace</string>
-    <string name="fgs_manager_app_item_stop_button_label">Zastavit</string>
-    <string name="fgs_manager_app_item_stop_button_stopped_label">Zastaveno</string>
-    <string name="fgs_manager_dialog_message">Tyto aplikace jsou aktivní a běží, i když je nepoužíváte. To zlepšuje jejich funkčnost, ale může to také ovlivnit výdrž baterie.</string>
-    <string name="fgs_manager_dialog_title">Aktivní aplikace</string>
 </resources>

@@ -35,6 +35,7 @@
     <string name="australian_magpie">Austrálská straka</string>
     <string name="authorization_btn_text">Start</string>
     <string name="authorization_tips">Vyžadují se povolení</string>
+    <string name="avalible_per_day">Doba trvání relace</string>
     <string name="baboon_info">Olivový pavián žije ve skupinách s rozvinutým sociálním hodnocením v závislosti na dominanci každého jednotlivce.</string>
     <string name="back">Zpět</string>
     <string name="bear_info">Medvědi jsou největší suchozemský masožravci. Žijí v chladných oblastech a jsou známi svým živým čichem.</string>
@@ -53,6 +54,9 @@
     <string name="canada_goose">Kanadská husa</string>
     <string name="capybara">Kapybara</string>
     <string name="capybara_info">Kapybary jsou polovodní býložraví hlodavci, kteří dokáží zadržet dech pod vodou až na pět minut v kuse.</string>
+    <string name="category_limit_notify_title">Upozornění na čas před obrazovkou</string>
+    <string name="category_list_expand">Více</string>
+    <string name="category_list_packup">Skrýt</string>
     <string name="category_other">Ostatní</string>
     <string name="chacma_baboon">Pavián čakma</string>
     <string name="cheetah">Gepard</string>
@@ -63,11 +67,14 @@
     <string name="class_breast_feeding">Savci</string>
     <string name="click_to_save">Stlačte \"Hotovo\" pro nastavení běžného zvonění.</string>
     <string name="close">Zavřít</string>
+    <string name="closed_high_refresh_options">Aplikace nepoužívající vysokou obnovovací frekvenci</string>
     <string name="color_gamut">Tón barvy</string>
     <string name="common_brushtail">Vačice Brushtail</string>
     <string name="common_ostrich">Pštros</string>
+    <string name="compulsor_tip">Domácí obrazovka</string>
     <string name="contact_description">Dotykem na odkaz kontaktu uskutečníte hovor</string>
     <string name="contact_title">Odkaz kontaktu</string>
+    <string name="continue_time">Doba trvání relace</string>
     <string name="contrast_ratio">Kontrast</string>
     <string name="control_center_title">Čas displeje</string>
     <string name="control_center_title_new">Čas displeje</string>
@@ -79,6 +86,8 @@
     <string name="created_successfully">Odkaz vytvořen</string>
     <string name="crowned_hornbill">Zoborožec korunovaný</string>
     <string name="cu_confirm">Nastavit</string>
+    <string name="customize_high_refresh_summary">Tato funkce podporuje obnovovací frekvenci až %d Hz. Příslušnou obnovovací frekvenci lze vybrat automaticky na základě nastavení zařízení.</string>
+    <string name="customize_high_refresh_title">Aplikace využívající vysokou obnovovací frekvenci</string>
     <string name="customize_radio_btn_summary">Upřednostnit vybranou obnovovací frekvenci</string>
     <string name="customize_radio_btn_title">Vlastní</string>
     <string name="dall_sheep">Ovce</string>
@@ -97,6 +106,8 @@
     <string name="desktop_widget_not_support">"Statistiky času displeje
 nejsou vytvářené v Druhém profilu"</string>
     <string name="desktop_widget_screen_use_time">Čas displeje</string>
+    <string name="device_limit_enable">Zapnuto</string>
+    <string name="device_limit_un_enable">Vypnuto</string>
     <string name="display_description">Větší ikony, větší text a jednodušší grafika</string>
     <string name="display_title">Větší ikony</string>
     <string name="dynamic_ringtone_desc">Prozkoumali jsme různé ekosystémy a znovu vytvořili jejich odlišné zvuky. Začněte s námi zkoumat zvuky přírody!</string>
@@ -131,7 +142,11 @@ nejsou vytvářené v Druhém profilu"</string>
     <string formatted="false" name="focus_mode_timer_pick_dialog_summary">%d do %d minut</string>
     <string name="focus_mode_timer_pick_dialog_title">Zadejte trvání</string>
     <string name="focus_time_exception_tip">Systémový čas byl změněný. Režim Soustředění byl vypnutý.</string>
+    <string name="follow_apps_settings">Na základě nastavení aplikace</string>
     <string name="follow_sim1">Použít nastavení SIM 1</string>
+    <string name="force_rest">Použivat přestávky relace</string>
+    <string name="force_rest_summary">Když relace dosáhnou stanoveného limitu, udělejte si povinné přestávky</string>
+    <string name="force_rest_time">Doba trvání přestávky</string>
     <string name="fps_high">Vysoká</string>
     <string name="fps_nature_summary">Vyšší obnovovací frekvence udrží ostrý a čístý obraz</string>
     <string name="fps_nature_title">Vysoká</string>
@@ -164,6 +179,16 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="green_peafowl">Páv zelený</string>
     <string name="green_warbler_finch">Pěnice zelená</string>
     <string name="grey_headed_flying_fox">Liška šedohlavá</string>
+    <string name="guard_item_app_summary">Vzdálené odinstalování aplikací</string>
+    <string name="guard_item_app_title">Spravovat aplikace</string>
+    <string name="guard_item_browser_summary">Ovládání přístupu k aplikacím a obsahu</string>
+    <string name="guard_item_browser_title">Omezení</string>
+    <string name="guard_item_call_summary">Povolit konkrétním kontaktům uskutečňovat hovory</string>
+    <string name="guard_item_call_title">Komunikace</string>
+    <string name="guard_item_eye_protect_summary">Sledovat polohu</string>
+    <string name="guard_item_eye_protect_title">Pohodlí pro oči</string>
+    <string name="guard_range_from">Od</string>
+    <string name="guard_range_to">Komu</string>
     <string name="harp_seal">Tuleň</string>
     <string name="harpy_eagle">Orel</string>
     <string name="has_applied">Použito</string>
@@ -171,11 +196,14 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="helmeted_guineafowl">Perlička</string>
     <string name="high_fps_description">Vysoká obnovovací frekvence obrazovky. Vyšší spotřeba energie.</string>
     <string name="high_fps_tip_footer">Použitím vyšších obnovovacích frekvencí je zážitek ze sledování plynulejší, ale spotřebovává více energie.</string>
+    <string name="high_refresh_options_title">Podporované aplikace</string>
     <string name="hippopotamus">Hroch</string>
+    <string name="holiday_limit">Dny volna</string>
     <string name="hsv_space_color">HSV</string>
     <string name="hsv_space_color_hue">Sytost</string>
     <string name="hsv_space_color_saturation">Saturace</string>
     <string name="hsv_space_color_value">Hodnota</string>
+    <string name="in_forbidden_period">Používání je nyní omezené</string>
     <string name="intelligent_radio_btn_summary">Upravte obnovovací frekvenci dynamicky na základě scénářů, abyste dosáhli rovnováhy mezi výkonem a spotřebou energie</string>
     <string name="intelligent_radio_btn_title">Automaticky (doporučeno)</string>
     <string name="intelligent_recognition_item_summary">Identifikovat příchozí hovor od poskytovatelů služeb (napr. donáška, kurýr) a použít jiné zvonění</string>
@@ -192,6 +220,7 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="leopard">Leopard</string>
     <string name="lion">Lev</string>
     <string name="lion_info">Lvi jsou prudcí a silní predátoři. Žijí ve skupinách a mají silný územní smysl.</string>
+    <string name="loading_error">"Položky se nepodařilo načíst"</string>
     <string name="lock_summary">Chraňte vaše soukromé informace</string>
     <string name="long_tai1ed_iaeger">Jaeger dlouhochvostý</string>
     <string name="low_flicker_mode">Nízké světlo</string>
@@ -308,6 +337,8 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="nature_mix_summary">Vytvořit vlastní mix</string>
     <string name="nazca_booby">Terej tichomořský</string>
     <string name="network_error">Chyba sítě, zkuste to znova.</string>
+    <string name="new_customize_high_refresh_title">Vysoká obnovovací frekvence</string>
+    <string name="next_day">"(Následující den) "</string>
     <string name="nine_banded_armadillo">Pásovec</string>
     <string name="no_matching">Nenašla se aplikace pro tento odkaz</string>
     <string name="no_sound_summary">Žádné </string>
@@ -321,6 +352,7 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="notification_sound">Zvuky upozornění</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Olivový pavián</string>
+    <string name="opened_high_refresh_options">Aplikace využívající vysokou obnovovací frekvenci</string>
     <string name="orange_winged_amazon">Amazonka</string>
     <string name="orca">Velryba</string>
     <string name="ostrich_info">Pštrosi jsou velcí nelétaví ptáci Afriky, kteří kladou největší vejce ze všech živých suchozemských zvířat.</string>
@@ -380,6 +412,7 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="sea_otter">Mořská vydra</string>
     <string name="seal_info">Tuleni jsou mořský savci, kteří se rychle pohybují v hlubokých vodách a živí se rybami a krevetami.</string>
     <string name="search_app_name">Vyhledat aplikace</string>
+    <string name="search_app_tips">Vyhledání aplikací</string>
     <string name="search_empty">Žádné aplikace</string>
     <string name="search_events">Vyhledat událost</string>
     <string name="search_history">Historie</string>
@@ -412,6 +445,8 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="steady_on_screen_notification_title">Položte váš telefon a oddychněte si</string>
     <string name="steady_on_screen_notification_title_pad">Odložte váš telefon a oddychněte si</string>
     <string name="steady_on_screen_notify">Upozornit na používání bez přestávky</string>
+    <string name="steady_on_screen_notify_new">Dejte si přestávku</string>
+    <string name="steady_on_screen_ntf_msg">Všechny funkce budou opět dostupné v %1$s</string>
     <string name="steady_on_screen_setting">Časový limit používání</string>
     <string name="steady_on_screen_summary">Časový limit pro používání bez přestávky</string>
     <string name="stop_app_timer">Deaktivovat Čas displeje</string>
@@ -435,6 +470,12 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="thursday">Čtvrtek</string>
     <string name="thursday_short">Čtv</string>
     <string name="thursday_shortest">Č</string>
+    <string name="time_over_back_home">Domácí obrazovka</string>
+    <string name="time_over_delayed_use">Ignorovat</string>
+    <string name="time_over_not_delayed_use">Rozumím</string>
+    <string name="time_over_today">„Už nezbývá čas
+pro dnešek"</string>
+    <string name="time_over_today_use">"Dnešní relace: "</string>
     <string name="time_picker_dialog_title">Nastavit čas</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
@@ -462,6 +503,7 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="tuesday_shortest">Ú</string>
     <string name="two_toed_sloths">Lenochod dvojprstý</string>
     <string name="two_toed_sloths_info">Lenochodi dvojprstí mohou v baldachýnech dešťových pralesů lehko cestovat ze stromu na strom.</string>
+    <string name="unavailable_per_day">Přestávky</string>
     <string name="unlock_times_per_day">"Denní průměr: "</string>
     <string name="unlock_times_per_hour">"Odemknutí za hodinu: "</string>
     <string name="usage_agree">Souhlasím</string>
@@ -497,8 +539,10 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="usage_device_limit_app_prolong_time3">Přidat 60 minut</string>
     <string name="usage_device_limit_app_prolong_time4">Dnes neomezovat</string>
     <string name="usage_device_limit_app_prolong_time5">Přidat čas jen jednou</string>
+    <string name="usage_device_limit_forbidden_period">Použití je omezeno mezi %1$s a %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">Svůj limit dosáhnete v %1$s</string>
     <string name="usage_device_limit_notifation_title">Zbývající čas na dnes</string>
+    <string name="usage_device_limit_start_forbidden_period">Použití bude omezeno mezi %1$s a %2$s (zůstává %3$s)</string>
     <string name="usage_device_limit_time_over">Dosáhli jste váš dnešní limit (%1$s)</string>
     <string name="usage_exit">Ukončit</string>
     <string name="usage_focus_focus_premission_main_summary">Tato aplikace vyžaduje přístup k vašemu účtu pro zaznamenávání používání režimu Soustředění.</string>
@@ -528,6 +572,8 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">Vaše osobní informace chráníme v souladu s příslušnými zákony, nařízeními a zásadami ochrany osobních údajů. Pokud nesouhlasíte s udělením takových povolení nebo sdílením a odevzdávaním svých osobních údajů, nebudete moci tuto aplikácia používat. Autorizaci můžete kdykoliv odvolat v Čas displeje - Nastavení - Vypnout čas displeje.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix">Před používaním této aplikace musíte souhlasit s našimi Podmínkami používání a Ochranou soukromí.</string>
     <string name="usage_home_premission_second_summary_new">Vaše data jsou chráněné.</string>
+    <string name="usage_new_category_limit_summary">Nastavit denní limity používání pro všechny aplikace v této kategorii</string>
+    <string name="usage_new_category_limit_title">Omezit použití pro kategorii aplikací</string>
     <string name="usage_new_home_app_limit_summary">Nastavte pro tuto aplikaci denní časový limit používání</string>
     <string name="usage_new_home_app_limit_title">Omezit čas používání</string>
     <string name="usage_new_home_average">"Průměr "</string>
@@ -749,55 +795,9 @@ nejsou vytvářené v Druhém profilu"</string>
     <string name="willow_grouse_info">Ptarmigan vrbový je většinu svého života býložravý a obývá především subalpinské a subarktické stanoviště.</string>
     <string name="wolf">Vlk</string>
     <string name="wombat">Vombat</string>
+    <string name="workday_limit">Pracovní dny</string>
     <string name="yellow_necked_spurfowl">Frankolín žlutokrký</string>
     <string name="yellow_throated_marten">Kuna žlutohrdla</string>
     <string name="yesterday">Včera</string>
     <string name="yunnan_snub_nosed_monkey">Černobílá opice tuponosá</string>
-	<string name="avalible_per_day">Doba trvání relace</string>
-     <string name="category_limit_notify_title">Upozornění na čas před obrazovkou</string>
-     <string name="category_list_expand">Více</string>
-     <string name="category_list_packup">Skrýt</string>
-     <string name="compulsor_tip">Domácí obrazovka</string>
-     <string name="continue_time">Doba trvání relace</string>
-     <string name="device_limit_enable">Zapnuto</string>
-     <string name="device_limit_un_enable">Vypnuto</string>
-     <string name="force_rest">Použivat přestávky relace</string>
-     <string name="force_rest_summary">Když relace dosáhnou stanoveného limitu, udělejte si povinné přestávky</string>
-     <string name="force_rest_time">Doba trvání přestávky</string>
-     <string name="guard_item_app_summary">Vzdálené odinstalování aplikací</string>
-     <string name="guard_item_app_title">Spravovat aplikace</string>
-     <string name="guard_item_browser_summary">Ovládání přístupu k aplikacím a obsahu</string>
-     <string name="guard_item_browser_title">Omezení</string>
-     <string name="guard_item_call_summary">Povolit konkrétním kontaktům uskutečňovat hovory</string>
-     <string name="guard_item_call_title">Komunikace</string>
-     <string name="guard_item_eye_protect_summary">Sledovat polohu</string>
-     <string name="guard_item_eye_protect_title">Pohodlí pro oči</string>
-     <string name="guard_range_from">Od</string>
-     <string name="guard_range_to">Komu</string>
-     <string name="holiday_limit">Dny volna</string>
-     <string name="in_forbidden_period">Používání je nyní omezené</string>
-     <string name="loading_error">"Položky se nepodařilo načíst"</string>
-     <string name="next_day">"(Následující den) "</string>
-     <string name="steady_on_screen_notify_new">Dejte si přestávku</string>
-     <string name="steady_on_screen_ntf_msg">Všechny funkce budou opět dostupné v %1$s</string>
-     <string name="time_over_back_home">Domácí obrazovka</string>
-     <string name="time_over_delayed_use">Ignorovat</string>
-     <string name="time_over_not_delayed_use">Rozumím</string>
-     <string name="time_over_today">„Už nezbývá čas
-pro dnešek"</string>
-     <string name="time_over_today_use">"Dnešní relace: "</string>
-     <string name="unavailable_per_day">Přestávky</string>
-     <string name="usage_device_limit_forbidden_period">Použití je omezeno mezi %1$s a %2$s</string>
-     <string name="usage_device_limit_start_forbidden_period">Použití bude omezeno mezi %1$s a %2$s (zůstává %3$s)</string>
-     <string name="usage_new_category_limit_summary">Nastavit denní limity používání pro všechny aplikace v této kategorii</string>
-     <string name="usage_new_category_limit_title">Omezit použití pro kategorii aplikací</string>
-     <string name="workday_limit">Pracovní dny</string>
-	 <string name="closed_high_refresh_options">Aplikace nepoužívající vysokou obnovovací frekvenci</string>
-     <string name="customize_high_refresh_summary">Tato funkce podporuje obnovovací frekvenci až %d Hz. Příslušnou obnovovací frekvenci lze vybrat automaticky na základě nastavení zařízení.</string>
-     <string name="customize_high_refresh_title">Aplikace využívající vysokou obnovovací frekvenci</string>
-     <string name="follow_apps_settings">Na základě nastavení aplikace</string>
-     <string name="high_refresh_options_title">Podporované aplikace</string>
-     <string name="new_customize_high_refresh_title">Vysoká obnovovací frekvence</string>
-     <string name="opened_high_refresh_options">Aplikace využívající vysokou obnovovací frekvenci</string>
-     <string name="search_app_tips">Vyhledání aplikací</string>
 </resources>

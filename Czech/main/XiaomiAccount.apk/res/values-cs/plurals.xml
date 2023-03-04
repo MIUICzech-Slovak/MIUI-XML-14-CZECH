@@ -45,6 +45,10 @@
         <item quantity="other">Poznámky: %d</item>
         <item quantity="one">Poznámky: %d</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d lidí</item>
+        <item quantity="one">%d člověk</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Před hodinou a půl</item>
     </plurals>
@@ -92,8 +96,4 @@
         <item quantity="other">Zařízení: %d</item>
         <item quantity="one">Zařízení: %d</item>
     </plurals>
-	<plurals name="family_service_member_count">
-        <item quantity="other">%d lidí</item>
-        <item quantity="one">%d člověk</item>
-     </plurals>
 </resources>

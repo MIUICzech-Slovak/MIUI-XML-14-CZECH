@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="access_denied_info">Příliš mnoho pokusů. Počkejte chvíli a zkuste to znovu.</string>
+    <string name="access_photos_and_videos">Přístup k fotografiím a videím</string>
     <string name="action_collapse">Skrýt</string>
     <string name="action_expand">Více</string>
     <string name="action_folder_description">Složky</string>
@@ -308,6 +309,7 @@
     <string name="new_audio_create_done_talkback_des">Vytvořené</string>
     <string name="new_audio_create_guide_tip">Podržte pro vytvoření nahrávky</string>
     <string name="new_audio_create_talkback_des">Dotkněte se pro vytvoření poznámky. Podržte pro vytvoření nahrávky. Pusťte tlačítko pro ukončení nahrávky nebo potáhněte nahoru pro zrušení.</string>
+    <string name="new_lite_audio_create_talkback_des">Dotykem vytvoříte poznámku</string>
     <string name="no_network">Není možné připojit se k síti</string>
     <string name="not_now">Nyní ne</string>
     <string name="note_alert_expired">Prošlá</string>
@@ -341,6 +343,7 @@
     <string name="option_menu_rename">Přejmenovat</string>
     <string name="option_menu_restore_note">Obnovit</string>
     <string name="option_menu_save_as">Uložit jako</string>
+    <string name="pc_all_folder_name">Vše</string>
     <string name="permdesc_accessNote">Škodlivé aplikace to mohou použít pro přístup k vašim osobním údajům.</string>
     <string name="permission_data_shared_desc">Prohlášení o sdílení údajů třetích stran</string>
     <string name="permission_get_account_desc">Synchronizace poznámek</string>
@@ -351,6 +354,8 @@
     <string name="permission_microphone_desc">Nahrávat hlasové poznámky</string>
     <string name="permission_network_for_cloud_desc">Vyžaduje se připojení k síti pro synchronizaci poznámek s Xiaomi cloudem. Připojit sa nyní?</string>
     <string name="permission_phone_state_desc">Pro ukončení nahrávání poznámek během hovoru</string>
+    <string name="permission_photos_desc">Pro přidávání obrázků do poznámek</string>
+    <string name="permission_photos_desc_pad">Pro přidávání obrázků do poznámek</string>
     <string name="permission_read_contact_desc">Pro spárování poznámek s kontaktem</string>
     <string name="permission_storage_desc">Pro ukládání poznámek</string>
     <string name="permission_storage_desc_v12">Pro přidání obrázků do poznámek a ukládání poznámek</string>
@@ -413,10 +418,21 @@
     <string name="rich_text_bold_description">Tučné</string>
     <string name="rich_text_center_description">Střed</string>
     <string name="rich_text_chooser_title">Styl</string>
+    <string name="rich_text_font_first_level_description">Nadpis první úrovně</string>
+    <string name="rich_text_font_second_level_description">Nadpis druhé úrovně</string>
+    <string name="rich_text_font_third_level_description">Nadpis třetí úrovně</string>
+    <string name="rich_text_indent_left_description">Odsazení vlevo</string>
+    <string name="rich_text_indent_right_description">Odsazení vpravo</string>
     <string name="rich_text_italic_description">Šikmé</string>
+    <string name="rich_text_orderlist_description">Číslovaný seznam</string>
+    <string name="rich_text_quote_description">Citace</string>
     <string name="rich_text_right_description">Vpravo</string>
     <string name="rich_text_size_description">Velikost</string>
+    <string name="rich_text_split_description">Rozdělovač</string>
+    <string name="rich_text_strikethrough_description">Přetrženo</string>
+    <string name="rich_text_tasklist_description">Úkoly</string>
     <string name="rich_text_underline_description">Podtržené</string>
+    <string name="rich_text_unorderlist_description">Seznam</string>
     <string name="root_folder_name">Rychlé poznámky</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
@@ -432,6 +448,7 @@
     <string name="search_label">Hledat</string>
     <string name="search_setting_description">Vyhledá text v poznámkách</string>
     <string name="select_account_prompt">Povolit synchronizaci poznámek</string>
+    <string name="send_notifications_for_reminder">Pro odesílání připomínek</string>
     <string name="set_alarm_description">Upozornění</string>
     <string name="setting_big_screen_layout_columns">Boční panel</string>
     <string name="setting_big_screen_layout_flat">Dlaždice</string>
@@ -469,6 +486,7 @@
     <string name="sns_title_send">Odeslat zprávu</string>
     <string name="sns_toast_empty">Prázdnou zprávu nelze odeslat</string>
     <string name="sns_toast_over_limit">Odeslat jako obrázek</string>
+    <string name="stealth_mode_tip">Jste inkognito. Nyní nelze použít mikrofon.</string>
     <string name="sunday">Neděle</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
@@ -538,6 +556,7 @@ Povolte aplikaci Poznámky přístup ke kontaktům."</string>
 Povolte aplikaci Poznámky přístup k úložišti."</string>
     <string name="toast_refuse_to_use_phone_state">"Povolení přístupu k seznamu hovorů je zakázáno.
 Povolte aplikaci Poznámky přístup k seznamu volání."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Povolte této aplikaci přístup k fotkám, abyste mohli přidávat obrázky do poznámek</string>
     <string name="toast_refuse_to_use_record_audio">"Povolení přístupu k mikrofonu je zakázáno.
 Povolte aplikaci Poznámky přístup k mikrofonu."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Povolte Poznámkám přístup na úložiště</string>
@@ -649,6 +668,9 @@ Povolte aplikaci Poznámky přístup k mikrofonu."</string>
 Pro více informací navštivte
 http://www.miuios.cz/rom
 "</string>
+    <string name="widget_all_notes_name">Všechny poznámky</string>
+    <string name="widget_all_todo_name">Všechny úlohy</string>
+    <string name="widget_click_check">Zobrazíte klepnutím</string>
     <string name="widget_content_loading">Načítání...</string>
     <string name="widget_create_select_size">Vyberte velikost</string>
     <string name="widget_empty_content">Dotykem vyberte poznámku</string>
@@ -663,26 +685,4 @@ http://www.miuios.cz/rom
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
     <string name="yesterday">Včera</string>
-	<string name="pc_all_folder_name">Vše</string>
-	<string name="new_lite_audio_create_talkback_des">Dotykem vytvoříte poznámku</string>
-     <string name="widget_all_notes_name">Všechny poznámky</string>
-     <string name="widget_all_todo_name">Všechny úlohy</string>
-     <string name="widget_click_check">Zobrazíte klepnutím</string>
-	 <string name="access_photos_and_videos">Přístup k fotografiím a videím</string>
-      <string name="permission_photos_desc">Pro přidávání obrázků do poznámek</string>
-      <string name="permission_photos_desc_pad">Pro přidávání obrázků do poznámek</string>
-      <string name="send_notifications_for_reminder">Pro odesílání připomínek</string>
-      <string name="toast_refuse_to_use_photos_in_excerpt">Povolte této aplikaci přístup k fotkám, abyste mohli přidávat obrázky do poznámek</string>
-	  <string name="rich_text_font_first_level_description">Nadpis první úrovně</string>
-      <string name="rich_text_font_second_level_description">Nadpis druhé úrovně</string>
-      <string name="rich_text_font_third_level_description">Nadpis třetí úrovně</string>
-      <string name="rich_text_indent_left_description">Odsazení vlevo</string>
-      <string name="rich_text_indent_right_description">Odsazení vpravo</string>
-      <string name="rich_text_orderlist_description">Číslovaný seznam</string>
-      <string name="rich_text_quote_description">Citace</string>
-      <string name="rich_text_split_description">Rozdělovač</string>
-      <string name="rich_text_strikethrough_description">Přetrženo</string>
-      <string name="rich_text_tasklist_description">Úkoly</string>
-      <string name="rich_text_unorderlist_description">Seznam</string>
-      <string name="stealth_mode_tip">Jste inkognito. Nyní nelze použít mikrofon.</string>
 </resources>

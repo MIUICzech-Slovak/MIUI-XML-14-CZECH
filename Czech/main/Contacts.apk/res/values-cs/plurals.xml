@@ -165,6 +165,10 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d zmeškané hovory</item>
+        <item quantity="one">%d zmeškaný hovor</item>
+    </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d hlasových zpráv</item>
         <item quantity="one">Hlasová zpráva</item>
@@ -227,9 +231,5 @@
     <plurals name="voip_contacts_count">
         <item quantity="other">Lidí: %1$d</item>
         <item quantity="one">Lidí: %1$d</item>
-    </plurals>
-    <plurals name="notification_missedCallsMsg">
-        <item quantity="other">%d zmeškané hovory</item>
-        <item quantity="one">%d zmeškaný hovor</item>
     </plurals>
 </resources>             

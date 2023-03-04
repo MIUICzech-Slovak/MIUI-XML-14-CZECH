@@ -254,6 +254,10 @@
         <item quantity="other">Vybráno: %d</item>
         <item quantity="one">Vybráno: %d</item>
     </plurals>
+    <plurals name="delete_brust_title">
+        <item quantity="other">Odstranit %d sériových snímků?</item>
+        <item quantity="one">Odstranit %d sériový snímek?</item>
+    </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Vymazat dávkové snímání (%d) z MiCloud a zařízení?</item>
         <item quantity="one">Vymazat dávkové snímání (%d) z MiCloud a zařízení?</item>
@@ -285,6 +289,10 @@
     <plurals name="delete_media_msg_format">
         <item quantity="other">Vymazat %1$d položek %2$s?</item>
         <item quantity="one">Vymazat %1$d položek %2$s?</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="other">Odstranit %d položek?</item>
+        <item quantity="one">Odstranit %d položku?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Vymazat %d fotografií ze všech zařízení a MiCloud?</item>
@@ -400,6 +408,10 @@
     <plurals name="message_no_delete_access_with_count">
         <item quantity="other">Némáte oprávnění vymazat tyto soubory %d.</item>
         <item quantity="one">Némáte oprávnění vymazat tyto soubory %d.</item>
+    </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d položek</item>
+        <item quantity="one">%1$d položka</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Vybráno %d položek</item>
@@ -609,9 +621,25 @@
         <item quantity="other">Synchr. %d položek</item>
         <item quantity="one">Synchr. %d položky</item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">Nepodařilo se přenést %1$d položek</item>
+        <item quantity="one">Nepodařilo se přenést %1$d položku</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">Nepodařilo se přenést %1$d položek. Pokud je chcete stáhnout, navštivte stránku i.mi.com.</item>
+        <item quantity="one">Nepodařilo se přenést %1$d položku. Pro stažení Nnvštivte i.mi.com.</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d vybraných položek bude trvale smazáno z cloudu a všech synchronizovaných zařízení. Přesto smazat?</item>
+        <item quantity="one">%d vybraná položka bude trvale smazána z cloudu a všech synchronizovaných zařízení. Přesto smazat?</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">Nebude možné obnovit vybrané položky (%d) pokud je vymažete. Přesto je chcete vymazat?</item>
         <item quantity="one">Nebude možné obnovit vybranou položku (%d) pokud ji vymažete. Přesto je chcete vymazat?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d vybraných položek bude trvale smazáno. Přesto smazat?</item>
+        <item quantity="one">%d vybraná položka bude trvale smazána. Přesto smazat?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
         <item quantity="other">Nebude možné obnovit vybrané položky (%d) pokud je vymažete. Přesto je chcete vymazat?</item>
@@ -625,6 +653,14 @@
         <item quantity="other">Položky zde mohou být uložené po dobu %1$d dní (%2$s)</item>
         <item quantity="one">Položky zde mohou být uložené po dobu %1$d dne (%2$s)</item>
     </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Položky zde mohou být uloženy %1$s dní. Klepnutím prodloužite toto období.</item>
+        <item quantity="one">Položky zde mohou být uloženy %1$s den. Klepnutím prodloužite toto období.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Odstraněné položky jsou uložené v cloudu na %1$d dní</item>
+        <item quantity="one">Odstraněné položky jsou uložené v cloudu na %1$d den</item>
+    </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Položky zde mohou být uložené po dobu %1$d dní. Navyšte si vaše předplatné pro prodloužení této doby.</item>
         <item quantity="one">Položky zde mohou být uložené po dobu %1$d dne. Navyšte si vaše předplatné pro prodloužení této doby.</item>
@@ -637,40 +673,4 @@
         <item quantity="other">Videa: %d</item>
         <item quantity="one">Video: %d</item>
     </plurals>
-	<plurals name="migrate_gp_data_num">
-        <item quantity="other">%1$d položek</item>
-        <item quantity="one">%1$d položka</item>
-     </plurals>
-     <plurals name="tran_notification_complete_msg">
-        <item quantity="other">Nepodařilo se přenést %1$d položek</item>
-        <item quantity="one">Nepodařilo se přenést %1$d položku</item>
-     </plurals>
-     <plurals name="transfer_status_banner_msg_file_failed">
-        <item quantity="other">Nepodařilo se přenést %1$d položek. Pokud je chcete stáhnout, navštivte stránku i.mi.com.</item>
-        <item quantity="one">Nepodařilo se přenést %1$d položku. Pro stažení Nnvštivte i.mi.com.</item>
-     </plurals>
-     <plurals name="trash_vip_info_text_login_medium_or_low_level">
-        <item quantity="other">Položky zde mohou být uloženy %1$s dní. Klepnutím prodloužite toto období.</item>
-        <item quantity="one">Položky zde mohou být uloženy %1$s den. Klepnutím prodloužite toto období.</item>
-     </plurals>
-     <plurals name="trash_vip_info_text_no_sync_server">
-        <item quantity="other">Odstraněné položky jsou uložené v cloudu na %1$d dní</item>
-        <item quantity="one">Odstraněné položky jsou uložené v cloudu na %1$d den</item>
-     </plurals>
-	 <plurals name="trash_purge_dialog_message_cloud">
-        <item quantity="other">%d vybraných položek bude trvale smazáno z cloudu a všech synchronizovaných zařízení. Přesto smazat?</item>
-        <item quantity="one">%d vybraná položka bude trvale smazána z cloudu a všech synchronizovaných zařízení. Přesto smazat?</item>
-     </plurals>
-     <plurals name="trash_purge_dialog_message_local">
-        <item quantity="other">%d vybraných položek bude trvale smazáno. Přesto smazat?</item>
-        <item quantity="one">%d vybraná položka bude trvale smazána. Přesto smazat?</item>
-     </plurals>
-	 <plurals name="delete_brust_title">
-         <item quantity="other">Odstranit %d sériových snímků?</item>
-         <item quantity="one">Odstranit %d sériový snímek?</item>
-      </plurals>
-      <plurals name="delete_media_title">
-         <item quantity="other">Odstranit %d položek?</item>
-         <item quantity="one">Odstranit %d položku?</item>
-      </plurals>
 </resources>

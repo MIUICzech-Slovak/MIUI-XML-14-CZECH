@@ -1146,6 +1146,8 @@ poskytována především firmou Ultimate Inc."</string>
     <string name="set_id3_not_have_read_or_write_permission">Nemáte povolení upravovat tento soubor.</string>
     <string name="set_id3_not_support_format">Tento formát souboru nelze upravit</string>
     <string name="set_id3_successful">Informace o skladbě úspěšně uloženy</string>
+    <string name="set_online_home_subtitle">Otevřít online doporučení při spuštění aplikace</string>
+    <string name="set_online_home_title">Při spuštění zobrazovat online doporučení</string>
     <string name="set_ringtones_failed">Nastavení vyzváněcího tónu se nezdařilo</string>
     <string name="set_ringtones_successful">%s nastaveno jako vyzváněcí tón</string>
     <string name="setting_feature_setting">Nastavení funkce</string>
@@ -1379,6 +1381,4 @@ Klepněte na %s
  pro zahájení tohoto stahování, jakmile se příště připojíte k síti Wi-Fi."</string>
     <string name="wifi_required_title">Pro stažení tohoto souboru se připojte k síti Wi-Fi</string>
     <string name="yesterday">Včera</string>
-	<string name="set_online_home_subtitle">Otevřít online doporučení při spuštění aplikace</string>
-    <string name="set_online_home_title">Při spuštění zobrazovat online doporučení</string>
 </resources>

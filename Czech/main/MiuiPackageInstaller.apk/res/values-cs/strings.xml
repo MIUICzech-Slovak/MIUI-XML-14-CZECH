@@ -215,6 +215,7 @@ Výběr"</string>
     <string name="caller_app">Je vyžadováno povolení od %1$s</string>
     <string name="cancel">Zrušit</string>
     <string name="cancel_install">Zrušit</string>
+    <string name="cancel_update">Neaktualizovat</string>
     <string name="category_personal">Osobní</string>
     <string name="category_work">Pracovní</string>
     <string name="cb_back">tlačítko zpět</string>
@@ -376,7 +377,7 @@ Všechny předchozí uživatelské údaje budou uloženy."</string>
     <string name="grant_dialog_button_more_info">Další informace</string>
     <string name="hdcp_checking_dialog_title">Nastavit chování kontroly HDCP</string>
     <string name="hdcp_checking_title">Kontrola HDCP</string>
-	<string name="help_app_permissions" />
+    <string name="help_app_permissions" />
     <string name="help_feedback_label">Nápověda a zpětná vazba</string>
     <string name="high_risk_perms">Rizikové povolení</string>
     <string name="home">Domovská stránka Nastavení</string>
@@ -1111,5 +1112,4 @@ Případně můžete vypnout zjednodušený režim a zkusit to znovu."</string>
     <string name="zen_mode_enable_dialog_turn_on">Zapnout</string>
     <string name="zen_mode_settings_summary_off">Nikdy</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Zapněte funkci Nerušit</string>
-	<string name="cancel_update">Neaktualizovat</string>
 </resources>

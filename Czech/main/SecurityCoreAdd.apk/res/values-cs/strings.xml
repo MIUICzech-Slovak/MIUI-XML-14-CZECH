@@ -6,6 +6,8 @@
 Zprávy budou zobrazeny jen ve Druhém profilu."</string>
     <string name="PrivacyContactDes2">"Pokud jste používali soukromé zprávy v Primárním profilu,
 bude tato funkce automaticky aktivní i ve Druhém profilu."</string>
+    <string name="about_ent_mode">O Firemním režimu</string>
+    <string name="activate_ent_mode">Spustit Firemní režim</string>
     <string name="add_finger_print">Přidat otisk</string>
     <string name="agree">Souhlasím</string>
     <string name="air_space_created">Pracovní prostor vytvořen</string>
@@ -64,6 +66,9 @@ bude tato funkce automaticky aktivní i ve Druhém profilu."</string>
     <string name="create_space_loading">Vytváření Druhého profilu...</string>
     <string name="create_work_space">Vytvořit pracovní prostor</string>
     <string name="creating_app_icon">Vytváření ikony...</string>
+    <string name="cta_declaration_agree_and_continue">Souhlasím</string>
+    <string name="cta_declaration_message_format" formatted="false">Před použitím Firemního režimu si musíte přečíst a souhlasit s &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font>. Aby bylo možné aktivovat Firemní režim, vaše zařízení se musí připojit k internetu. Souhlasíte?</string>
+    <string name="cta_declaration_title">Smluvní podmínky</string>
     <string name="current_space">Aktuální profil</string>
     <string name="dataSafe">Používání Druhého profilu je podobné, jako mít dvě zařízení.</string>
     <string name="declare_dialog_title">Co jsou to klonované aplikace</string>
@@ -75,7 +80,11 @@ bude tato funkce automaticky aktivní i ve Druhém profilu."</string>
     <string name="delete_phone_fingerprint">Vymazat otisk pro Druhý profil</string>
     <string name="delete_src_file">Vymazat soubory</string>
     <string name="delete_src_photo">Vymazat fotografie</string>
+    <string name="dialog_message_service_error">"Nepodařilo se odvolat souhlas a provést obnovení továrních dat. Zkuste to znovu."</string>
+    <string name="dialog_tip_need_network">Aby bylo možné odvolat souhlas, musí se vaše zařízení připojit k internetu.</string>
     <string name="dialog_title">Upozornění</string>
+    <string name="dialog_title_service_error">Chyba serveru</string>
+    <string name="dialog_undo_negative">"Neodvolávat"</string>
     <string name="dialog_verify">Ověřte svůj otisk</string>
     <string name="dialog_verify_fingerprint_retry">Nelze ověřit</string>
     <string name="dir_switch_out_all_photos">Galerie Druhého profilu</string>
@@ -94,7 +103,36 @@ bude tato funkce automaticky aktivní i ve Druhém profilu."</string>
     <string name="encrypt_space_delete_dialog_title">Upozornění</string>
     <string name="encrypt_space_delete_notification_message">Vymažte Druhý profil a vytvořte ho znovu.</string>
     <string name="encrypt_space_delete_notification_title">Druhý profil</string>
+    <string name="ent_activating">Probíhá spouštění…</string>
+    <string name="ent_activation">Spustit</string>
+    <string name="ent_activation_hint">Zadáním podnikového kódu spolu s licenčním kódem spustíte Firemní režim. Poté budou povoleny vlastní podnikové služby.</string>
+    <string name="ent_activation_hint_whit_licence">"Spusťte Firemní režim a povolte vlastní podnikové služby.
+Ujistěte se, že název vaší společnosti je správný. Před spuštěním si přečtěte související zásady ochrany osobních údajů a odsouhlaste je."</string>
+    <string name="ent_agency_code">Podnikový kód</string>
+    <string name="ent_agency_code_hint">Zadejte podnikový kód</string>
+    <string name="ent_agency_code_invalid">Zadaný podnikový kód je neplatný.</string>
+    <string name="ent_agree_privacy_policy">"Přečetl/a jsem si zásady ochrany osobních údajů a souhlasím s nimi"</string>
+    <string name="ent_app_verified">Zdá se, že ve vašem zařízení jsou nainstalovány podnikové aplikace. Spustit Firemní režim?</string>
+    <string name="ent_confirm_dialog_content">"Po spuštění Firemního režimu se nebudete moci vrátit do současného stavu systému. Všechna vaše data však budou stále uložena v tomto zařízení. Pro spuštění Firemního režimu budete muset restartovat zařízení. Spustit nyní?"</string>
+    <string name="ent_disallow_running">Spuštění aplikace je zakázáno</string>
+    <string name="ent_download_install_dialog_content">Abyste spustili Firemní režim, musíte nainstalovat podnikové aplikace. Instalovat nyní?</string>
+    <string name="ent_download_install_dialog_title">Stáhněte si podnikové aplikace</string>
+    <string name="ent_downloading_message">Stahování %d%%</string>
+    <string name="ent_error_dialog_content">Minimálně jeden ze zadaných kódů byl nesprávný. Zkontrolujte své podnikové a licenční kódy a zadejte je znovu.</string>
+    <string name="ent_get_code_hint">Podnikové a licenční kódy můžete získat od svého nadřízeného</string>
+    <string name="ent_install_dialog_content">Instalovat aplikace a restartovat zařízení nyní?</string>
+    <string name="ent_installing">Instalace…</string>
+    <string name="ent_invalid_agency">Kód společnosti je neplatný.</string>
+    <string name="ent_invalid_qr">Kód QR je neplatný.</string>
+    <string name="ent_licence_code">Licenční kód</string>
+    <string name="ent_licence_code_hint">Zadejte licenční kód</string>
+    <string name="ent_licence_code_invalid">Zadaný licenční kód je neplatný.</string>
+    <string name="ent_mode_activated">Je spuštěn Firemní režim</string>
+    <string name="ent_network_error">"Nelze se připojit k síti. Zkontrolujte nastavení sítě a zkuste to znovu."</string>
+    <string name="ent_next_step">Další</string>
+    <string name="ent_privacy_policy_notice">* Osobní údaje jsou v tomto režimu shromažďovány v souladu se zásadami stanovenými vaší společností. Xiaomi v tomto režimu neshromažďuje osobní údaje.</string>
     <string name="enter_air_space">Přepnout do pracovního prostoru</string>
+    <string name="enterprise_mode">Firemní režim</string>
     <string name="entrance_reopen_toast_msg">Zobrazuje se odkaz na Druhý profil z důvodu jiného hesla</string>
     <string name="err_copy_contacts">Nelze zkopírovat kontakty</string>
     <string name="err_copy_files">Nelze zkopírovat soubory</string>
@@ -471,6 +509,11 @@ Oddělte a zabezpečte svá data."</string>
     <string name="tuesday">Úterý</string>
     <string name="tuesday_short">Úte</string>
     <string name="tuesday_shortest">Ú</string>
+    <string name="undo_activated_dialog_message">"Odvolání souhlasu vypnete Firemní režim a provede obnovení továrních dat na vašem zařízení. Všechny související funkce již nebudou dostupné. Kromě toho společnost Xiaomi přestane shromažďovat informace požadované pro Firemní režim (IMEI, ID zařízení, verze systému, region atd.). Rádi bychom vám připomněli, že společnost Xiaomi nespravuje data, která shromažďuje pro Firemní režim. Uděláme, co bude v našich silách, abychom informovali všechny spřízněné strany, ale doporučujeme, abyste kontaktovali nadřízené vaší společnosti, aby schválili toto odvolání. Zrušit souhlas a provést obnovení továrních dat?"</string>
+    <string name="undo_activated_dialog_ok">Odvolat</string>
+    <string name="undo_grant_dialog_message">Společnost Xiaomi přestane shromažďovat informace požadované pro tuto funkci (IMEI, ID zařízení, verze systému, region atd.), jakmile odvoláte souhlas. Odvolat nyní?</string>
+    <string name="undo_privacy_menu">Odvolání souhlasu</string>
+    <string name="undo_success">Úspěšně odvoláno</string>
     <string name="use_google_open">Probudit použitím Google Asistenta</string>
     <string name="wating">Načítání...</string>
     <string name="wednesday">Středa</string>
@@ -507,6 +550,7 @@ si zaslouží vlastní aplikaci"</string>
     <string name="xspace_label">Klonované aplikace</string>
     <string name="xspace_loading_msg">Načítání apl...</string>
     <string name="xspace_notification">Upozornění klonovaných aplikací</string>
+    <string name="xspace_notification_button">Vyzkoušet</string>
     <string name="xspace_remove">Vymazat účty klonovaných aplikací</string>
     <string name="xspace_resolver_activity_title">Vybrat aplikaci</string>
     <string name="xspace_setting_label">Nastavení klonovaných aplikací</string>
@@ -518,48 +562,4 @@ si zaslouží vlastní aplikaci"</string>
     <string name="xspace_uninstalling">Odinstalace...</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="yesterday">Včera</string>
-    <string name="ent_activating">Probíhá spouštění…</string>
-      <string name="ent_activation">Spustit</string>
-      <string name="ent_activation_hint">Zadáním podnikového kódu spolu s licenčním kódem spustíte Firemní režim. Poté budou povoleny vlastní podnikové služby.</string>
-      <string name="ent_activation_hint_whit_licence">"Spusťte Firemní režim a povolte vlastní podnikové služby.
-Ujistěte se, že název vaší společnosti je správný. Před spuštěním si přečtěte související zásady ochrany osobních údajů a odsouhlaste je."</string>
-      <string name="ent_agency_code">Podnikový kód</string>
-      <string name="ent_agency_code_hint">Zadejte podnikový kód</string>
-      <string name="ent_agency_code_invalid">Zadaný podnikový kód je neplatný.</string>
-      <string name="ent_agree_privacy_policy">"Přečetl/a jsem si zásady ochrany osobních údajů a souhlasím s nimi"</string>
-      <string name="ent_app_verified">Zdá se, že ve vašem zařízení jsou nainstalovány podnikové aplikace. Spustit Firemní režim?</string>
-      <string name="ent_confirm_dialog_content">"Po spuštění Firemního režimu se nebudete moci vrátit do současného stavu systému. Všechna vaše data však budou stále uložena v tomto zařízení. Pro spuštění Firemního režimu budete muset restartovat zařízení. Spustit nyní?"</string>
-      <string name="ent_disallow_running">Spuštění aplikace je zakázáno</string>
-      <string name="ent_download_install_dialog_content">Abyste spustili Firemní režim, musíte nainstalovat podnikové aplikace. Instalovat nyní?</string>
-      <string name="ent_download_install_dialog_title">Stáhněte si podnikové aplikace</string>
-      <string name="ent_downloading_message">Stahování %d%%</string>
-      <string name="ent_error_dialog_content">Minimálně jeden ze zadaných kódů byl nesprávný. Zkontrolujte své podnikové a licenční kódy a zadejte je znovu.</string>
-      <string name="ent_get_code_hint">Podnikové a licenční kódy můžete získat od svého nadřízeného</string>
-      <string name="ent_install_dialog_content">Instalovat aplikace a restartovat zařízení nyní?</string>
-      <string name="ent_installing">Instalace…</string>
-      <string name="ent_invalid_agency">Kód společnosti je neplatný.</string>
-      <string name="ent_invalid_qr">Kód QR je neplatný.</string>
-      <string name="ent_licence_code">Licenční kód</string>
-      <string name="ent_licence_code_hint">Zadejte licenční kód</string>
-      <string name="ent_licence_code_invalid">Zadaný licenční kód je neplatný.</string>
-      <string name="ent_mode_activated">Je spuštěn Firemní režim</string>
-      <string name="ent_network_error">"Nelze se připojit k síti. Zkontrolujte nastavení sítě a zkuste to znovu."</string>
-      <string name="ent_next_step">Další</string>
-      <string name="ent_privacy_policy_notice">* Osobní údaje jsou v tomto režimu shromažďovány v souladu se zásadami stanovenými vaší společností. Xiaomi v tomto režimu neshromažďuje osobní údaje.</string>
-      <string name="enterprise_mode">Firemní režim</string>
-	  <string name="about_ent_mode">O Firemním režimu</string>
-	  <string name="activate_ent_mode">Spustit Firemní režim</string>
-	  <string name="cta_declaration_message_format" formatted="false">Před použitím Firemního režimu si musíte přečíst a souhlasit s &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font>. Aby bylo možné aktivovat Firemní režim, vaše zařízení se musí připojit k internetu. Souhlasíte?</string>
-	  <string name="undo_activated_dialog_message">"Odvolání souhlasu vypnete Firemní režim a provede obnovení továrních dat na vašem zařízení. Všechny související funkce již nebudou dostupné. Kromě toho společnost Xiaomi přestane shromažďovat informace požadované pro Firemní režim (IMEI, ID zařízení, verze systému, region atd.). Rádi bychom vám připomněli, že společnost Xiaomi nespravuje data, která shromažďuje pro Firemní režim. Uděláme, co bude v našich silách, abychom informovali všechny spřízněné strany, ale doporučujeme, abyste kontaktovali nadřízené vaší společnosti, aby schválili toto odvolání. Zrušit souhlas a provést obnovení továrních dat?"</string>
-	  <string name="undo_activated_dialog_ok">Odvolat</string>
-      <string name="undo_grant_dialog_message">Společnost Xiaomi přestane shromažďovat informace požadované pro tuto funkci (IMEI, ID zařízení, verze systému, region atd.), jakmile odvoláte souhlas. Odvolat nyní?</string>
-      <string name="undo_privacy_menu">Odvolání souhlasu</string>
-      <string name="undo_success">Úspěšně odvoláno</string>
-	  <string name="cta_declaration_agree_and_continue">Souhlasím</string>
-      <string name="cta_declaration_title">Smluvní podmínky</string>
-	  <string name="dialog_message_service_error">"Nepodařilo se odvolat souhlas a provést obnovení továrních dat. Zkuste to znovu."</string>
-      <string name="dialog_tip_need_network">Aby bylo možné odvolat souhlas, musí se vaše zařízení připojit k internetu.</string>
-      <string name="dialog_title_service_error">Chyba serveru</string>
-      <string name="dialog_undo_negative">"Neodvolávat"</string>
-	  <string name="xspace_notification_button">Vyzkoušet</string>
 </resources>

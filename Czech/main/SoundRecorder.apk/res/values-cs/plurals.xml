@@ -76,6 +76,10 @@
         <item quantity="other">Položek: %1$s</item>
         <item quantity="one">Položek: %1$s</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových oznámení</item>
+        <item quantity="one">%d nové oznámení</item>
+    </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Nedostatek úložiště (méně, než  %d minut)</item>
         <item quantity="one">Nedostatek úložiště (méně, než %d minuta)</item>
@@ -104,6 +108,14 @@
         <item quantity="other">Vyhledat mezi %d nahrávkami</item>
         <item quantity="one">Vyhledat mezi %d nahrávkou</item>
     </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d rádiových nahrávek</item>
+        <item quantity="one">%d rádiová nahrávka</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d zvukových nahrávek</item>
+        <item quantity="one">%d zvuková nahrávka</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">Nalezených: %d</item>
         <item quantity="one">Nalezena: %d</item>
@@ -128,16 +140,4 @@
         <item quantity="other">Nesynchr.: %d</item>
         <item quantity="one">Nesynchr.: %d</item>
     </plurals>
-	<plurals name="mtrl_badge_content_description">
-         <item quantity="other">%d nových oznámení</item>
-         <item quantity="one">%d nové oznámení</item>
-      </plurals>
-      <plurals name="search_fm_records_hint">
-         <item quantity="other">%d rádiových nahrávek</item>
-         <item quantity="one">%d rádiová nahrávka</item>
-      </plurals>
-      <plurals name="search_recorder_records_hint">
-         <item quantity="other">%d zvukových nahrávek</item>
-         <item quantity="one">%d zvuková nahrávka</item>
-      </plurals>
 </resources>             

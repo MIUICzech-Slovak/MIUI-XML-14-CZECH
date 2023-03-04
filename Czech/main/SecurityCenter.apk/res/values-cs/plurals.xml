@@ -33,6 +33,10 @@
         <item quantity="other">Přidané hry (%d)</item>
         <item quantity="one">Přidané hry (%d)</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d přidaných aplikací</item>
+        <item quantity="one">%d přidaná aplikace</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">Aplikací: %d</item>
         <item quantity="one">Aplikace: %d</item>
@@ -96,6 +100,10 @@
     <plurals name="app_behavior_privacy_manager_on">
         <item quantity="other">Budete upozorněni na citlivé akce vykonané %1$d apl.</item>
         <item quantity="one">Budete upozorněni na citlivé akce vykonané %1$d apl.</item>
+    </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Záznamy chování aplikace jsou v tomto zařízení uloženy %d dní. Pokud tuto funkci vypnete, nové záznamy se již nebudou zobrazovat a staré budou vymazány. Přesto vypnout?</item>
+        <item quantity="one">Záznamy chování aplikace jsou v tomto zařízení uloženy %d den. Pokud tuto funkci vypnete, nové záznamy se již nebudou zobrazovat a staré budou vymazány. Přesto vypnout?</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s spuštěné %2$d apl.</item>
@@ -240,6 +248,14 @@
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Dozadu %ds</item>
         <item quantity="one">Dozadu %ds</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Vyhledat mezi %d apl.</item>
@@ -647,6 +663,10 @@
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Baterie vašeho zařízení je vybitá. Přechod do režimu hibernace za %1$d sekund.</item>
+        <item quantity="one">Baterie vašeho zařízení je vybitá. Přechod do režimu hibernace za %1$d sekundu.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dní</item>
@@ -1056,24 +1076,4 @@ Dejte si pauzu!"</item>
         <item quantity="other">Viry: %d</item>
         <item quantity="one">Viry: %d</item>
     </plurals>
-	<plurals name="app_behavior_record_close_content_text">
-         <item quantity="other">Záznamy chování aplikace jsou v tomto zařízení uloženy %d dní. Pokud tuto funkci vypnete, nové záznamy se již nebudou zobrazovat a staré budou vymazány. Přesto vypnout?</item>
-         <item quantity="one">Záznamy chování aplikace jsou v tomto zařízení uloženy %d den. Pokud tuto funkci vypnete, nové záznamy se již nebudou zobrazovat a staré budou vymazány. Přesto vypnout?</item>
-    </plurals>
-	<plurals name="added_apps_count">
-         <item quantity="other">%d přidaných aplikací</item>
-         <item quantity="one">%d přidaná aplikace</item>
-	</plurals>
-	<plurals name="extreme_mode_runtime_hour">
-         <item quantity="other">%s h</item>
-         <item quantity="one">%s h</item>
-	</plurals>
-	<plurals name="extreme_mode_runtime_minute">
-         <item quantity="other">%s min</item>
-         <item quantity="one">%s min</item>
-	</plurals>
-	<plurals name="pc_extreme_mode_count_down_title">
-         <item quantity="other">Baterie vašeho zařízení je vybitá. Přechod do režimu hibernace za %1$d sekund.</item>
-         <item quantity="one">Baterie vašeho zařízení je vybitá. Přechod do režimu hibernace za %1$d sekundu.</item>
-	</plurals>
 </resources>             

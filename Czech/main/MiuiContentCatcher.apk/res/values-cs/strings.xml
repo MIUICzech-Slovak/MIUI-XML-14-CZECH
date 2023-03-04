@@ -19,6 +19,7 @@
     <string name="autofill_password_activity_label">Ověřovací kódy</string>
     <string name="autofill_service_label">Spravovat hesla</string>
     <string name="autofill_setting_activity_label">Spravovat hesla</string>
+    <string name="back_button_label">Zpět</string>
     <string name="cancel">Zrušit</string>
     <string name="change_passwork_dialog_content">Už máte uložené heslo pro tento účet. Chcete ho aktualizovat?</string>
     <string name="change_passwork_dialog_title">Aktualizovat heslo?</string>
@@ -34,5 +35,4 @@
     <string name="settings_clear_data_confirmation_description">"Když nyní vymažete heslo, budete ho muset při přihlašování vložit manuálně.</string>
     <string name="settings_clear_data_confirmation_title">Vymazání hesel</string>
     <string name="using_miui_autofill_message">Pro zadání hesel automaticky, MIUI uloží informace o účtu a heslo do zařízení.</string>
-	<string name="back_button_label">Zpět</string>
 </resources>

@@ -73,20 +73,20 @@
         <item quantity="other">Před %d minutami</item>
         <item quantity="one">Před minutou</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Zůstává %s minut času displeje</item>
+        <item quantity="one">Zůstává %s minuta času displeje</item>
+    </plurals>
     <plurals name="uninstall_game_count_title">
         <item quantity="other">Nepřidaných apl.: %d</item>
         <item quantity="one">Nepřidaných apl.: %d</item>
     </plurals>
-	<plurals name="power_battery_hour">
-         <item quantity="other">%s h</item>
-         <item quantity="one">%s h</item>
-     </plurals>
-     <plurals name="power_battery_minute">
-         <item quantity="other">%s min</item>
-         <item quantity="one">%s min</item>
-     </plurals>
-     <plurals name="power_main_battery_last_minute_screen_on">
-         <item quantity="other">Zůstává %s minut času displeje</item>
-         <item quantity="one">Zůstává %s minuta času displeje</item>
-     </plurals> 
 </resources>             

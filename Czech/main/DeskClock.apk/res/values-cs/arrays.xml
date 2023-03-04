@@ -19,6 +19,15 @@
         <item>Budík za %2$s %3$s</item>
         <item>Budík za %1$s %2$s %3$s</item>
     </string-array>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Budík za %1$s</item>
+        <item>Budík za %2$s</item>
+        <item>Budík za %1$s %2$s</item>
+        <item>Budík za %3$s</item>
+        <item>Budík za %1$s %3$s</item>
+        <item>Budík za %2$s %3$s</item>
+        <item>Budík za %1$s %2$s %3$s</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Jednou</item>
         <item>Každý den</item>
@@ -42,6 +51,15 @@
         <item>Budík se spustí za %1$s a %3$s</item>
         <item>Budík se spustí za %2$s a %3$s</item>
         <item>Budík se spustí za %1$s, %2$s, a %3$s</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>Budík se vypne za %1$s.</item>
+        <item>Budík se vypne za %2$s.</item>
+        <item>Budík se vypne za %1$s a %2$s.</item>
+        <item>Budík se vypne za %3$s.</item>
+        <item>Budík se vypne za %1$s a %3$s.</item>
+        <item>Budík se vypne za %2$s a %3$s.</item>
+        <item>Budík se vypne za %1$s %2$s a %3$s.</item>
     </string-array>
     <string-array name="auto_silence_entries">
         <item>Vypnuto</item>
@@ -130,22 +148,4 @@
         <item>Blíží se píšečná bouře!</item>
         <item>Přejeme příjemný den!</item>
     </string-array>
-	<string-array name="alarm_in_furture_new_array">
-        <item>Budík za %1$s</item>
-        <item>Budík za %2$s</item>
-        <item>Budík za %1$s %2$s</item>
-        <item>Budík za %3$s</item>
-        <item>Budík za %1$s %3$s</item>
-        <item>Budík za %2$s %3$s</item>
-        <item>Budík za %1$s %2$s %3$s</item>
-     </string-array>
-     <string-array name="alarm_set_new_array">
-        <item>Budík se vypne za %1$s.</item>
-        <item>Budík se vypne za %2$s.</item>
-        <item>Budík se vypne za %1$s a %2$s.</item>
-        <item>Budík se vypne za %3$s.</item>
-        <item>Budík se vypne za %1$s a %3$s.</item>
-        <item>Budík se vypne za %2$s a %3$s.</item>
-        <item>Budík se vypne za %1$s %2$s a %3$s.</item>
-     </string-array>
 </resources>

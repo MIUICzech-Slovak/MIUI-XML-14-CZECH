@@ -164,7 +164,7 @@ Odešlete tento kód zodpovězedné osobě."</string>
     <string name="doing_query_account">Kontrola informací o účtu…</string>
     <string name="doing_register">Vytváření účtu…</string>
     <string name="early_morning">Ráno</string>
-	<string name="empty" />
+    <string name="empty" />
     <string name="eras_ad">CE</string>
     <string name="eras_bc">p.n.l.</string>
     <string name="err_type">Typ chyby</string>

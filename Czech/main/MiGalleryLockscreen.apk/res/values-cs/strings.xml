@@ -73,6 +73,10 @@
     <string name="apply_to_above_all">Nastavte obě</string>
     <string name="apply_to_screenlock">Nastavit jako uzamčenou obrazovku</string>
     <string name="apply_to_wallpaper">Nastavit jako domovskou obrazovku</string>
+    <string name="apply_warning_content">Používáte Supertapetu. Pokud si tapetu změníte, použije se na ploše i na uzamčené obrazovce. Použít nyní?</string>
+    <string name="apply_warning_content_with_aod">Používáte Supertapetu. Pokud si tapetu změníte, použije se na ploše i na uzamčené obrazovce a Always On displej se může obnovit na výchozí hodnotu. Použít nyní?</string>
+    <string name="apply_warning_content_with_maml">Používáte motiv třetí strany. Pokud změníte tapetu, hodiny na uzamčené obrazovce se mohou obnovit na výchozí. Použít nyní?</string>
+    <string name="apply_warning_title">Použít tapetu</string>
     <string name="article_item_hot">Viz %s+ populárních článků</string>
     <string name="at_least_one">Vyberte alespoň jednu kategorii</string>
     <string name="auth_fail_warning">Platnost relace vypršela. Přihlaste se znova.</string>
@@ -233,6 +237,7 @@ Pošlete tento kód spravci."</string>
     <string name="disable_dlg_title">Vypnout Denní tapetu?</string>
     <string name="dislike">Vymazat</string>
     <string name="dlg_cancel">Zrušit</string>
+    <string name="dlg_ok">Použít</string>
     <string name="doing_login">Přihlašování…</string>
     <string name="doing_query_account">Kontrolují se informace o účtu…</string>
     <string name="doing_register">Vytváření účtu…</string>
@@ -245,6 +250,7 @@ Pošlete tento kód spravci."</string>
     <string name="error_dup_binded_email">Tato e-mailová adresa je již přiřazena k jinému Xiaomi účtu.</string>
     <string name="error_icon_content_description">Chyba</string>
     <string name="error_invalid_bind_address">Zadaná e-mailová adresa je neplatná.</string>
+    <string name="evening">Odpoledne</string>
     <string name="exceed_binded_phone_times_notice">Toto telefonní číslo je již přiřazeno k jinému Xiaomi účtu.</string>
     <string name="expand_button_title">Rozšířené</string>
     <string name="explorer_activity_title">Denní tapeta</string>
@@ -668,7 +674,7 @@ To může způsobit dodatečné poplatky."</string>
     <string name="pull_to_refresh_pull_up_label">Potažením nahoru obnovíte</string>
     <string name="pull_to_refresh_refreshing_label">Obnovuje se…</string>
     <string name="pull_to_refresh_release_label">Uvolněním obnovíte</string>
-	<string name="qq_application_id" />
+    <string name="qq_application_id" />
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="recommend_switch_desc">Dostávejte obsah podle vašich nastavení</string>
     <string name="recommend_switch_dlg_close">Vypnout</string>
@@ -963,10 +969,4 @@ To může způsobit dodatečné poplatky."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizace</string>
     <string name="xiaomi_market_sdk_update_dialog_title">K dispozici je aktualizace</string>
     <string name="yesterday">Včera</string>
-	<string name="apply_warning_content">Používáte Supertapetu. Pokud si tapetu změníte, použije se na ploše i na uzamčené obrazovce. Použít nyní?</string>
-    <string name="apply_warning_content_with_aod">Používáte Supertapetu. Pokud si tapetu změníte, použije se na ploše i na uzamčené obrazovce a Always On displej se může obnovit na výchozí hodnotu. Použít nyní?</string>
-    <string name="apply_warning_content_with_maml">Používáte motiv třetí strany. Pokud změníte tapetu, hodiny na uzamčené obrazovce se mohou obnovit na výchozí. Použít nyní?</string>
-    <string name="apply_warning_title">Použít tapetu</string>
-    <string name="dlg_ok">Použít</string>
-	<string name="evening">Odpoledne</string>
 </resources>

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="choose_ask_type">
+        <item>Zeptat se</item>
+        <item>Výchozí</item>
+        <item>Klonovaná</item>
+    </string-array>
     <string-array name="switch_apps_entries">
         <item>Použito v Primárním profilu</item>
         <item>Použito v Druhém profilu</item>
@@ -15,9 +20,4 @@
         <item>Data aplikací budou vymazána</item>
         <item>Upozornění</item>
     </string-array>
-	<string-array name="choose_ask_type">
-         <item>Zeptat se</item>
-         <item>Výchozí</item>
-         <item>Klonovaná</item>
-      </string-array>
 </resources>

@@ -6,6 +6,8 @@
     <string name="app_notification_info">Nahávání plochy je spuštěno na pozadí</string>
     <string name="app_notification_record_complete">"Nahrávka je uložená do Galerie
 Dotykem ji zobrazíte"</string>
+    <string name="app_notification_record_saved">"Nahrávka uložena
+klepnutím zobrazíte"</string>
     <string name="app_notification_title">Nahrávání plochy</string>
     <string name="auto_stop_title">Video uloženo</string>
     <string name="battery_not_allowed">Nelze nahrávat plochu, pokud je apacita baterie menší, než 3%%. Je nutné nabít baterii alespoň na 20%%.</string>
@@ -210,6 +212,4 @@ Dotykem ji zobrazíte"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	<string name="app_notification_record_saved">"Nahrávka uložena
-klepnutím zobrazíte"</string>
 </resources>
