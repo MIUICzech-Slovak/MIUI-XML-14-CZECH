@@ -403,4 +403,6 @@ Tato funkce není mimo Čínu doporučena"</string>
     <string name="xunlei_speed_service">Xunlei stahování</string>
     <string name="xunlei_switch">Xunlei stahování</string>
     <string name="yesterday">Včera</string>
+	<string name="download_description_content">"Stahování je systémová aplikace. Po jejím odstranění nebudete moci svá stažená data spravovat."</string>
+	<string name="download_description_title">Odebrat \"Stahování\" z plochy?</string>
 </resources>

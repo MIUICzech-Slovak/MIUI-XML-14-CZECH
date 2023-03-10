@@ -1381,4 +1381,8 @@ Klepněte na %s
  pro zahájení tohoto stahování, jakmile se příště připojíte k síti Wi-Fi."</string>
     <string name="wifi_required_title">Pro stažení tohoto souboru se připojte k síti Wi-Fi</string>
     <string name="yesterday">Včera</string>
+	<string name="app_description_content">"Hudba je systémová aplikace, která obsahuje přehrávač zvuku a umožňuje spravovat zvukové soubory. Zvukové soubory budete moci přehrávat i po odstranění zástupce na domovské obrazovce."</string>
+	<string name="app_description_title">Odebrat \"Hudbu\" z plochy?</string>
+	<string name="app_disable_description_content">Hudba je systémová aplikace. Pokud jej zakážete, může to ovlivnit vaše používání jiných aplikací. Přesto zakázat?</string>
+	<string name="app_disable_description_title">Zakázat systémovou aplikaci?</string>
 </resources>

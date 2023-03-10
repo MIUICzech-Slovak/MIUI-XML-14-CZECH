@@ -832,4 +832,7 @@ Velikost delta aktualizace: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aplikace %1$s aktualizována!</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
+	<string name="xiaomi_calculator_delete_description">"Kalkulačka je systémová aplikace. Po odinstalaci aplikace nebudete moci používat více převodníků a dalších funkcí."</string>
+      <string name="xiaomi_calculator_delete_title">Odinstalovat Kalkulačku?</string>
+      <string name="xiaomi_calculator_remove_icon_description">"Kalkulačka je systémová aplikace. Po odebrání zástupce z plochy nebudete moci používat více převodníků a dalších funkcí."</string>
 </resources>

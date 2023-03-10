@@ -3,4 +3,6 @@
     <string name="date_interval_end">Do</string>
     <string name="does_not_repeat">Jednorázová udalost</string>
     <string name="second_saturday_holiday">Každá druhá sobota je volno</string>
+	<string name="xiaomi_calendar_delete_description">Kalendář je systémová aplikace, která umožňuje vytvářet a spravovat události. Některé z jeho funkcí budou dostupné i po odstranění zástupce na domovské obrazovce.</string>
+	<string name="xiaomi_calendar_delete_title">Odebrat \"Kalendář\" z plochy?</string>
 </resources>

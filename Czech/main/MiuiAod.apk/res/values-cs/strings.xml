@@ -261,4 +261,5 @@ N e"</string>
     <string name="wednesday">Středa</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
+	<string name="temporary_style_5">Zobrazit 5 sekund</string>
 </resources>

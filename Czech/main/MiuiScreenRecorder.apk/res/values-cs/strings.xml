@@ -212,4 +212,6 @@ klepnutím zobrazíte"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="uninstall_warning_content">"Nahrávání plochy je systémová aplikace. Po odinstalaci nebudete moci nahrávat obrazovku."</string>
+	<string name="uninstall_warning_title">Odinstalovat Nanrávání plochy?</string>
 </resources>

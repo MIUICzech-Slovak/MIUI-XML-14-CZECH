@@ -685,4 +685,6 @@ http://www.miuios.cz/rom
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
     <string name="yesterday">Včera</string>
+	<string name="notes_description_content">"Poznámky jsou systémová aplikace. Po odinstalování ji nebudete moci používat."</string>
+	<string name="notes_description_title">Odinstalovat Poznámky?</string>
 </resources>

@@ -109,4 +109,6 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="app_description_content">"Mi Video je systémová aplikace, která obsahuje místní přehrávač videa. Po odstranění zástupce z domovské obrazovky budete stále moci přehrávat video soubory."</string>
+      <string name="app_description_title">Odebrat \"Mi Video\" z plochy?</string>
 </resources>
