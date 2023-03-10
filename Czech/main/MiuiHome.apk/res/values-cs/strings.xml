@@ -804,4 +804,9 @@ Vylepšené zabezpečení."</string>
     <string name="widget_quick_function">Zkratky</string>
     <string name="widgets_preview_title">Přidat widget</string>
     <string name="yesterday">Včera</string>
+	<string name="global_search">Vyhledávání</string>
+	<string name="home_gesture_notification_and_control_center">Panel Upozornění a Centrum ovládaní</string>
+	<string name="home_pull_down_know">Rozumím</string>
+	<string name="home_pull_up_content">Vyhledávání můžete otevřít přetažením prstem dolů na ploše.</string>
+	<string name="risk_app_report">Nahlásit tuto aplikaci</string>
 </resources>

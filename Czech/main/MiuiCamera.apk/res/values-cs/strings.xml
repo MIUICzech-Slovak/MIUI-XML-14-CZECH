@@ -2157,4 +2157,8 @@ Pomocí níže uvedených tlačítek můžete upravit text, zobrazit ukázku př
     <string name="widget_camera_lens_talk_back">Profesionální objektivy</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režimu</string>
+	<string name="download_hint_check_on_wifi">Jste připojen k Wi-Fi. Stáhnout tento %1$s MB soubor nyní?</string>
+	<string name="download_hint_check_on_wifi_cn">Jste připojen k Wi-Fi. Stáhnout tento %1$s MB soubor nyní?</string>
+	<string name="download_hint_check_on_wifi_remind">Už více nepřipomínat</string>
+	<string name="download_hint_check_on_wifi_remind_cn">Už více nepřipomínat</string>
 </resources>

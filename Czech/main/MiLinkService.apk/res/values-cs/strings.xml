@@ -802,4 +802,16 @@ ujistěte se, že balíček obsahuje nejnovější verze všech aplikací."</str
     <string name="wifi_scan_btn_text">Skenovat znovu</string>
     <string name="wifi_username_et_hint">ID účtu</string>
     <string name="yesterday">Včera</string>
+	<string name="appcirculate_toast_connected">Přenášení bylo zahájeno</string>
+      <string name="circulate_controlphone_button_hint">Zobrazit obrazovku</string>
+      <string name="circulate_controlphone_title">Spravovat zařízení</string>
+      <string name="device_type_name_pad">Tablet</string>
+      <string name="find_device_notification_content_phone">%1$s hledá toto zařízení pomocí %2$s. Chcete-li zastavit přehrávání zvuku, odemkněte.</string>
+      <string name="find_device_notification_content_single_phone">Někdo hledá toto zařízení pomocí %1$s. Chcete-li zastavit přehrávání zvuku, odemkněte.</string>
+      <string name="find_device_notification_content_single_tablet">Někdo hledá toto zařízení pomocí %1$s. Chcete-li zastavit přehrávání zvuku, odemkněte.</string>
+      <string name="find_device_notification_content_tablet">%1$s hledá toto zařízení pomocí %2$s. Chcete-li zastavit přehrávání zvuku, odemkněte.</string>
+      <string name="find_device_popup_content_phone">%1$s hledá toto zařízení pomocí %2$s.</string>
+      <string name="find_device_popup_content_single_phone">Někdo hledá toto zařízení pomocí %1$s.</string>
+      <string name="find_device_popup_content_single_tablet">Někdo hledá toto zařízení pomocí %1$s.</string>
+      <string name="find_device_popup_content_tablet">%1$s hledá toto zařízení pomocí %2$s.</string>
 </resources>

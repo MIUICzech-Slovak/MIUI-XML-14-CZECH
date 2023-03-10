@@ -8053,4 +8053,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="zone_auto_title">Časové pásmo podle sítě</string>
     <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
     <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+	<string name="show_alarm_icon_title">Zobrazit ikonu budíku</string>
+	<string name="show_bt_icon_title">Zobrazit ikonu Bluetooth</string>
+	<string name="show_mute_icon_title">Zobrazit ikonu režimu Nerušit</string>
+	<string name="show_nfc_icon_title">Zobrazit ikonu NFC</string>
 </resources>

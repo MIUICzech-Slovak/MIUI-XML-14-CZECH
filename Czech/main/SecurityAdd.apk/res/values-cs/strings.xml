@@ -324,4 +324,18 @@
     <string name="wlan_change_protection_detail">Nepřepínat automaticky na Wi-Fi po připojení na mobilní data</string>
     <string name="wlan_change_protection_title">Zamezit změně sítě</string>
     <string name="yesterday">Včera</string>
+	<string name="network_error">Došlo k chybě sítě.</string>
+	<string name="page_load_failed">„Stránku nelze otevřít“</string>
+	<string name="pc_entered_extreme_mode">Režim hibernace je zapnutý</string>
+	<string name="pc_entered_extreme_mode_summary">"Vaše zařízení je vybité a přešlo do režimu hibernace. Aplikace budou běžet na pozadí a nebudou odesílat upozornění."</string>
+	<string name="pc_extreme_exit_and_power_off">Ukončit</string>
+	<string name="pc_extreme_mode_bg_toast">"V režimu hibernace budou aplikace běžet na pozadí a nebudou odesílat upozornění"</string>
+	<string name="pc_extreme_mode_exit_risk_title">Pozor</string>
+	<string name="pc_extreme_mode_exit_risk_title_summary">Vaše zařízení je vybité. Pokud ukončíte režim hibernace, vaše zařízení se vypne.</string>
+	<string name="pc_extreme_mode_find_charger">Nabijte své zařízení co nejdříve.</string>
+	<string name="pc_extreme_mode_runtime">Pro %1$s %2$s byl zapnut režim hibernace.</string>
+	<string name="pc_extreme_mode_title">Režim hibernace</string>
+	<string name="pc_going_to_exit_extreme_mode">Ukončení režimu hibernace</string>
+	<string name="pc_going_to_exit_extreme_mode_summary">Vaše zařízení se nabíjí. Režim hibernace je vypnutý.</string>
+	<string name="retry_action">Zkuste to znovu</string>
 </resources>
