@@ -2984,4 +2984,6 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
     <string name="zman_title">Bezpečné sdílení</string>
 	<string name="gallery_uninstall_description_content">"Galerie je systémová aplikace, která umožňuje prohlížet, spravovat a synchronizovat fotky a videa na všech připojených zařízeních. Pokud Galerii odinstalujete, ztratíte položky, které jste označili jako soukromé, a další související funkce k prohlížení a výběru položek galerie již také nebudete mít k dispozici. Přesto odinstalovat?"</string>
 	<string name="gallery_uninstall_description_title">Odinstalovat Galerii?</string>
+	<string name="media_type_hd">Vysoké rozlišení</string>
+	<string name="menu_album_new_share_album">Nové sdílené album</string>
 </resources>

@@ -365,10 +365,10 @@
         <item>neznámý</item>
     </string-array>
     <string-array name="season">
-        <item>Jaro</item>
-        <item>Léto</item>
-        <item>Podzim</item>
-        <item>Zima</item>
+        <item>" Jaro"</item>
+        <item>" Léto"</item>
+        <item>" Podzim"</item>
+        <item>" Zima"</item>
     </string-array>
     <string-array name="season_last_year">
         <item>Minulé Jaro</item>
