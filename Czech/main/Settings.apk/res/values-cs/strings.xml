@@ -8057,4 +8057,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 	<string name="show_bt_icon_title">Zobrazit ikonu Bluetooth</string>
 	<string name="show_mute_icon_title">Zobrazit ikonu režimu Nerušit</string>
 	<string name="show_nfc_icon_title">Zobrazit ikonu NFC</string>
+	<string name="status_bar_icons_title">Ikony ve stavovém řádku</string>
 </resources>
