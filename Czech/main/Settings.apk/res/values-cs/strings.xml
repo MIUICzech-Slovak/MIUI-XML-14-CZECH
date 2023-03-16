@@ -5353,7 +5353,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string formatted="false" name="resolution_fhd_summary">%d×%d (šetří baterii)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
     <string formatted="false" name="resolution_qhd_summary">%d×%d (zvyšuje kvalitu)</string>
-    <string name="resolution_sub_title">MIUI může při přepínaní rozlíišeniaí zavřít aplikace spuštěné na pozadí</string>
+    <string name="resolution_sub_title">MIUI může při přepínaní rozlišení zavřít aplikace spuštěné na pozadí</string>
     <string name="resolver_settings_label">Seřadit</string>
     <string name="resource_ringtone_volume_mute">Zvonění je ztišeno</string>
     <string name="restore_default_apn">Obnovování výchozích nastavení názvu přístupového bodu (APN)</string>
@@ -8058,4 +8058,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 	<string name="show_mute_icon_title">Zobrazit ikonu režimu Nerušit</string>
 	<string name="show_nfc_icon_title">Zobrazit ikonu NFC</string>
 	<string name="status_bar_icons_title">Ikony ve stavovém řádku</string>
+	<string name="subscreen_title">Zadní displej</string>
 </resources>
