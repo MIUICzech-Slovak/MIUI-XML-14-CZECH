@@ -391,4 +391,7 @@
     <string name="wireless_transmission_definition">Přenášet zvuk z mikrofónu do externího Bluetooth zařízení</string>
     <string name="wireless_transmission_prompt">Pro přenos zvuku musíte povolit Bluetooth. Chcete ho zapnouť?</string>
     <string name="yesterday">Včera</string>
+	<string name="permission_go_to_settings">Nastavení</string>
+     <string name="permission_requesr_content">Povolte této aplikaci připojit se k zařízením v okolí.</string>
+     <string name="permission_requesr_title">Jsou vyžadována povolení</string>
 </resources>

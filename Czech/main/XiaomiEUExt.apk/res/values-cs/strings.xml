@@ -20,4 +20,5 @@
     <string name="select_apps">Vyberte aplikace</string>
     <string name="wifi_region">Wi-Fi region</string>
 	<string name="status_bar_icons">Ikony ve stavovém řádku</string>
+	<string name="no_icons">Žádné ikony</string>
 </resources>

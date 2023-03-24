@@ -262,4 +262,16 @@ N e"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
 	<string name="temporary_style_5">Zobrazit 5 sekund</string>
+	<string name="bold_font">Tučné písmo</string>
+      <string name="material_hour_24h_suffix">%1$s hodin</string>
+      <string name="miuix_appcompat_edit">Upravit</string>
+      <string name="mtrl_picker_announce_current_range_selection">Výběr data začátku: %1$s – Výběr data ukončení: %2$s</string>
+      <string name="mtrl_picker_announce_current_selection_none">žádné</string>
+      <string name="mtrl_picker_end_date_description">Datum ukončení %1$s</string>
+      <string name="mtrl_picker_navigate_to_current_year_description">Přejít na aktuální rok %1$d</string>
+      <string name="mtrl_picker_start_date_description">Datum začátku %1$s</string>
+      <string name="mtrl_picker_today_description">Dnes %1$s</string>
+      <string name="searchview_clear_text_content_description">Vymazat text</string>
+      <string name="searchview_navigation_content_description">Zpět</string>
+      <string name="side_sheet_accessibility_pane_title">Boční list</string>
 </resources>

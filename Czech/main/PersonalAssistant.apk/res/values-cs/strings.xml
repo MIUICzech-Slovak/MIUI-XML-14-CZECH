@@ -1258,4 +1258,11 @@ pro zobrazení widgetů."</string>
 	<string name="pa_setting_personalized_recommenddation_swicth_summary">Získejte doporučení widgetů na základě vašich zájmů</string>
 	<string name="pa_setting_personalized_recommenddation_swicth_title">Přizpůsobená doporučení</string>
 	<string name="pa_sports_jump_error">Stránku se nepodařilo otevřít kvůli chybě.</string>
+	<string name="pa_picker_detail_bt_loading">Načítání...</string>
+      <string name="pa_picker_detail_state_error_retry">Vyskytl se problém. Zkuste to znovu.</string>
+      <string name="pa_picker_detail_suit_price_already_bought">Zakoupeno</string>
+      <string name="pa_picker_detail_suit_price_placeholder">5 Mi Coin</string>
+      <string name="pa_picker_detail_theme_app_need_login">Přihlásit se</string>
+      <string name="pa_picker_detail_theme_app_need_login_pre">Nejprve se přihlaste do svého účtu Xiaomi.</string>
+      <string name="pa_widget_advert_loading_dialog_message">Načítání...</string>
 </resources>

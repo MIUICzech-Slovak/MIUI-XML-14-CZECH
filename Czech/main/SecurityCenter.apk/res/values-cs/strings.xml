@@ -5932,4 +5932,6 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="xspace_warning_dialog_title">Upozornění</string>
     <string name="xunyou_server_expired">Relace vypršela</string>
     <string name="yesterday">Včera</string>
+	<string name="pc_close_notifi_action">Vypnout</string>
+     <string name="vb_video_effects_dolby_tips">Rozšířené dialogy a rozšířené stereo nebudou fungovat, když je zapnutý pohlcující zvuk</string>
 </resources>

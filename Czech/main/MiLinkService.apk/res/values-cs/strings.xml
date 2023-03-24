@@ -814,4 +814,5 @@ ujistěte se, že balíček obsahuje nejnovější verze všech aplikací."</str
       <string name="find_device_popup_content_single_phone">Někdo hledá toto zařízení pomocí %1$s.</string>
       <string name="find_device_popup_content_single_tablet">Někdo hledá toto zařízení pomocí %1$s.</string>
       <string name="find_device_popup_content_tablet">%1$s hledá toto zařízení pomocí %2$s.</string>
+	  <string name="toast_nfc_same_wifi">Připojte TV i toto zařízení ke stejné síti</string>
 </resources>
