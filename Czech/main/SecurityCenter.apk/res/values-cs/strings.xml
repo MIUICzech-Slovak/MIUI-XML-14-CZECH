@@ -5932,6 +5932,21 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="xspace_warning_dialog_title">Upozornění</string>
     <string name="xunyou_server_expired">Relace vypršela</string>
     <string name="yesterday">Včera</string>
-	<string name="pc_close_notifi_action">Vypnout</string>
-     <string name="vb_video_effects_dolby_tips">Rozšířené dialogy a rozšířené stereo nebudou fungovat, když je zapnutý pohlcující zvuk</string>
+    <string name="pc_close_notifi_action">Vypnout</string>
+    <string name="vb_video_effects_dolby_tips">Rozšířené dialogy a rozšířené stereo nebudou fungovat, když je zapnutý pohlcující zvuk</string>
+    <string name="terminal_privacy_ability">Funkce a mechanismy</string>
+    <string name="terminal_privacy_ability_img">Zpracování obrázků</string>
+    <string name="terminal_privacy_ability_img_summary">Chytré úpravy a rozpoznávání fotek a videí ve Fotoaparátu, Galerii a Taplusu</string>
+    <string name="terminal_privacy_ability_model">Rozpoznání interakce zařízení s prostředím</string>
+    <string name="terminal_privacy_ability_model_summary">Počítadlo kroků, chytrá gesta, kapesní režim a automatický jas</string>
+    <string name="terminal_privacy_ability_others">Další mechanismy</string>
+    <string name="terminal_privacy_ability_others_summary">Sdílení obrazovky, testovací platební prostředí, otisk prstu a rozpoznávání obličeje</string>
+    <string name="terminal_privacy_ability_suggest">Doporučení</string>
+    <string name="terminal_privacy_ability_suggest_summary">Doporučení a návrhy ze složek na ploše, postranního panelu a Mi Wallet</string>
+    <string name="terminal_privacy_ability_summary">*Funkce a mechanismy ochrany soukromí v zařízení se mohou lišit v závislosti na modelu zařízení</string>
+    <string name="terminal_privacy_ability_txt">Text</string>
+    <string name="terminal_privacy_ability_txt_summary">Úpravy textu, chytré titulky, Taplus, zprávy a sdílená schránka</string>
+    <string name="terminal_privacy_ability_voice">Rozpoznávání řeči</string>
+    <string name="terminal_privacy_ability_voice_summary">Hlasové příkazy a chytré titulky</string>
+    <string name="terminal_privacy_instruction">Ochrana soukromí v zařízení zahrnuje funkce, které zajistí, že vaše osobní údaje budou uloženy v tomto zařízení a nebudou nahrány do cloudu</string>
 </resources>
