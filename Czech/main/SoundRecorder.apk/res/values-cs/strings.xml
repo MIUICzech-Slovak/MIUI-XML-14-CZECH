@@ -414,4 +414,8 @@ Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
     <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
     <string name="yesterday">Včera</string>
+	<string name="invisible_mode_dialog_message">V režimu inkognito nelze použít mikrofon. Nejprve vypněte režim inkognito.</string>
+	<string name="invisible_mode_dialog_negative">Zrušit</string>
+	<string name="invisible_mode_dialog_positive">Vypnout</string>
+	<string name="invisible_mode_dialog_title">Jste inkognito</string>
 </resources>

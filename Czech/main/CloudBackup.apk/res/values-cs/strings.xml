@@ -500,4 +500,20 @@ Pošlete tento kód technikovi."</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="backup_failed_reason_get_installed_apps_denied">Pro zálohování položek udělte v Nastavení požadovaná povolení</string>
+	<string name="dialog_button_get_installed_apps_agree">Nastavení</string>
+	<string name="dialog_button_get_installed_apps_disagree">Zrušit</string>
+	<string name="dialog_get_installed_apps_consent_message">Chcete-li mít možnost zálohovat automaticky, udělte této aplikaci v Nastavení povolení k přístupu k seznamu aplikací nainstalovaných ve vašem zařízení a vyberte možnost Vždy povolit.</string>
+	<string name="dialog_get_installed_apps_consent_title">Jsou vyžadována povolení</string>
+	<string name="manual_request_notification_permission_dialog_negative_button">Zavřít</string>
+	<string name="manual_request_notification_permission_dialog_positive_button">Nastavení</string>
+	<string name="manual_request_permissions_dialog_description">"Pokud pro \"%s\" neudělíte povolení, nebudete dostávat včasná upozornění na neúspěšné zálohování a jiné důležité akce. Toto povolení můžete udělit v Nastavení."</string>
+	<string name="manual_request_permissions_dialog_title">Jsou vyžadována povolení</string>
+	<string name="request_notification_permission_dialog_confirm">Rozumím</string>
+	<string name="request_permission_post_notification">Pro odesílání upozornění o zálohování v cloudu</string>
+	<string name="request_permission_post_notification_title">Upozornění</string>
+	<string name="request_permissions_dialog_description">Udělte oprávnění k odesílání upozornění a připomínek, abyste mohli využívat všech služeb, které cloudové zálohování nabízí.</string>
+	<string name="request_permissions_dialog_title">Jsou vyžadována povolení</string>
+	<string name="session_failed_get_installed_apps_denied_detail">Chcete-li mít možnost zálohovat automaticky, udělte této aplikaci v Nastavení povolení k přístupu k seznamu aplikací nainstalovaných ve vašem zařízení a vyberte možnost Vždy povolit.</string>
+	<string name="session_failed_get_installed_apps_denied_title">Jsou vyžadována povolení</string>
 </resources>
