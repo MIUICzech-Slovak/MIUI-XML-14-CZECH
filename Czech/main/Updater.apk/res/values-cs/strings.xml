@@ -80,4 +80,6 @@ Vaše data budou zachována."</string>
     <string name="version">Nainstalovaná verze</string>
     <string name="weekly">Týdenní</string>
     <string name="wifi_recommended">Připojte se k Wi-fi sítí pro stažení aktualizace!</string>
+	<string name="fastboot_desc">Zařízení se restartuje do Fastboot režimu. Pokračovat?</string>
+	<string name="menu_title_fastboot">Restartovat do Fastboot režimu</string>
 </resources>

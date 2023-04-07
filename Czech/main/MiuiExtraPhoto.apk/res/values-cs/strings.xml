@@ -167,4 +167,7 @@
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="operation_original">Porovnat</string>
+	<string name="operation_redo">Znovu</string>
+	<string name="operation_undo">Zpět</string>
 </resources>

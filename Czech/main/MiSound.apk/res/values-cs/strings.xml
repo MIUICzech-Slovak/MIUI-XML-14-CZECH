@@ -392,6 +392,14 @@
     <string name="wireless_transmission_prompt">Pro přenos zvuku musíte povolit Bluetooth. Chcete ho zapnouť?</string>
     <string name="yesterday">Včera</string>
 	<string name="permission_go_to_settings">Nastavení</string>
-     <string name="permission_requesr_content">Povolte této aplikaci připojit se k zařízením v okolí.</string>
-     <string name="permission_requesr_title">Jsou vyžadována povolení</string>
+    <string name="permission_requesr_content">Povolte této aplikaci připojit se k zařízením v okolí.</string>
+    <string name="permission_requesr_title">Jsou vyžadována povolení</string>
+    <string name="effect_3dsurround">Pohlcující zvuk</string>
+    <string name="effect_3dsurround_summary">Vylepšení hloubky reprodukce zvuku pro sluchátka a reproduktory</string>
+    <string name="effect_3dsurround_summary_headphone">Vylepšení hloubky reprodukce zvuku pro sluchátka</string>
+    <string name="effect_dolby">Dolby</string>
+    <string name="effect_misound">MiSound</string>
+    <string name="effect_none">Žádné</string>
+    <string name="effect_selection">Zvukové efekty</string>
+    <string name="spatial_audio_summary_spk">Zažijte ponoření a pocit prostoru při přehrávání zvuku</string>
 </resources>
