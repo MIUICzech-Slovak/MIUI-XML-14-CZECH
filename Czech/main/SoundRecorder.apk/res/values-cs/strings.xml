@@ -220,7 +220,7 @@ Klepněte na \"%1$s\" následně vyberte \"%2$s\"."</string>
     <string name="permission_storage_description">Pro správu nahrávek a jejich stahování z cloudu</string>
     <string name="permission_storage_description_for_download">Pro stahování nahrávek z cloudu</string>
     <string name="permission_storage_description_for_manage_files">Pro správu nahrávek</string>
-    <string name="play_speed">%1$.1fX rychlost</string>
+    <string name="play_speed">Rychlost</string>
     <string name="playback_delete_records">Vymazat nahrávku</string>
     <string name="playback_share_records">Sdílet nahrávku</string>
     <string name="preference_clear_data">Vymazání dat</string>
