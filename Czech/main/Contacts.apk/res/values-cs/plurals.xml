@@ -232,4 +232,8 @@
         <item quantity="other">Lidí: %1$d</item>
         <item quantity="one">Lidí: %1$d</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+         <item quantity="other">"SMS nemůže mít více než %d příjemců."</item>
+         <item quantity="one">"SMS nemůže mít více než %d příjemce."</item>
+    </plurals>
 </resources>             
