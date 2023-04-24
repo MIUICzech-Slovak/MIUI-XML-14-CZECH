@@ -1399,4 +1399,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
     <string name="wifi_check_message">Používat pro stahování aktualizací mobilní data?</string>
     <string name="wifi_check_tip">Více nezobrazovat</string>
     <string name="yesterday">Včera</string>
+	<string name="add_home_icon_success">Úspešně přidáno</string>
+	<string name="miuix_appcompat_edit">Upravit</string>
+	<string name="resource_search_hot_tag">Populární</string>
 </resources>

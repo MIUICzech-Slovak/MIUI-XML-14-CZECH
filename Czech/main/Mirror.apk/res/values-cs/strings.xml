@@ -418,4 +418,10 @@ pokračovat"</string>
     <string name="worker_try_join_pc_when_pad_adv_connected">Toto zařízení je nyní připojeno k jinému zařízení. Počkejte minutu nebo dvě a zkuste to znovu.</string>
     <string name="worker_try_join_pc_when_pad_adv_connected_title">"Nelze se připojit k MIUI+"</string>
     <string name="yesterday">Včera</string>
+	<string name="pad_pc_share_introduction_summary">"Používejte s tímto tabletem myš a klávesnici počítače"</string>
+	<string name="pad_pc_share_introduction_title">Vstupní zařízení</string>
+	<string name="pc_settings_current_device_tip">Automaticky se připojit k počítači s otevřeným MIUI+ a přihlášeným ke stejnému účtu Xiaomi</string>
+	<string name="privacy_describe_change_wifi_state_china">Pro připojení zařízení a přenos souborů pomocí Wi-Fi</string>
+	<string name="settings_pc_handoff_title">Připojit k počítači</string>
+	<string name="share_pc_abort_dialog_message_china">Ujistěte se, že jsou na obou zařízeních zapnuty Bluetooth a Wi-Fi a spusťte relaci znovu na počítači.</string>
 </resources>

@@ -5949,4 +5949,31 @@ Zkuste zvětšit rozlišení!"</string>
     <string name="terminal_privacy_ability_voice">Rozpoznávání řeči</string>
     <string name="terminal_privacy_ability_voice_summary">Hlasové příkazy a chytré titulky</string>
     <string name="terminal_privacy_instruction">Ochrana soukromí v zařízení zahrnuje funkce, které zajistí, že vaše osobní údaje budou uloženy v tomto zařízení a nebudou nahrány do cloudu</string>
+	<string name="app_manager_as_dlg_msg_new">"Povolení automatického spuštění aplikace může zvýšit množství paměti a výdrž baterie, kterou využívá. MIUI optimalizuje povolení automatického spuštění aplikací, které často nepoužíváte, aby se zlepšil výkon vašeho zařízení."</string >
+	<string name="auto_start_tips">"MIUI optimalizuje povolení automatického spuštění aplikací, které často nepoužíváte, aby se zlepšil výkon zařízení."</string>
+	<string name="dialog_btn_yes_install_icon">Instalovat</string>
+	<string name="dialog_msg_install_manager_content">Chcete znovu nainstalovat zabezpečení?</string>
+	<string name="gb_vision_enhance">Vylepšený vizuál</string>
+	<string name="gb_vision_enhance_desc">Zlepšení kvality obrazu a výkonu</string>
+	<string name="gb_vision_enhance_smart_frame_insertion">Inteligentní snímková frekvence</string>
+	<string name="gb_vision_enhance_smart_frame_insertion_desc">Automaticky upravte snímkovou frekvenci, aby byl pohyb plynulejší</string>
+	<string name="gb_vision_enhance_super_resolution">Super rozlišení</string>
+	<string name="gb_vision_enhance_super_resolution_desc">Zvyšte rozlišení pro zobrazení jemnějších detailů</string>
+	<string name="opt_antivirus_scan_antivirus_notification_summary">Používání škodlivých aplikací představuje bezpečnostní rizika</string>
+	<string name="opt_antivirus_scan_single_antivirus_notification_title">%s může být škodlivá aplikace</string>
+	<string name="pc_no_more_remind">Nepřipomínat</string>
+	<string name="pc_wireless_charge_adjust_position_summary">Položte jej na bezdrátovou nabíječku</string>
+	<string name="pc_wireless_charge_adjust_position_title">Nabíjejte své zařízení rychleji</string>
+	<string name="support_app_name_securitycenter">Nástroje zabezpečení</string>
+	<string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Tento efekt se použije pouze na oblast přehrávání videa.
+
+Tato funkce nefunguje s vylepšenými videi.
+
+Zapnutím jednoho se vypne druhý.“</string>
+	<string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Tento efekt se použije na celou obrazovku.
+
+Tato funkce nefunguje s vylepšenými videi.
+
+Zapnutím jednoho se vypne druhý.“</string>
+	<string name="vb_video_effects_immersion_sound_summary_new">Zažijte ponoření a pocit prostoru při přehrávání podporovaného zvuku</string>
 </resources>
