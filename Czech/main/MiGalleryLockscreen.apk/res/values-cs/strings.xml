@@ -1031,7 +1031,7 @@ To může způsobit dodatečné poplatky."</string>
       <string name="passport_request_error_invalid_token">Nepodařilo se ověřit</string>
       <string name="passport_request_error_network">Vyskytla se chyba sítě. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
       <string name="passport_request_error_unknown">Došlo k systémové chybě. Vraťte se a zkuste to znovu.</string>
-      <string name="passport_request_gallery_permission_message">Povolit přístup do Galerie:&lt;br />Pro nastavení profilových fotografií</string>
+      <string name="passport_request_gallery_permission_message">Povolit přístup do Galerie:&lt;br>Pro nastavení profilových fotografií</string>
       <string name="passport_resend_email_reach_limit_message">Požádali jste o příliš mnoho ověřovacích e-mailů. Ujistěte se, že ověřovací e-mail není ve vaší doručené poště ve složce Spam.</string>
       <string name="passport_resend_email_reach_limit_title">Příliš mnoho pokusů</string>
       <string name="passport_same_new_and_old_pwd">Nemůže být stejné jako aktuální heslo</string>
@@ -1042,8 +1042,8 @@ To může způsobit dodatečné poplatky."</string>
       <string name="passport_system_error">Systém je zaneprázdněn. Počkejte minutu nebo dvě a zkuste to znovu.</string>
       <string name="passport_unknown_error">Neznámá chyba</string>
       <string name="passport_unknown_host_network_error">Zkontrolujte nastavení sítě a zkuste to znovu</string>
-      <string name="passport_user_agreement_hint_3rd_app"><Data>"Přečetl/la jsem si &lt;a href=%1$s>Smlouvu s uživatelem&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/a > souhlasím s nimi a &lt;a href=%3$s>Uživatelská smlouva&lt;/a> a &lt;a href=%4$s>Zásady ochrany osobních údajů&lt;/a> účtu Xiaomi."</Data></ string>
-      <string name="passport_user_agreement_hint_default"><Data>"Přečetl/la jsem si a souhlasím s Xiaomi &lt;a href=%1$s>Podmínkami používání&lt;/a> a &lt;a href=%2$s>Ochranou soukromí&lt;/ a>."</Data></string>
+      <string name="passport_user_agreement_hint_3rd_app"><Data>"Přečetl/la jsem si &lt;a href=%1$s>Smlouvu s uživatelem&lt;/a> a &lt;a href=%2$s>Zásady ochrany osobních údajů&lt;/a> souhlasím s nimi a &lt;a href=%3$s>Uživatelská smlouva&lt;/a> a &lt;a href=%4$s>Zásady ochrany osobních údajů&lt;/a> účtu Xiaomi."</Data></string>
+      <string name="passport_user_agreement_hint_default"><Data>"Přečetl/la jsem si a souhlasím s Xiaomi &lt;a href=%1$s>Podmínkami používání&lt;/a> a &lt;a href=%2$s>Ochranou soukromí&lt;/a>."</Data></string>
       <string name="passport_user_agreement_hint_first_login">„Pokud používáte své telefonní číslo poprvé, účet vám vytvoříme automaticky.“</string>
       <string name="passport_user_avatar_update_title">Změnit profilovou fotku</string>
       <string name="passport_user_avatar_uploading">Jen chvilku…</string>
