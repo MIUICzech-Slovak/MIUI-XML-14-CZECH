@@ -1026,7 +1026,7 @@ To může způsobit dodatečné poplatky."</string>
       <string name="passport_register_by_local_phone_long_text">Vytvořit účet</string>
       <string name="passport_register_by_local_phone_short_text">Vytvořit účet</string>
       <string name="passport_request_agree">Povolit</string>
-      <string name="passport_request_camera_permission_message">"Vaše osobní údaje budeme chráníť v souladu s příslušnými zákony a nařízeními. Tato aplikace potřebuje k normálnímu fungování následující povolení:&lt;<br>&lt;<br>&lt;b>Používání fotoaparátu (např. nastavení vaší profilové fotografie)&lt;/b>&lt;br>&lt;<br>Pokud nesouhlasíte s udělením takových povolení, nebudete moci používat některé funkce této aplikace; její základní funkce vám však budou stále k dispozici. Povolení můžete kdykoli omezit nebo odvolat svou autorizaci v Nastavení.“</string>
+      <string name="passport_request_camera_permission_message">"Vaše osobní údaje budeme chráníť v souladu s příslušnými zákony a nařízeními. Tato aplikace potřebuje k normálnímu fungování následující povolení:&lt;br>&lt;br>&lt;b>Používání fotoaparátu (např. nastavení vaší profilové fotografie)&lt;/b>&lt;br>&lt;br>Pokud nesouhlasíte s udělením takových povolení, nebudete moci používat některé funkce této aplikace; její základní funkce vám však budou stále k dispozici. Povolení můžete kdykoli omezit nebo odvolat svou autorizaci v Nastavení.“</string>
       <string name="passport_request_cancel">Zrušit</string>
       <string name="passport_request_error_invalid_token">Nepodařilo se ověřit</string>
       <string name="passport_request_error_network">Vyskytla se chyba sítě. Zkontrolujte nastavení sítě a zkuste to znovu.</string>
