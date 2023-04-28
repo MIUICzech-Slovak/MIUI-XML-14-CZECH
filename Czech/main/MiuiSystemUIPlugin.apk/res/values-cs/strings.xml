@@ -399,4 +399,5 @@
     <string name="wireless_charging_tips_sub_message">Druhé zařízení musí podporovat Qi bezdrátové nabíjení.</string>
     <string name="wireless_charging_tips_title">Reverzní bezdrátové nabíjení</string>
     <string name="yesterday">Včera</string>
+	<string name="emergency_call">Tísňové volaní</string>
 </resources>
