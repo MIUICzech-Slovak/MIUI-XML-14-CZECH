@@ -2029,4 +2029,6 @@ Pokud se rozhodnete upřednostňovat mobilní síť, bude se pro telefonování 
     <string name="xdivert_summary">Nastavení CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
+	<string name="intelligent_dual_sim_summary">Pro zvýšení rychlosti připojení se použijí mobilní data druhé SIM karty</string>
+	<string name="intelligent_dual_sim_title">Inteligentní duální SIM</string>
 </resources>

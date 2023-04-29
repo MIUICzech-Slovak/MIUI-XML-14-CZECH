@@ -2736,4 +2736,15 @@ Jakýkoli uživatel může aktualizovat aplikace všech ostatních uživatelů."
     <string name="zen_priority_introduction">Nebudou vás rušit zvuky ani vibrace s výjimkou budíků, upozornění, událostí a volajících, které zadáte. Nadále uslyšíte veškerý obsah, který si sami pustíte (např. hudba, videa nebo hry).</string>
     <string name="zen_silence_introduction">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her.</string>
     <string name="zen_silence_introduction_voice">V tomto režimu budou blokovány VŠECHNY zvuky a vibrace, včetně těch z budíků, hudby, videí a her. Telefonovat budete moci i nadále.</string>
+	<string name="quick_settings_intelligent_dual_sim_accelerate_summary">Použít mobilní data druhé SIM karty ke zvýšení rychlosti připojení</string>
+	<string name="quick_settings_intelligent_dual_sim_accelerate_title">Inteligentní duální SIM</string>
+	<string name="quick_settings_miui_wifi_detail_empty_text">Nejsou k dispozici žádné sítě Wi-Fi</string>
+	<string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+	<string name="quick_settings_miui_wlan_detail_empty_text">Nejsou k dispozici žádné sítě Wi-Fi</string>
+	<string name="quick_settings_miui_wlan_label">Wi-Fi</string>
+	<string name="quick_settings_state_saved">Uloženo</string>
+	<string name="quick_settings_state_wifi_select_nearby_ap">Vyberte sítě Wi-Fi v okolí</string>
+	<string name="quick_settings_state_wlan_select_nearby_ap">Vyberte sítě Wi-Fi v okolí</string>
+	<string name="quick_settings_wifi_is_off">Wi-Fi je vypnuta</string>
+	<string name="quick_settings_wlan_is_off">Wi-Fi, pokud je vypnuta</string>
 </resources>
