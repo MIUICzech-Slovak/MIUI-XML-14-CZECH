@@ -8059,4 +8059,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 	<string name="show_nfc_icon_title">Zobrazit ikonu NFC</string>
 	<string name="status_bar_icons_title">Ikony ve stavovém řádku</string>
 	<string name="subscreen_title">Zadní displej</string>
+	<string name="codec_low_latency_summary">Minimalizace opoždění během synchronizace zvuku a videa hry</string>
+	<string name="codec_low_latency_title">Nízké opoždění</string>
 </resources>

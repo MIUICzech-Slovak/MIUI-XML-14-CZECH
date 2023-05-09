@@ -2279,4 +2279,5 @@ Snímky Ultra RAW ušetří %d bit dat a zachovají si ještě více detailů."<
       <string name="watermark_choose_one_tip">Na každou fotografii můžete použít pouze jeden vodoznak.</string>
       <string name="watermark_function_description">O vodoznacích</string>
       <string name="watermark_keep_at_least_one">Vyberte alespoň jednu možnost</string>
+	  <string name="parameter_log_lut_format_description">Pokud chcete vkládat přizpůsobené LUT pro ukázky videa, zapněte LOG. Videa se budou zaznamenávat do souborů LOG.</string>
 </resources>
