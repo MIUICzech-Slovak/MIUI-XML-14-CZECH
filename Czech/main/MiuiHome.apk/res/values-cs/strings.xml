@@ -811,4 +811,6 @@ Vylepšené zabezpečení."</string>
 	<string name="risk_app_report">Nahlásit tuto aplikaci</string>
 	<string name="home_pull_down_content">Potáhnutím prstem dolů na domácí obrazovce vyhledejte položky na tomto zařízení i online.</string>
 	<string name="home_pull_down_content_tips">Nastavení můžete změnit v časti Nastavení > Domácí obrazovka > Potažení dolů na ploše. Vaše nastavení pro gesto potažení nahoru zůstane nezměněné.</string>
+	string name="fsg_assist_enable_summary">Chcete-li použít Google Asistenta, přejeďte prstem z rohu obrazovky</string>
+    <string name="fsg_assist_enable_title">Google Asistent</string>
 </resources>
