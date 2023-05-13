@@ -8061,4 +8061,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 	<string name="subscreen_title">Zadní displej</string>
 	<string name="codec_low_latency_summary">Minimalizace opoždění během synchronizace zvuku a videa hry</string>
 	<string name="codec_low_latency_title">Nízké opoždění</string>
+	<string name="screen_effect_adapt_color_summary">Upravit barvy podle aktuálního osvětlení</string>
+	<string name="screen_effect_adapt_color_title">Živé</string>
+	<string name="screen_effect_origin_color_summary">Reprodukce realistických barev pomocí kalibrace barev</string>
+	<string name="screen_effect_origin_color_title">Reálne barvy PRO</string>
 </resources>
