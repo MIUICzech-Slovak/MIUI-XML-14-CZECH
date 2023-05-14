@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_double_tap">Dvojité klepnutí</string>
+    <string name="back_tap">Poklepání na záda</string>
+    <string name="back_triple_tap">Trojité klepnutí</string>
+</resources>
