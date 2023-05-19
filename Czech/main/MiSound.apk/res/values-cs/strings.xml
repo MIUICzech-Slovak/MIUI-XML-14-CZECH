@@ -402,4 +402,5 @@
     <string name="effect_none">Žádné</string>
     <string name="effect_selection">Zvukové efekty</string>
     <string name="spatial_audio_summary_spk">Zažijte ponoření a pocit prostoru při přehrávání zvuku</string>
+	<string name="effect_virtual_surround_summary_spk">Zvyšte hloubku zvuku pro přehrávání zvuku a videa</string>
 </resources>

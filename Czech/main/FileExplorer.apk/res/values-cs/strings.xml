@@ -1143,4 +1143,7 @@ Bylo přičteno dalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Ano</string>
     <string name="yesterday">Včera</string>
+	<string name="operation_copy_clipboard">Kopírovat do schránky</string>
+	<string name="operation_copy_local">Kopírovat do složky</string>
+	<string name="toast_copy_clipboard">Přidáno do schránky</string>
 </resources>
