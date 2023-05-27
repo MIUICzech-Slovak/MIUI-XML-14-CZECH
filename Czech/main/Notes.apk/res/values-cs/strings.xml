@@ -687,6 +687,6 @@ http://www.miuios.cz/rom
     <string name="yesterday">Včera</string>
 	<string name="notes_description_content">"Poznámky jsou systémová aplikace. Po odinstalování ji nebudete moci používat."</string>
 	<string name="notes_description_title">Odinstalovat Poznámky?</string>
-	tring name="added_to_clipboard">Úspěšně zkopírováno</string>
+	 <string name="added_to_clipboard">Úspěšně zkopírováno</string>
      <string name="clip_resource_deleted">Tato položka už není k dispozici</string>
 </resources>
