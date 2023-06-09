@@ -5104,7 +5104,7 @@ Formátování vymaže všechny soubory na ^2. Zálohujte je na jiný ^3 nebo za
     <string name="summary_cloud_space_almost_full">Získat více místa na úložišti</string>
     <string name="summary_cloud_space_full">Získejte více místa na úložišti a další funkce</string>
     <string name="summary_cmcc_app_check">Některé aplikace se nepodařilo ověřit</string>
-    <string name="summary_condition_charge_to_target">Pokud je baterie nabitá na nastavenou úroveň</string>
+    <string name="summary_condition_charge_to_target">Pokud je baterie nabitá na</string>
     <string name="summary_condition_charge_to_target_percent">Pokud je baterie nabitá na %d%%</string>
     <string name="summary_condition_close_absorbed_mode">Po vypnutí Režimu soustředění</string>
     <string name="summary_condition_in_charge">Pokud se nabíjí</string>
@@ -5112,7 +5112,7 @@ Formátování vymaže všechny soubory na ^2. Zálohujte je na jiný ^3 nebo za
     <string name="summary_condition_missing_call">Zmeškaný hovor</string>
     <string name="summary_condition_no_in_charge">Pokud se nenabíjí</string>
     <string name="summary_condition_open_absorbed_mode">Po zapnutí Režimu soustředění</string>
-    <string name="summary_condition_reduce_to_target">Pokud je baterie na nastavené úrovni</string>
+    <string name="summary_condition_reduce_to_target">Pokud je baterie na</string>
     <string name="summary_condition_reduce_to_target_percent">Pokud je baterie na %d%%</string>
     <string name="summary_condition_scan_rubbish">Čistič</string>
     <string name="summary_condition_scan_virus">Antivirus</string>
