@@ -5163,7 +5163,7 @@ Tato funkce získá vaší MAC adresu Wi-Fi sítě jen na počáteční registra
     <string name="profile_info_settings_title">Informace o profilu</string>
     <string name="profile_owner_add_title">Aktivovat správce profilů?</string>
     <string name="progress_dialog_speaker_auto_clean_button">Zastavit</string>
-    <string name="progress_dialog_speaker_auto_clean_title">Mazání reproduktoru…</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Čištění reproduktoru…</string>
     <string name="progress_scanning">Hledání</string>
     <string name="progressbar_title">Kontrolují se bezpečnostní problémy...</string>
     <string name="provider_label">Zobrazit odběry</string>
