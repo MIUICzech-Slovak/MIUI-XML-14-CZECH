@@ -613,4 +613,7 @@ d.MM."</string>
     <string name="xiaomi_deskclock_uninstall_description_title">Odinstalovat Hodiny?</string>
     <string name="yesterday">Včera</string>
     <string name="your_sounds">Moje zvuky</string>
+	<string name="snooze_alarm_alert">Odloženo do %s</string>
+    <string name="timer_alert_pause">Časovač je pozastavený</string>
+    <string name="timer_alert_running">Časovač je spuštěný</string>
 </resources>

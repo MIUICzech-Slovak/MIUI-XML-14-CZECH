@@ -418,4 +418,9 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
 	<string name="invisible_mode_dialog_negative">Zrušit</string>
 	<string name="invisible_mode_dialog_positive">Vypnout</string>
 	<string name="invisible_mode_dialog_title">Jste inkognito</string>
+	<string name="new_search_alll_records_hint">Vyhledat všechny nahrávky</string>
+	<string name="new_search_app_records_hint">Hledat nahrávky aplikace</string>
+	<string name="new_search_call_records_hint">Hledat nahrávky hovorů</string>
+	<string name="new_search_fm_records_hint">Hledat nahrávky rádia</string>
+	<string name="new_search_recorder_records_hint">Hledat v záznamníku</string>
 </resources>

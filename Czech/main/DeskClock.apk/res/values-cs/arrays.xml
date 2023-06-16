@@ -150,4 +150,13 @@
         <item>Blíží se píšečná bouře!</item>
         <item>Přejeme příjemný den!</item>
     </string-array>
+	<string-array name="bedtime_guide_repeat_type_international">
+        <item>Po až Pá</item>
+        <item>Každý den</item>
+     </string-array>
+     <string-array name="bedtime_repeat_entires_international">
+        <item>Každý den</item>
+        <item>Po až Pá</item>
+        <item>Vlastní</item>
+     </string-array>
 </resources>

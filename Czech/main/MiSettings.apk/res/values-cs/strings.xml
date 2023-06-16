@@ -800,4 +800,9 @@ pro dnešek"</string>
     <string name="yellow_throated_marten">Kuna žlutohrdla</string>
     <string name="yesterday">Včera</string>
     <string name="yunnan_snub_nosed_monkey">Černobílá opice tuponosá</string>
+	<string name="footer_max_fps" formatted="false">"
+%d. Obnovovací frekvenci je možné upravit až na %s Hz pro podporované aplikace a hry."</string>
+	<string name="max_fps_string">Až %s Hz</string>
+	<string name="miuix_appcompat_edit">Upravit</string>
+	<string name="summary_max_fps_for_intelligent">Upravte obnovovací frekvenci dynamicky až do %s Hz na základě scenářů, aby ste dosáhli rovnováhy mezi výkonem a spotřebou energie</string>
 </resources>
