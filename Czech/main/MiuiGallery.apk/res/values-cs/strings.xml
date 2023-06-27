@@ -2996,7 +2996,6 @@ Do %1$s můžete své položky přesunout do Fotek Google nebo si je stáhnout n
       <string name="immersion_menu_photo_switch_notice">Klepnutím vyberte, zda se zde zobrazí všechny položky nebo pouze album fotoaparátu</string>
       <string name="operation_copy_to_clipboard">Kopírovat</string>
       <string name="special_type_ultra_raw">Ultra RAW</string>
-      <string name="stop_migration_ok">Zastavit</string>
       <string name="transfer_banner_btn_check_and_migrate">Přenést položky</string>
       <string name="transfer_banner_btn_check_and_migrate_1">Přenést položky</string>
       <string name="transfer_banner_btn_check_download_status">Zobrazit průběh</string>
