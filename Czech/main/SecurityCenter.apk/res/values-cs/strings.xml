@@ -5406,7 +5406,7 @@ Respektujeme a chráníme vaše soukromí."</string>
     <string name="title_condition_alarm">Budík</string>
     <string name="title_condition_battery">Baterie</string>
     <string name="title_condition_bluetooth">Bluetooth</string>
-    <string name="title_condition_bluetooth_device">Připojení k zařízení Bluetooth</string>
+    <string name="title_condition_bluetooth_device">Připojit k zařízení Bluetooth</string>
     <string name="title_condition_bluetooth_disconnect_device">Odpojit od zařizení Bluetooth</string>
     <string name="title_condition_charge">Nabíjí se</string>
     <string name="title_condition_connect_wlan">Připojit k Wi-Fi síti</string>
