@@ -6012,4 +6012,12 @@ Zapnutím jednoho se vypne druhý.“</string>
       <string name="privacy_thumbnail_shield_top_tip">Maskovat náhledu aplikací zobrazených v nedávných aplikacích</string>
       <string name="sim_lock_verify_time_out">Časový limit ověření vypršel. Zkuste to znovu.</string>
       <string name="st_sms_intercept_oversea">Mezinárodní SMS</string>
+	  <string name="about_autostart_gloabl">O automatickém spuštění na pozadí</string>
+      <string name="activity_title_auto_start_manager_global">Automatické spuštění na pozadí</string>
+      <string name="dialog_msg_auto_start_declare_global">Některé aplikace mohou nesprávně indikovat, že jim MIUI zabránila ve spuštění. Zkontrolujte oprávnění, která byla udělena jednotlivým aplikacím v Nastavení.</string>
+      <string name="dialog_title_auto_start_declare_global">O automatickém spuštění na pozadí</string>
+      <string name="pc_continuity_has_open_save_mode_notifi_sumary">Spořič baterie se vypne, když bude %1$s %2$s nebo zcela nabito</string>
+      <string name="pc_continuity_has_open_save_mode_notifi_title">Zapnutý spořič baterie na %s</string>
+      <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s baterie je nižší než %2$s. Chcete-li přidat %3$s %4$s, zapněte spořič baterie.</string>
+      <string name="pc_continuity_open_save_mode_notifi_title">%s baterie je slabá</string>
 </resources>

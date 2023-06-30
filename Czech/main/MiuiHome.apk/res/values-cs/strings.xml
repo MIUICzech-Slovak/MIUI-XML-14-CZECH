@@ -813,4 +813,9 @@ Vylepšené zabezpečení."</string>
 	<string name="home_pull_down_content_tips">Nastavení můžete změnit v časti Nastavení > Domácí obrazovka > Potažení dolů na ploše. Vaše nastavení pro gesto potažení nahoru zůstane nezměněné.</string>
 	<string name="fsg_assist_enable_summary">Chcete-li použít Google Asistenta, přejeďte prstem z rohu obrazovky</string>
     <string name="fsg_assist_enable_title">Google Asistent</string>
+	<string name="color_group">Seskupit ikony podle barvy</string>
+     <string name="color_group_anim">Animace v barevných kategoriích</string>
+     <string name="find_app_by_color">Seskupujte ikony podle barvy, abyste rychleji našli aplikace</string>
+     <string name="free_style_title">Mi Space</string>
+     <string name="free_style_unavailable_message">Mi Space už není v této verzi podporovaný. Toto téma však můžete používat i nadále.</string>
 </resources>

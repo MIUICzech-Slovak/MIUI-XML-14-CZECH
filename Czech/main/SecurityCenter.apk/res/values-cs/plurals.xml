@@ -1092,4 +1092,12 @@ Dejte si pauzu!"</item>
         <item quantity="other">Optimalizujte využití baterie v %d scénářích</item>
         <item quantity="one">Optimalizujte využití baterie v %d scénáři</item>
     </plurals>
+	<plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">"%d aplikací se nemůže spustit na pozadí"</item>
+        <item quantity="one">"%d aplikace se nemůže spustit na pozadí"</item>
+	</plurals>
+	<plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d aplikací se může spustit na pozadí</item>
+        <item quantity="one">%d aplikace se může spustit na pozadí</item>
+	</plurals>
 </resources>             

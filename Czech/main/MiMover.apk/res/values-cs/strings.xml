@@ -824,4 +824,5 @@ na vašem iPhonu"</string>
     <string name="wednesday_short">Stř</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	<string name="set_app_suspend">Tato aplikace se právě zálohuje. Počkejte na dokončení zálohování a zkuste to znova.</string>
 </resources>
