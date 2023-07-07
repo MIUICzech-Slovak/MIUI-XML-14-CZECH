@@ -183,4 +183,15 @@
 	<string name="invisible_mode_dialog_positive">Nastavení</string>
 	<string name="invisible_mode_dialog_title">Jste inkognito</string>
 	<string name="miuix_appcompat_edit">Upravit</string>
+	<string name="live_action">Živá ukázka</string>
+      <string name="location_permission_tip_one">Klepnutím udělíte oprávnění k umístění, abyste zobrazili zeměpisnou šířku, délku, tlak vzduchu a nadmořskou výšku.</string>
+      <string name="location_permission_tip_two">Klepnutím udělíte oprávnění k umístění, abyste mohli zobrazit zeměpisnou šířku a délku.</string>
+      <string name="network_dialog_message">Kompas se musí připojit k internetu, aby získal přesnější údaje o nadmořské výšce. Povolit teď?</string>
+      <string name="network_dialog_negative">Nepovolit</string>
+      <string name="network_dialog_positive">Povolit</string>
+      <string name="network_dialog_title">Jsou vyžadována povolení</string>
+      <string name="new_cta_app_purpose_one">Vítejte v kompasu! Pomocí této aplikace můžete najít hlavní směry, zeměpisnou šířku, délku, tlak vzduchu a nadmořskou výšku. Tato aplikace se musí připojit k internetu, aby mohla poskytovat své služby.</string>
+      <string name="new_cta_app_purpose_two">Vítejte v kompasu! Tuto aplikaci můžete použít k vyhledání hlavních směrů, zeměpisné šířky a délky. Tato aplikace se musí připojit k internetu, aby mohla poskytovat své služby.</string>
+      <string name="v2_permission_location_desc_one">Pro zobrazení zeměpisné šířky, délky, nadmořské výšky a tlaku vzduchu</string>
+      <string name="v2_permission_location_desc_two">Pro zobrazení zeměpisné šířky a délky</string>
 </resources>

@@ -689,4 +689,9 @@ http://www.miuios.cz/rom
 	<string name="notes_description_title">Odinstalovat Poznámky?</string>
 	 <string name="added_to_clipboard">Úspěšně zkopírováno</string>
      <string name="clip_resource_deleted">Tato položka už není k dispozici</string>
+	 <string name="folder_note">Složky poznámek</string>
+     <string name="folder_other">Jiné složky</string>
+     <string name="foler_pinned">Připnuté složky</string>
+     <string name="new_alert_title_delete">Odstranit poznámky</string>
+     <string name="new_sync_desc_state_disable">Zapněte synchronizaci s cloudem pro poznámky, úlohy a další</string>
 </resources>
