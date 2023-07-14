@@ -237,4 +237,5 @@ dlouhý screenshot"</string>
 	<string name="scroll_annotation_quit_dialog_picture_msg">Uložit anotace před ukončením?</string>
 	<string name="privacy_mosaic_tip_long">Dlouhé screenshoty nejsou podporovány</string>
 	<string name="privacy_mosaic_tip_partial">Částečné screenshoty nejsou podporovány</string>
+	<string name="copy_success_toast">Zkopírováno</string>
 </resources>

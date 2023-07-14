@@ -423,4 +423,7 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
 	<string name="new_search_call_records_hint">Hledat nahrávky hovorů</string>
 	<string name="new_search_fm_records_hint">Hledat nahrávky rádia</string>
 	<string name="new_search_recorder_records_hint">Hledat v záznamníku</string>
+	<string name="pause_status_focus_notification">Pozastaveno</string>
+	<string name="recording_status_focus_notification">Nahrávání</string>
+	<string name="stop_status_focus_notification">Dokončeno</string>
 </resources>
