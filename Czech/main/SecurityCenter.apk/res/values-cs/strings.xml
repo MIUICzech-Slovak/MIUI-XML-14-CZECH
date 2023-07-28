@@ -6055,4 +6055,10 @@ Zapnutím jednoho se vypne druhý.“</string>
       <string name="popular_action_video_clean_title_global">Vymažte Cache paměť videa a uvolněte místo</string>
       <string name="storage_activity_title_personage">Osobní</string>
       <string name="storage_activity_title_work">Práce</string>
+	  <string name="global_satisfaction_notification_channel">Průzkum spokojenosti uživatelů</string>
+     <string name="permission_instruction_get_identifier">Přístup k identifikátoru zařízení</string>
+     <string name="permission_instruction_read_history">Přístup k historii prohlížení</string>
+     <string name="permission_instruction_receive_sms">Přijímat SMS a MMS</string>
+     <string name="permission_instruction_record_screen">Přístup k obsahu obrazovky</string>
+     <string name="permission_instruction_transfer_data_to_other_devices">Přenos údajů do jiných zařízení</string>
 </resources>
