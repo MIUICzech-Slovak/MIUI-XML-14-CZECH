@@ -1402,4 +1402,8 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
 	<string name="add_home_icon_success">Úspešně přidáno</string>
 	<string name="miuix_appcompat_edit">Upravit</string>
 	<string name="resource_search_hot_tag">Populární</string>
+	<string name="warning_miui_optimization_closed_dialog_agree">Nastavení</string>
+	<string name="warning_miui_optimization_closed_dialog_disagree">Použít</string>
+	<string name="warning_miui_optimization_closed_dialog_message">Zdá se, že jste nezapnuli optimalizaci MIUI. Bez ní nebude tento motiv při použití správně fungovat. Můžete jej použít stejně nebo zapnout optimalizaci MIUI v Nastaveních.</string>
+	<string name="warning_miui_optimization_closed_dialog_title">Pozor</string>
 </resources>

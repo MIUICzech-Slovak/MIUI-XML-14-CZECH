@@ -562,4 +562,5 @@ si zaslouží vlastní aplikaci"</string>
     <string name="xspace_uninstalling">Odinstalace...</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="yesterday">Včera</string>
+	<string name="superpower_toast_app_select_full_new">Do často používaných aplikací můžete přidat až %d položek</string>
 </resources>

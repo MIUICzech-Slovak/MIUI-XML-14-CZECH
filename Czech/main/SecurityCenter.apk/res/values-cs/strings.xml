@@ -6061,4 +6061,5 @@ Zapnutím jednoho se vypne druhý.“</string>
      <string name="permission_instruction_receive_sms">Přijímat SMS a MMS</string>
      <string name="permission_instruction_record_screen">Přístup k obsahu obrazovky</string>
      <string name="permission_instruction_transfer_data_to_other_devices">Přenos údajů do jiných zařízení</string>
+	 <string name="virus_auto_update_engine_1">Automaticky aktualizovat databázi</string>
 </resources>

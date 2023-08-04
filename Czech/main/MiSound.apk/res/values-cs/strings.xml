@@ -403,4 +403,5 @@
     <string name="effect_selection">Zvukové efekty</string>
     <string name="spatial_audio_summary_spk">Zažijte ponoření a pocit prostoru při přehrávání zvuku</string>
 	<string name="effect_virtual_surround_summary_spk">Zvyšte hloubku zvuku pro přehrávání zvuku a videa</string>
+	<string name="effect_selection_headset">Efekty sluchátek</string>
 </resources>

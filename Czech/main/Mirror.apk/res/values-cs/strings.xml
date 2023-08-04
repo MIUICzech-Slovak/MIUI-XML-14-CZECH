@@ -424,4 +424,7 @@ pokračovat"</string>
 	<string name="privacy_describe_change_wifi_state_china">Pro připojení zařízení a přenos souborů pomocí Wi-Fi</string>
 	<string name="settings_pc_handoff_title">Připojit k počítači</string>
 	<string name="share_pc_abort_dialog_message_china">Ujistěte se, že jsou na obou zařízeních zapnuty Bluetooth a Wi-Fi a spusťte relaci znovu na počítači.</string>
+	<string name="settings_nfc_transfer_desc1">"·Přineste telefon přihlášen do svého účtu Xiaomi v blízkosti modulu NFC tohoto zařízení, abyste mohli sdílet obsah obrazovky nebo přenést položky vybrané ve Správci souborů nebo Galerii."</string>
+	<string name="settings_nfc_transfer_desc2">·Seznam kompatibilních zařízení si můžete prohlédnout zde: %s</string>
+	<string name="settings_nfc_transfer_title">Přenos položek přes NFC</string>
 </resources>
