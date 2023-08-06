@@ -6062,4 +6062,10 @@ Zapnutím jednoho se vypne druhý.“</string>
      <string name="permission_instruction_record_screen">Přístup k obsahu obrazovky</string>
      <string name="permission_instruction_transfer_data_to_other_devices">Přenos údajů do jiných zařízení</string>
 	 <string name="virus_auto_update_engine_1">Automaticky aktualizovat databázi</string>
+	 <string name="confirm_leave">Ne, děkuji</string>
+	 <string name="confirm_open">Zapnout</string>
+	 <string name="confirm_package_type">Potvrďte svůj datový tarif</string>
+	 <string name="confirm_take">Získat</string>
+	 <string name="confirm_upgrade">Možnosti</string>
+	 <string name="continue_set">Pokračovat</string>
 </resources>
