@@ -814,8 +814,14 @@ Vylepšené zabezpečení."</string>
 	<string name="fsg_assist_enable_summary">Chcete-li použít Google Asistenta, přejeďte prstem z rohu obrazovky</string>
     <string name="fsg_assist_enable_title">Google Asistent</string>
 	<string name="color_group">Seskupit ikony podle barvy</string>
-     <string name="color_group_anim">Animace v barevných kategoriích</string>
-     <string name="find_app_by_color">Seskupujte ikony podle barvy, abyste rychleji našli aplikace</string>
-     <string name="free_style_title">Mi Space</string>
-     <string name="free_style_unavailable_message">Mi Space už není v této verzi podporovaný. Toto téma však můžete používat i nadále.</string>
+	<string name="color_group_anim">Animace v barevných kategoriích</string>
+	<string name="find_app_by_color">Seskupujte ikony podle barvy, abyste rychleji našli aplikace</string>
+	<string name="free_style_title">Mi Space</string>
+	<string name="free_style_unavailable_message">Mi Space už není v této verzi podporovaný. Toto téma však můžete používat i nadále.</string>
+	<string name="content_center">Centrum obsahu</string>
+	<string name="international_home_pull_down_content">Potažením prstem dolů po domovské obrazovce spustíte vyhledávání v tomto zařízení a na internetu.</string>
+	<string name="international_home_pull_down_sub_content">Toto gesto můžete přepnout na otevření ovládacího centra v části Nastavení > Domácí obrazovka > Potažení dolů na ploše.</string>
+	<string name="international_home_pull_down_up_btn_get">Rozumím</string>
+	<string name="international_home_pull_up_content">Potažením prstem nahoru po domovské obrazovce otevřete Centrum obsahu.</string>
+	<string name="international_home_pull_up_sub_content">Pokud chcete otevřít vyhledávání, potáhněte prstem dolů ze středu plochy.</string>
 </resources>
