@@ -824,4 +824,5 @@ Vylepšené zabezpečení."</string>
 	<string name="international_home_pull_down_up_btn_get">Rozumím</string>
 	<string name="international_home_pull_up_content">Potažením prstem nahoru po domovské obrazovce otevřete Centrum obsahu.</string>
 	<string name="international_home_pull_up_sub_content">Pokud chcete otevřít vyhledávání, potáhněte prstem dolů ze středu plochy.</string>
+	<string name="switch_personal_assistant_summary">Potažením prstem doprava na ploše otevřete Google Asistenta</string>
 </resources>
