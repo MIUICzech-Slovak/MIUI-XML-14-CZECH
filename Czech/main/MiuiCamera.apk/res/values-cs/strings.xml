@@ -2309,4 +2309,6 @@ Snímky Ultra RAW ušetří %d bit dat a zachovají si ještě více detailů."<
       <string name="street_tip_far">Umístěte objekt do %d metrů</string>
       <string name="street_tip_middle">Umístěte objekt do %d metru</string>
       <string name="street_tip_near">Umístěte objekt do %d metru</string>
+	  <string name="new_bie_dialog_cancel">Zavřít</string>
+     <string name="new_bie_dialog_desc">Popis funkce</string>
 </resources>

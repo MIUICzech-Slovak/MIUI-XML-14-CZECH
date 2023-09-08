@@ -1100,4 +1100,8 @@ Dejte si pauzu!"</item>
         <item quantity="other">%d aplikací se může spustit na pozadí</item>
         <item quantity="one">%d aplikace se může spustit na pozadí</item>
 	</plurals>
+	<plurals name="app_manager_updater_title">
+         <item quantity="other">Aktualizace %d aplikácí</item>
+         <item quantity="one">Aktualizovat %d aplikaci</item>
+	</plurals>	 
 </resources>             

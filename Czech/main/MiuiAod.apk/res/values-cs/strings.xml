@@ -274,4 +274,6 @@ N e"</string>
       <string name="searchview_clear_text_content_description">Vymazat text</string>
       <string name="searchview_navigation_content_description">Zpět</string>
       <string name="side_sheet_accessibility_pane_title">Boční list</string>
+	  <string name="smart_style">Inteligentní</string>
+     <string name="smart_style_summary">Vždy zobrazujte položky, krom případů, kdy máte zařízení v kapse, když je okolní světlo dlhodobě slabé nebo když zařízení dlouho nepoužíváte</string>
 </resources>
