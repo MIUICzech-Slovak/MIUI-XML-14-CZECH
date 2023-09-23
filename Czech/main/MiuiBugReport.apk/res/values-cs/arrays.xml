@@ -4,4 +4,58 @@
         <item>Muž</item>
         <item>Žena</item>
     </string-array>
+	<string-array name="net_diag_err_link_quality">
+        <item>Špatné připojení Wi-Fi. Přepněte bezdrátová pásma nebo restartujte router.</item>
+        <item>"Nemohu se připojit k síti. Připojte se znovu k Wi-Fi nebo restartujte router."</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Špatné připojení Wi-Fi. Přepněte bezdrátová pásma nebo restartujte router.</item>
+        <item>"Nemohu se připojit k síti. Připojte se znovu k Wi-Fi nebo restartujte router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>Pro přístup k síti je vyžadováno ověření</item>
+        <item>"Přístup k síti je omezen. Upravte čas na tomto zařízení a zkontrolujte nastavení sítě routeru."</item>
+        <item>Chyba sítě. Zkontrolujte nastavení HTTP proxy.</item>
+        <item>Chyba sítě. Zkontrolujte, zda má router přístup k internetu.</item>
+        <item>"Nelze se připojit k síti. Připojte se znovu k Wi-Fi nebo restartujte router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>Pro přístup k síti je vyžadováno ověření</item>
+        <item>"Přístup k síti je omezen. Upravte čas na tomto zařízení a zkontrolujte nastavení sítě routeru."</item>
+        <item>Chyba sítě. Zkontrolujte nastavení HTTP proxy.</item>
+        <item>Chyba sítě. Zkontrolujte, zda má router přístup k internetu.</item>
+        <item>"Nelze se připojit k síti. Připojte se znovu k Wi-Fi nebo restartujte router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>"Chyba serveru DNS. Zkontrolujte konfiguraci DNS routeru."</item>
+        <item>"Velká zpoždění ze serveru DNS. Zkontrolujte konfiguraci DNS routeru."</item>
+        <item>"Nemohu získat přístup k bráně. Připojte se znovu k Wi-Fi nebo restartujte router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>"Chyba serveru DNS. Zkontrolujte konfiguraci DNS routeru."</item>
+        <item>"Velká zpoždění ze serveru DNS. Zkontrolujte konfiguraci DNS routeru."</item>
+        <item>"Nemohu získat přístup k bráně. Připojte se znovu k Wi-Fi nebo restartujte router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Velká zpoždění z místní sítě. Restartujte router nebo se připojte k jiné síti.</item>
+        <item>Velká zpoždění kvůli internetu. Zkontrolujte nastavení sítě operátora nebo se připojte k jiné síti.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Přepnout ze statické IP adresy na DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Chyba síťového protokolu. Znovu se připojte k Wi-Fi nebo restartujte zařízení.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Chyba síťového protokolu. Znovu se připojte k Wi-Fi nebo restartujte zařízení.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Přesuňte se do oblasti s lepším pokrytím Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Přesuňte se do oblasti s lepším pokrytím Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>"Zkontrolujte nastavení DHCP routeru a kabelové připojení"</item>
+    </string-array>
 </resources>
