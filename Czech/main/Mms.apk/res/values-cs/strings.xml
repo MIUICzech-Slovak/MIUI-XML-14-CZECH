@@ -1073,4 +1073,7 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlášené zprávy jsou odeslané na náš server pro další analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlášené</string>
     <string name="zero_sms_feedback_title">Nahlásit</string>
+	<string name="copy">Kopírovat</string>
+	<string name="copy_message">Kopírovat</string>
+	<string name="copy_message_success">Úspěšně zkopírováno</string>
 </resources>
