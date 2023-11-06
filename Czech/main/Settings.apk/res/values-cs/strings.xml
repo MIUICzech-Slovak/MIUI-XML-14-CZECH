@@ -8065,4 +8065,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
 	<string name="screen_effect_adapt_color_title">Živé</string>
 	<string name="screen_effect_origin_color_summary">Reprodukce realistických barev pomocí kalibrace barev</string>
 	<string name="screen_effect_origin_color_title">Reálne barvy PRO</string>
+	<string name="eye_gaze_dialog_message">"Když zapnete funkci Rozpoznat pohled, zařízení se nezablokuje, když zjistí, že se díváte na obrazovku. Charakteristiky vašeho obličeje nebudou analyzovány a informace o vašem obličeji nebudou uloženy ve vašem zařízení nebo předány do cloudu. Zapnout nyní?“</string>
+	<string name="eye_gaze_dialog_title">Bezpečnostní upozornění</string>
 </resources>

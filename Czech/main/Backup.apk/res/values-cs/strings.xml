@@ -930,4 +930,7 @@ Velikost: %2$s"</string>
 Velikost aktualizace delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Dostupná aktualizace</string>
     <string name="yesterday">Včera</string>
+	<string name="new_usb_unwritable_storage_content">"Položky se nepodařilo uložit na externí úložné zařízení. Zkuste jej znovu připojit."</string>
+	<string name="new_usb_unwritable_storage_title">"Nepodařilo se uložit"</string>
+	<string name="password_toggle_content_description">Zobrazit heslo</string>
 </resources>

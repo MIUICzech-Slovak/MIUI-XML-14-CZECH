@@ -142,4 +142,37 @@
         <item>%1$s mph</item>
         <item>%1$s kn</item>
     </string-array>
+	<string-array name="pollution_level_desc_arr">
+        <item>Výborně</item>
+        <item>Dobré</item>
+        <item>Mírně znečištěné</item>
+        <item>Středně znečištěné</item>
+        <item>Velmi znečištěné</item>
+        <item>Velmi znečištěné</item>
+        <item>Nebezpečné</item>
+	</string-array>
+	<string-array name="realtime_humidity_status">
+        <item>Sušit</item>
+        <item>Pohodlné</item>
+        <item>Vlhké</item>
+	</string-array>
+	<string-array name="realtime_pressure_status">
+        <item>Vysoká</item>
+        <item>Střední</item>
+        <item>Nízká</item>
+	</string-array>
+	<string-array name="realtime_temperature_status">
+        <item>Studené</item>
+        <item>Super</item>
+        <item>Pohodlné</item>
+        <item>Teplé</item>
+        <item>Horké</item>
+	</string-array>
+	<string-array name="realtime_uv_level">
+        <item>Slabé</item>
+        <item>Střední</item>
+        <item>Silný</item>
+        <item>Velmi silné</item>
+        <item>Závažné</item>
+	</string-array>
 </resources>
