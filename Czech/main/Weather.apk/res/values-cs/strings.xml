@@ -30,8 +30,8 @@
     <string name="alert_warning">Varování</string>
     <string name="app_name">Počasí</string>
     <string name="aqi_desc">Index kvality ovzduší</string>
-    <string name="aqi_detail_24_hours">%d-hodinová předpověď</string>
-    <string name="aqi_detail_5_days">%d-denní předpověď</string>
+    <string name="aqi_detail_24_hours">24-hodinová předpověď</string>
+    <string name="aqi_detail_5_days">5-denní předpověď</string>
     <string name="aqi_detail_title">Index kvality ovzduší</string>
     <string name="aqi_fifteen_dates_time_format">d-M</string>
     <string name="button_abandon">Zrušit změny</string>
