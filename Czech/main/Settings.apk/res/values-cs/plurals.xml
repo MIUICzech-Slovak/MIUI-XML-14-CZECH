@@ -378,4 +378,28 @@
         <item quantity="few">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
         <item quantity="many">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
     </plurals>
+	<plurals name="saved_network_checked_num">
+        <item quantity="other">Vybráno %d položek</item>
+        <item quantity="one">Vybrána %d položka</item>
+	</plurals>	 
+	<plurals name="wifi_saved_access_points_summary">
+        <item quantity="other">%d sítí</item>
+        <item quantity="one">1 síť</item>
+	</plurals>
+	<plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d sítí &amp; odběry</item>
+        <item quantity="one">1 síť &amp; odběr</item>
+	</plurals>
+	<plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d odběry</item>
+        <item quantity="one">1 odběr</item>
+	</plurals>
+	<plurals name="wifi_share_count">
+        <item quantity="other">%d sdílené sítě</item>
+        <item quantity="one">%d sdílená síť</item>
+	</plurals>
+	<plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d připojených zařízení</item>
+        <item quantity="one">%1$d připojené zařízení</item>
+	</plurals>
 </resources>
