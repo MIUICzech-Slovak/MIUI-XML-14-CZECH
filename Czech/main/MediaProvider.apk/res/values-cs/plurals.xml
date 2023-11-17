@@ -20,10 +20,6 @@
         <item quantity="other">Plus ^1 dalších položek</item>
         <item quantity="one">Plus ^1 další položka</item>
     </plurals>
-    <plurals name="permission_more_thumb">
-        <item quantity="other">+^1</item>
-        <item quantity="one">+^1</item>
-    </plurals>
     <plurals name="permission_progress_delete_audio">
         <item quantity="other">Odstraňuje se ^1 zvukových souborů…</item>
         <item quantity="one">Odstraňuje se zvukový soubor…</item>

@@ -30,122 +30,121 @@
     <string name="uid_label">Média</string>
     <string name="unknown">Neznámé</string>
 	<string name="add">Přidat</string>
-      <string name="bottomsheet_action_expand_halfway">Rozvinout do poloviny</string>
-      <string name="bottomsheet_drag_handle_content_description">Přesuňte rukou</string>
-      <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
-      <string name="character_counter_overflowed_content_description">Překročili jste limit počtu znaků %1$d z %2$d</string>
-      <string name="clear_text_end_icon_content_description">Vymazat text</string>
-      <string name="copy">Kopírovat</string>
-      <string name="deselect">Zrušit výběr</string>
-      <string name="deselected">Zrušený výběr</string>
-      <string name="error_a11y_label">Chyba: neplatný</string>
-      <string name="error_icon_content_description">Chyba</string>
-      <string name="expand_button_title">Rozšířené</string>
-      <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
-      <string name="item_view_role_description">Tab</string>
-      <string name="not_selected">Nevybráno</string>
-      <string name="not_set">Nenastaveno</string>
-      <string name="password_toggle_content_description">Zobrazit heslo</string>
-      <string name="permission_delete_audio">{count, plural, =1 {Povolit ^1 odstranit tento zvukový soubor?} dalsí {Povolit ^1 odstranit ^2 audio souborů?} }</string>
-      <string name="permission_delete_generic">{count, plural, =1 {Povolit ^1 odstranit tuto položku?} další {Povolit ^1 odstranit ^2 položek?} }</string>
-      <string name="permission_delete_image">{count, plural, =1 {Povolit uživateli ^1 odstranit tuto fotografii?} další {Povolit uživateli ^1 vymazat ^2 fotografie?} }</string>
-      <string name="permission_delete_video">{count, plural, =1 {Povolit uživateli ^1 odstranit toto video?} další {Povolit uživateli ^1 odstranit ^2 videa?} }</string>
-      <string name="permission_more_text">{count, plural, =1 {Plus ^1 dodatečná položka} další {Plus ^1 dodatečných položek} }</string>
-      <string name="permission_more_thumb">{count, plural, =1 {+^1} další {+^1} }</string>
-      <string name="permission_progress_delete_audio">{count, plural, =1 {Odstraňuje se zvukový soubor…} další {Odstraňuje se zvukový soubor ^1…} }</string>
-      <string name="permission_progress_delete_generic">{count, plural, =1 {Mazání položky…} další {Mazání ^1 položek…} }</string>
-      <string name="permission_progress_delete_image">{count, plural, =1 {Odstraňuje se fotka…} další {Odstraňuje se ^1 fotek…} }</string>
-      <string name="permission_progress_delete_video">{count, plural, =1 {Mazání videa…} další {Mazání ^1 videí…} }</string>
-      <string name="permission_progress_trash_audio">{count, plural, =1 {Přesouvám zvukový soubor do koše…} další {Přesouvám zvukové soubory ^1 do koše…} }</string>
-      <string name="permission_progress_trash_generic">{count, plural, =1 {Přesouvám položku do koše…} další {Přesun ^1 položek do koše…} }</string>
-      <string name="permission_progress_trash_image">{count, plural, =1 {Přesouvám fotku do koše…} další {Přesouvám fotky ^1 do koše…} }</string>
-      <string name="permission_progress_trash_video">{count, plural, =1 {Přesun videa do koše…} další {Přesouvání ^1 videí do koše…} }</string>
-      <string name="permission_progress_untrash_audio">{count, plural, =1 {Přesouvám zvukový soubor z koše…} další {Přesouvám zvukové soubory ^1 z koše…} }</string>
-      <string name="permission_progress_untrash_generic">{count, plural, =1 {Přesun položky z koše…} další {Přesun ^1 položek z koše…} }</string>
-      <string name="permission_progress_untrash_image">{count, plural, =1 {Přesouvám fotografii z koše…} další {Přesouvám fotky ^1 z koše…} }</string>
-      <string name="permission_progress_untrash_video">{count, plural, =1 {Přesun videa z koše…} další {Přesouvání ^1 videí z koše…} }</string>
-      <string name="permission_progress_write_audio">{count, plural, =1 {Úprava zvukového souboru…} další {Úprava ^1 zvukových souborů…} }</string>
-      <string name="permission_progress_write_generic">{count, plural, =1 {Úprava položky…} další {Úprava ^1 položek…} }</string>
-      <string name="permission_progress_write_image">{count, plural, =1 {Úprava fotografie…} další {Úprava ^1 fotografií…} }</string>
-      <string name="permission_progress_write_video">{count, plural, =1 {Úprava videa…} další {Úprava ^1 videí…} }</string>
-      <string name="permission_trash_audio">{count, plural, =1 {Povolit ^1 přesunout tento zvukový soubor do koše?} další {Povolit ^1 přesunout ^2 audio souborů do koše?} }</string>
-      <string name="permission_trash_generic">{count, plural, =1 {Povolit ^1 přesunout tuto položku do koše?} další {Povolit ^1 přesunout ^2 položek do koše?} }</string>
-      <string name="permission_trash_image">{count, plural, =1 {Povolit ^1 přesunout tuto fotografii do koše?} další {Povolit ^1 přesunout ^2 fotografií do koše?} }</string>
-      <string name="permission_trash_video">{count, plural, =1 {Povolit ^1 přesunout toto video do koše?} další {Povolit ^1 přesunouť ^2 videí do koše?} }</string>
-      <string name="permission_untrash_audio">{count, plural, =1 {Povolit ^1 přesunout tento zvukový soubor z koše?} další {Povolit ^1 přesunout ^2 audio souborů z koše?} }</string>
-      <string name="permission_untrash_generic">{count, plural, =1 {Povolit ^1 přesunout tuto položku z koše?} další {Povolit ^1 přesunout ^2 položek z koše?} }</string>
-      <string name="permission_untrash_image">{count, plural, =1 {Povolit ^1 přesunout tuto fotografii z koše?} další {Povolit ^1 přesunout ^2 fotografií z koše?} }</string>
-      <string name="permission_untrash_video">{count, plural, =1 {Povolit ^1 přesunout toto video z koše?} další {Povolit ^1 přesunout ^2 videa z koše?} }</string>
-      <string name="permission_write_audio">{count, plural, =1 {Povolit ^1 upravovat tento zvukový soubor?} další {Povolit ^1 upravovat ^2 zvukové soubory?} }</string>
-      <string name="permission_write_generic">{count, plural, =1 {Povolit ^1 upravovat tuto položku?} další {Povolit ^1 upravovat ^2 položek?} }</string>
-      <string name="permission_write_image">{count, plural, =1 {Povolit ^1 upravovat tuto fotku?} další {Povolit ^1 upravovat ^2 fotky?} }</string>
-      <string name="permission_write_video">{count, plural, =1 {Povolit uživateli ^1 upravovat toto video?} další {Povolit uživateli ^1 upravovat videa ^2?} }</string>
-      <string name="picker_add_button_multi_select">Přidat (^1)</string>
-      <string name="picker_add_button_multi_select_permissions">Povolit (^1)</string>
-      <string name="picker_album_item_count">{count, plural, =1 {^1 položka} další {^1 položek} }</string>
-      <string name="picker_album_media_empty_message">Žádné podporované fotografie ani videa</string>
-      <string name="picker_albums">Alba</string>
-      <string name="picker_albums_empty_message">Žádná alba</string>
-      <string name="picker_app_label">Média</string>
-      <string name="picker_banner_cloud_account_changed_desc">Fotky od %1$s jsou nyní zahrnuty zde</string>
-      <string name="picker_banner_cloud_account_changed_title">%1$s účet byl aktualizován</string>
-      <string name="picker_banner_cloud_choose_account_desc">Chcete-li sem zahrnout fotografie z %1$s, vyberte účet v aplikaci</string>
-      <string name="picker_banner_cloud_choose_account_title">Vyberte účet %1$s</string>
-      <string name="picker_banner_cloud_choose_app_button">Vybrat aplikaci</string>
-      <string name="picker_banner_cloud_choose_app_desc">Chcete-li sem zahrnout zálohované fotografie, vyberte aplikaci cloudových médií v Nastavení</string>
-      <string name="picker_banner_cloud_choose_app_title">Vyberte aplikaci cloudových médií</string>
-      <string name="picker_banner_cloud_dismiss_button">Zrušit</string>
-      <string name="picker_banner_cloud_first_time_available_desc">Můžete vybrat fotografie z %1$s účtu %2$s</string>
-      <string name="picker_banner_cloud_first_time_available_title">Včetně zálohovaných fotografií</string>
-      <string name="picker_browse">Prohlížet…</string>
-      <string name="picker_category_camera">Fotoaparát</string>
-      <string name="picker_category_downloads">Stažené soubory</string>
-      <string name="picker_category_favorites">Oblíbené</string>
-      <string name="picker_category_screenshots">Snímky obrazovky</string>
-      <string name="picker_cloud_sync">Cloudová média jsou nyní k dispozici od %1$s</string>
-      <string name="picker_error_dialog_body">Zkontrolujte své internetové připojení a zkuste to znovu</string>
-      <string name="picker_error_dialog_positive_action">Zkusit znovu</string>
-      <string name="picker_error_dialog_title">Problémy s přehráváním videa</string>
-      <string name="picker_error_snackbar">„Video nelze přehrát“</string>
-      <string name="picker_header_permissions">Vyberte položky pro povolení přístupu</string>
-      <string name="picker_item_content_desc">%1$s přijato dne %2$s</string>
-      <string name="picker_motion_photo">Pohyblivá fotografie</string>
-      <string name="picker_motion_photo_text">Pohyblivá fotografie</string>
-      <string name="picker_mute_video">Ztlumit video</string>
-      <string name="picker_pause_video">Pozastavit</string>
-      <string name="picker_personal_profile">Přepnout na osobní</string>
-      <string name="picker_photo">Fotka</string>
-      <string name="picker_photos">Fotografie</string>
-      <string name="picker_photos_empty_message">Žádné fotografie ani videa</string>
-      <string name="picker_play_video">Přehrát</string>
-      <string name="picker_preview">Ukázka</string>
-      <string name="picker_privacy_message">Tato aplikace má přístup pouze k fotkám, které vyberete</string>
-      <string name="picker_profile_admin_msg_from_personal">Přístup k pracovním údajům z osobní aplikace není povolen</string>
-      <string name="picker_profile_admin_msg_from_work">Přístup k osobním údajům z pracovní aplikace není povolen</string>
-      <string name="picker_profile_admin_title">Zablokováno vaším správcem</string>
-      <string name="picker_profile_work_paused_msg">Chcete-li otevřít pracovní fotografie, zapněte pracovní aplikace a zkuste to znovu</string>
-      <string name="picker_profile_work_paused_title">Pracovní aplikace jsou pozastaveny</string>
-      <string name="picker_settings">Aplikace cloudových médií</string>
-      <string name="picker_settings_description">Přistupujte ke svým cloudovým médiím, když vás aplikace nebo web požádá o výběr fotografií nebo videí</string>
-      <string name="picker_settings_no_provider">Žádné</string>
-      <string name="picker_settings_selection_message">Přístup k cloudovým médiím z</string>
-      <string name="picker_settings_system_settings_menu_title">Aplikace pro cloudová média</string>
-      <string name="picker_settings_title">Aplikace cloudových médií</string>
-      <string name="picker_settings_toast_error">Momentálně nelze změnit aplikaci cloud media.</string>
-      <string name="picker_unmute_video">Zrušit ztlumení videa</string>
-      <string name="picker_video_item_content_desc">Video natočené %1$s s trváním %2$s</string>
-      <string name="picker_view_selected">Zobrazit vybrané</string>
-      <string name="picker_work_profile">Přepnout na práci</string>
-      <string name="preference_copied">\"%1$s\" bylo zkopírováno do schránky.</string>
-      <string name="preloading_progress_message">Připraveno: %1$d z %2$d</string>
-      <string name="recent">Nedávné</string>
-      <string name="safety_protection_icon_label">Bezpečnostní ochrana</string>
-      <string name="select">Vybrat</string>
-      <string name="select_up_to">{count, plural, =1 {Vyberte nejvýše ^1 položku} další {Vyberte nejvýše ^1 položek} }</string>
-      <string name="selected">Vybráno</string>
-      <string name="settings_label">Nastavení</string>
-      <string name="settingslib_category_personal">Osobní</string>
-      <string name="settingslib_category_work">Práce</string>
-      <string name="transcode_alert_channel">Nativní upozornění na překódování</string>
-      <string name="transcode_progress_channel">Nativní průběh překódování</string>
+     <string name="bottomsheet_action_expand_halfway">Rozvinout do poloviny</string>
+     <string name="bottomsheet_drag_handle_content_description">Přesuňte rukou</string>
+     <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
+     <string name="character_counter_overflowed_content_description">Překročili jste limit počtu znaků %1$d z %2$d</string>
+     <string name="clear_text_end_icon_content_description">Vymazat text</string>
+     <string name="copy">Kopírovat</string>
+     <string name="deselect">Zrušit výběr</string>
+     <string name="deselected">Zrušený výběr</string>
+     <string name="error_a11y_label">Chyba: neplatný</string>
+     <string name="error_icon_content_description">Chyba</string>
+     <string name="expand_button_title">Rozšířené</string>
+     <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
+     <string name="item_view_role_description">Tab</string>
+     <string name="not_selected">Nevybráno</string>
+     <string name="not_set">Nenastaveno</string>
+     <string name="password_toggle_content_description">Zobrazit heslo</string>
+     <string name="permission_delete_audio">{count, plural, =1 {Povolit ^1 odstranit tento zvukový soubor?} other {Povolit ^1 odstranit ^2 audio souborů?} }</string>
+     <string name="permission_delete_generic">{count, plural, =1 {Povolit ^1 odstranit tuto položku?} other {Povolit ^1 odstranit ^2 položek?} }</string>
+     <string name="permission_delete_image">{count, plural, =1 {Povolit uživateli ^1 odstranit tuto fotografii?} other {Povolit uživateli ^1 vymazat ^2 fotografie?} }</string>
+     <string name="permission_delete_video">{count, plural, =1 {Povolit uživateli ^1 odstranit toto video?} other {Povolit uživateli ^1 odstranit ^2 videa?} }</string>
+     <string name="permission_more_text">{count, plural, =1 {Plus ^1 dodatečná položka} other {Plus ^1 dodatečných položek} }</string>
+     <string name="permission_progress_delete_audio">{count, plural, =1 {Odstraňuje se zvukový soubor…} other {Odstraňuje se zvukový soubor ^1…} }</string>
+     <string name="permission_progress_delete_generic">{count, plural, =1 {Mazání položky…} other {Mazání ^1 položek…} }</string>
+     <string name="permission_progress_delete_image">{count, plural, =1 {Odstraňuje se fotka…} other {Odstraňuje se ^1 fotek…} }</string>
+     <string name="permission_progress_delete_video">{count, plural, =1 {Mazání videa…} other {Mazání ^1 videí…} }</string>
+     <string name="permission_progress_trash_audio">{count, plural, =1 {Přesouvám zvukový soubor do koše…} other {Přesouvám zvukové soubory ^1 do koše…} }</string>
+     <string name="permission_progress_trash_generic">{count, plural, =1 {Přesouvám položku do koše…} other {Přesun ^1 položek do koše…} }</string>
+     <string name="permission_progress_trash_image">{count, plural, =1 {Přesouvám fotku do koše…} other {Přesouvám fotky ^1 do koše…} }</string>
+     <string name="permission_progress_trash_video">{count, plural, =1 {Přesun videa do koše…} other {Přesouvání ^1 videí do koše…} }</string>
+     <string name="permission_progress_untrash_audio">{count, plural, =1 {Přesouvám zvukový soubor z koše…} other {Přesouvám zvukové soubory ^1 z koše…} }</string>
+     <string name="permission_progress_untrash_generic">{count, plural, =1 {Přesun položky z koše…} other {Přesun ^1 položek z koše…} }</string>
+     <string name="permission_progress_untrash_image">{count, plural, =1 {Přesouvám fotografii z koše…} other {Přesouvám fotky ^1 z koše…} }</string>
+     <string name="permission_progress_untrash_video">{count, plural, =1 {Přesun videa z koše…} other {Přesouvání ^1 videí z koše…} }</string>
+     <string name="permission_progress_write_audio">{count, plural, =1 {Úprava zvukového souboru…} other {Úprava ^1 zvukových souborů…} }</string>
+     <string name="permission_progress_write_generic">{count, plural, =1 {Úprava položky…} other {Úprava ^1 položek…} }</string>
+     <string name="permission_progress_write_image">{count, plural, =1 {Úprava fotografie…} other {Úprava ^1 fotografií…} }</string>
+     <string name="permission_progress_write_video">{count, plural, =1 {Úprava videa…} other {Úprava ^1 videí…} }</string>
+     <string name="permission_trash_audio">{count, plural, =1 {Povolit ^1 přesunout tento zvukový soubor do koše?} other {Povolit ^1 přesunout ^2 audio souborů do koše?} }</string>
+     <string name="permission_trash_generic">{count, plural, =1 {Povolit ^1 přesunout tuto položku do koše?} other {Povolit ^1 přesunout ^2 položek do koše?} }</string>
+     <string name="permission_trash_image">{count, plural, =1 {Povolit ^1 přesunout tuto fotografii do koše?} other {Povolit ^1 přesunout ^2 fotografií do koše?} }</string>
+     <string name="permission_trash_video">{count, plural, =1 {Povolit ^1 přesunout toto video do koše?} other {Povolit ^1 přesunouť ^2 videí do koše?} }</string>
+     <string name="permission_untrash_audio">{count, plural, =1 {Povolit ^1 přesunout tento zvukový soubor z koše?} other {Povolit ^1 přesunout ^2 audio souborů z koše?} }</string>
+     <string name="permission_untrash_generic">{count, plural, =1 {Povolit ^1 přesunout tuto položku z koše?} other {Povolit ^1 přesunout ^2 položek z koše?} }</string>
+     <string name="permission_untrash_image">{count, plural, =1 {Povolit ^1 přesunout tuto fotografii z koše?} other {Povolit ^1 přesunout ^2 fotografií z koše?} }</string>
+     <string name="permission_untrash_video">{count, plural, =1 {Povolit ^1 přesunout toto video z koše?} other {Povolit ^1 přesunout ^2 videa z koše?} }</string>
+     <string name="permission_write_audio">{count, plural, =1 {Povolit ^1 upravovat tento zvukový soubor?} other {Povolit ^1 upravovat ^2 zvukové soubory?} }</string>
+     <string name="permission_write_generic">{count, plural, =1 {Povolit ^1 upravovat tuto položku?} other {Povolit ^1 upravovat ^2 položek?} }</string>
+     <string name="permission_write_image">{count, plural, =1 {Povolit ^1 upravovat tuto fotku?} other {Povolit ^1 upravovat ^2 fotky?} }</string>
+     <string name="permission_write_video">{count, plural, =1 {Povolit uživateli ^1 upravovat toto video?} other {Povolit uživateli ^1 upravovat videa ^2?} }</string>
+     <string name="picker_add_button_multi_select">Přidat (^1)</string>
+     <string name="picker_add_button_multi_select_permissions">Povolit (^1)</string>
+     <string name="picker_album_item_count">{count, plural, =1 {^1 položka} other {^1 položek} }</string>
+     <string name="picker_album_media_empty_message">Žádné podporované fotografie ani videa</string>
+     <string name="picker_albums">Alba</string>
+     <string name="picker_albums_empty_message">Žádná alba</string>
+     <string name="picker_app_label">Média</string>
+     <string name="picker_banner_cloud_account_changed_desc">Fotky od %1$s jsou nyní zahrnuty zde</string>
+     <string name="picker_banner_cloud_account_changed_title">%1$s účet byl aktualizován</string>
+     <string name="picker_banner_cloud_choose_account_desc">Chcete-li sem zahrnout fotografie z %1$s, vyberte účet v aplikaci</string>
+     <string name="picker_banner_cloud_choose_account_title">Vyberte účet %1$s</string>
+     <string name="picker_banner_cloud_choose_app_button">Vybrat aplikaci</string>
+     <string name="picker_banner_cloud_choose_app_desc">Chcete-li sem zahrnout zálohované fotografie, vyberte aplikaci cloudových médií v Nastavení</string>
+     <string name="picker_banner_cloud_choose_app_title">Vyberte aplikaci cloudových médií</string>
+     <string name="picker_banner_cloud_dismiss_button">Zrušit</string>
+     <string name="picker_banner_cloud_first_time_available_desc">Můžete vybrat fotografie z %1$s účtu %2$s</string>
+     <string name="picker_banner_cloud_first_time_available_title">Včetně zálohovaných fotografií</string>
+     <string name="picker_browse">Prohlížet…</string>
+     <string name="picker_category_camera">Fotoaparát</string>
+     <string name="picker_category_downloads">Stažené soubory</string>
+     <string name="picker_category_favorites">Oblíbené</string>
+     <string name="picker_category_screenshots">Snímky obrazovky</string>
+     <string name="picker_cloud_sync">Cloudová média jsou nyní k dispozici od %1$s</string>
+     <string name="picker_error_dialog_body">Zkontrolujte své internetové připojení a zkuste to znovu</string>
+     <string name="picker_error_dialog_positive_action">Zkusit znovu</string>
+     <string name="picker_error_dialog_title">Problémy s přehráváním videa</string>
+     <string name="picker_error_snackbar">„Video nelze přehrát“</string>
+     <string name="picker_header_permissions">Vyberte položky pro povolení přístupu</string>
+     <string name="picker_item_content_desc">%1$s přijato dne %2$s</string>
+     <string name="picker_motion_photo">Pohyblivá fotografie</string>
+     <string name="picker_motion_photo_text">Pohyblivá fotografie</string>
+     <string name="picker_mute_video">Ztlumit video</string>
+     <string name="picker_pause_video">Pozastavit</string>
+     <string name="picker_personal_profile">Přepnout na osobní</string>
+     <string name="picker_photo">Fotka</string>
+     <string name="picker_photos">Fotografie</string>
+     <string name="picker_photos_empty_message">Žádné fotografie ani videa</string>
+     <string name="picker_play_video">Přehrát</string>
+     <string name="picker_preview">Ukázka</string>
+     <string name="picker_privacy_message">Tato aplikace má přístup pouze k fotkám, které vyberete</string>
+     <string name="picker_profile_admin_msg_from_personal">Přístup k pracovním údajům z osobní aplikace není povolen</string>
+     <string name="picker_profile_admin_msg_from_work">Přístup k osobním údajům z pracovní aplikace není povolen</string>
+     <string name="picker_profile_admin_title">Zablokováno vaším správcem</string>
+     <string name="picker_profile_work_paused_msg">Chcete-li otevřít pracovní fotografie, zapněte pracovní aplikace a zkuste to znovu</string>
+     <string name="picker_profile_work_paused_title">Pracovní aplikace jsou pozastaveny</string>
+     <string name="picker_settings">Aplikace cloudových médií</string>
+     <string name="picker_settings_description">Přistupujte ke svým cloudovým médiím, když vás aplikace nebo web požádá o výběr fotografií nebo videí</string>
+     <string name="picker_settings_no_provider">Žádné</string>
+     <string name="picker_settings_selection_message">Přístup k cloudovým médiím z</string>
+     <string name="picker_settings_system_settings_menu_title">Aplikace pro cloudová média</string>
+     <string name="picker_settings_title">Aplikace cloudových médií</string>
+     <string name="picker_settings_toast_error">Momentálně nelze změnit aplikaci cloud media.</string>
+     <string name="picker_unmute_video">Zrušit ztlumení videa</string>
+     <string name="picker_video_item_content_desc">Video natočené %1$s s trváním %2$s</string>
+     <string name="picker_view_selected">Zobrazit vybrané</string>
+     <string name="picker_work_profile">Přepnout na práci</string>
+     <string name="preference_copied">\"%1$s\" bylo zkopírováno do schránky.</string>
+     <string name="preloading_progress_message">Připraveno: %1$d z %2$d</string>
+     <string name="recent">Nedávné</string>
+     <string name="safety_protection_icon_label">Bezpečnostní ochrana</string>
+     <string name="select">Vybrat</string>
+     <string name="select_up_to">{count, plural, =1 {Vyberte nejvýše ^1 položku} other {Vyberte nejvýše ^1 položek} }</string>
+     <string name="selected">Vybráno</string>
+     <string name="settings_label">Nastavení</string>
+     <string name="settingslib_category_personal">Osobní</string>
+     <string name="settingslib_category_work">Práce</string>
+     <string name="transcode_alert_channel">Nativní upozornění na překódování</string>
+     <string name="transcode_progress_channel">Nativní průběh překódování</string>
 </resources>
