@@ -1112,4 +1112,5 @@ Případně můžete vypnout zjednodušený režim a zkusit to znovu."</string>
     <string name="zen_mode_enable_dialog_turn_on">Zapnout</string>
     <string name="zen_mode_settings_summary_off">Nikdy</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Zapněte funkci Nerušit</string>
+    <string name="update_start">Aktualizovat</string>
 </resources>
