@@ -1076,4 +1076,6 @@ Pokus: %s."</string>
 	<string name="copy">Kopírovat</string>
 	<string name="copy_message">Kopírovat</string>
 	<string name="copy_message_success">Úspěšně zkopírováno</string>
+	<string name="search_sms">Vyhledat zprávy</string>
+	<string name="pref_feedback_title">Zpětná vazba</string>
 </resources>

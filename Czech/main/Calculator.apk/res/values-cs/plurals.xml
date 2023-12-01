@@ -112,4 +112,36 @@
         <item quantity="other">%d roky</item>
         <item quantity="one">%d rok</item>
     </plurals>
+	<plurals name="delete_msg">
+        <item quantity="other">Smazat %d položek nyní?</item>
+        <item quantity="one">Smazat %d položku nyní?</item>
+	</plurals>
+	<plurals name="select_items">
+        <item quantity="other">Vybráno %d položek</item>
+        <item quantity="one">Vybrána %d položka</item>
+	</plurals>
+	<plurals name="unit_data_display_data_b">
+        <item quantity="other">Bajty</item>
+        <item quantity="one">Bajt</item>
+	</plurals>
+	<plurals name="unit_data_display_data_gb">
+        <item quantity="other">Gigabajty</item>
+        <item quantity="one">Gigabajt</item>
+	</plurals>
+	<plurals name="unit_data_display_data_kb">
+        <item quantity="other">Kilobajty</item>
+        <item quantity="one">Kilobajt</item>
+	</plurals>
+	<plurals name="unit_data_display_data_mb">
+        <item quantity="other">Megabajty</item>
+        <item quantity="one">Megabajt</item>
+	</plurals>
+	<plurals name="unit_data_display_data_pb">
+        <item quantity="other">Petabajty</item>
+        <item quantity="one">Petabajt</item>
+	</plurals>
+	<plurals name="unit_data_display_data_tb">
+        <item quantity="other">Terabajty</item>
+        <item quantity="one">Terabajt</item>
+	</plurals>
 </resources>             

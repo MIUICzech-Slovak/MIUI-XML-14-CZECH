@@ -1385,4 +1385,15 @@ Klepněte na %s
 	<string name="app_description_title">Odebrat \"Hudbu\" z plochy?</string>
 	<string name="app_disable_description_content">Hudba je systémová aplikace. Pokud jej zakážete, může to ovlivnit vaše používání jiných aplikací. Přesto zakázat?</string>
 	<string name="app_disable_description_title">Zakázat systémovou aplikaci?</string>
+	<string name="auto_play_switch">Automaticky přehrávat videa</string>
+      <string name="auto_play_toast">Automatické přehrávání je zapnuto. Můžete to vypnout v Nastavení.</string>
+      <string name="auto_recommend">Automaticky (doporučeno)</string>
+      <string name="auto_sound_quality">Automaticky</string>
+      <string name="autoplay_is_off">Automatické přehrávání je vypnuto</string>
+      <string name="autoplay_is_on">Automatické přehrávání je zapnuto</string>
+      <string name="avatar">Profilová fotka</string>
+      <string name="banner_op">Hudba</string>
+	  <string name="individuation_setting_summary">Získávejte doporučení obsahu na základě vašich zájmů</string>
+      <string name="individuation_setting_title">Personalizovaná doporučení</string>
+	  <string name="hint_search_songs_playlists_artists">Vyhledávejte skladby, seznamy skladeb a interprety</string>
 </resources>
