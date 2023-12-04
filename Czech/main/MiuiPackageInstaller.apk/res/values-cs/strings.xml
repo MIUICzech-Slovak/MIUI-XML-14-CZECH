@@ -1113,4 +1113,20 @@ Případně můžete vypnout zjednodušený režim a zkusit to znovu."</string>
     <string name="zen_mode_settings_summary_off">Nikdy</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Zapněte funkci Nerušit</string>
     <string name="update_start">Aktualizovat</string>
+	<string name="bundle_app_learn_how_to_install">Jak nainstalovat \"%1$s\"</string>
+      <string name="bundle_app_market__tips_install">Toto je zabezpečená verze poskytovaná společností Google Play</string>
+      <string name="bundle_app_market_install_background">Instalovat</string>
+      <string name="bundle_app_market_install_permissions">Povolení</string>
+      <string name="bundle_app_market_install_privacy">Ochrana osobních údajů</string>
+      <string name="bundle_app_market_install_title">Instalovat \"%1$s\"?</string>
+      <string name="bundle_app_on_self_desc_text">Vybraná aplikace již byla stažena. Chcete-li si stáhnout také \"%1$s\", klepněte zde.</string>
+      <string name="bundle_app_on_self_desc_text_click">Stiskněte zde</string>
+      <string name="bundle_app_on_self_tips">Tato aplikace je uvedena v seznamu GetApps. Můžete si s jistotou stáhnout.</string>
+      <string name="bundle_app_on_self_title_text">\"%1$s\" je součástí balíčku ke stažení</string>
+      <string name="bundle_app_sure_description">Pokud si například chcete stáhnout \"Počasí\", zadejte \"Počasí\" do pole níže.</string>
+      <string name="bundle_app_sure_name">Potvrďte aplikaci, kterou chcete nainstalovat</string>
+      <string name="bundle_app_sure_no_market_description">"Aplikace, kterou se chystáte nainstalovat, nemusí být ta, kterou hledáte. Tato aplikace může být riskantní nebo podvodná. Postupujte opatrně."</string>
+      <string name="bundle_app_sure_no_market_tip">Klepnutím sem pokračujte v instalaci \"%1$s\"</string>
+      <string name="bundle_app_sure_title">Tato aplikace nemusí být \"%1$s\"</string>
+      <string name="bundle_app_tip_test">"Na základě kontroly a zpětné vazby od uživatelů jsme zjistili, že tato aplikace spojuje nebo si vynucuje instalaci jiných aplikací. \"%1$s\" nemusí být aplikace, kterou hledáte." </string>
 </resources>

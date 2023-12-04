@@ -859,4 +859,26 @@ Velikost delta aktualizace: %2$s"</string>
 	 <string name="item_title_finance">Finanční</string>
 	 <string name="convertion_unit_finance">Finanční výpočet</string>
 	 <string name="cta_desc">Vítejte v kalkulačce! Tato aplikace kombinuje funkce běžné kalkulačky s více převodníky a funkcemi životního stylu. Aby tato aplikace fungovala normálně, potřebuje se připojit k internetu.</string>
+	 <string name="history_time_date_format">d.M.yyyy</string>
+     <string name="input_limit">„Nelze zadat více položek“</string>
+	 <string name="investment_loan_result">Podrobnosti</string>
+	 <string name="investment_type">Způsob</string>
+	 <string name="item_title_menu_income_tax">Daň z příjmu</string>
+	 <string name="item_title_menu_mortgage">Hypotéka</string>
+	 <string name="item_title_relationship">Podmínky příbuzenství</string>
+	 <string name="item_title_result">Vaše aktuální BMI</string>
+	 <string name="city_picker_hint">Vybrat</string>
+	 <string name="clearable_edittext_clear_description">Vymazat</string>
+	 <string name="close">Zavřít</string>
+	 <string name="copy">Kopírovat</string>
+	 <string name="data_analysis">Analýza</string>
+	 <string name="date_format">d.M.yyyy</string>
+	 <string name="disallow">"Nesouhlasím"</string>
+	 <string name="suggest_weight">Doporučená hmotnost (kg)</string>
+	 <string name="suggest_weight_format">%1$s ~ %2$skg</string>
+	 <string name="normal">Normální</string>
+	 <string name="not_set">Nenastaveno</string>
+	 <string name="super_fat">Obezita</string>
+	 <string name="thin">Podváha</string>
+	 <string name="fat">Nadváha</string>
 </resources>
