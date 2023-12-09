@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Kombinování aplikací</item>
+        <item>Propojitelnost / Kombinování aplikací</item>
+        <item>Funkce pro vozidlo</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Propojitelnost</item>
+        <item>Propojitelnost/Propojitelnost</item>
+        <item>Propojitelnost zařízení, Služby propojitelnosti zařízení, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, chytré připojení, Mi Smart Hub, Propojitelnost, Duo, Xiaomi telefon, Xiaomi notebook, Více obrazovek, Duet, přenos obrazu, kombinovat aplikace, předání, předání aplikace, Zrcadlit, Xiaomi ekosystém, připojení zařízení</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Soukromí</item>
+        <item>Propojitelnost/Soukromí</item>
+        <item>Soukromí a propojitelnost, Soukromí</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Xiaomi propojitelnost</item>
+        <item>Propojitelnost / Xiaomi propojitelnost</item>
+        <item>Služby Xiaomi propojitelnosti, Xiaomi propojitelnost</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Předání aplikace</item>
+        <item>Propojitelnost / Předání aplikace</item>
+        <item>Přenos aplikací, předání, přenos</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Hovory</item>
+        <item>Propojitelnost/Hovory</item>
+        <item>Hovory</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Síťový asistent</item>
+        <item>Propojitelnost / Síťový asistent</item>
+        <item>Síťový asistent, tethering, sdílení hotspotu</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Domovská obrazovka+</item>
+        <item>Propojitelnost / Domovská obrazovka+</item>
+        <item>Domovská obrazovka+, Mi Smart Hub, sdílení obrazovky</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Schránka</item>
+        <item>Propojitelnost/Schránka</item>
+        <item>Schránka</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Sdílení oznámení mezi zařízeními</item>
+        <item>Propojitelnost/Oznámení</item>
+        <item>Sdílení oznámení mezi zařízeními</item>
+    </string-array>
+</resources>
