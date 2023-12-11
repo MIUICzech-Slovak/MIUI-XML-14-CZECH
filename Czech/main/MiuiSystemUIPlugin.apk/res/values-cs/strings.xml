@@ -339,7 +339,7 @@
     <string name="quick_settings_wifi_detail_empty_text">Nejsou k dispozici žádné sítě Wi-Fi</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wireless_label">Reverzní nabíjení</string>
-    <string name="reboot_info_auto_boot">Zařízení sa vypne za %s</string>
+    <string name="reboot_info_auto_boot">Zapnutí: %s</string>
     <string name="reboot_info_shutdown_alarm">Budík: %s</string>
     <string name="recovery">TWRP</string>
     <string name="reset">Obnovit</string>
