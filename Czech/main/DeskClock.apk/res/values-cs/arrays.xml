@@ -54,14 +54,14 @@
         <item>Budík se spustí za %1$s, %2$s, a %3$s</item>
     </string-array>
     <string-array name="alarm_set_new_array">
-    <item>Budík se vypne za méně než %d minutu</item>
-        <item>Budík se vypne za %1$s.</item>
-        <item>Budík se vypne za %2$s.</item>
-        <item>Budík se vypne za %1$s a %2$s.</item>
-        <item>Budík se vypne za %3$s.</item>
-        <item>Budík se vypne za %1$s a %3$s.</item>
-        <item>Budík se vypne za %2$s a %3$s.</item>
-        <item>Budík se vypne za %1$s %2$s a %3$s.</item>
+    <item>Budík je nastavený za méně než %d minutu</item>
+        <item>Budík se spustí za %1$s.</item>
+        <item>Budík se spustí za %2$s.</item>
+        <item>Budík se spustí za %1$s a %2$s.</item>
+        <item>Budík se spustí za %3$s.</item>
+        <item>Budík se spustí za %1$s a %3$s.</item>
+        <item>Budík se spustí za %2$s a %3$s.</item>
+        <item>Budík se spustí za %1$s %2$s a %3$s.</item>
     </string-array>
     <string-array name="auto_silence_entries">
         <item>Vypnuto</item>
